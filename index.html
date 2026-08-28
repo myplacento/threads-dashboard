@@ -97,6 +97,9 @@
         <p class="mt-1.5 text-[11px] text-slate-500" x-show="remaining > 0">
           Tinggal <b class="text-amber-400 num" x-text="fmtNum(remaining)"></b> views lagi · pada momentum semasa <span class="text-emerald-400" x-text="paceNote"></span>
         </p>
+        <p class="mt-2 text-[10px] text-slate-500/80 leading-relaxed border-t border-slate-800 pt-2">
+          ℹ️ <b class="text-slate-300">Views app</b> = kiraan rasmi Threads (screenshot Meta AI, <span class="num" x-text="appUpdated"></span>) · <b class="text-slate-300">Zernio</b> = detail per-post, sync ~90 min — jurang normal sebab app kira ulangan tontonan & termasuk post sebelum Zernio disambung.
+        </p>
       </div>
     </section>
 
@@ -328,6 +331,7 @@ function dashboard() {
     get totalFollowers() { return this.data.meta.account.followers || 0; },
     get appViews() { return (this.data.meta.appReported||{}).views || 0; },
     get appViewers() { return (this.data.meta.appReported||{}).viewers || 0; },
+    get appUpdated() { return (this.data.meta.appReported||{}).updated || '—'; },
     get followerGain() {
       const f = this.data.followers || [];
       return f.length ? f[f.length-1].count - f[0].count : 0;
