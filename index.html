@@ -103,9 +103,9 @@
     <!-- ============ KPI GRID ============ -->
     <section class="grid grid-cols-3 sm:grid-cols-6 gap-3 mb-5">
       <div class="card p-4 text-center">
-        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Views</p>
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Views <span class="text-emerald-500">· app</span></p>
         <p class="text-xl sm:text-2xl font-black text-emerald-400 num mt-1" x-text="fmtNum(totalViews)"></p>
-        <p class="text-[10px] text-slate-500 mt-0.5 num" x-text="fmtNum(appViews) + ' app'"></p>
+        <p class="text-[10px] text-slate-500 mt-0.5 num" x-text="'Zernio track: ' + fmtNum(zernioViews)"></p>
       </div>
       <div class="card p-4 text-center">
         <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Viewers unik</p>
@@ -320,7 +320,8 @@ function dashboard() {
       return String(n);
     },
     get targetViews() { return this.data.meta.targetViews || 3000000; },
-    get totalViews() { return this.data.totals.views || 0; },
+    get zernioViews() { return this.data.totals.views || 0; },
+    get totalViews() { return this.appViews || this.zernioViews; },
     get totalLikes() { return this.data.totals.likes || 0; },
     get totalComments() { return this.data.totals.comments || 0; },
     get totalShares() { return this.data.totals.shares || 0; },
