@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="ms" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Ustaz Basri · Threads Dashboard</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<style>
+  :root { color-scheme: dark; }
+  body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+         background: radial-gradient(1200px 600px at 85% -10%, rgba(16,185,129,.09), transparent 60%),
+                     radial-gradient(1000px 500px at -10% 20%, rgba(56,189,248,.07), transparent 55%),
+                     #020617; }
+  .card { background: rgba(15,23,42,.62); border: 1px solid rgba(51,65,85,.55); backdrop-filter: blur(12px);
+          border-radius: 1.1rem; }
+  .glow-green { box-shadow: 0 0 24px rgba(16,185,129,.12), inset 0 1px 0 rgba(255,255,255,.04); }
+  .num { font-variant-numeric: tabular-nums; }
+  .bar { transition: height .6s cubic-bezier(.22,1,.36,1); }
+  .fade-in { animation: fadeIn .5s ease both; }
+  @keyframes fadeIn { from { opacity:0; transform: translateY(6px);} to {opacity:1; transform:none;} }
+  .pulse-dot { animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-thumb { background:#1e293b; border-radius:8px; }
+  ::-webkit-scrollbar-track { background:transparent; }
+</style>
+</head>
+<body class="min-h-screen text-slate-100 antialiased">
+
+<div x-data="dashboard()" x-init="init()" class="max-w-6xl mx-auto px-4 pb-16 pt-5 sm:px-6">
+
+  <!-- ============ HEADER ============ -->
+  <header class="flex items-center justify-between gap-3 mb-6">
+    <div class="flex items-center gap-3 min-w-0">
+      <div class="w-11 h-11 rounded-2xl bg-gradient-to-br from-emerald-500 to-teal-700 flex items-center justify-center text-white font-black text-lg shrink-0 glow-green">UB</div>
+      <div class="min-w-0">
+        <h1 class="font-bold text-base sm:text-lg leading-tight truncate">Ustaz Basri <span class="text-slate-500 font-medium">· Threads Command Centre</span></h1>
+        <p class="text-[11px] sm:text-xs text-slate-400 truncate">Sunnah Neuroparenting · B2C · data hidup dari Zernio</p>
+      </div>
+    </div>
+    <div class="flex items-center gap-2 shrink-0">
+      <span class="hidden sm:inline-flex items-center gap-1.5 text-[11px] font-medium text-emerald-400 bg-emerald-500/10 border border-emerald-500/25 rounded-full px-3 py-1.5">
+        <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 pulse-dot"></span>LIVE
+      </span>
+      <button @click="load()" class="text-[11px] text-slate-400 hover:text-white bg-slate-800/70 border border-slate-700 rounded-full px-3 py-1.5 transition" :disabled="loading">
+        <span x-show="!loading">⟳ Refresh</span><span x-show="loading" class="inline-block animate-spin">⟳</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- loading / error -->
+  <div x-show="loading && !data.meta.generatedAt" class="card p-10 text-center text-slate-400 text-sm">
+    <div class="inline-block w-8 h-8 border-2 border-emerald-500 border-t-transparent rounded-full animate-spin mb-3"></div>
+    <p>Mengambil data terkini…</p>
+  </div>
+  <div x-show="error" class="card p-6 text-center text-rose-400 text-sm border-rose-500/30 mb-5" x-cloak>
+    ⚠️ <span x-text="error"></span>
+  </div>
+
+  <template x-if="data.meta.generatedAt">
+    <div class="space-y-5">
+
+    <!-- ============ HERO / TARGET 3M ============ -->
+    <section class="card glow-green p-5 sm:p-6 fade-in">
+      <div class="flex flex-wrap items-center gap-4">
+        <img :src="data.meta.account.profilePicture" class="w-14 h-14 rounded-full border-2 border-emerald-500/40 object-cover" alt="">
+        <div class="min-w-0 flex-1">
+          <div class="flex items-center gap-2 flex-wrap">
+            <h2 class="font-bold text-lg" x-text="'@' + data.meta.account.username"></h2>
+            <span class="text-[10px] uppercase tracking-wider bg-sky-500/15 text-sky-300 border border-sky-500/25 rounded px-1.5 py-0.5 font-semibold">Threads</span>
+          </div>
+          <p class="text-xs text-slate-400 mt-0.5">
+            <span class="font-semibold text-emerald-400 num" x-text="fmtNum(data.meta.account.followers)"></span> followers ·
+            dikemas kini <span x-text="data.meta.generatedAt"></span>
+          </p>
+        </div>
+        <div class="text-right">
+          <p class="text-[10px] uppercase tracking-widest text-slate-500 font-semibold">Target Ogos–Sept</p>
+          <p class="font-black text-2xl sm:text-3xl bg-gradient-to-r from-emerald-400 to-teal-300 bg-clip-text text-transparent num" x-text="fmtNum(targetViews)"></p>
+          <p class="text-[11px] text-slate-400">views 🎯</p>
+        </div>
+      </div>
+
+      <!-- progress -->
+      <div class="mt-5">
+        <div class="flex justify-between text-[11px] text-slate-400 mb-1.5">
+          <span>Progress ke 3M views</span>
+          <span class="font-bold text-emerald-400 num" x-text="progressPct + '%'"></span>
+        </div>
+        <div class="h-3.5 rounded-full bg-slate-800/80 overflow-hidden relative">
+          <div class="h-full rounded-full bg-gradient-to-r from-emerald-600 via-emerald-500 to-teal-400 transition-all duration-1000"
+               :style="'width:' + Math.min(progressPct,100) + '%'"></div>
+          <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold text-white/90 drop-shadow num"
+               x-text="fmtNum(totalViews) + ' / ' + fmtNum(targetViews)"></div>
+        </div>
+        <p class="mt-1.5 text-[11px] text-slate-500" x-show="remaining > 0">
+          Tinggal <b class="text-amber-400 num" x-text="fmtNum(remaining)"></b> views lagi · pada momentum semasa <span class="text-emerald-400" x-text="paceNote"></span>
+        </p>
+      </div>
+    </section>
+
+    <!-- ============ KPI GRID ============ -->
+    <section class="grid grid-cols-3 sm:grid-cols-6 gap-3 mb-5">
+      <div class="card p-4 text-center">
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Views</p>
+        <p class="text-xl sm:text-2xl font-black text-emerald-400 num mt-1" x-text="fmtNum(totalViews)"></p>
+        <p class="text-[10px] text-slate-500 mt-0.5 num" x-text="fmtNum(appViews) + ' app'"></p>
+      </div>
+      <div class="card p-4 text-center">
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Viewers unik</p>
+        <p class="text-xl sm:text-2xl font-black text-sky-400 num mt-1" x-text="fmtNum(appViewers)"></p>
+        <p class="text-[10px] text-slate-500 mt-0.5">dari app Threads</p>
+      </div>
+      <div class="card p-4 text-center">
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Followers</p>
+        <p class="text-xl sm:text-2xl font-black text-violet-400 num mt-1" x-text="fmtNum(totalFollowers)"></p>
+        <p class="text-[10px] text-emerald-500 mt-0.5 num" x-text="'+' + fmtNum(followerGain)"></p>
+      </div>
+      <div class="card p-4 text-center">
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Likes</p>
+        <p class="text-xl sm:text-2xl font-black num mt-1" x-text="fmtNum(totalLikes)"></p>
+        <p class="text-[10px] text-slate-500 mt-0.5">purata <span class="num" x-text="avgLikes"></span>/post</p>
+      </div>
+      <div class="card p-4 text-center">
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Komen</p>
+        <p class="text-xl sm:text-2xl font-black text-rose-400 num mt-1" x-text="fmtNum(totalComments)"></p>
+        <p class="text-[10px] text-slate-500 mt-0.5">perbualan</p>
+      </div>
+      <div class="card p-4 text-center">
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Share</p>
+        <p class="text-xl sm:text-2xl font-black text-amber-400 num mt-1" x-text="fmtNum(totalShares)"></p>
+        <p class="text-[10px] text-slate-500 mt-0.5">sebarkan</p>
+      </div>
+    </section>
+
+    <!-- ============ CHARTS ============ -->
+    <section class="grid lg:grid-cols-2 gap-4 mb-5">
+      <!-- daily views bar chart -->
+      <div class="card p-5">
+        <div class="flex items-center justify-between mb-4">
+          <h3 class="font-semibold text-sm">Views Harian <span class="text-slate-500 font-normal">(14 hari)</span></h3>
+          <span class="text-[10px] text-slate-500">attribution: received</span>
+        </div>
+        <div class="flex items-end gap-1 sm:gap-1.5 h-36" x-show="daily.length">
+          <template x-for="d in last14" :key="d.date">
+            <div class="flex-1 flex flex-col items-center gap-1 min-w-0">
+              <span class="text-[8px] text-slate-500 num" x-text="barLabel(d)"></span>
+              <div class="w-full rounded-t bg-gradient-to-t from-emerald-700/60 to-emerald-400/90 bar relative group"
+                   :style="'height:' + barHeight(d) + '%'"
+                   :title="d.date + ': ' + fmtNum(d.views) + ' views'">
+              </div>
+              <span class="text-[8px] text-slate-600 num" x-text="d.date.slice(8)"></span>
+            </div>
+          </template>
+        </div>
+        <p class="text-[11px] text-slate-500 mt-3" x-show="!daily.length">Belum ada data harian.</p>
+      </div>
+
+      <!-- follower line chart -->
+      <div class="card p-5">
+        <div class="flex items-center justify-between mb-4">
+          <h3 class="font-semibold text-sm">Pertumbuhan Followers</h3>
+          <span class="text-[10px] text-slate-500 num" x-text="followers.length ? followers[0].count + ' → ' + followers[followers.length-1].count : ''"></span>
+        </div>
+        <div x-show="followers.length > 1" x-html="followerSvg"></div>
+        <p class="text-[11px] text-slate-500 mt-3" x-show="followers.length <= 1">Belum cukup data followers.</p>
+      </div>
+    </section>
+
+    <!-- ============ INSIGHTS ============ -->
+    <section class="mb-5" x-show="insights.length">
+      <h3 class="text-[11px] uppercase tracking-widest text-slate-500 font-bold mb-2.5 px-1">💡 Insight Pintar</h3>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
+        <template x-for="(ins,i) in insights" :key="i">
+          <div class="card p-4 fade-in" :style="'animation-delay:' + i*60 + 'ms'">
+            <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold" x-text="ins.label"></p>
+            <p class="text-lg font-black mt-0.5" x-text="ins.value"></p>
+            <p class="text-[11px] text-slate-400 mt-0.5" x-text="ins.sub"></p>
+          </div>
+        </template>
+      </div>
+    </section>
+
+    <!-- ============ POSTS / COMMENTS ============ -->
+    <section>
+      <div class="flex items-center justify-between flex-wrap gap-3 mb-4">
+        <div class="flex bg-slate-800/60 border border-slate-700 rounded-xl p-1 text-xs font-semibold">
+          <button @click="tab='posts'" class="px-4 py-1.5 rounded-lg transition" :class="tab==='posts' ? 'bg-emerald-500 text-slate-950' : 'text-slate-400 hover:text-white'">📝 Posts</button>
+          <button @click="tab='komen'" class="px-4 py-1.5 rounded-lg transition" :class="tab==='komen' ? 'bg-emerald-500 text-slate-950' : 'text-slate-400 hover:text-white'">💬 Komen & Insight</button>
+        </div>
+        <div class="flex items-center gap-2 flex-wrap">
+          <input x-model="q" type="search" placeholder="Cari post…" class="bg-slate-800/70 border border-slate-700 rounded-lg px-3 py-1.5 text-xs w-36 sm:w-48 placeholder:text-slate-500 focus:outline-none focus:border-emerald-500/60">
+          <select x-model="sortKey" class="bg-slate-800/70 border border-slate-700 rounded-lg px-2 py-1.5 text-xs focus:outline-none">
+            <option value="views">Views</option>
+            <option value="likes">Likes</option>
+            <option value="comments">Komen</option>
+            <option value="shares">Share</option>
+            <option value="er">Engagement %</option>
+            <option value="date">Tarikh</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- POSTS TAB -->
+      <div x-show="tab==='posts'" class="space-y-3">
+        <template x-for="(p,i) in filteredPosts" :key="p.id">
+          <article class="card p-4 sm:p-5 fade-in" :style="'animation-delay:' + Math.min(i*40,300) + 'ms'">
+            <div class="flex items-start gap-3">
+              <div class="text-center shrink-0 w-9">
+                <p class="text-lg font-black num" x-text="i+1"></p>
+                <p class="text-[9px] text-slate-600 -mt-1">RANK</p>
+              </div>
+              <div class="flex-1 min-w-0">
+                <div class="flex items-center gap-2 flex-wrap mb-1">
+                  <span class="text-[10px] text-slate-500 num" x-text="p.date + ' · ' + p.time"></span>
+                  <span x-show="p.views >= 100000" class="text-[9px] font-bold uppercase tracking-wide bg-gradient-to-r from-amber-500/20 to-rose-500/20 text-amber-400 border border-amber-500/30 rounded-full px-2 py-0.5">🔥 Viral</span>
+                  <span x-show="p.er >= 3" class="text-[9px] font-bold uppercase tracking-wide bg-emerald-500/15 text-emerald-400 border border-emerald-500/25 rounded-full px-2 py-0.5">💚 Resonans</span>
+                  <a :href="p.url" target="_blank" class="text-[10px] text-sky-400 hover:text-sky-300 ml-auto">Buka di Threads ↗</a>
+                </div>
+                <p class="text-[13px] leading-relaxed text-slate-200 whitespace-pre-line" x-text="p.content || '(tiada teks)'"></p>
+
+                <!-- metrics -->
+                <div class="grid grid-cols-5 gap-2 mt-3 text-center">
+                  <div><p class="text-sm font-bold text-emerald-400 num" x-text="fmtNum(p.views)"></p><p class="text-[9px] text-slate-500 uppercase">views</p></div>
+                  <div><p class="text-sm font-bold num" x-text="fmtNum(p.likes)"></p><p class="text-[9px] text-slate-500 uppercase">likes</p></div>
+                  <div><p class="text-sm font-bold text-rose-400 num" x-text="fmtNum(p.comments)"></p><p class="text-[9px] text-slate-500 uppercase">komen</p></div>
+                  <div><p class="text-sm font-bold text-amber-400 num" x-text="fmtNum(p.shares)"></p><p class="text-[9px] text-slate-500 uppercase">share</p></div>
+                  <div><p class="text-sm font-bold text-sky-400 num" x-text="p.er + '%'"></p><p class="text-[9px] text-slate-500 uppercase">ER</p></div>
+                </div>
+
+                <!-- expand comments -->
+                <template x-if="p.topComments && p.topComments.length">
+                  <div class="mt-3">
+                    <button @click="expanded[p.id] = !expanded[p.id]" class="text-[11px] font-semibold text-slate-400 hover:text-emerald-400 transition inline-flex items-center gap-1">
+                      <span x-text="expanded[p.id] ? '▾' : '▸'"></span> Lihat komen teratas (<span class="num" x-text="p.topComments.length"></span>)
+                    </button>
+                    <div x-show="expanded[p.id]" class="mt-2 space-y-2">
+                      <template x-for="(c,ci) in p.topComments" :key="ci">
+                        <div class="bg-slate-800/50 border border-slate-700/60 rounded-lg px-3 py-2">
+                          <p class="text-[10px] font-semibold text-sky-400"><span x-text="'@' + c.name"></span> <span class="text-slate-600 font-normal" x-text="c.date"></span> <span class="text-slate-600" x-show="c.likes">· ♥ <span class="num" x-text="c.likes"></span></span></p>
+                          <p class="text-[12px] text-slate-300 mt-0.5 whitespace-pre-line" x-text="c.message"></p>
+                        </div>
+                      </template>
+                    </div>
+                  </div>
+                </template>
+              </div>
+            </div>
+          </article>
+        </template>
+        <p x-show="!filteredPosts.length" class="text-center text-slate-500 text-sm py-8">Tiada post sepadan.</p>
+      </div>
+
+      <!-- KOMEN TAB -->
+      <div x-show="tab==='komen'" class="space-y-3">
+        <template x-for="(p,i) in commentedPosts" :key="p.id">
+          <article class="card p-4 sm:p-5 fade-in" :style="'animation-delay:' + Math.min(i*40,300) + 'ms'">
+            <div class="flex items-center gap-2 mb-2 flex-wrap">
+              <span class="text-[10px] text-slate-500 num" x-text="p.date"></span>
+              <span class="text-[10px] font-semibold text-rose-400 num" x-text="p.comments + ' komen'"></span>
+              <a :href="p.url" target="_blank" class="text-[10px] text-sky-400 ml-auto hover:text-sky-300">Buka di Threads ↗</a>
+            </div>
+            <p class="text-[12px] text-slate-400 whitespace-pre-line mb-3" x-text="(p.content||'').slice(0,180) + ((p.content||'').length>180?'…':'')"></p>
+            <div class="space-y-2" x-show="p.topComments.length">
+              <template x-for="(c,ci) in p.topComments" :key="ci">
+                <div class="bg-slate-800/50 border border-slate-700/60 rounded-lg px-3 py-2">
+                  <p class="text-[10px] font-semibold text-sky-400"><span x-text="'@' + c.name"></span> <span class="text-slate-600 font-normal" x-text="c.date"></span> <span class="text-slate-600" x-show="c.likes">· ♥ <span class="num" x-text="c.likes"></span></span></p>
+                  <p class="text-[12px] text-slate-300 mt-0.5 whitespace-pre-line" x-text="c.message"></p>
+                </div>
+              </template>
+            </div>
+            <p x-show="!p.topComments.length" class="text-[11px] text-slate-600 italic">Komen belum sync / tiada akses.</p>
+          </article>
+        </template>
+        <p x-show="!commentedPosts.length" class="text-center text-slate-500 text-sm py-8">Belum ada komen yang sync.</p>
+      </div>
+    </section>
+
+    <footer class="mt-10 text-center text-[10px] text-slate-600 leading-relaxed">
+      <p>USTAZ BASRI · SUNNAH NEUROPARENTING — AI OS v2.0 · data: Zernio REST API · auto-refresh 15 min</p>
+      <p class="mt-1">Dashboard dijana <span x-text="data.meta.generatedAt"></span> · sasaran 3M views 🎯</p>
+    </footer>
+
+    </div>
+  </template>
+</div>
+
+<script>
+function dashboard() {
+  return {
+    data: { meta:{generatedAt:null, account:{}}, totals:{}, posts:[], daily:[], followers:[], insights:[] },
+    loading: false, error: null, q: '', sortKey: 'views', tab: 'posts',
+    expanded: {},
+    fw: 320, fh: 140,
+
+    async init() {
+      await this.load();
+      setInterval(() => this.load(), 15 * 60 * 1000);   // auto-refresh 15 min
+    },
+
+    async load() {
+      this.loading = true; this.error = null;
+      try {
+        const r = await fetch('data/data.json?t=' + Date.now());
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        this.data = await r.json();
+        if (!this.data.meta) this.data.meta = {generatedAt:null, account:{}};
+      } catch (e) {
+        this.error = 'Gagal muat data: ' + e.message + ' — cuba refresh sebentar lagi.';
+        console.error(e);
+      } finally { this.loading = false; }
+    },
+
+    // ---- helpers ----
+    fmtNum(n) {
+      n = n || 0;
+      if (n >= 1e6) return (n/1e6).toFixed(n>=10e6?0:2) + 'M';
+      if (n >= 1e3) return (n/1e3).toFixed(n>=100e3?0:1) + 'K';
+      return String(n);
+    },
+    get targetViews() { return this.data.meta.targetViews || 3000000; },
+    get totalViews() { return this.data.totals.views || 0; },
+    get totalLikes() { return this.data.totals.likes || 0; },
+    get totalComments() { return this.data.totals.comments || 0; },
+    get totalShares() { return this.data.totals.shares || 0; },
+    get totalFollowers() { return this.data.meta.account.followers || 0; },
+    get appViews() { return (this.data.meta.appReported||{}).views || 0; },
+    get appViewers() { return (this.data.meta.appReported||{}).viewers || 0; },
+    get followerGain() {
+      const f = this.data.followers || [];
+      return f.length ? f[f.length-1].count - f[0].count : 0;
+    },
+    get avgLikes() {
+      const p = this.data.posts || [];
+      return p.length ? Math.round(this.totalLikes / p.length) : 0;
+    },
+    get progressPct() {
+      const t = this.targetViews; if (!t) return 0;
+      return Math.min(100, Math.round(this.totalViews / t * 100));
+    },
+    get remaining() { return Math.max(0, this.targetViews - this.totalViews); },
+    get paceNote() {
+      const d = this.data.daily || [];
+      const last = d.slice(-7);
+      if (!last.length) return '';
+      const perDay = Math.round(last.reduce((s,x)=>s+x.views,0) / last.length);
+      const days = Math.ceil(this.remaining / Math.max(perDay,1));
+      return '~' + this.fmtNum(perDay) + '/hari → ' + days + ' hari';
+    },
+    get daily() { return this.data.daily || []; },
+    get last14() { return this.daily.slice(-14); },
+    get maxDaily() { return Math.max(1, ...this.last14.map(d=>d.views)); },
+    barHeight(d) { return Math.max(2, Math.round(d.views / this.maxDaily * 100)); },
+    barLabel(d) {
+      const v = d.views;
+      if (v >= 1e6) return (v/1e6).toFixed(1) + 'M';
+      if (v >= 1e3) return (v/1e3).toFixed(0) + 'K';
+      return v ? String(v) : '';
+    },
+    get followers() { return this.data.followers || []; },
+    get followerPts() {
+      const f = this.followers;
+      if (f.length < 2) return [];
+      const w = this.fw, h = this.fh, pad = 6;
+      const min = f[0].count, max = Math.max(...f.map(x=>x.count), min+1);
+      const range = max - min || 1;
+      return f.map((x,i) => ({
+        x: pad + i * (w - pad*2) / (f.length - 1),
+        y: h - pad - (x.count - min) / range * (h - pad*2),
+        date: x.date, count: x.count
+      }));
+    },
+    get followerSvg() {
+      const pts = this.followerPts;
+      if (pts.length < 2) return '';
+      const w = this.fw, h = this.fh;
+      const line = pts.map(p => p.x + ',' + p.y).join(' ');
+      const area = line + ' ' + pts[pts.length-1].x + ',' + h + ' ' + pts[0].x + ',' + h;
+      const dots = pts.map(p =>
+        '<circle cx="' + p.x + '" cy="' + p.y + '" r="3" fill="#020617" stroke="#34d399" stroke-width="2">' +
+        '<title>' + p.date + ': ' + p.count + ' followers</title></circle>').join('');
+      return '<svg viewBox="0 0 ' + w + ' ' + h + '" class="w-full h-36">' +
+        '<defs><linearGradient id="fg" x1="0" y1="0" x2="0" y2="1">' +
+        '<stop offset="0%" stop-color="#34d399" stop-opacity=".35"/>' +
+        '<stop offset="100%" stop-color="#34d399" stop-opacity="0"/>' +
+        '</linearGradient></defs>' +
+        '<polygon points="' + area + '" fill="url(#fg)"></polygon>' +
+        '<polyline points="' + line + '" fill="none" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></polyline>' +
+        dots + '</svg>';
+    },
+    get insights() { return this.data.insights || []; },
+    get posts() { return this.data.posts || []; },
+    get filteredPosts() {
+      let p = this.posts;
+      if (this.q) {
+        const s = this.q.toLowerCase();
+        p = p.filter(x => (x.content||'').toLowerCase().includes(s));
+      }
+      const k = this.sortKey === 'date' ? 'date' : this.sortKey;
+      return [...p].sort((a,b) => {
+        if (k === 'date') return (b.date||'').localeCompare(a.date||'');
+        return (b[k]||0) - (a[k]||0);
+      });
+    },
+    get commentedPosts() {
+      return [...this.posts].filter(p => p.comments > 0).sort((a,b)=>b.comments-a.comments);
+    },
+  };
+}
+</script>
+</body>
+</html>
