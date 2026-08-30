@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generatedAt": "2026-08-30 12:38 MYT",
+  "generatedAt": "2026-08-30 13:09 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
-   "profilePicture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/778767586_18094716677094220_5885692655080076863_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=HRK8dZsnt-oQ7kNvwENRcQS&_nc_oc=Adpg9pDGtS_ST4XSdowi3l_171DYVUxtQvAU1nnXlOH3oI_ipMqYxzlhNYTDa2z_aSA&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jV0U_xyZhjg1iYy2JQ-fUg&_nc_tpa=Q5bMBQIkBPpkfAbM7EZyjJ8pbOvhXar4DPHNgXm-hPtHwgch_9-iyicWqKzWdtA0jX5zHUG3uzRcAqP6eA&oh=00_AQJ5Fp2KIM3yd415u-4IrO3uu7ZB4cjTdrmOXBywM31GoA&oe=6A98562F",
-   "followers": 233
+   "profilePicture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/778767586_18094716677094220_5885692655080076863_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=C9504rA4jmoQ7kNvwHOkkx0&_nc_oc=AdqVbu-c6Xq3sdbeLqKhb9TnycZU3HSKduO7vx7qf8zb9yQ7iTpMLN71E-GeNQ3hsNo&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GIJwrP4iy_vRoap9zTXzDQ&_nc_tpa=Q5bMBQKIzyUNCcUOYm5ZeNE9ViGsVOl1pmEVzCUUufxgRjNLae6kgM02hBEQONeVoQkVTA3acUNMEWgNZw&oh=00_AQLUzCM5zL92BUT7fzDgWkV_F9zxihpddsuaavbfIDlKQA&oe=6A996F6F",
+   "followers": 239
   },
   "targetViews": 3000000,
   "appReported": {
@@ -568,6 +568,10 @@
   {
    "date": "2026-08-29",
    "count": 233
+  },
+  {
+   "date": "2026-08-30",
+   "count": 239
   }
  ],
  "insights": [
@@ -588,8 +592,8 @@
   },
   {
    "label": "Pertumbuhan follower",
-   "value": "+215",
-   "sub": "+1194% sepanjang tempoh"
+   "value": "+221",
+   "sub": "+1228% sepanjang tempoh"
   },
   {
    "label": "Engagement rate (purata)",
