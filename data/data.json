@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-08-31 19:12 MYT",
+  "generatedAt": "2026-08-31 19:43 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -20,11 +20,11 @@
   }
  },
  "totals": {
-  "views": 696186,
-  "likes": 9953,
-  "comments": 1682,
-  "shares": 1784,
-  "posts": 28
+  "views": 697104,
+  "likes": 10030,
+  "comments": 1689,
+  "shares": 1804,
+  "posts": 29
  },
  "posts": [
   {
@@ -33,7 +33,7 @@
    "content": "Nabi SAW azan untuk cucunya pada hari pertama dia lahir — 1400 tahun dah sunnah ni.\n\nKita sibuk pilih hospital & baju bayi, lupa kalimah pertama anak.",
    "date": "2026-08-27",
    "time": "07:32",
-   "views": 429086,
+   "views": 429110,
    "likes": 4778,
    "comments": 1161,
    "shares": 224,
@@ -84,7 +84,7 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 174559,
+   "views": 174575,
    "likes": 3774,
    "comments": 352,
    "shares": 1271,
@@ -156,7 +156,7 @@
    "content": "Bagus trick ni, boleh praktis dengan anak-anak. \n\nBtw, saya pun sedang explore neuroparenting. \n\nDoakan saya kekal semangat. 😆",
    "date": "2026-08-29",
    "time": "22:28",
-   "views": 11412,
+   "views": 11416,
    "likes": 145,
    "comments": 1,
    "shares": 26,
@@ -228,7 +228,7 @@
    "content": "Kajian UniSZA 2017: sebahagian adat sambut kelahiran boleh bawa ke syirik.\n\nKita sambut anak ikut \"biasa orang buat\" — bukan dalil.",
    "date": "2026-08-27",
    "time": "18:16",
-   "views": 8810,
+   "views": 8812,
    "likes": 65,
    "comments": 6,
    "shares": 13,
@@ -249,7 +249,7 @@
    "content": "Nabi SAW tahnik bayi dengan kurma — 1400 tahun sebelum 'nutrisi pertama' dijual mahal-mahal.",
    "date": "2026-08-27",
    "time": "12:16",
-   "views": 8574,
+   "views": 8575,
    "likes": 272,
    "comments": 5,
    "shares": 15,
@@ -263,7 +263,7 @@
    "content": "Semalam thread azan saya, ramai yang turun tegur. Teguran tu memang betul: perumpamaan yang saya bagi jauh sangat, azan dibandingkan dengan pilih hospital dan baju. Padahal dua-dua masa berbeza. Saya minta maaf. Hari ni saya betulkan.",
    "date": "2026-08-28",
    "time": "07:31",
-   "views": 7254,
+   "views": 7257,
    "likes": 38,
    "comments": 38,
    "shares": 0,
@@ -291,7 +291,7 @@
    "content": "Nabi SAW ajar: nama anak akan dipanggil sampai hari kiamat. Tapi ramai pilih nama dalam 7 saat. Awak pilih dengan rasa, atau dengan ilmu?",
    "date": "2026-08-28",
    "time": "12:16",
-   "views": 5558,
+   "views": 5560,
    "likes": 20,
    "comments": 9,
    "shares": 1,
@@ -319,7 +319,7 @@
    "content": "Harvard cakap: otak anak bina 1 juta sambungan saraf setiap saat. Ada pula yang jual \"90% otak terbentuk sebelum 5 tahun\". Satu benar, satu mitos. Awak tahu yang mana?",
    "date": "2026-08-28",
    "time": "18:15",
-   "views": 3554,
+   "views": 3556,
    "likes": 5,
    "comments": 7,
    "shares": 1,
@@ -389,12 +389,26 @@
    "content": "Anas bin Malik khidmat Nabi SAW 10 tahun. Sepanjang 10 tahun tu, tak pernah sekali pun Nabi cakap \"uf\" kat dia. Tak pernah menempelak, tak pernah merajuk.",
    "date": "2026-08-29",
    "time": "07:32",
-   "views": 1003,
+   "views": 1005,
    "likes": 9,
    "comments": 7,
    "shares": 0,
-   "er": 1.6,
+   "er": 1.59,
    "url": "https://www.threads.com/@ustaz.basri/post/DcmjL4_iPVM",
+   "topComments": []
+  },
+  {
+   "id": "6a95689b77555aae013f8fe0",
+   "platformPostId": "18086916884478625",
+   "content": "Ibn Qayyim al-Jawziyyah, ulama besar zaman dulu, tulis buku khas pasal bayi. Tajuk dia Tuhfat al-Maudud. Dalam bab 15 dia cakap: \"Kebanyakan kerosakan anak datang dari kecuaian ayah dan ditinggalkan didikan fardhu dan sunnah.\"",
+   "date": "2026-08-31",
+   "time": "18:17",
+   "views": 849,
+   "likes": 76,
+   "comments": 7,
+   "shares": 20,
+   "er": 12.13,
+   "url": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
    "topComments": []
   },
   {
@@ -417,11 +431,11 @@
    "content": "Siri baharu saya: Persediaan Menjadi Ayah. Setiap hari tengah hari 12:15, satu episod. 7 episod sampai Ahad.",
    "date": "2026-08-31",
    "time": "12:15",
-   "views": 343,
+   "views": 348,
    "likes": 0,
    "comments": 7,
    "shares": 0,
-   "er": 2.04,
+   "er": 2.01,
    "url": "https://www.threads.com/@ustaz.basri/post/DcsNM5YDWWa",
    "topComments": []
   },
@@ -431,11 +445,11 @@
    "content": "Kajian JAMA 2010: hampir 1 dalam 10 ayah baharu ada tanda kemurungan. Kita sambut bayi dengan meriah, sambut ibu dengan kasih. Tapi siapa sambut kelahiran seorang ayah?",
    "date": "2026-08-31",
    "time": "07:30",
-   "views": 277,
-   "likes": 0,
+   "views": 281,
+   "likes": 1,
    "comments": 7,
    "shares": 0,
-   "er": 2.53,
+   "er": 2.85,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcrsl1Sis0W",
    "topComments": []
   },
@@ -445,7 +459,7 @@
    "content": "Saya anak Malaysia ❤️",
    "date": "2026-08-31",
    "time": "14:13",
-   "views": 28,
+   "views": 32,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -571,19 +585,19 @@
   },
   {
    "date": "2026-08-30",
-   "views": 6422,
-   "likes": 80,
+   "views": 6426,
+   "likes": 81,
    "comments": 11,
    "shares": 17,
    "posts": 1
   },
   {
    "date": "2026-08-31",
-   "views": 1101,
-   "likes": 1,
-   "comments": 12,
-   "shares": 0,
-   "posts": 2
+   "views": 2015,
+   "likes": 77,
+   "comments": 19,
+   "shares": 20,
+   "posts": 3
   }
  ],
  "followers": [
@@ -631,8 +645,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "683.8K",
-   "sub": "+5406% vs 7 hari sebelumnya"
+   "value": "684.7K",
+   "sub": "+5413% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -651,7 +665,7 @@
   },
   {
    "label": "Engagement rate (purata)",
-   "value": "1.93%",
+   "value": "1.94%",
    "sub": "likes+komen+share / views"
   }
  ]
