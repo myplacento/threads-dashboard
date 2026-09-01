@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generatedAt": "2026-09-01 12:18 MYT",
+  "generatedAt": "2026-09-01 12:49 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
-   "profilePicture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/778767586_18094716677094220_5885692655080076863_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=C9504rA4jmoQ7kNvwG0YEZS&_nc_oc=AdpnxBy2VsD5jS7X1FtNlZMcSK2Pn9GnQKKaPps9icUSdV2bX7zm0dM8kvoC8i-3-3E&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xCahMom4bjFQP_TPpWf8Zg&_nc_tpa=Q5bMBQKWf9hnHyv2GiRX_0kQw-Y9R3H-IAKaS82yVSwFgnKFG36G9_vz7edKinWt8qE75AKX9W69_qXyQg&oh=00_AQJ77uzUPnLzIyZroZ8kPjDN2KQBB3HZhMls5xFLkEVZMg&oe=6A9AF92F",
-   "followers": 239
+   "profilePicture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/778767586_18094716677094220_5885692655080076863_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=C9504rA4jmoQ7kNvwFMdcYf&_nc_oc=Ado3khYjNijDtkMGcVEGvMrNMPF0x_zHYX9h8uOTRF7JhLGMub1dpvzCyxp2u5iYPwQ&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Aekbx1cdCLSm_R6QMuhq3Q&_nc_tpa=Q5bMBQLpfdbSw134mJh_f8uhvhgF0MWWgyILc09Sz0VphoU5HCyLxZnBt_T5cr1hWIisLtt3FIMbg4T0hQ&oh=00_AQIsdnBs5-njLIw99Urp16yNT_NRmTRT-vFiGVfX5iQRdQ&oe=6A9C126F",
+   "followers": 451
   },
   "targetViews": 3000000,
   "appReported": {
@@ -143,6 +143,12 @@
    "url": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
    "topComments": [
     {
+     "name": "khairanimode",
+     "message": "ustaz, sy tak jumpa buku tu kat link yang ustaz bagi..",
+     "time": "2026-09-01",
+     "likes": 0
+    },
+    {
      "name": "cikgunota",
      "message": "Alhamdulillah. Terima kasih ustaz atas peringatan mesra ini.",
      "time": "2026-09-01",
@@ -169,12 +175,6 @@
     {
      "name": "theghazkhan",
      "message": "Terima kasih untuk perkongsian ilmu.",
-     "time": "2026-08-31",
-     "likes": 0
-    },
-    {
-     "name": "wvndxrlnst",
-     "message": "agreed.",
      "time": "2026-08-31",
      "likes": 0
     }
@@ -622,6 +622,10 @@
   {
    "date": "2026-08-31",
    "count": 239
+  },
+  {
+   "date": "2026-09-01",
+   "count": 451
   }
  ],
  "insights": [
@@ -642,8 +646,8 @@
   },
   {
    "label": "Pertumbuhan follower",
-   "value": "+221",
-   "sub": "+1228% sepanjang tempoh"
+   "value": "+433",
+   "sub": "+2406% sepanjang tempoh"
   },
   {
    "label": "Engagement rate (purata)",
