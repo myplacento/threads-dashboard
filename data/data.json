@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-01 08:09 MYT",
+  "generatedAt": "2026-09-01 08:40 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -20,11 +20,11 @@
   }
  },
  "totals": {
-  "views": 726738,
-  "likes": 11336,
-  "comments": 1719,
-  "shares": 2288,
-  "posts": 30
+  "views": 730818,
+  "likes": 11567,
+  "comments": 1728,
+  "shares": 2360,
+  "posts": 31
  },
  "posts": [
   {
@@ -33,7 +33,7 @@
    "content": "Nabi SAW azan untuk cucunya pada hari pertama dia lahir — 1400 tahun dah sunnah ni.\n\nKita sibuk pilih hospital & baju bayi, lupa kalimah pertama anak.",
    "date": "2026-08-27",
    "time": "07:32",
-   "views": 429275,
+   "views": 429298,
    "likes": 4778,
    "comments": 1161,
    "shares": 224,
@@ -84,7 +84,7 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 174794,
+   "views": 174825,
    "likes": 3775,
    "comments": 354,
    "shares": 1272,
@@ -135,13 +135,19 @@
    "content": "Ibn Qayyim al-Jawziyyah, ulama besar zaman dulu, tulis buku khas pasal bayi. Tajuk dia Tuhfat al-Maudud. Dalam bab 15 dia cakap: \"Kebanyakan kerosakan anak datang dari kecuaian ayah dan ditinggalkan didikan fardhu dan sunnah.\"",
    "date": "2026-08-31",
    "time": "18:17",
-   "views": 29292,
-   "likes": 1375,
-   "comments": 25,
-   "shares": 503,
-   "er": 6.5,
+   "views": 32786,
+   "likes": 1599,
+   "comments": 27,
+   "shares": 573,
+   "er": 6.71,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
    "topComments": [
+    {
+     "name": "cikgunota",
+     "message": "Alhamdulillah. Terima kasih ustaz atas peringatan mesra ini.",
+     "time": "2026-09-01",
+     "likes": 0
+    },
     {
      "name": "luvyu_so",
      "message": "setujuu!!\nbtw, aku bacanya pake nada bicara upin-ipin, pdhal baca dalam hati",
@@ -171,12 +177,6 @@
      "message": "agreed.",
      "time": "2026-08-31",
      "likes": 0
-    },
-    {
-     "name": "whatqilalikes",
-     "message": "dari hari tu cari buku ni, boleh tahu boleh beli dri mana?",
-     "time": "2026-08-31",
-     "likes": 0
     }
    ]
   },
@@ -186,7 +186,7 @@
    "content": "Jika Rasulullah tercinta duduk di sofa rumah kita.\n\nApa yang baginda tegur dulu sebagai suami?",
    "date": "2026-08-25",
    "time": "15:02",
-   "views": 12701,
+   "views": 12702,
    "likes": 87,
    "comments": 6,
    "shares": 9,
@@ -207,7 +207,7 @@
    "content": "Bagus trick ni, boleh praktis dengan anak-anak. \n\nBtw, saya pun sedang explore neuroparenting. \n\nDoakan saya kekal semangat. 😆",
    "date": "2026-08-29",
    "time": "22:28",
-   "views": 11473,
+   "views": 11491,
    "likes": 145,
    "comments": 1,
    "shares": 26,
@@ -228,7 +228,7 @@
    "content": "Nabi SAW cakap: rotan kalau anak tak solat 10 tahun..\n\nSambungan isu semalam.\n\nTapi baca penuh: 7 tahun ajar, 10 tahun pukul — 3 TAHUN latihan dulu.\n\nKita? Hari pertama terus rotan.",
    "date": "2026-08-26",
    "time": "07:33",
-   "views": 9348,
+   "views": 9352,
    "likes": 301,
    "comments": 21,
    "shares": 104,
@@ -279,7 +279,7 @@
    "content": "Kajian UniSZA 2017: sebahagian adat sambut kelahiran boleh bawa ke syirik.\n\nKita sambut anak ikut \"biasa orang buat\" — bukan dalil.",
    "date": "2026-08-27",
    "time": "18:16",
-   "views": 8835,
+   "views": 8848,
    "likes": 65,
    "comments": 6,
    "shares": 13,
@@ -293,11 +293,11 @@
    "content": "Nabi SAW tahnik bayi dengan kurma — 1400 tahun sebelum 'nutrisi pertama' dijual mahal-mahal.",
    "date": "2026-08-27",
    "time": "12:16",
-   "views": 8594,
+   "views": 8601,
    "likes": 272,
    "comments": 5,
    "shares": 15,
-   "er": 3.4,
+   "er": 3.39,
    "url": "https://www.threads.com/@ustaz.basri/post/Dch6IVUAFKO",
    "topComments": []
   },
@@ -307,7 +307,7 @@
    "content": "Semalam thread azan saya, ramai yang turun tegur. Teguran tu memang betul: perumpamaan yang saya bagi jauh sangat, azan dibandingkan dengan pilih hospital dan baju. Padahal dua-dua masa berbeza. Saya minta maaf. Hari ni saya betulkan.",
    "date": "2026-08-28",
    "time": "07:31",
-   "views": 7285,
+   "views": 7299,
    "likes": 38,
    "comments": 38,
    "shares": 0,
@@ -335,11 +335,11 @@
    "content": "Nabi SAW ajar: nama anak akan dipanggil sampai hari kiamat. Tapi ramai pilih nama dalam 7 saat. Awak pilih dengan rasa, atau dengan ilmu?",
    "date": "2026-08-28",
    "time": "12:16",
-   "views": 5592,
+   "views": 5608,
    "likes": 20,
    "comments": 9,
    "shares": 1,
-   "er": 0.54,
+   "er": 0.53,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcke7NVjb5f",
    "topComments": []
   },
@@ -349,7 +349,7 @@
    "content": "Rotan yang bina hormat. Rotan yang bina trauma.\n\nKedua-duanya rotan. Bezanya 5 langkah.\n\nNabi SAW ajar 1400 tahun dulu. Ini dia. 👇",
    "date": "2026-08-26",
    "time": "18:15",
-   "views": 3685,
+   "views": 3691,
    "likes": 32,
    "comments": 7,
    "shares": 6,
@@ -377,11 +377,11 @@
    "content": "Al-Quran panggil madu penawar (An-Nahl 69).\n\nTapi untuk bayi bawah 1 tahun, madu boleh bahaya.\n\nKontra? Ini sains — bukan pendapat (CDC, AAP).",
    "date": "2026-08-25",
    "time": "12:15",
-   "views": 3157,
+   "views": 3158,
    "likes": 23,
    "comments": 5,
    "shares": 5,
-   "er": 1.05,
+   "er": 1.04,
    "url": "https://www.threads.com/@ustaz.basri/post/Dccwa1ViB3J",
    "topComments": []
   },
@@ -391,7 +391,7 @@
    "content": "Nabi SAW ajar rotan. Imam al-Ghazali ajar rotan. 200+ komen semalam pun pasal rotan.\n\nHari ni kita selesaikan sekali: ROTAN vs DERA.\n\nBezanya bukan pada alat. Pada tiga benda ini. 👇",
    "date": "2026-08-26",
    "time": "12:16",
-   "views": 1819,
+   "views": 1823,
    "likes": 11,
    "comments": 5,
    "shares": 2,
@@ -425,6 +425,20 @@
    "shares": 1,
    "er": 1.39,
    "url": "https://www.threads.com/@ustaz.basri/post/DcL6kuFgQ3L",
+   "topComments": []
+  },
+  {
+   "id": "6a96179e77555aae016fcce6",
+   "platformPostId": "18404133565092720",
+   "content": "WHO kata: bayi bawah 1 tahun, skrin = 0. Sifar. Kita? Bagi tablet sebelum anak boleh duduk. 😄",
+   "date": "2026-09-01",
+   "time": "07:32",
+   "views": 448,
+   "likes": 7,
+   "comments": 7,
+   "shares": 2,
+   "er": 3.57,
+   "url": "https://www.threads.com/@ustaz.basri/post/DcuRhhOCE88",
    "topComments": []
   },
   {
@@ -553,11 +567,19 @@
   },
   {
    "date": "2026-08-31",
-   "views": 31604,
-   "likes": 1382,
-   "comments": 49,
-   "shares": 504,
-   "posts": 4
+   "views": 32052,
+   "likes": 1389,
+   "comments": 56,
+   "shares": 506,
+   "posts": 5
+  },
+  {
+   "date": "2026-09-01",
+   "views": 3632,
+   "likes": 224,
+   "comments": 2,
+   "shares": 70,
+   "posts": 0
   }
  ],
  "followers": [
@@ -605,8 +627,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "714.3K",
-   "sub": "+5652% vs 7 hari sebelumnya"
+   "value": "652.9K",
+   "sub": "+738% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -625,7 +647,7 @@
   },
   {
    "label": "Engagement rate (purata)",
-   "value": "2.11%",
+   "value": "2.14%",
    "sub": "likes+komen+share / views"
   }
  ]
