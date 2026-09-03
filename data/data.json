@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-03 16:03 MYT",
+  "generatedAt": "2026-09-03 16:34 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -20,10 +20,10 @@
   }
  },
  "totals": {
-  "views": 799450,
-  "likes": 12569,
+  "views": 799577,
+  "likes": 12574,
   "comments": 1891,
-  "shares": 2624,
+  "shares": 2625,
   "posts": 39
  },
  "posts": [
@@ -135,7 +135,7 @@
    "content": "WHO kata: bayi bawah 1 tahun, skrin = 0. Sifar. Kita? Bagi tablet sebelum anak boleh duduk. 😄",
    "date": "2026-09-01",
    "time": "07:32",
-   "views": 45837,
+   "views": 45843,
    "likes": 390,
    "comments": 104,
    "shares": 67,
@@ -186,7 +186,7 @@
    "content": "Ibn Qayyim al-Jawziyyah, ulama besar zaman dulu, tulis buku khas pasal bayi. Tajuk dia Tuhfat al-Maudud. Dalam bab 15 dia cakap: \"Kebanyakan kerosakan anak datang dari kecuaian ayah dan ditinggalkan didikan fardhu dan sunnah.\"",
    "date": "2026-08-31",
    "time": "18:17",
-   "views": 43591,
+   "views": 43598,
    "likes": 2099,
    "comments": 39,
    "shares": 758,
@@ -237,7 +237,7 @@
    "content": "Jika Rasulullah tercinta duduk di sofa rumah kita.\n\nApa yang baginda tegur dulu sebagai suami?",
    "date": "2026-08-25",
    "time": "15:02",
-   "views": 12712,
+   "views": 12715,
    "likes": 87,
    "comments": 6,
    "shares": 9,
@@ -321,7 +321,7 @@
    "content": "Nabi SAW doa perlindungan untuk Hasan dan Husain. 1400 tahun, doa ni masih dibaca sampai hari ni. Kita? Risau gigitan nyamuk, lupa perlindungan doa.",
    "date": "2026-09-01",
    "time": "18:16",
-   "views": 7790,
+   "views": 7792,
    "likes": 66,
    "comments": 9,
    "shares": 9,
@@ -335,7 +335,7 @@
    "content": "Semalam thread azan saya, ramai yang turun tegur. Teguran tu memang betul: perumpamaan yang saya bagi jauh sangat, azan dibandingkan dengan pilih hospital dan baju. Padahal dua-dua masa berbeza. Saya minta maaf. Hari ni saya betulkan.",
    "date": "2026-08-28",
    "time": "07:31",
-   "views": 7381,
+   "views": 7382,
    "likes": 38,
    "comments": 39,
    "shares": 0,
@@ -447,7 +447,7 @@
    "content": "Nabi Ibrahim doa 1400 tahun lalu: \"Ya Tuhanku, jadikanlah aku dan anak cucuku orang yang mendirikan solat.\" Kita? Baca buku, tengok video, tanya kawan. Semua bagus. Tapi doa? Jarang masuk senarai. 😄",
    "date": "2026-09-01",
    "time": "12:15",
-   "views": 1023,
+   "views": 1024,
    "likes": 29,
    "comments": 10,
    "shares": 1,
@@ -470,31 +470,31 @@
    "topComments": []
   },
   {
-   "id": "6a98fe3177555aae01cb5d67",
-   "platformPostId": "18098124524636247",
-   "content": "Pernah tak jerit kat anak, lepas tu anak senyum je pandang kita, terus rasa bersalah? Cerita bawah. Saya pun ada cerita. 😄",
-   "date": "2026-09-03",
-   "time": "12:15",
-   "views": 212,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "er": 0,
-   "url": "https://www.threads.com/@ustaz.basri/post/Dcz7lsHCM-J",
-   "topComments": []
-  },
-  {
    "id": "6a98bcb377555aae01c976ad",
    "platformPostId": "17906302671504490",
    "content": "Jerit bukan buat anak dengar. Jerit buat anak takut.\n\nUniversiti Pittsburgh ikut 976 keluarga: yang selalu jerit, anak lebih degil dan murung setahun kemudian. 🧧",
    "date": "2026-09-03",
    "time": "07:30",
-   "views": 133,
-   "likes": 6,
+   "views": 231,
+   "likes": 11,
    "comments": 7,
-   "shares": 3,
-   "er": 12.03,
+   "shares": 4,
+   "er": 9.52,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcza_pyjUDr",
+   "topComments": []
+  },
+  {
+   "id": "6a98fe3177555aae01cb5d67",
+   "platformPostId": "18098124524636247",
+   "content": "Pernah tak jerit kat anak, lepas tu anak senyum je pandang kita, terus rasa bersalah? Cerita bawah. Saya pun ada cerita. 😄",
+   "date": "2026-09-03",
+   "time": "12:15",
+   "views": 221,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "er": 0,
+   "url": "https://www.threads.com/@ustaz.basri/post/Dcz7lsHCM-J",
    "topComments": []
   },
   {
@@ -639,15 +639,15 @@
   },
   {
    "date": "2026-09-02",
-   "views": 2490,
-   "likes": 36,
+   "views": 2588,
+   "likes": 41,
    "comments": 21,
-   "shares": 12,
+   "shares": 13,
    "posts": 4
   },
   {
    "date": "2026-09-03",
-   "views": 341,
+   "views": 370,
    "likes": 1,
    "comments": 0,
    "shares": 0,
@@ -711,7 +711,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "449.6K",
+   "value": "449.7K",
    "sub": "+29% vs 7 hari sebelumnya"
   },
   {
