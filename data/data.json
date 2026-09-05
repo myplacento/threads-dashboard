@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-05 16:13 MYT",
+  "generatedAt": "2026-09-05 16:44 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -20,10 +20,10 @@
   }
  },
  "totals": {
-  "views": 1225600,
-  "likes": 19191,
-  "comments": 3208,
-  "shares": 4915,
+  "views": 1239710,
+  "likes": 19451,
+  "comments": 3280,
+  "shares": 4954,
   "posts": 45
  },
  "posts": [
@@ -84,10 +84,10 @@
    "content": "Al-Quran sebut: ibu menyusukan anak dua tahun penuh. 1400 tahun, tak pernah outdated.\n\nWHO baru sahaja tulis garis panduan yang sama. Sains lambat? Tak. Sains rajin. Yang penting: jumpa jugak. 😄\n\nTapi soalan sebenar: dua tahun tu, siapa sanggup?",
    "date": "2026-09-03",
    "time": "18:15",
-   "views": 212822,
-   "likes": 3982,
-   "comments": 1087,
-   "shares": 1896,
+   "views": 213416,
+   "likes": 3992,
+   "comments": 1095,
+   "shares": 1898,
    "er": 3.27,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
    "topComments": [
@@ -186,13 +186,19 @@
    "content": "Nabi SAW pesan: nama anak akan dipanggil sampai hari kiamat. 1400 tahun. Tapi kita? Pilih nama dalam 7 saat masa isi borang lahir. 😄",
    "date": "2026-09-04",
    "time": "12:15",
-   "views": 144177,
-   "likes": 1368,
-   "comments": 169,
+   "views": 145524,
+   "likes": 1377,
+   "comments": 216,
    "shares": 114,
-   "er": 1.15,
+   "er": 1.17,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
    "topComments": [
+    {
+     "name": "nk.slhn",
+     "message": "1.Iman Aqasha \n2.Iman Medina Sofia",
+     "time": "2026-09-05",
+     "likes": 0
+    },
     {
      "name": "sarahsobery",
      "message": "Nama anak sy nur najla.. sy sebagai ibu selalu sebut nama penuh anak bila nk panggil dia.dtg ke org lain disingkatkn jd \"ALA\". tak tahu mcm mana nak tegur supaya panggil nama dgn panggilan penuh😣",
@@ -222,12 +228,6 @@
      "message": "Nur Aleeya Sofea Dan ayyash Iman",
      "time": "2026-09-05",
      "likes": 0
-    },
-    {
-     "name": "__bondamaryam",
-     "message": "ada yang gelak katanya nama anak macam orang dulu tapi peduli apa saya suka nama ni. 😆 cukup berseri rumah ni ada dua buah hati penyeri hati. \nSeri Maryam \nSeri Khadijah",
-     "time": "2026-09-05",
-     "likes": 0
     }
    ]
   },
@@ -237,11 +237,11 @@
    "content": "Al-Quran ajar: anak minta izin masuk bilik ibu bapa, 3 waktu. Tiga waktu, bukan sekali-sekala. Kita? Masuk bilik anak, terus je. 😄",
    "date": "2026-09-04",
    "time": "18:16",
-   "views": 51308,
-   "likes": 983,
-   "comments": 29,
-   "shares": 187,
-   "er": 2.34,
+   "views": 54556,
+   "likes": 1106,
+   "comments": 31,
+   "shares": 201,
+   "er": 2.45,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc3JnLuDLjp",
    "topComments": [
     {
@@ -288,9 +288,9 @@
    "content": "WHO kata: bayi bawah 1 tahun, skrin = 0. Sifar. Kita? Bagi tablet sebelum anak boleh duduk. 😄",
    "date": "2026-09-01",
    "time": "07:32",
-   "views": 46080,
+   "views": 46090,
    "likes": 391,
-   "comments": 104,
+   "comments": 105,
    "shares": 68,
    "er": 1.22,
    "url": "https://www.threads.com/@ustaz.basri/post/DcuRhhOCE88",
@@ -339,12 +339,26 @@
    "content": "Ibn Qayyim al-Jawziyyah, ulama besar zaman dulu, tulis buku khas pasal bayi. Tajuk dia Tuhfat al-Maudud. Dalam bab 15 dia cakap: \"Kebanyakan kerosakan anak datang dari kecuaian ayah dan ditinggalkan didikan fardhu dan sunnah.\"",
    "date": "2026-08-31",
    "time": "18:17",
-   "views": 43897,
+   "views": 43906,
    "likes": 2099,
-   "comments": 39,
+   "comments": 40,
    "shares": 758,
    "er": 6.6,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
+   "topComments": []
+  },
+  {
+   "id": "6a9ba375ff0b423fd45eb1ef",
+   "platformPostId": "18094242491207606",
+   "content": "Nabi SAW kata: setiap anak tergadai dengan aqiqahnya. 1400 tahun. Tapi sambutan anak sekarang? Deko RM5,000, cake bertingkat. Aqiqah? Kedai makan pun tak sampai. 😄",
+   "date": "2026-09-05",
+   "time": "12:15",
+   "views": 13432,
+   "likes": 152,
+   "comments": 21,
+   "shares": 19,
+   "er": 1.43,
+   "url": "https://www.threads.com/@ustaz.basri/post/Dc5FMmRjViO",
    "topComments": []
   },
   {
@@ -367,7 +381,7 @@
    "content": "Bagus trick ni, boleh praktis dengan anak-anak. \n\nBtw, saya pun sedang explore neuroparenting. \n\nDoakan saya kekal semangat. 😆",
    "date": "2026-08-29",
    "time": "22:28",
-   "views": 11731,
+   "views": 11733,
    "likes": 147,
    "comments": 2,
    "shares": 26,
@@ -423,7 +437,7 @@
    "content": "Nabi SAW doa perlindungan untuk Hasan dan Husain. 1400 tahun, doa ni masih dibaca sampai hari ni. Kita? Risau gigitan nyamuk, lupa perlindungan doa.",
    "date": "2026-09-01",
    "time": "18:16",
-   "views": 8112,
+   "views": 8122,
    "likes": 68,
    "comments": 9,
    "shares": 9,
@@ -465,9 +479,9 @@
    "content": "Jerit bukan buat anak dengar. Jerit buat anak takut.\n\nUniversiti Pittsburgh ikut 976 keluarga: yang selalu jerit, anak lebih degil dan murung setahun kemudian. 🧧",
    "date": "2026-09-03",
    "time": "07:30",
-   "views": 6145,
+   "views": 6182,
    "likes": 169,
-   "comments": 14,
+   "comments": 15,
    "shares": 76,
    "er": 4.21,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcza_pyjUDr",
@@ -485,20 +499,6 @@
    "shares": 1,
    "er": 0.56,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcke7NVjb5f",
-   "topComments": []
-  },
-  {
-   "id": "6a9ba375ff0b423fd45eb1ef",
-   "platformPostId": "18094242491207606",
-   "content": "Nabi SAW kata: setiap anak tergadai dengan aqiqahnya. 1400 tahun. Tapi sambutan anak sekarang? Deko RM5,000, cake bertingkat. Aqiqah? Kedai makan pun tak sampai. 😄",
-   "date": "2026-09-05",
-   "time": "12:15",
-   "views": 4990,
-   "likes": 57,
-   "comments": 9,
-   "shares": 4,
-   "er": 1.4,
-   "url": "https://www.threads.com/@ustaz.basri/post/Dc5FMmRjViO",
    "topComments": []
   },
   {
@@ -549,11 +549,11 @@
    "content": "Anak menangis, kita peluk, orang tua kata: \"manja nanti!\" John Bowlby, 1958: salah. Peluk anak itu bukan manja, itu perlindungan.",
    "date": "2026-09-05",
    "time": "07:32",
-   "views": 1948,
-   "likes": 38,
+   "views": 2354,
+   "likes": 61,
    "comments": 9,
-   "shares": 12,
-   "er": 3.03,
+   "shares": 20,
+   "er": 3.82,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc4kvgDCCwH",
    "topComments": []
   },
@@ -591,11 +591,11 @@
    "content": "Nabi Ibrahim doa 1400 tahun lalu: \"Ya Tuhanku, jadikanlah aku dan anak cucuku orang yang mendirikan solat.\" Kita? Baca buku, tengok video, tanya kawan. Semua bagus. Tapi doa? Jarang masuk senarai. 😄",
    "date": "2026-09-01",
    "time": "12:15",
-   "views": 1248,
+   "views": 1253,
    "likes": 30,
    "comments": 10,
    "shares": 1,
-   "er": 3.29,
+   "er": 3.27,
    "url": "https://www.threads.com/@ustaz.basri/post/DcuyAWlCIHW",
    "topComments": []
   },
@@ -771,18 +771,18 @@
   },
   {
    "date": "2026-09-04",
-   "views": 223894,
-   "likes": 2704,
+   "views": 224300,
+   "likes": 2727,
    "comments": 717,
-   "shares": 745,
+   "shares": 753,
    "posts": 3
   },
   {
    "date": "2026-09-05",
-   "views": 50632,
-   "likes": 894,
-   "comments": 66,
-   "shares": 106,
+   "views": 64336,
+   "likes": 1131,
+   "comments": 138,
+   "shares": 137,
    "posts": 1
   }
  ],
@@ -851,8 +851,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "536.9K",
-   "sub": "-22% vs 7 hari sebelumnya"
+   "value": "551.0K",
+   "sub": "-20% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
