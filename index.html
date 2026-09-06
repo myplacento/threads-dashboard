@@ -1552,7 +1552,7 @@ video {
           Tinggal <b class="text-amber-400 num" x-text="fmtNum(remaining)"></b> views lagi · pada momentum semasa <span class="text-emerald-400" x-text="paceNote"></span>
         </p>
         <p class="mt-2 text-[10px] text-slate-500/80 leading-relaxed border-t border-slate-800 pt-2">
-          ℹ️ <b class="text-slate-300">Views app</b> = kiraan rasmi Threads (screenshot Meta AI, <span class="num" x-text="appUpdated"></span>) · <b class="text-slate-300">Zernio</b> = detail per-post, sync ~90 min — jurang normal sebab app kira ulangan tontonan & termasuk post sebelum Zernio disambung.
+          ℹ️ <b class="text-slate-300">Views official</b> = jumlah lifetime semua post, ditarik terus dari Meta API (auto) · <b class="text-slate-300">Zernio</b> = track detail per-post, sync ~90 min. Viewers unik masih dari app Threads.
         </p>
       </div>
     </section>
@@ -1560,9 +1560,9 @@ video {
     <!-- ============ KPI GRID ============ -->
     <section class="grid grid-cols-3 sm:grid-cols-6 gap-3 mb-5">
       <div class="card p-4 text-center">
-        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Views <span class="text-emerald-500">· app</span></p>
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Views <span class="text-emerald-500">· official Meta</span></p>
         <p class="text-xl sm:text-2xl font-black text-emerald-400 num mt-1" x-text="fmtNum(totalViews)"></p>
-        <p class="text-[10px] text-slate-500 mt-0.5 num" x-text="'Zernio track: ' + fmtNum(zernioViews)"></p>
+        <p class="text-[10px] text-slate-500 mt-0.5 num" x-text="officialFetched ? 'auto · ' + officialFetched : 'Zernio: ' + fmtNum(zernioViews)"></p>
       </div>
       <div class="card p-4 text-center">
         <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Viewers unik</p>
@@ -1778,7 +1778,12 @@ function dashboard() {
     },
     get targetViews() { return this.data.meta.targetViews || 3000000; },
     get zernioViews() { return this.data.totals.views || 0; },
-    get totalViews() { return this.appViews || this.zernioViews; },
+    get officialViews() { return (this.data.official||{}).totals ? this.data.official.totals.views : 0; },
+    get officialLikes() { return (this.data.official||{}).totals ? this.data.official.totals.likes : 0; },
+    get officialReplies() { return (this.data.official||{}).totals ? this.data.official.totals.replies : 0; },
+    get officialReposts() { return (this.data.official||{}).totals ? this.data.official.totals.reposts : 0; },
+    get officialFetched() { return (this.data.official||{}).fetchedAt || ''; },
+    get totalViews() { return this.officialViews || this.appViews || this.zernioViews; },
     get totalLikes() { return this.data.totals.likes || 0; },
     get totalComments() { return this.data.totals.comments || 0; },
     get totalShares() { return this.data.totals.shares || 0; },
