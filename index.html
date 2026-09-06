@@ -1536,28 +1536,46 @@ video {
         </div>
       </div>
 
-      <!-- progress -->
-      <div class="mt-5">
-        <div class="flex justify-between text-[11px] text-slate-400 mb-1.5">
-          <span x-show="!targetReached">Progress ke 3M views 🎯</span>
-          <span x-show="targetReached" class="text-emerald-400 font-bold">🎉 TARGET 3M TERCAPAI!</span>
-          <span class="font-bold num" :class="targetReached ? 'text-emerald-400' : 'text-emerald-400'" x-text="progressPct + '%'"></span>
+      <!-- progress: dual metrics SS (app) + API -->
+      <div class="mt-5 space-y-4">
+        <!-- Metric SS (app) -->
+        <div>
+          <div class="flex justify-between text-[11px] mb-1.5">
+            <span class="font-semibold text-amber-300">📸 Metrik SS · app Threads</span>
+            <span class="font-bold num" :class="targetReached ? 'text-emerald-400' : 'text-amber-300'" x-text="progressPct + '%'"></span>
+          </div>
+          <div class="h-4 rounded-full bg-slate-800/80 overflow-hidden relative">
+            <div class="h-full rounded-full transition-all duration-1000"
+                 :class="targetReached ? 'bg-gradient-to-r from-amber-400 via-emerald-400 to-emerald-300' : 'bg-gradient-to-r from-amber-500/80 to-amber-400'"
+                 :style="'width:' + Math.min(progressPct,100) + '%'"></div>
+            <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold text-white/95 drop-shadow num"
+                 x-text="fmtNum(totalViews) + ' / ' + fmtNum(targetViews)"></div>
+          </div>
+          <p class="mt-1 text-[10px] text-slate-500" x-show="!targetReached">
+            Tinggal <b class="text-amber-400 num" x-text="fmtNum(remaining)"></b> · momentum <span class="text-emerald-400" x-text="paceNote"></span>
+          </p>
+          <p class="mt-1 text-[10px] text-emerald-400 font-semibold" x-show="targetReached">
+            🎉 TARGET 3M TERCAPAI — angka app (screenshot <span class="num" x-text="appUpdated"></span>)
+          </p>
         </div>
-        <div class="h-3.5 rounded-full bg-slate-800/80 overflow-hidden relative">
-          <div class="h-full rounded-full transition-all duration-1000"
-               :class="targetReached ? 'bg-gradient-to-r from-amber-400 via-emerald-400 to-emerald-300' : 'bg-gradient-to-r from-emerald-600 via-emerald-500 to-teal-400'"
-               :style="'width:' + Math.min(progressPct,100) + '%'"></div>
-          <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold text-white/90 drop-shadow num"
-               x-text="fmtNum(totalViews) + ' / ' + fmtNum(targetViews)"></div>
+        <!-- Metric API (auto) -->
+        <div>
+          <div class="flex justify-between text-[11px] mb-1.5">
+            <span class="font-semibold text-sky-300">🔌 Metrik API · auto (Meta rasmi)</span>
+            <span class="font-bold text-sky-400 num" x-text="apiPct + '%'"></span>
+          </div>
+          <div class="h-4 rounded-full bg-slate-800/80 overflow-hidden relative">
+            <div class="h-full rounded-full bg-gradient-to-r from-sky-600/80 to-sky-400 transition-all duration-1000"
+                 :style="'width:' + Math.min(apiPct,100) + '%'"></div>
+            <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold text-white/95 drop-shadow num"
+                 x-text="fmtNum(officialViews) + ' / ' + fmtNum(apiTarget)"></div>
+          </div>
+          <p class="mt-1 text-[10px] text-slate-500 num" x-show="officialFetched">
+            auto setiap 30 min · dikemas kini <span x-text="officialFetched"></span>
+          </p>
         </div>
-        <p class="mt-1.5 text-[11px] text-slate-500" x-show="!targetReached">
-          Tinggal <b class="text-amber-400 num" x-text="fmtNum(remaining)"></b> views lagi · pada momentum semasa <span class="text-emerald-400" x-text="paceNote"></span>
-        </p>
-        <p class="mt-1.5 text-[11px] text-emerald-400/90 font-medium" x-show="targetReached">
-          Alhamdulillah — sasaran 3M views tercapai! 🎉 Momentum masih berjalan — masa untuk target baru.
-        </p>
         <p class="mt-2 text-[10px] text-slate-500/80 leading-relaxed border-t border-slate-800 pt-2">
-          ℹ️ <b class="text-slate-300">Views official</b> = jumlah lifetime semua post, ditarik terus dari Meta API (auto) · <b class="text-slate-300">Zernio</b> = track detail per-post, sync ~90 min. Viewers unik masih dari app Threads.
+          ℹ️ <b class="text-slate-300">📸 SS</b> = kiraan app Threads (rolling 30 hari, termasuk ulangan tontonan — angka sambutan) · <b class="text-slate-300">🔌 API</b> = kiraan ketat per-post lifetime dari Meta API (auto). Likes dua-dua MATCH.
         </p>
       </div>
     </section>
@@ -1782,6 +1800,11 @@ function dashboard() {
       return String(n);
     },
     get targetViews() { return this.data.meta.targetViews || 3000000; },
+    get apiTarget() { return this.data.meta.targetViewsApi || 3000000; },
+    get apiPct() {
+      const t = this.apiTarget; if (!t) return 0;
+      return Math.round((this.officialViews || this.zernioViews) / t * 100);
+    },
     get zernioViews() { return this.data.totals.views || 0; },
     get officialViews() { return (this.data.official||{}).totals ? this.data.official.totals.views : 0; },
     get officialLikes() { return (this.data.official||{}).totals ? this.data.official.totals.likes : 0; },
