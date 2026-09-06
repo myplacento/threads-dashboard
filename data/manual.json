@@ -1,6 +1,7 @@
 {
-  "target_views": 3000000,
+  "target_views": 6000000,
   "target_views_api": 3000000,
+  "target_followers": 2000,
   "app_reported": {
     "views": 3586328,
     "viewers": 715143,
@@ -9,6 +10,6 @@
     "followers_growth_pct": 3200.0,
     "interactions": 0,
     "updated": "6/9/2026",
-    "note": "Screenshot app Threads 6/9/2026 (Last 30 days). VIEWS app = kiraan luas Meta (rolling 30 hari, ulangan tontonan). API official (data.official) = kiraan ketat per-post. Likes kedua-dua MATCH."
+    "note": "Screenshot app Threads 6/9/2026 (Last 30 days). TARGET BARU 6/9: 6M views (SS) + 2K followers. VIEWS app = kiraan luas Meta. API official = kiraan ketat per-post."
   }
 }

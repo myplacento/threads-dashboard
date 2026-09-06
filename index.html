@@ -1530,9 +1530,9 @@ video {
           </p>
         </div>
         <div class="text-right">
-          <p class="text-[10px] uppercase tracking-widest text-slate-500 font-semibold">Target Ogos–Sept</p>
-          <p class="font-black text-2xl sm:text-3xl bg-gradient-to-r from-emerald-400 to-teal-300 bg-clip-text text-transparent num" x-text="fmtNum(targetViews)"></p>
-          <p class="text-[11px] text-slate-400">views 🎯</p>
+          <p class="text-[10px] uppercase tracking-widest text-slate-500 font-semibold">Target · SS app</p>
+          <p class="font-black text-2xl sm:text-3xl bg-gradient-to-r from-amber-400 to-orange-300 bg-clip-text text-transparent num" x-text="fmtNum(targetViews)"></p>
+          <p class="text-[11px] text-slate-400">views 🎯 · 👥 <span class="num" x-text="fmtNum(followerTarget)"></span></p>
         </div>
       </div>
 
@@ -1572,6 +1572,22 @@ video {
           </div>
           <p class="mt-1 text-[10px] text-slate-500 num" x-show="officialFetched">
             auto setiap 30 min · dikemas kini <span x-text="officialFetched"></span>
+          </p>
+        </div>
+        <!-- Followers target -->
+        <div>
+          <div class="flex justify-between text-[11px] mb-1.5">
+            <span class="font-semibold text-violet-300">👥 Followers</span>
+            <span class="font-bold text-violet-400 num" x-text="followerPct + '%'"></span>
+          </div>
+          <div class="h-3 rounded-full bg-slate-800/80 overflow-hidden relative">
+            <div class="h-full rounded-full bg-gradient-to-r from-violet-600/80 to-violet-400 transition-all duration-1000"
+                 :style="'width:' + Math.min(followerPct,100) + '%'"></div>
+            <div class="absolute inset-0 flex items-center justify-center text-[9px] font-bold text-white/95 drop-shadow num"
+                 x-text="fmtNum(totalFollowers) + ' / ' + fmtNum(followerTarget)"></div>
+          </div>
+          <p class="mt-1 text-[10px] text-slate-500 num" x-show="followerTarget">
+            tinggal <b class="text-violet-400" x-text="fmtNum(Math.max(0, followerTarget - totalFollowers))"></b> lagi
           </p>
         </div>
         <p class="mt-2 text-[10px] text-slate-500/80 leading-relaxed border-t border-slate-800 pt-2">
@@ -1804,6 +1820,11 @@ function dashboard() {
     get apiPct() {
       const t = this.apiTarget; if (!t) return 0;
       return Math.round((this.officialViews || this.zernioViews) / t * 100);
+    },
+    get followerTarget() { return this.data.meta.targetFollowers || 2000; },
+    get followerPct() {
+      const t = this.followerTarget; if (!t) return 0;
+      return Math.round(this.totalFollowers / t * 100);
     },
     get zernioViews() { return this.data.totals.views || 0; },
     get officialViews() { return (this.data.official||{}).totals ? this.data.official.totals.views : 0; },
