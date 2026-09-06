@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-06 14:20 MYT",
+  "generatedAt": "2026-09-06 14:26 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -9,14 +9,14 @@
   },
   "targetViews": 3000000,
   "appReported": {
-   "views": 1063897,
-   "viewers": 297954,
-   "followers": 226,
-   "net_followers_gain": 177,
-   "followers_growth_pct": 983.3,
-   "interactions": 13327,
-   "updated": "28/8/2026",
-   "note": "VIEWS kini AUTO dari Threads Official API (data.official). Manual ini cuma untuk VIEWERS UNIK (app sahaja) — update bila Ustaz share screenshot Meta AI baru."
+   "views": 3586328,
+   "viewers": 715143,
+   "followers": 793,
+   "net_followers_gain": 576,
+   "followers_growth_pct": 3200.0,
+   "interactions": 0,
+   "updated": "6/9/2026",
+   "note": "Screenshot app Threads 6/9/2026 (Last 30 days). VIEWS app = kiraan luas Meta (rolling 30 hari, ulangan tontonan). API official (data.official) = kiraan ketat per-post. Likes kedua-dua MATCH."
   }
  },
  "totals": {
@@ -930,12 +930,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-06 22:20 MYT",
+  "fetchedAt": "2026-09-06 22:26 MYT",
   "totals": {
-   "views": 1514849,
-   "likes": 26385,
-   "replies": 3466,
-   "reposts": 6170,
+   "views": 1518783,
+   "likes": 26454,
+   "replies": 3468,
+   "reposts": 6180,
    "quotes": 355,
    "posts": 31
   },
@@ -945,7 +945,7 @@
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7p-uwDF88",
     "timestamp": "2026-09-06",
     "views": 1189,
-    "likes": 5,
+    "likes": 6,
     "replies": 7,
     "reposts": 1,
     "quotes": 0
@@ -954,10 +954,10 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 202399,
-    "likes": 5841,
-    "replies": 62,
-    "reposts": 1343,
+    "views": 206332,
+    "likes": 5909,
+    "replies": 63,
+    "reposts": 1353,
     "quotes": 25
    },
    {
@@ -976,7 +976,7 @@
     "timestamp": "2026-09-05",
     "views": 58552,
     "likes": 688,
-    "replies": 82,
+    "replies": 83,
     "reposts": 94,
     "quotes": 2
    },
@@ -1184,7 +1184,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 175988,
+    "views": 175989,
     "likes": 3779,
     "replies": 355,
     "reposts": 1220,

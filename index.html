@@ -1539,17 +1539,22 @@ video {
       <!-- progress -->
       <div class="mt-5">
         <div class="flex justify-between text-[11px] text-slate-400 mb-1.5">
-          <span>Progress ke 3M views</span>
-          <span class="font-bold text-emerald-400 num" x-text="progressPct + '%'"></span>
+          <span x-show="!targetReached">Progress ke 3M views 🎯</span>
+          <span x-show="targetReached" class="text-emerald-400 font-bold">🎉 TARGET 3M TERCAPAI!</span>
+          <span class="font-bold num" :class="targetReached ? 'text-emerald-400' : 'text-emerald-400'" x-text="progressPct + '%'"></span>
         </div>
         <div class="h-3.5 rounded-full bg-slate-800/80 overflow-hidden relative">
-          <div class="h-full rounded-full bg-gradient-to-r from-emerald-600 via-emerald-500 to-teal-400 transition-all duration-1000"
+          <div class="h-full rounded-full transition-all duration-1000"
+               :class="targetReached ? 'bg-gradient-to-r from-amber-400 via-emerald-400 to-emerald-300' : 'bg-gradient-to-r from-emerald-600 via-emerald-500 to-teal-400'"
                :style="'width:' + Math.min(progressPct,100) + '%'"></div>
           <div class="absolute inset-0 flex items-center justify-center text-[10px] font-bold text-white/90 drop-shadow num"
                x-text="fmtNum(totalViews) + ' / ' + fmtNum(targetViews)"></div>
         </div>
-        <p class="mt-1.5 text-[11px] text-slate-500" x-show="remaining > 0">
+        <p class="mt-1.5 text-[11px] text-slate-500" x-show="!targetReached">
           Tinggal <b class="text-amber-400 num" x-text="fmtNum(remaining)"></b> views lagi · pada momentum semasa <span class="text-emerald-400" x-text="paceNote"></span>
+        </p>
+        <p class="mt-1.5 text-[11px] text-emerald-400/90 font-medium" x-show="targetReached">
+          Alhamdulillah — sasaran 3M views tercapai! 🎉 Momentum masih berjalan — masa untuk target baru.
         </p>
         <p class="mt-2 text-[10px] text-slate-500/80 leading-relaxed border-t border-slate-800 pt-2">
           ℹ️ <b class="text-slate-300">Views official</b> = jumlah lifetime semua post, ditarik terus dari Meta API (auto) · <b class="text-slate-300">Zernio</b> = track detail per-post, sync ~90 min. Viewers unik masih dari app Threads.
@@ -1560,9 +1565,9 @@ video {
     <!-- ============ KPI GRID ============ -->
     <section class="grid grid-cols-3 sm:grid-cols-6 gap-3 mb-5">
       <div class="card p-4 text-center">
-        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Views <span class="text-emerald-500">· official Meta</span></p>
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Views <span class="text-emerald-500">· app Threads</span></p>
         <p class="text-xl sm:text-2xl font-black text-emerald-400 num mt-1" x-text="fmtNum(totalViews)"></p>
-        <p class="text-[10px] text-slate-500 mt-0.5 num" x-text="officialFetched ? 'auto · ' + officialFetched : 'Zernio: ' + fmtNum(zernioViews)"></p>
+        <p class="text-[10px] text-slate-500 mt-0.5 num truncate" x-text="viewsSubLabel"></p>
       </div>
       <div class="card p-4 text-center">
         <p class="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">Viewers unik</p>
@@ -1783,7 +1788,8 @@ function dashboard() {
     get officialReplies() { return (this.data.official||{}).totals ? this.data.official.totals.replies : 0; },
     get officialReposts() { return (this.data.official||{}).totals ? this.data.official.totals.reposts : 0; },
     get officialFetched() { return (this.data.official||{}).fetchedAt || ''; },
-    get totalViews() { return this.officialViews || this.appViews || this.zernioViews; },
+    get totalViews() { return this.appViews || this.officialViews || this.zernioViews; },
+    get targetReached() { return this.totalViews >= this.targetViews; },
     get totalLikes() { return this.data.totals.likes || 0; },
     get totalComments() { return this.data.totals.comments || 0; },
     get totalShares() { return this.data.totals.shares || 0; },
@@ -1801,7 +1807,14 @@ function dashboard() {
     },
     get progressPct() {
       const t = this.targetViews; if (!t) return 0;
-      return Math.min(100, Math.round(this.totalViews / t * 100));
+      return Math.round(this.totalViews / t * 100);
+    },
+    get viewsSubLabel() {
+      const parts = [];
+      if (this.appViews > 0) parts.push('app ' + this.appUpdated);
+      if (this.officialViews > 0) parts.push('API auto: ' + this.fmtNum(this.officialViews));
+      if (!parts.length) parts.push('Zernio: ' + this.fmtNum(this.zernioViews));
+      return parts.join(' · ');
     },
     get remaining() { return Math.max(0, this.targetViews - this.totalViews); },
     get paceNote() {
