@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-08 12:10 MYT",
+  "generatedAt": "2026-09-08 12:11 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -13,12 +13,12 @@
   "appReported": {
    "views": 4255347,
    "viewers": 804000,
-   "followers": 850,
-   "net_followers_gain": 0,
-   "followers_growth_pct": 0,
-   "interactions": 0,
+   "followers": null,
+   "net_followers_gain": null,
+   "followers_growth_pct": null,
+   "interactions": null,
    "updated": "8/9/2026",
-   "note": "Screenshot app Threads 8/9/2026 (Last 30 days). Top post: azan 432K, bidan 386K, WHO 223K, Ghazali 176K, nama 171K."
+   "note": "Screenshot app Threads 8/9/2026 (Last 30 days). Top post: azan 432K, bidan 386K, WHO 223K, Ghazali 176K, nama 171K. Followers: guna Zernio (auto)."
   }
  },
  "totals": {
@@ -1008,12 +1008,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-08 20:10 MYT",
+  "fetchedAt": "2026-09-08 20:11 MYT",
   "totals": {
    "views": 1824243,
    "likes": 34758,
    "replies": 3780,
-   "reposts": 7705,
+   "reposts": 7706,
    "quotes": 394,
    "posts": 36
   },
@@ -1035,7 +1035,7 @@
     "views": 47657,
     "likes": 569,
     "replies": 15,
-    "reposts": 160,
+    "reposts": 161,
     "quotes": 5
    },
    {
