@@ -1515,6 +1515,64 @@ video {
   <template x-if="data.meta.generatedAt">
     <div class="space-y-5">
 
+    <!-- ============ MISI SEMASA (HIGHLIGHT) ============ -->
+    <section class="relative overflow-hidden rounded-2xl p-4 sm:p-5 fade-in"
+             :class="goalDone ? 'bg-gradient-to-br from-emerald-500/25 to-emerald-400/5 border-2 border-emerald-400/60'
+                              : 'bg-gradient-to-br from-amber-500/20 to-orange-500/5 border-2 border-amber-400/50'">
+      <div class="flex items-start justify-between gap-3 flex-wrap">
+        <div class="min-w-0">
+          <p class="text-[10px] uppercase tracking-[0.2em] font-black" :class="goalDone ? 'text-emerald-300' : 'text-amber-300'">🎯 Misi Semasa</p>
+          <p class="text-xl sm:text-2xl font-black leading-tight mt-1" x-text="goalLabel"></p>
+          <p class="text-[11px] text-slate-400 mt-0.5" x-text="goalSub"></p>
+        </div>
+        <span class="text-[10px] font-bold rounded-full px-2.5 py-1 border whitespace-nowrap"
+              :class="goalDone ? 'bg-emerald-500/20 border-emerald-400/50 text-emerald-300' : 'bg-amber-500/15 border-amber-400/40 text-amber-200'"
+              x-text="goalDone ? '✅ TERCAPAI' : progressPct + '% view · ' + followerPct + '% follower'"></span>
+      </div>
+
+      <div class="grid sm:grid-cols-2 gap-3 sm:gap-4 mt-4">
+        <div class="rounded-xl bg-slate-950/50 border border-slate-700/50 p-3">
+          <div class="flex items-baseline justify-between">
+            <span class="text-[11px] font-bold text-amber-300">📸 VIEWS · app</span>
+            <span class="text-[11px] font-black num text-amber-300" x-text="progressPct + '%'"></span>
+          </div>
+          <p class="text-2xl font-black num mt-0.5">
+            <span x-text="fmtNum(totalViews)"></span><span class="text-slate-500 text-base"> / <span x-text="fmtNum(targetViews)"></span></span>
+          </p>
+          <div class="h-3 rounded-full bg-slate-800 overflow-hidden mt-2">
+            <div class="h-full rounded-full bg-gradient-to-r from-amber-500 to-amber-300 transition-all duration-1000"
+                 :style="'width:' + Math.min(progressPct,100) + '%'"></div>
+          </div>
+          <p class="text-[10px] text-slate-400 mt-1.5">
+            Tinggal <b class="text-amber-300 num" x-text="fmtNum(remaining)"></b>
+            <span x-show="paceViews"> · laju <b class="text-emerald-400 num" x-text="fmtNum(paceViews) + '/hari'"></b></span>
+          </p>
+          <p class="text-[10px] font-semibold mt-0.5" :class="goalViewsDone ? 'text-emerald-400' : 'text-amber-200/90'"
+             x-text="goalViewsDone ? '🎉 Sudah tercapai!' : (etaViews ? '⚡ Jangkaan capai ' + etaViews : '')"></p>
+        </div>
+
+        <div class="rounded-xl bg-slate-950/50 border border-slate-700/50 p-3">
+          <div class="flex items-baseline justify-between">
+            <span class="text-[11px] font-bold text-violet-300">👥 FOLLOWERS</span>
+            <span class="text-[11px] font-black num text-violet-300" x-text="followerPct + '%'"></span>
+          </div>
+          <p class="text-2xl font-black num mt-0.5">
+            <span x-text="fmtNum(totalFollowers)"></span><span class="text-slate-500 text-base"> / <span x-text="fmtNum(followerTarget)"></span></span>
+          </p>
+          <div class="h-3 rounded-full bg-slate-800 overflow-hidden mt-2">
+            <div class="h-full rounded-full bg-gradient-to-r from-violet-600 to-violet-400 transition-all duration-1000"
+                 :style="'width:' + Math.min(followerPct,100) + '%'"></div>
+          </div>
+          <p class="text-[10px] text-slate-400 mt-1.5">
+            Tinggal <b class="text-violet-300 num" x-text="fmtNum(followersLeft)"></b>
+            <span x-show="paceFollowers"> · laju <b class="text-emerald-400 num" x-text="fmtNum(paceFollowers) + '/hari'"></b></span>
+          </p>
+          <p class="text-[10px] font-semibold mt-0.5" :class="goalFollowersDone ? 'text-emerald-400' : 'text-violet-200/90'"
+             x-text="goalFollowersDone ? '🎉 Sudah tercapai!' : (etaFollowers ? '⚡ Jangkaan capai ' + etaFollowers : '')"></p>
+        </div>
+      </div>
+    </section>
+
     <!-- ============ HERO / TARGET 3M ============ -->
     <section class="card glow-green p-5 sm:p-6 fade-in">
       <div class="flex flex-wrap items-center gap-4">
@@ -1555,7 +1613,7 @@ video {
             Tinggal <b class="text-amber-400 num" x-text="fmtNum(remaining)"></b> · momentum <span class="text-emerald-400" x-text="paceNote"></span>
           </p>
           <p class="mt-1 text-[10px] text-emerald-400 font-semibold" x-show="targetReached">
-            🎉 TARGET 3M TERCAPAI — angka app (screenshot <span class="num" x-text="appUpdated"></span>)
+            🎉 TARGET <span class="num" x-text="fmtNum(targetViews)"></span> TERCAPAI — angka app (screenshot <span class="num" x-text="appUpdated"></span>)
           </p>
         </div>
         <!-- Metric API (auto) -->
@@ -1853,6 +1911,39 @@ function dashboard() {
       return String(n);
     },
     get targetViews() { return this.data.meta.targetViews || 3000000; },
+    // ---- MISI SEMASA ----
+    get goalLabel() { return (this.data.meta.goal || {}).label || '6 Juta Views + 2,500 Followers'; },
+    get goalSub() { return (this.data.meta.goal || {}).sub || 'Misi Sunnah Neuroparenting'; },
+    get goalViewsDone() { return this.totalViews >= this.targetViews; },
+    get goalFollowersDone() { return this.totalFollowers >= this.followerTarget; },
+    get goalDone() { return this.goalViewsDone && this.goalFollowersDone; },
+    get paceViews() {   // views app sehari (dari appHistory)
+      const h = (this.data.meta.appHistory || []);
+      if (h.length < 2) return 0;
+      const a = h[0], b = h[h.length - 1];
+      const d = (new Date(b[0]) - new Date(a[0])) / 86400000;
+      return d > 0 ? Math.round((b[1] - a[1]) / d) : 0;
+    },
+    get etaViews() {
+      const p = this.paceViews;
+      if (!p || this.goalViewsDone) return null;
+      const d = new Date(Date.now() + (this.remaining / p) * 86400000);
+      return d.toLocaleDateString('ms-MY', { day: 'numeric', month: 'short' });
+    },
+    get followersLeft() { return Math.max(0, this.followerTarget - this.totalFollowers); },
+    get paceFollowers() {   // follower sehari (7 hari terakhir)
+      const f = this.data.followers || [];
+      if (f.length < 2) return 0;
+      const a = f[Math.max(0, f.length - 7)], b = f[f.length - 1];
+      const d = (new Date(b.date) - new Date(a.date)) / 86400000;
+      return d > 0 ? Math.round((b.count - a.count) / d) : 0;
+    },
+    get etaFollowers() {
+      const p = this.paceFollowers;
+      if (!p || this.goalFollowersDone) return null;
+      const d = new Date(Date.now() + (this.followersLeft / p) * 86400000);
+      return d.toLocaleDateString('ms-MY', { day: 'numeric', month: 'short' });
+    },
     get apiTarget() { return this.data.meta.targetViewsApi || 3000000; },
     get apiPct() {
       const t = this.apiTarget; if (!t) return 0;

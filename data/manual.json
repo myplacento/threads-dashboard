@@ -2,6 +2,17 @@
   "target_views": 6000000,
   "target_views_api": 3000000,
   "target_followers": 2500,
+  "goal": {
+    "label": "6 Juta Views + 2,500 Followers",
+    "sub": "Misi Sunnah Neuroparenting · Threads @ustaz.basri"
+  },
+  "app_history": [
+    ["2026-08-28", 1063897],
+    ["2026-09-06", 3586328],
+    ["2026-09-08", 4255347],
+    ["2026-09-09", 4391071],
+    ["2026-09-10", 4783479]
+  ],
   "app_reported": {
     "views": 4783479,
     "viewers": 878674,
