@@ -1664,6 +1664,43 @@ video {
       </div>
     </section>
 
+    <!-- ============ NADI POST BAHARU ============ -->
+    <section class="mb-5" x-show="pulse">
+      <h3 class="text-[11px] uppercase tracking-widest text-slate-500 font-bold mb-2.5 px-1">⚡ Nadi Post Baharu · 7 hari</h3>
+      <div class="card p-4" :class="pulse && pulse.warna==='merah' ? '!border-rose-500/50' : ''">
+        <div class="grid grid-cols-3 gap-3 text-center">
+          <div>
+            <p class="text-2xl font-black" x-text="fmtNum(pulse && pulse.median)"></p>
+            <p class="text-[10px] uppercase tracking-wider text-slate-500">median views / post</p>
+          </div>
+          <div>
+            <p class="text-2xl font-black" x-text="pulse && pulse.n"></p>
+            <p class="text-[10px] uppercase tracking-wider text-slate-500">post baharu</p>
+          </div>
+          <div>
+            <p class="text-2xl font-black" :class="pulse && pulse.below >= 2 ? 'text-rose-400' : 'text-emerald-400'" x-text="pulse && pulse.below"></p>
+            <p class="text-[10px] uppercase tracking-wider text-slate-500">bawah 10K ⚠️</p>
+          </div>
+        </div>
+        <div class="mt-4 space-y-1.5">
+          <template x-for="p in recentPosts" :key="p.id">
+            <div class="flex items-center gap-2 text-[11px]">
+              <span class="w-[68px] shrink-0 text-slate-500" x-text="(p.date||'').slice(5) + ' ' + (p.time||'')"></span>
+              <div class="h-2 flex-1 overflow-hidden rounded-full bg-slate-800">
+                <div class="h-full rounded-full"
+                     :class="(p.views||0)>=100000 ? 'bg-emerald-500' : ((p.views||0)>=50000 ? 'bg-amber-400' : ((p.views||0)>=10000 ? 'bg-orange-500' : 'bg-rose-500'))"
+                     :style="'width:' + Math.max(2, Math.round((p.views||0)/((pulse && pulse.best && pulse.best.views) || 1)*100)) + '%'"></div>
+              </div>
+              <span class="w-12 shrink-0 text-right font-mono text-slate-300" x-text="fmtNum(p.views)"></span>
+            </div>
+          </template>
+        </div>
+        <p class="text-[11px] text-rose-300/90 leading-snug mt-3" x-show="pulse && pulse.warna==='merah'">
+          ⚠️ Lebih separuh post baharu bawah 10K. Angka besar di atas ditarik post lama — hook & topik kena betul, bukan angka sahaja.
+        </p>
+      </div>
+    </section>
+
     <!-- ============ INSIGHTS ============ -->
     <section class="mb-5" x-show="insights.length">
       <h3 class="text-[11px] uppercase tracking-widest text-slate-500 font-bold mb-2.5 px-1">💡 Insight Pintar</h3>
@@ -1912,6 +1949,27 @@ function dashboard() {
     },
     get insights() { return this.data.insights || []; },
     get posts() { return this.data.posts || []; },
+    get recentPosts() {
+      const ps = (this.data.posts || []).filter(p => p.date);
+      if (!ps.length) return [];
+      const dates = ps.map(p => p.date).sort();
+      const last = new Date(dates[dates.length-1] + 'T00:00:00');
+      const cut = new Date(last.getTime() - 6*86400000).toISOString().slice(0,10);
+      return ps.filter(p => p.date >= cut)
+               .sort((a,b) => ((a.date||'')+(a.time||'')).localeCompare((b.date||'')+(b.time||'')));
+    },
+    get pulse() {
+      const r = this.recentPosts;
+      if (!r.length) return null;
+      const tot = r.reduce((s,p) => s + (p.views||0), 0);
+      const below = r.filter(p => (p.views||0) < 10000).length;
+      const best = [...r].sort((a,b) => (b.views||0)-(a.views||0))[0];
+      const sorted = r.map(p => p.views||0).sort((a,b) => a-b);
+      const mid = Math.floor(sorted.length/2);
+      const median = sorted.length % 2 ? sorted[mid] : Math.round((sorted[mid-1]+sorted[mid])/2);
+      const warna = below >= Math.max(2, r.length*0.5) ? 'merah' : (below >= Math.max(1, r.length*0.25) ? 'kuning' : 'hijau');
+      return { n: r.length, tot, avg: Math.round(tot/r.length), median, below, best, warna };
+    },
     get filteredPosts() {
       let p = this.posts;
       if (this.q) {

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="ms" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ustaz Basri · Pusat Komen Threads</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+<style>
+  [x-cloak]{display:none!important}
+  body{font-family:ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Inter,sans-serif}
+  ::-webkit-scrollbar{width:8px;height:8px}
+  ::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:8px}
+  .fade-in{animation:fadeIn .4s ease}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .pulse-dot{animation:pulse 2s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+</style>
+</head>
+<body class="bg-slate-100 min-h-screen text-slate-800" x-data="app()" x-init="init()" x-cloak>
+
+<!-- Header -->
+<header class="bg-gradient-to-r from-emerald-800 via-emerald-700 to-teal-700 text-white shadow-lg sticky top-0 z-20">
+  <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
+    <div class="flex items-center gap-3 min-w-0">
+      <div class="w-10 h-10 rounded-xl bg-white/15 backdrop-blur flex items-center justify-center text-xl shrink-0 shadow-inner">🌙</div>
+      <div class="min-w-0">
+        <h1 class="font-bold text-sm sm:text-base leading-tight truncate">Ustaz Basri · Pusat Komen</h1>
+        <p class="text-[11px] text-emerald-100 truncate">Sunnah Neuroparenting — review · edit · lulus</p>
+      </div>
+    </div>
+    <div class="flex items-center gap-2 text-xs shrink-0">
+      <span class="hidden sm:flex items-center gap-1.5 bg-white/10 rounded-full px-3 py-1.5">
+        <span class="pulse-dot w-1.5 h-1.5 rounded-full bg-emerald-300"></span>
+        <span x-text="'Kemas kini ' + updated"></span>
+      </span>
+      <button @click="refresh()" class="bg-white/15 hover:bg-white/25 active:scale-95 transition rounded-full px-3 py-1.5 font-medium">↻ Muat</button>
+    </div>
+  </div>
+</header>
+
+<main class="max-w-5xl mx-auto px-4 py-4 pb-24">
+
+  <!-- Stats -->
+  <section class="grid grid-cols-2 sm:grid-cols-4 gap-2.5 mb-4" x-show="loaded">
+    <template x-for="s in statCards" :key="s.key">
+      <div class="bg-white rounded-2xl p-3 shadow-sm border border-slate-200/70 flex items-center gap-2.5" :class="s.key==='pending' ? 'ring-2 ring-amber-300/60' : ''">
+        <div class="w-9 h-9 rounded-xl flex items-center justify-center text-lg shrink-0" :style="'background:'+s.bg"><span x-text="s.icon"></span></div>
+        <div class="min-w-0">
+          <div class="text-xl font-extrabold leading-none" :class="s.color" x-text="s.val"></div>
+          <div class="text-[10px] uppercase tracking-wide text-slate-500 mt-0.5" x-text="s.label"></div>
+        </div>
+      </div>
+    </template>
+  </section>
+
+  <!-- Filter + cari -->
+  <section class="flex flex-wrap items-center gap-2 mb-4">
+    <template x-for="f in filters" :key="f.key">
+      <button @click="filter=f.key" class="px-3.5 py-1.5 rounded-full text-xs font-semibold transition border"
+        :class="filter===f.key ? 'bg-emerald-700 text-white border-emerald-700 shadow' : 'bg-white text-slate-600 border-slate-200 hover:border-emerald-400'">
+        <span x-text="f.icon+' '+f.label"></span>
+        <span class="opacity-60" x-text="'('+counts[f.key]+')'"></span>
+      </button>
+    </template>
+    <input x-model="q" type="search" placeholder="🔍 cari username…" class="flex-1 min-w-[150px] bg-white border border-slate-200 rounded-full px-4 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500/50">
+  </section>
+
+  <!-- Senarai draf -->
+  <section class="space-y-3" x-show="loaded">
+    <template x-for="d in visible" :key="d.id">
+      <article class="bg-white rounded-2xl shadow-sm border border-slate-200/80 overflow-hidden fade-in" :class="d.status==='pending' ? 'border-l-4 border-l-amber-400' : d.status==='approved' ? 'border-l-4 border-l-sky-400' : d.status==='sent' ? 'border-l-4 border-l-emerald-500' : 'border-l-4 border-l-slate-300 opacity-60'">
+
+        <!-- baris atas -->
+        <div class="flex items-center justify-between gap-2 px-4 pt-3">
+          <div class="flex items-center gap-2 min-w-0">
+            <span class="text-lg">👤</span>
+            <div class="min-w-0">
+              <div class="font-bold text-sm truncate" x-text="'@'+d.user"></div>
+              <div class="text-[11px] text-slate-400" x-text="d.ts"></div>
+            </div>
+          </div>
+          <span class="text-[10px] font-bold uppercase tracking-wide px-2.5 py-1 rounded-full shrink-0"
+            :class="badge[d.status]?.cls" x-text="badge[d.status]?.txt || d.status"></span>
+        </div>
+
+        <!-- komen asal (collapsible) -->
+        <div class="px-4 pt-2">
+          <button @click="d.open=!d.open" class="text-[11px] text-slate-400 hover:text-emerald-700 font-medium" x-text="d.open ? '▲ sorok komen asal' : '▼ lihat komen asal'"></button>
+          <blockquote x-show="d.open" class="mt-1 text-xs text-slate-500 bg-slate-50 border-l-4 border-slate-200 rounded-r-lg px-3 py-2 italic whitespace-pre-wrap" x-text="d.comment"></blockquote>
+        </div>
+
+        <!-- draf editable -->
+        <div class="px-4 pt-2">
+          <textarea x-model="d.text" @input="onType($event,d)" rows="4"
+            class="w-full text-sm bg-slate-50 border border-slate-200 rounded-xl px-3 py-2 focus:outline-none focus:ring-2 focus:ring-emerald-500/50 focus:bg-white resize-y leading-relaxed"
+            :class="d.status==='sent' ? 'opacity-70' : d.dirty ? 'ring-2 ring-amber-300 bg-amber-50' : ''"></textarea>
+          <div class="flex items-center justify-between mt-1 text-[10px]">
+            <span>
+              <span x-text="len(d) + ' / 350 aksara'" :class="len(d)>350 ? 'text-rose-600 font-extrabold text-xs' : len(d)>=300 ? 'text-amber-600 font-bold' : 'text-slate-400'"></span>
+              <span x-show="len(d)<=350" x-text="' · baki ' + (350-len(d))" class="text-slate-400"></span>
+              <span x-show="len(d)>350" class="text-rose-600 font-bold"> ⚠️ lebih!</span>
+              <span x-show="d.dirty" class="ml-2 text-amber-600 font-bold">✎ belum disimpan</span>
+            </span>
+            <a x-show="d.url" :href="d.url" target="_blank" class="text-emerald-700 hover:underline font-medium">buka post ↗</a>
+          </div>
+          <div class="h-1.5 w-full bg-slate-100 rounded-full overflow-hidden mt-1.5">
+            <div class="h-full rounded-full transition-all duration-200" :style="'width:'+Math.min(100,len(d)/350*100)+'%'" :class="len(d)>350 ? 'bg-rose-500' : len(d)>=300 ? 'bg-amber-400' : 'bg-emerald-500'"></div>
+          </div>
+        </div>
+
+        <!-- tindakan -->
+        <div class="px-4 py-3 flex flex-wrap items-center gap-2" x-show="d.status==='pending' || d.status==='failed'">
+          <button @click="act(d,'approve')" class="flex-1 min-w-[130px] bg-emerald-600 hover:bg-emerald-700 active:scale-[.98] transition text-white text-sm font-bold rounded-xl py-2.5 shadow-sm">✓ Lulus & Hantar</button>
+          <button @click="regen(d)" :disabled="d.regen" class="bg-indigo-500 hover:bg-indigo-600 active:scale-[.98] transition text-white text-sm font-semibold rounded-xl py-2.5 px-3 shadow-sm disabled:opacity-60 disabled:cursor-wait" title="Minta AI tulis semula draf dengan ayat lebih baik">
+            <span x-show="!d.regen">✨ Draf baru</span><span x-show="d.regen">⏳ Menjana…</span>
+          </button>
+          <button @click="act(d,'edit')" class="bg-sky-500 hover:bg-sky-600 active:scale-[.98] transition text-white text-sm font-semibold rounded-xl py-2.5 px-3 shadow-sm" title="Simpan suntingan sahaja">✎ Simpan</button>
+          <button @click="act(d,'skip')" class="bg-slate-200 hover:bg-slate-300 active:scale-[.98] transition text-slate-600 text-sm font-semibold rounded-xl py-2.5 px-3" title="Lepaskan (jangan hantar)">✕ Skip</button>
+        </div>
+        <div x-show="d.status==='approved'" class="px-4 pb-3 text-xs text-sky-600 font-semibold flex items-center gap-1.5">
+          <span class="pulse-dot w-1.5 h-1.5 rounded-full bg-sky-400 inline-block"></span><span>Sedang dihantar… auto-refresh dalam beberapa saat</span>
+        </div>
+        <div x-show="d.status==='failed'" class="px-4 pb-1 text-xs text-rose-600 font-medium">⚠️ <span x-text="d.failNote"></span></div>
+        <div x-show="d.status==='failed'" class="px-4 pb-3 text-[11px] text-slate-400">Tekan <b>✓ Lulus &amp; Hantar</b> sekali lagi untuk cuba semula.</div>
+        <div x-show="d.status==='sent'" class="px-4 pb-3 text-xs text-emerald-600 font-semibold flex items-center gap-1.5">
+          <span>✓ Dihantar</span><span class="text-emerald-400 text-[10px]" x-text="'replyId: '+(d.replyId||'')"></span>
+        </div>
+        <div x-show="d.status==='skipped'" class="px-4 pb-3 text-xs text-slate-400 font-medium">✕ Dilepaskan</div>
+      </article>
+    </template>
+    <div x-show="!visible.length && loaded" class="text-center py-16 text-slate-400">
+      <div class="text-5xl mb-3">🎉</div>
+      <p class="font-medium">Tiada draf dalam senarai ni</p>
+      <p class="text-sm">Watcher akan hantar batch baharu ke sini setiap jam</p>
+    </div>
+  </section>
+
+  <!-- Loading -->
+  <div x-show="!loaded" class="text-center py-24">
+    <div class="w-12 h-12 border-4 border-emerald-600 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+    <p class="text-slate-500 text-sm">Memuatkan…</p>
+  </div>
+</main>
+
+<script>
+function app(){
+  return {
+    drafts: [], counts:{}, updated:'—', loaded:false, q:'', filter:'pending',
+    badge:{ pending:{txt:'⏳ menunggu',cls:'bg-amber-100 text-amber-700'}, approved:{txt:'☑ diluluskan',cls:'bg-sky-100 text-sky-700'}, sent:{txt:'✓ dihantar',cls:'bg-emerald-100 text-emerald-700'}, skipped:{txt:'✕ dilepas',cls:'bg-slate-200 text-slate-500'}, failed:{txt:'⚠️ gagal',cls:'bg-rose-100 text-rose-700'} },
+    filters:[{key:'pending',icon:'⏳',label:'Menunggu'},{key:'approved',icon:'☑',label:'Dilulus'},{key:'sent',icon:'✓',label:'Dihantar'},{key:'failed',icon:'⚠️',label:'Gagal'},{key:'skipped',icon:'✕',label:'Skip'},{key:'all',icon:'📚',label:'Semua'}],
+    get statCards(){ const c=this.counts; return [
+      {key:'pending',icon:'⏳',label:'Menunggu',val:c.pending??0,bg:'#fef3c7',color:'text-amber-600'},
+      {key:'approved',icon:'☑',label:'Dilulus',val:c.approved??0,bg:'#e0f2fe',color:'text-sky-600'},
+      {key:'sent',icon:'✓',label:'Dihantar',val:c.sent??0,bg:'#d1fae5',color:'text-emerald-600'},
+      {key:'total',icon:'📥',label:'Jumlah batch',val:c.total??0,bg:'#e2e8f0',color:'text-slate-600'} ]},
+    get visible(){
+      let list=this.drafts.filter(d=>(d.text||'').toLowerCase().includes(this.q.toLowerCase()) || d.user.toLowerCase().includes(this.q.toLowerCase()));
+      if(this.filter!=='all') list=list.filter(d=>d.status===this.filter);
+      return list;
+    },
+    async refresh(){
+      try{
+        const r=await fetch('/api/state',{cache:'no-store'});
+        const s=await r.json();
+        // simpan suntingan tempatan yang belum disimpan + state buka/tutup komen
+        const cur={};
+        (this.drafts||[]).forEach(d=>{ cur[d.id]={dirty:d.dirty,text:d.text,open:d.open}; });
+        this.drafts=(s.drafts||[]).map(d=>{
+          const nd={...d,text:d.draft,open:false,dirty:false};
+          const c=cur[d.id];
+          if(c){
+            nd.open=c.open;
+            if(c.dirty){ nd.text=c.text; nd.dirty=true; }  // jangan timpa suntingan belum simpan
+          }
+          return nd;
+        });
+        this.counts=s.counts||{}; this.updated=s.updated||'—'; this.loaded=true;
+      }catch(e){ this.loaded=true; }
+    },
+    // auto-refresh selamat: dijeda bila Ustaz sedang menaip dalam kotak draf
+    refreshSafe(){
+      const el=document.activeElement;
+      if(el && (el.tagName==='TEXTAREA' || el.tagName==='INPUT' && el.type==='search')) return;
+      this.refresh();
+    },
+    // kiraan aksara LIVE: baca dari DOM event (bukan tunggu x-model) — sentiasa segar setiap ketukan
+    onType(e,d){ d.dirty=true; d.cnt=e.target.value.length; },
+    len(d){ return (d.cnt!=null ? d.cnt : (d.text? d.text.length : 0)); },
+    // ✨ jana semula draf dengan AI (on-demand, 1 panggilan API setiap klik)
+    async regen(d){
+      if(d.regen) return;
+      d.regen=true;
+      try{
+        let key=localStorage.getItem('wfkey');
+        if(!key){ key=prompt('Masukkan kata laluan dashboard:'); if(!key) return; localStorage.setItem('wfkey',key); }
+        const r=await fetch('/api/regenerate',{method:'POST',headers:{'Content-Type':'application/json','X-Key':key},body:JSON.stringify({id:d.id})});
+        if(r.status===403){ localStorage.removeItem('wfkey'); alert('Kata laluan salah. Cuba lagi.'); return; }
+        const j=await r.json().catch(()=>({}));
+        if(!r.ok || !j.ok){ alert('Gagal jana draf: '+(j.error||('HTTP '+r.status))); return; }
+        d.text=j.text; d.cnt=j.text.length; d.dirty=false; d.open=true;
+        await this.refresh();
+      }catch(e){ alert('Tiada sambungan. Cuba lagi.'); }
+      finally{ d.regen=false; }
+    },
+    async act(d,action){
+      try{
+        let key=localStorage.getItem('wfkey');
+        if(!key){ key=prompt('Masukkan kata laluan dashboard:'); if(!key) return; localStorage.setItem('wfkey',key); }
+        const r=await fetch('/api/action',{method:'POST',headers:{'Content-Type':'application/json','X-Key':key},body:JSON.stringify({id:d.id,action,text:d.text})});
+        if(r.status===403){ localStorage.removeItem('wfkey'); alert('Kata laluan salah. Cuba lagi.'); return; }
+        const j=await r.json().catch(()=>({}));
+        if(!r.ok){ alert('Server ralat ('+r.status+'). Cuba lagi.'); return; }
+        d.dirty=false;
+        if(action==='approve'){
+          d.status='approved';
+          setTimeout(()=>this.refreshSafe(),10000);
+          setTimeout(()=>this.refreshSafe(),25000);
+          setTimeout(()=>this.refreshSafe(),45000);
+        }
+        await this.refresh();
+      }catch(e){ alert('Tiada sambungan ke server. Cuba lagi.'); }
+    },
+    init(){ this.refresh(); setInterval(()=>this.refreshSafe(),30000); }
+  }
+}
+</script>
+</body>
+</html>
