@@ -1,14 +1,26 @@
 {
  "drafts": [
   {
+   "id": "3a88b946e3b5",
+   "batch": "2026-09-11_12-21-43.md",
+   "user": "suhusssuhuss",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdIgV5BjSru",
+   "comment": "Ayah dukung atas bahu, gi kedai depan rumah beli oren bodo, sbb sy nangis lepas kena gigit dgn pacat..",
+   "draft": "Ayah dukung atas bahu tu nampak macam benda kecil je kan. Tapi saya percaya sampai sekarang awak masih rasa bahunya.\n\nAnak sulung saya dulu 6 bulan kat NICU, benda paling saya ingat bukan mesin, tapi cara saya peluk dia.",
+   "status": "sent",
+   "ts": "2026-09-11 12-21",
+   "replyId": "18113573684046733"
+  },
+  {
    "id": "c00f7ac6b20b",
    "batch": "2026-09-10_22-50-21-reconcile.md",
    "user": "_cheaydalwi",
    "url": "https://www.threads.com/@ustaz.basri/post/DdBbMIqDoBY",
    "comment": "terima kasih ustaz sharing. Insha Allah doakan ibu2 yg berjuang hadkan ‘skrin’ anak2.\n\nmula2 mungkin sukar. kita yg perlu isikan ruang anak2..",
-   "draft": "Terima kasih. 😊\nMula-mula memang pelik, anak tak minta skrin pun, kita yang rasa sepi.\nBila kita sendiri duduk masuk, ruang tu isi sendiri.\nAlhamdulillah, moga Allah mudahkan perjuangan ni.",
-   "status": "pending",
-   "ts": "2026-09-10 22-50"
+   "draft": "Terima kasih. 😊\nBetul kita akan rasa kekok sikit sebab upgrade rutin harian.\nBila kita sendiri duduk masuk, ruang tu isi sendiri.\nAlhamdulillah, moga Allah mudahkan perjuangan ni.",
+   "status": "sent",
+   "ts": "2026-09-10 22-50",
+   "replyId": "18135303880554207"
   },
   {
    "id": "51e970538867",
@@ -4740,11 +4752,10 @@
    "replyId": "already"
   }
  ],
- "last_file": "/home/ubuntu/.hermes/profiles/basri2/cron/output/f0f441e54cb5/2026-09-11_00-51-31.md",
+ "last_file": "/home/ubuntu/.hermes/profiles/basri2/cron/output/f0f441e54cb5/2026-09-11_15-30-34.md",
  "counts": {
-  "sent": 419,
+  "sent": 421,
   "skipped": 12,
-  "pending": 1,
-  "total": 432
+  "total": 433
  }
 }

@@ -1759,6 +1759,52 @@ video {
       </div>
     </section>
 
+    <!-- ============ PAPAN STRATEGI ============ -->
+    <section class="mb-5" x-show="slots.length">
+      <h3 class="text-[11px] uppercase tracking-widest text-slate-500 font-bold mb-2.5 px-1">🎯 Papan Strategi · apa yang MENANG</h3>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
+        <template x-for="b in boards" :key="b.t">
+          <div class="card p-3.5">
+            <p class="text-[10px] uppercase tracking-wider text-slate-500 font-bold mb-2.5" x-text="b.t"></p>
+            <template x-for="(r,i) in b.rows" :key="r.label">
+              <div class="mb-3 last:mb-0">
+                <div class="flex items-baseline justify-between gap-2">
+                  <span class="text-xs font-semibold truncate"
+                        :class="i===0 ? 'text-emerald-400' : (r.median < 8000 ? 'text-rose-400' : 'text-slate-300')"
+                        x-text="r.label"></span>
+                  <span class="text-xs font-mono font-bold text-slate-200" x-text="fmtNum(r.median)"></span>
+                </div>
+                <div class="h-1.5 rounded-full bg-slate-800 overflow-hidden mt-1">
+                  <div class="h-full rounded-full"
+                       :class="i===0 ? 'bg-emerald-500' : (r.median < 8000 ? 'bg-rose-500' : 'bg-slate-500')"
+                       :style="'width:' + Math.max(3, Math.round(r.median/(b.rows[0].median||1)*100)) + '%'"></div>
+                </div>
+                <p class="text-[10px] text-slate-500 mt-1">
+                  <span x-text="r.n"></span> post · median <span class="num" x-text="fmtNum(r.median)"></span> · terbaik <span class="num" x-text="fmtNum(r.best)"></span>
+                </p>
+              </div>
+            </template>
+          </div>
+        </template>
+      </div>
+    </section>
+
+    <!-- ============ SENARAI TINDAKAN ============ -->
+    <section class="mb-5" x-show="actions.length">
+      <h3 class="text-[11px] uppercase tracking-widest text-slate-500 font-bold mb-2.5 px-1">⚡ Senarai Tindakan · auto dari data</h3>
+      <div class="space-y-2">
+        <template x-for="(a,i) in actions" :key="i">
+          <div class="card p-3 border-l-4 fade-in"
+               :class="a.level==='bad' ? '!border-l-rose-500' : (a.level==='warn' ? '!border-l-amber-500' : '!border-l-emerald-500')">
+            <p class="text-xs font-bold"
+               :class="a.level==='bad' ? 'text-rose-300' : (a.level==='warn' ? 'text-amber-300' : 'text-emerald-300')"
+               x-text="(a.level==='bad' ? '🔴 ' : (a.level==='warn' ? '🟠 ' : '🟢 ')) + a.title"></p>
+            <p class="text-[11px] text-slate-400 mt-0.5 leading-snug" x-text="a.body"></p>
+          </div>
+        </template>
+      </div>
+    </section>
+
     <!-- ============ INSIGHTS ============ -->
     <section class="mb-5" x-show="insights.length">
       <h3 class="text-[11px] uppercase tracking-widest text-slate-500 font-bold mb-2.5 px-1">💡 Insight Pintar</h3>
@@ -1880,7 +1926,8 @@ video {
 <script>
 function dashboard() {
   return {
-    data: { meta:{generatedAt:null, account:{}}, totals:{}, posts:[], daily:[], followers:[], insights:[] },
+    data: { meta:{generatedAt:null, account:{}}, totals:{}, posts:[], daily:[], followers:[], insights:[],
+            analysis:{slots:[],formats:[],hooks:[],actions:[]} },
     loading: false, error: null, q: '', sortKey: 'views', tab: 'posts',
     expanded: {},
     fw: 320, fh: 140,
@@ -2039,6 +2086,18 @@ function dashboard() {
         dots + '</svg>';
     },
     get insights() { return this.data.insights || []; },
+    get analysis() { return this.data.analysis || {}; },
+    get slots() { return this.analysis.slots || []; },
+    get formats() { return this.analysis.formats || []; },
+    get hooks() { return this.analysis.hooks || []; },
+    get actions() { return this.analysis.actions || []; },
+    get boards() {
+      return [
+        { t: 'Slot posting', rows: this.slots },
+        { t: 'Format', rows: this.formats },
+        { t: 'Jenis hook (R)', rows: this.hooks },
+      ];
+    },
     get posts() { return this.data.posts || []; },
     get recentPosts() {
       const ps = (this.data.posts || []).filter(p => p.date);

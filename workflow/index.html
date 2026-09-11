@@ -112,7 +112,7 @@
         <!-- tindakan -->
         <div class="px-4 py-3 flex flex-wrap items-center gap-2" x-show="d.status==='pending' || d.status==='failed'">
           <button @click="act(d,'approve')" class="flex-1 min-w-[130px] bg-emerald-600 hover:bg-emerald-700 active:scale-[.98] transition text-white text-sm font-bold rounded-xl py-2.5 shadow-sm">✓ Lulus & Hantar</button>
-          <button @click="regen(d)" :disabled="d.regen" class="bg-indigo-500 hover:bg-indigo-600 active:scale-[.98] transition text-white text-sm font-semibold rounded-xl py-2.5 px-3 shadow-sm disabled:opacity-60 disabled:cursor-wait" title="Minta AI tulis semula draf dengan ayat lebih baik">
+          <button @click="regen(d)" :disabled="!!d.regen" class="bg-indigo-500 hover:bg-indigo-600 active:scale-[.98] transition text-white text-sm font-semibold rounded-xl py-2.5 px-3 shadow-sm disabled:opacity-60 disabled:cursor-wait" title="Minta AI tulis semula draf dengan ayat lebih baik">
             <span x-show="!d.regen">✨ Draf baru</span><span x-show="d.regen">⏳ Menjana…</span>
           </button>
           <button @click="act(d,'edit')" class="bg-sky-500 hover:bg-sky-600 active:scale-[.98] transition text-white text-sm font-semibold rounded-xl py-2.5 px-3 shadow-sm" title="Simpan suntingan sahaja">✎ Simpan</button>
@@ -167,7 +167,7 @@ function app(){
         const cur={};
         (this.drafts||[]).forEach(d=>{ cur[d.id]={dirty:d.dirty,text:d.text,open:d.open}; });
         this.drafts=(s.drafts||[]).map(d=>{
-          const nd={...d,text:d.draft,open:false,dirty:false};
+          const nd={...d,text:d.draft,open:false,dirty:false,regen:false,cnt:null};
           const c=cur[d.id];
           if(c){
             nd.open=c.open;
