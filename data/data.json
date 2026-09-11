@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-11 07:33 MYT",
+  "generatedAt": "2026-09-11 08:04 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -48,11 +48,11 @@
   }
  },
  "totals": {
-  "views": 2091368,
-  "likes": 37876,
+  "views": 2091614,
+  "likes": 37880,
   "comments": 4046,
   "shares": 8825,
-  "posts": 62
+  "posts": 63
  },
  "posts": [
   {
@@ -112,7 +112,7 @@
    "content": "Mak saya bidan, Hajjah Rafeah. 40 tahun lebih sambut bayi. Satu pesanan dia untuk semua suami: jangan tinggalkan isteri bersendirian.",
    "date": "2026-09-06",
    "time": "07:31",
-   "views": 388334,
+   "views": 388337,
    "likes": 13137,
    "comments": 179,
    "shares": 2672,
@@ -163,7 +163,7 @@
    "content": "\"Jangan dukung, nanti manja.\" \"Jangan layan, nanti membuang masa.\" Mitos ni dah lama, tapi sains dah jawab. 🧵",
    "date": "2026-09-08",
    "time": "07:02",
-   "views": 240182,
+   "views": 240187,
    "likes": 3136,
    "comments": 97,
    "shares": 788,
@@ -367,7 +367,7 @@
    "content": "Seorang lelaki ada 10 anak. Tak pernah cium seorang pun. Dia bangga dengan tu, sampai dia cakap depan Nabi SAW. 🧵",
    "date": "2026-09-07",
    "time": "18:01",
-   "views": 86738,
+   "views": 86739,
    "likes": 526,
    "comments": 23,
    "shares": 132,
@@ -563,11 +563,11 @@
    "content": "Jerit bukan buat anak dengar. Jerit buat anak takut.\n\nUniversiti Pittsburgh ikut 976 keluarga: yang selalu jerit, anak lebih degil dan murung setahun kemudian. 🧧",
    "date": "2026-09-03",
    "time": "07:30",
-   "views": 6562,
-   "likes": 171,
+   "views": 6581,
+   "likes": 172,
    "comments": 15,
    "shares": 76,
-   "er": 3.99,
+   "er": 4,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcza_pyjUDr",
    "topComments": []
   },
@@ -712,31 +712,31 @@
    "topComments": []
   },
   {
-   "id": "6aa0efd2d67e304d2e6c1b57",
-   "platformPostId": "18124044424859590",
-   "content": "Pernah tak awak menangis depan anak? Ayah atau ibu, dua-dua boleh jawab. Apa reaksi anak awak masa tu? Cerita sini. 👇",
-   "date": "2026-09-09",
-   "time": "12:01",
-   "views": 1834,
-   "likes": 5,
-   "comments": 17,
-   "shares": 1,
-   "er": 1.25,
-   "url": "https://www.threads.com/@ustaz.basri/post/DdDWxSNgmNr",
-   "topComments": []
-  },
-  {
    "id": "6aa28f4ed10d5e860aee48db",
    "platformPostId": "18111093386119890",
    "content": "Harvard ikut 724 lelaki sejak 1938. Dari zaman perang sampai sekarang, 85 tahun. Soalan dia mudah: apa yang buat hidup bahagia dan sihat? 🧵",
    "date": "2026-09-10",
    "time": "18:01",
-   "views": 1799,
+   "views": 1875,
    "likes": 14,
    "comments": 6,
    "shares": 4,
-   "er": 1.33,
+   "er": 1.28,
    "url": "https://www.threads.com/@ustaz.basri/post/DdGkv8njQCk",
+   "topComments": []
+  },
+  {
+   "id": "6aa0efd2d67e304d2e6c1b57",
+   "platformPostId": "18124044424859590",
+   "content": "Pernah tak awak menangis depan anak? Ayah atau ibu, dua-dua boleh jawab. Apa reaksi anak awak masa tu? Cerita sini. 👇",
+   "date": "2026-09-09",
+   "time": "12:01",
+   "views": 1835,
+   "likes": 5,
+   "comments": 17,
+   "shares": 1,
+   "er": 1.25,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdDWxSNgmNr",
    "topComments": []
   },
   {
@@ -773,11 +773,11 @@
    "content": "Kalau boleh jumpa diri awak yang baru lepas dapat anak pertama, satu nasihat apa yang awak nak bagi? Tulis macam pesan kat kawan. 👇",
    "date": "2026-09-10",
    "time": "12:02",
-   "views": 830,
+   "views": 835,
    "likes": 3,
    "comments": 17,
    "shares": 0,
-   "er": 2.41,
+   "er": 2.4,
    "url": "https://www.threads.com/@ustaz.basri/post/DdF7oGQl2mr",
    "topComments": []
   },
@@ -807,6 +807,20 @@
    "shares": 1,
    "er": 2.71,
    "url": "https://www.threads.com/@ustaz.basri/post/DdAyCuDAo1o",
+   "topComments": []
+  },
+  {
+   "id": "6aa33e3c1acf564b146e5724",
+   "platformPostId": "18036774110646485",
+   "content": "\"Orang takkan lupa macam mana kita buat dia rasa.\"\n\nAyat ni kita dengar berulang kali. Tapi bila fikir pasal anak sendiri, baru rasa berat.\n\nAnak lupa nasihat panjang kita. Dia ingat rasa disayang, dan rasa dimarah, sampai dia besar.\n\n(Maya Angelou yang tulis ayat tu. Dia bukan sekadar penulis manis, dia hidup susah dari kecil lagi.)\n\nMalam ni, cuba tanya anak: \"Awak rasa sayang tak kat ayah?\" Jawapan dia mungkin mengejutkan. 🤲",
+   "date": "2026-09-11",
+   "time": "07:02",
+   "views": 136,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "er": 2.21,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdH-GmnjTtR",
    "topComments": []
   },
   {
@@ -1015,11 +1029,11 @@
   },
   {
    "date": "2026-09-10",
-   "views": 4549,
-   "likes": 37,
+   "views": 4795,
+   "likes": 41,
    "comments": 24,
    "shares": 12,
-   "posts": 2
+   "posts": 3
   }
  ],
  "followers": [
@@ -1132,10 +1146,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-11 15:33 MYT",
+  "fetchedAt": "2026-09-11 16:04 MYT",
   "totals": {
-   "views": 2066965,
-   "likes": 37729,
+   "views": 2067023,
+   "likes": 37730,
    "replies": 3918,
    "reposts": 8395,
    "quotes": 414,
@@ -1146,8 +1160,8 @@
     "id": "18036774110646485",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdH-GmnjTtR",
     "timestamp": "2026-09-10",
-    "views": 136,
-    "likes": 3,
+    "views": 173,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0
@@ -1156,7 +1170,7 @@
     "id": "18111093386119890",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdGkv8njQCk",
     "timestamp": "2026-09-10",
-    "views": 1875,
+    "views": 1888,
     "likes": 14,
     "replies": 6,
     "reposts": 4,
@@ -1166,7 +1180,7 @@
     "id": "18556622458076214",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdF7oGQl2mr",
     "timestamp": "2026-09-10",
-    "views": 835,
+    "views": 836,
     "likes": 3,
     "replies": 17,
     "reposts": 0,
@@ -1216,7 +1230,7 @@
     "id": "18175312390444507",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
-    "views": 240187,
+    "views": 240188,
     "likes": 3136,
     "replies": 97,
     "reposts": 765,
@@ -1256,7 +1270,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 388337,
+    "views": 388338,
     "likes": 13137,
     "replies": 179,
     "reposts": 2619,
@@ -1306,7 +1320,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 172110,
+    "views": 172111,
     "likes": 1491,
     "replies": 438,
     "reposts": 123,
@@ -1316,7 +1330,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 225000,
+    "views": 225002,
     "likes": 4093,
     "replies": 1132,
     "reposts": 1762,
@@ -1416,7 +1430,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 433389,
+    "views": 433391,
     "likes": 4779,
     "replies": 1170,
     "reposts": 176,
