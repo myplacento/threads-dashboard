@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-13 06:11 MYT",
+  "generatedAt": "2026-09-13 06:42 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -48,7 +48,7 @@
   }
  },
  "totals": {
-  "views": 2103719,
+  "views": 2103724,
   "likes": 37992,
   "comments": 4070,
   "shares": 8845,
@@ -118,7 +118,7 @@
    "content": "Mak saya bidan, Hajjah Rafeah. 40 tahun lebih sambut bayi. Satu pesanan dia untuk semua suami: jangan tinggalkan isteri bersendirian.",
    "date": "2026-09-06",
    "time": "07:31",
-   "views": 388729,
+   "views": 388733,
    "likes": 13138,
    "comments": 179,
    "shares": 2672,
@@ -778,7 +778,7 @@
    "content": "\"Jangan puji anak sangat, nanti dia sombong.\" Ayat ni kita dengar dari kecik. Tapi kajian cakap sebaliknya. 🧵",
    "date": "2026-09-11",
    "time": "18:02",
-   "views": 3719,
+   "views": 3720,
    "likes": 70,
    "comments": 5,
    "shares": 14,
@@ -1122,7 +1122,7 @@
     "median": 8277,
     "best": 225614,
     "worst": 674,
-    "total": 658803,
+    "total": 658804,
     "er": 2.05,
     "below": 10
    },
@@ -1132,7 +1132,7 @@
     "median": 7073,
     "best": 433550,
     "worst": 0,
-    "total": 1167003,
+    "total": 1167007,
     "er": 2.6,
     "below": 9
    },
@@ -1154,7 +1154,7 @@
     "median": 7528,
     "best": 433550,
     "worst": 1359,
-    "total": 2066734,
+    "total": 2066739,
     "er": 2.28,
     "below": 22
    },
@@ -1184,9 +1184,9 @@
     "label": "Petikan rakyat",
     "n": 4,
     "median": 124742,
-    "best": 388729,
-    "worst": 3719,
-    "total": 641933,
+    "best": 388733,
+    "worst": 3720,
+    "total": 641938,
     "er": 2.27,
     "below": 2
    },
@@ -1448,7 +1448,7 @@
   },
   {
    "date": "2026-09-12",
-   "views": 4216,
+   "views": 4221,
    "likes": 52,
    "comments": 7,
    "shares": 8,
@@ -1573,9 +1573,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-13 14:11 MYT",
+  "fetchedAt": "2026-09-13 14:43 MYT",
   "totals": {
-   "views": 2077176,
+   "views": 2077185,
    "likes": 37826,
    "replies": 3935,
    "reposts": 8414,
@@ -1597,7 +1597,7 @@
     "id": "18024487712883341",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdJJnG0CJLe",
     "timestamp": "2026-09-11",
-    "views": 3720,
+    "views": 3722,
     "likes": 70,
     "replies": 5,
     "reposts": 14,
@@ -1607,7 +1607,7 @@
     "id": "17877377007651892",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdIgV5BjSru",
     "timestamp": "2026-09-11",
-    "views": 2163,
+    "views": 2164,
     "likes": 18,
     "replies": 6,
     "reposts": 1,
@@ -1677,7 +1677,7 @@
     "id": "18175312390444507",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
-    "views": 240419,
+    "views": 240420,
     "likes": 3137,
     "replies": 97,
     "reposts": 765,
@@ -1717,7 +1717,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 388733,
+    "views": 388737,
     "likes": 13138,
     "replies": 179,
     "reposts": 2619,
@@ -1777,7 +1777,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 225765,
+    "views": 225766,
     "likes": 4093,
     "replies": 1132,
     "reposts": 1762,
