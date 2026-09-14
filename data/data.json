@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-15 06:22 MYT",
+  "generatedAt": "2026-09-15 06:53 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -52,7 +52,7 @@
   }
  },
  "totals": {
-  "views": 2112646,
+  "views": 2112665,
   "likes": 38114,
   "comments": 4120,
   "shares": 8858,
@@ -178,7 +178,7 @@
    "content": "\"Jangan dukung, nanti manja.\" \"Jangan layan, nanti membuang masa.\" Mitos ni dah lama, tapi sains dah jawab. 🧵",
    "date": "2026-09-08",
    "time": "07:02",
-   "views": 240641,
+   "views": 240644,
    "likes": 3137,
    "comments": 97,
    "shares": 788,
@@ -516,7 +516,7 @@
    "content": "Bagus trick ni, boleh praktis dengan anak-anak. \n\nBtw, saya pun sedang explore neuroparenting. \n\nDoakan saya kekal semangat. 😆",
    "date": "2026-08-29",
    "time": "22:28",
-   "views": 11816,
+   "views": 11819,
    "likes": 147,
    "comments": 2,
    "shares": 26,
@@ -649,11 +649,11 @@
    "content": "Tiga kali saya teman isteri bersalin. Tiga kali juga nurse suruh saya duduk sebelum saya pengsan. 🧵",
    "date": "2026-09-07",
    "time": "07:02",
-   "views": 6640,
+   "views": 6650,
    "likes": 71,
    "comments": 10,
    "shares": 3,
-   "er": 1.27,
+   "er": 1.26,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc9q7boipW_",
    "topComments": [],
    "items": 6,
@@ -763,7 +763,7 @@
    "content": "1 minggu lepas, Threads ni pecah 1 juta pandangan. Hari ni dah lebih 4.7 juta. Saya tak sangka, tapi saya tahu kenapa ramai baca. 🧵",
    "date": "2026-09-13",
    "time": "18:02",
-   "views": 4003,
+   "views": 4006,
    "likes": 84,
    "comments": 37,
    "shares": 6,
@@ -1183,17 +1183,17 @@
     "median": 6672,
     "best": 226313,
     "worst": 674,
-    "total": 664111,
+    "total": 664117,
     "er": 2.1,
     "below": 11
    },
    {
     "label": "07:01",
     "n": 15,
-    "median": 6640,
+    "median": 6650,
     "best": 433735,
     "worst": 0,
-    "total": 1169653,
+    "total": 1169666,
     "er": 2.59,
     "below": 10
    },
@@ -1212,10 +1212,10 @@
    {
     "label": "Bebenang 5-8 mesej",
     "n": 37,
-    "median": 6640,
+    "median": 6650,
     "best": 433735,
     "worst": 1359,
-    "total": 2074809,
+    "total": 2074825,
     "er": 2.31,
     "below": 24
    },
@@ -1233,9 +1233,9 @@
     "label": "Post tunggal",
     "n": 8,
     "median": 590,
-    "best": 11816,
+    "best": 11819,
     "worst": 0,
-    "total": 15942,
+    "total": 15945,
     "er": 1.08,
     "below": 7
    }
@@ -1244,10 +1244,10 @@
    {
     "label": "Petikan rakyat",
     "n": 4,
-    "median": 124857,
+    "median": 124859,
     "best": 388901,
     "worst": 3867,
-    "total": 642483,
+    "total": 642486,
     "er": 2.27,
     "below": 2
    },
@@ -1264,10 +1264,10 @@
    {
     "label": "Kisah diri",
     "n": 6,
-    "median": 5321,
-    "best": 11816,
+    "median": 5328,
+    "best": 11819,
     "worst": 1930,
-    "total": 33930,
+    "total": 33946,
     "er": 1.51,
     "below": 5
    },
@@ -1525,7 +1525,7 @@
   },
   {
    "date": "2026-09-14",
-   "views": 2688,
+   "views": 2707,
    "likes": 30,
    "comments": 11,
    "shares": 2,
@@ -1658,9 +1658,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-15 14:22 MYT",
+  "fetchedAt": "2026-09-15 14:53 MYT",
   "totals": {
-   "views": 2086225,
+   "views": 2086231,
    "likes": 37949,
    "replies": 3987,
    "reposts": 8427,
@@ -1682,7 +1682,7 @@
     "id": "18070564472738332",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdNp8SWiOP6",
     "timestamp": "2026-09-13",
-    "views": 533,
+    "views": 534,
     "likes": 2,
     "replies": 2,
     "reposts": 0,
@@ -1862,7 +1862,7 @@
     "id": "18132288808633322",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc4kvgDCCwH",
     "timestamp": "2026-09-04",
-    "views": 5534,
+    "views": 5536,
     "likes": 205,
     "replies": 10,
     "reposts": 64,
@@ -1932,7 +1932,7 @@
     "id": "18086916884478625",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
     "timestamp": "2026-08-31",
-    "views": 44394,
+    "views": 44395,
     "likes": 2101,
     "replies": 40,
     "reposts": 733,
@@ -1992,7 +1992,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 433815,
+    "views": 433817,
     "likes": 4779,
     "replies": 1170,
     "reposts": 176,
