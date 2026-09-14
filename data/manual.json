@@ -11,16 +11,17 @@
     ["2026-09-06", 3586328],
     ["2026-09-08", 4255347],
     ["2026-09-09", 4391071],
-    ["2026-09-10", 4783479]
+    ["2026-09-10", 4783479],
+    ["2026-09-11", 4836257]
   ],
   "app_reported": {
-    "views": 4783479,
-    "viewers": 878674,
-    "followers": null,
-    "net_followers_gain": null,
-    "followers_growth_pct": null,
-    "interactions": null,
-    "updated": "10/9/2026",
-    "note": "Screenshot app 10/9 (range 90 hari). Top-3 all-time: azan 433.4K, bidan 388.3K, 'Jangan dukung manja' 8/9 (V7-4) masuk top-3! Demo 9/9: MY 62.5%, ID 1.2%, BN 0.75%, SG 0.74%. Most active: weekend 2-5PM."
+    "views": 4836257,
+    "viewers": 882548,
+    "followers": 1017,
+    "net_followers_gain": 964,
+    "followers_growth_pct": 5355.6,
+    "interactions": 65414,
+    "updated": "11/9/2026",
+    "note": "Screenshot app 11/9 (30 hari). MILESTONE: followers 1,017 (lepas 1,000!). Viewer types: followers 1,017 vs bukan-follower 881K = kadar tukar 0.12%. Top-3 all-time: azan 433K, bidan 388K, 'Jangan dukung manja' 8/9 (V7-4) 240K. Demo 9/9: MY 62.5%, ID 1.2%, BN 0.75%, SG 0.74%. Paling aktif: hujung minggu 2-5PM."
   }
 }

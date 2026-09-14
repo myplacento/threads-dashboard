@@ -1,6 +1,157 @@
 {
  "drafts": [
   {
+   "id": "839ed871c98d",
+   "batch": "2026-09-14_10-19-31.md",
+   "user": "drcaknayupisi",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "🤲🤲",
+   "draft": "\"Sama-sama dr, terima kasih banyak 🤲\nMoga setiap kebaikan yang dr kongsi kat ruang ni dibalas Allah berlipat ganda.\"\n\n---\nNota kerja (log dalaman, bukan untuk Telegram): diaudit live guna Zernio `GET /v1/inbox/comments/18070567334764345?accountId=6a883c4377555aae01f6b8dd` — komen disahkan wujud (id `18125752165879206`? tidak, itu yatiesamad; drcaknayupisi 🤲🤲 pada 2026-09-14T01:40:15+0000 = 09:40 MYT, bersarang depth 8 bawah reply owner \"Amiin 🤲\" replyId `18057562730539337`). Verifier read-only `/tmp/verify_new_comments.py` → 44 post disemak, watermark 09:40 MYT, 0 komen baharu lain. Bukan SOS derma, bukan tag/@mention, bukan troll. Keputusan: DRAF (bukan skip) — ikut preseden emoji-only yang pernah dihantar (\"Amiin 🤲\" untuk drcaknayupisi, \"Terima kasih sokongan tu! 🫶🏻\" untuk aidiyana). Fakta profile tidak disentuh (tiada rujukan anak/anak sulung). Tiada em dash, angka digit, pembukaan dipelbagaikan (bukan ulang \"Aminnn\"/\"MasyaAllah, terima kasih dr\"). `fail.json` = {} (tiada draf approved tersekat). TIADA apa-apa dihantar ke Zernio.",
+   "status": "pending",
+   "ts": "2026-09-14 10-19"
+  },
+  {
+   "id": "e559a70ed8e6",
+   "batch": "2026-09-14_08-10-54.md",
+   "user": "yatiesamad_biz",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "MasyaAllah . Amazing   Tahniah ustaz.",
+   "draft": "\"MasyaAllah, tahniah tu saya pindahkan balik kat orang yang sudi baca 😄 Tanpa yang kongsi, angka 4.7 juta tu tak jadi apa pun. Saya cuma taip cerita rumah sendiri. Semoga ada 1 benda kecil yang boleh dibawa balik dan diamal.\"\n\n---\nNota kerja (log dalaman, bukan untuk Telegram): komen disemak memang baharu (username yatiesamad_biz tiada dalam state.json dashboard, tiada draf lama). Komen jenis pujian/tahniah, bukan kritikal, bukan SOS derma, bukan tag. Draf dipelbagaikan pembukaan (bukan \"Alhamdulillah/Terima kasih\" seperti 3 balasan lain pada post sama), angka guna digit, tiada simbol \"—\", 223 aksara (bawah had 350/500). Tiada apa-apa dihantar ke Zernio. fail.json kosong, tiada draf tersekat.",
+   "status": "pending",
+   "ts": "2026-09-14 08-10"
+  },
+  {
+   "id": "d1e0a2619c44",
+   "batch": "2026-09-14_00-38-47.md",
+   "user": "drcaknayupisi",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "👍👍👍🤲🤲🤲",
+   "draft": "Amiin 🤲 ",
+   "status": "sent",
+   "ts": "2026-09-14 00-38",
+   "replyId": "18057562730539337"
+  },
+  {
+   "id": "db6cd955d296",
+   "batch": "2026-09-13_23-34-45.md",
+   "user": "drcaknayupisi",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "Tips yg bagus...\"rajin baca dan reply semua komen\" indicator yg kukuh.. barakallufikum. Semoga platform ini menjadi asbab kebaikan itu tersebar dgn baik utk manfaat ummah. Ameen ya rabbal alamin 🤲🤲🤲",
+   "draft": "\"Barakallahu feekum 🤲 Doa tu yang paling saya perlukan.\n\nJujur, saya pun belajar dari komen orang. Bila kita layan orang macam kawan, orang pun balas macam kawan.\n\nMoga Allah jadikan platform ni asbab kebaikan sampai ke ummah, ameen.\"",
+   "status": "skipped",
+   "ts": "2026-09-13 23-34"
+  },
+  {
+   "id": "8ce679b09cb1",
+   "batch": "2026-09-13_22-31-17.md",
+   "user": "drcaknayupisi",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "MasyaAllah..sgt luar biasa viewnya ust..apa rahsianya? Kongsikan lah dgn jamaah..",
+   "draft": "MasyaAllah, terima kasih dr. Jujur saya pun terkejut tengok angka tu 😅\n\nRamai yang sudi tinggalkan komen dan perkongsian pengalaman hidup yang sangat unik.\n\nMungkin saya rajin baca dan reply semua komen kot. 😅 ",
+   "status": "sent",
+   "ts": "2026-09-13 22-31",
+   "replyId": "18147447343566379"
+  },
+  {
+   "id": "2f7d75f61b87",
+   "batch": "2026-09-13_22-31-17.md",
+   "user": "drlawyermadamna",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "MasyaAllah rezeki ustaz . Mesti happy ni",
+   "draft": "\"Alhamdulillah, happy tu ada 😄\nTapi yang saya lebih syukur bukan angka pandangan, tapi orang sudi baca sampai habis dan tinggal komen macam ni.\n\nMoga setiap pandangan jadi pahala. Terima kasih ya.\"",
+   "status": "sent",
+   "ts": "2026-09-13 22-31",
+   "replyId": "17973579909126002"
+  },
+  {
+   "id": "dddcd68d5be4",
+   "batch": "2026-09-13_22-31-17.md",
+   "user": "nor.ita2023",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "Tahniah ust..teruskan share perkara yang bermanfaat.",
+   "draft": "\"Terima kasih banyak atas sokongan, ibu 🙏 \n\nInsyaAllah saya teruskan. Kadang 1 komen macam ni yang buat kita rasa terubat hati.\n\nDoakan saya terus istiqamah. 🤲 ",
+   "status": "sent",
+   "ts": "2026-09-13 22-31",
+   "replyId": "18336647332261770"
+  },
+  {
+   "id": "eefa0cd11828",
+   "batch": "2026-09-13_20-17-23.md",
+   "user": "salbiey_malek",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "Alhamdulillah 👏🏻🎉💪🏻",
+   "draft": "\"Terima kasih banyak ya support. 😊\n\nSaya cuma tulis apa yang saya nampak dan doakan saya terus istiqamah.\"",
+   "status": "sent",
+   "ts": "2026-09-13 20-17",
+   "replyId": "18140075962595032"
+  },
+  {
+   "id": "a215345b8561",
+   "batch": "2026-09-13_19-12-49.md",
+   "user": "drroket",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
+   "comment": "Alf Mabruk Ustaz. Terus berkongsi",
+   "draft": "\"Alhamdulillah, terima kasih banyak @drroket support. \n\nInsyaAllah saya terus berkongsi selagi ada yang sudi baca. \n\nDoakan saya istiqamah ya. 🤲 \"",
+   "status": "sent",
+   "ts": "2026-09-13 19-12",
+   "replyId": "18327481642274507"
+  },
+  {
+   "id": "774098c91f8a",
+   "batch": "2026-09-13_09-41-50.md",
+   "user": "missfadhillahshakur",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdNHlfHDeip",
+   "comment": "Setuju Ustaz. Tak pelu perfect. Tadi ada bila diperlukan",
+   "draft": "\"Betul ibu. Anak tak simpan rekod ayah dia sempurna atau tak. \n\nYang dia ingat cuma siapa yang ada masa dia perlukan. Itu pun dah cukup buat dia rasa selamat. Terima kasih sudi kongsi 😊\"",
+   "status": "sent",
+   "ts": "2026-09-13 09-41",
+   "replyId": "18076158746414214"
+  },
+  {
+   "id": "107a50451686",
+   "batch": "2026-09-13_09-41-50.md",
+   "user": "syafiqahsaharudin",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdNHlfHDeip",
+   "comment": "Ya! Ayah sy tak sempurna… tapi dia sentiasa ada.. walaupun dia dah meninggal dunia sy tak pernah lupakan dia..",
+   "draft": "\"Al-Fatihah untuk ayah ibu. \nNampak sangat dia tinggalkan bekas yang baik sampai ibu masih sebut dia. \n\nAyah yang tak sempurna tapi sentiasa ada, itu yang anak bawa sampai besar. Moga Allah rahmatkan dia ya.\"",
+   "status": "sent",
+   "ts": "2026-09-13 09-41",
+   "replyId": "18157847869500803"
+  },
+  {
+   "id": "3283685fd907",
+   "batch": "2026-09-12_12-45-00-catchup-imsutri.md",
+   "user": "imsutri",
+   "url": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
+   "comment": "Oh gitu citenye hahahaha. Husband sy tersandar belakang pintu toilet bila lps bsalin tu dia teman nk tukar 1st pad lps bersalin 😂",
+   "draft": "Tersandar pintu toilet tu pun satu jasa. 😄 \nSaya pun dulu teman tukar pad, tangan menggigil tapi buat juga. \nYang isteri ingat sampai bila bila bukan tangan yang menggigil, tapi dia ingat kita ni ada masa paling susah. 🤍",
+   "status": "sent",
+   "ts": "2026-09-12 12-45",
+   "replyId": "18214219693354918"
+  },
+  {
+   "id": "e426e91feca7",
+   "batch": "2026-09-12_12-35-00-catchup-nested.md",
+   "user": "syairah_shahrin",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdJJnG0CJLe",
+   "comment": "Terima kasih ustaz atas perkongsian ini sebab ianya sangat membantu mak mak sering terlupa macam saya.",
+   "draft": "Terima kasih juga ibu, sama la kita. Saya pun selalu sibuk nak tegur sampai lupa nak puji. \nBila tukar kepada puji usaha, anak nampak lebih berani cuba. Jom malam ni kita cuba sama sama. 🤍",
+   "status": "sent",
+   "ts": "2026-09-12 12-35",
+   "replyId": "18331690738276328"
+  },
+  {
+   "id": "e96c964cc44c",
+   "batch": "2026-09-11_16-36-08.md",
+   "user": "nurdianamazlan",
+   "url": "https://www.threads.com/@ustaz.basri/post/DdIgV5BjSru",
+   "comment": "Ayah selalu ckp \"na, tolong buat teh tarik ayah\". Sejak Allah bawa ayah pergi, saya dah x pandai buat teh tarik. Teh tarik sedap sy eksklusif hanya utk ayah. 🥹",
+   "draft": "Menung sekejap saya baca ni. 🥹 \n\nItu bukan pasal teh tarik, itu cara ayah ibu cakap sayang. Al-fatihah buat ayah ibu, moga tenang di sana. 🤍",
+   "status": "sent",
+   "ts": "2026-09-11 16-36",
+   "replyId": "18622592509037073"
+  },
+  {
    "id": "3a88b946e3b5",
    "batch": "2026-09-11_12-21-43.md",
    "user": "suhusssuhuss",
@@ -4752,10 +4903,11 @@
    "replyId": "already"
   }
  ],
- "last_file": "/home/ubuntu/.hermes/profiles/basri2/cron/output/f0f441e54cb5/2026-09-11_15-30-34.md",
+ "last_file": "/home/ubuntu/.hermes/profiles/basri2/cron/output/f0f441e54cb5/2026-09-14_11-23-20.md",
  "counts": {
-  "sent": 421,
-  "skipped": 12,
-  "total": 433
+  "skipped": 13,
+  "sent": 432,
+  "pending": 2,
+  "total": 447
  }
 }
