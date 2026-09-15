@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-16 04:06 MYT",
+  "generatedAt": "2026-09-16 04:37 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -52,10 +52,10 @@
   }
  },
  "totals": {
-  "views": 2162277,
-  "likes": 39687,
+  "views": 2162824,
+  "likes": 39704,
   "comments": 4182,
-  "shares": 9308,
+  "shares": 9310,
   "posts": 74
  },
  "posts": [
@@ -453,6 +453,25 @@
    "hookClass": "Dalil / Nabi"
   },
   {
+   "id": "6aa8895be91bf9076d6207e9",
+   "zid": "6aa7a39bcba6836d46810c47",
+   "platformPostId": "17935905366366729",
+   "content": "Nabi SAW kata setiap ayah akan ditanya pasal anaknya. Bukan pasal gaji. Bukan pasal kereta. 1,400 tahun lepas, dan soalan tu masih sama. 🧵",
+   "date": "2026-09-15",
+   "time": "07:02",
+   "views": 47010,
+   "likes": 1562,
+   "comments": 51,
+   "shares": 450,
+   "er": 4.39,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
+   "topComments": [],
+   "items": 6,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Dalil / Nabi"
+  },
+  {
    "id": "6a96179e77555aae016fcce6",
    "zid": "6a9459c827e43db41c5be49e",
    "platformPostId": "18404133565092720",
@@ -470,25 +489,6 @@
    "slot": "07:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Lain-lain"
-  },
-  {
-   "id": "6aa8895be91bf9076d6207e9",
-   "zid": "6aa7a39bcba6836d46810c47",
-   "platformPostId": "17935905366366729",
-   "content": "Nabi SAW kata setiap ayah akan ditanya pasal anaknya. Bukan pasal gaji. Bukan pasal kereta. 1,400 tahun lepas, dan soalan tu masih sama. 🧵",
-   "date": "2026-09-15",
-   "time": "07:02",
-   "views": 46491,
-   "likes": 1546,
-   "comments": 51,
-   "shares": 448,
-   "er": 4.4,
-   "url": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
-   "topComments": [],
-   "items": 6,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi"
   },
   {
    "id": "6a95689b77555aae013f8fe0",
@@ -592,7 +592,7 @@
    "content": "Kajian UniSZA 2017: sebahagian adat sambut kelahiran boleh bawa ke syirik.\n\nKita sambut anak ikut \"biasa orang buat\" — bukan dalil.",
    "date": "2026-08-27",
    "time": "18:16",
-   "views": 9074,
+   "views": 9077,
    "likes": 65,
    "comments": 6,
    "shares": 13,
@@ -782,7 +782,7 @@
    "content": "1 minggu lepas, Threads ni pecah 1 juta pandangan. Hari ni dah lebih 4.7 juta. Saya tak sangka, tapi saya tahu kenapa ramai baca. 🧵",
    "date": "2026-09-13",
    "time": "18:02",
-   "views": 4088,
+   "views": 4089,
    "likes": 85,
    "comments": 39,
    "shares": 7,
@@ -801,7 +801,7 @@
    "content": "\"Jangan puji anak sangat, nanti dia sombong.\" Ayat ni kita dengar dari kecik. Tapi kajian cakap sebaliknya. 🧵",
    "date": "2026-09-11",
    "time": "18:02",
-   "views": 3887,
+   "views": 3888,
    "likes": 70,
    "comments": 6,
    "shares": 15,
@@ -820,7 +820,7 @@
    "content": "Rotan yang bina hormat. Rotan yang bina trauma.\n\nKedua-duanya rotan. Bezanya 5 langkah.\n\nNabi SAW ajar 1400 tahun dulu. Ini dia. 👇",
    "date": "2026-08-26",
    "time": "18:15",
-   "views": 3790,
+   "views": 3793,
    "likes": 33,
    "comments": 7,
    "shares": 6,
@@ -896,7 +896,7 @@
    "content": "Yang paling kekal dalam kepala budak bukan mainan mahal.",
    "date": "2026-09-11",
    "time": "12:01",
-   "views": 2287,
+   "views": 2288,
    "likes": 18,
    "comments": 6,
    "shares": 1,
@@ -934,7 +934,7 @@
    "content": "6 bulan pertama hidup anak sulung saya, rumah kami hospital. Jantungnya tak sempurna. Malam-malam awal tu, saya belajar erti sabar yang sebenar. 🧵",
    "date": "2026-09-12",
    "time": "07:02",
-   "views": 2023,
+   "views": 2024,
    "likes": 7,
    "comments": 5,
    "shares": 2,
@@ -1010,7 +1010,7 @@
    "content": "Anak tak minta ayah sempurna. Anak minta ayah yang ada.",
    "date": "2026-09-13",
    "time": "07:01",
-   "views": 1767,
+   "views": 1768,
    "likes": 31,
    "comments": 9,
    "shares": 5,
@@ -1067,7 +1067,7 @@
    "content": "\"Buang je bantal busuk tu, kotor.\" Jangan buang dulu. Benda tu bukan kotor. Itu 1 alat dia bertenang bila mak ayah tak ada.",
    "date": "2026-09-15",
    "time": "12:01",
-   "views": 1311,
+   "views": 1315,
    "likes": 15,
    "comments": 2,
    "shares": 1,
@@ -1105,11 +1105,11 @@
    "content": "\"Ayah kena kuat. Ayah tak ada masalah.\" Ayat tu yang buat 1 dalam 10 ayah pendam sendiri selepas anak lahir. 🧵",
    "date": "2026-09-15",
    "time": "18:02",
-   "views": 835,
-   "likes": 10,
+   "views": 848,
+   "likes": 11,
    "comments": 5,
    "shares": 0,
-   "er": 1.8,
+   "er": 1.89,
    "url": "https://www.threads.com/@ustaz.basri/post/DdTcyAqkZ_M",
    "topComments": [],
    "items": 6,
@@ -1221,7 +1221,7 @@
     "median": 7094,
     "best": 433860,
     "worst": 0,
-    "total": 1216562,
+    "total": 1217083,
     "er": 2.7,
     "below": 10
    },
@@ -1231,7 +1231,7 @@
     "median": 5065,
     "best": 226635,
     "worst": 674,
-    "total": 665453,
+    "total": 665474,
     "er": 2.09,
     "below": 12
    },
@@ -1241,7 +1241,7 @@
     "median": 1928,
     "best": 172290,
     "worst": 0,
-    "total": 260639,
+    "total": 260644,
     "er": 1.41,
     "below": 12
    }
@@ -1252,18 +1252,18 @@
     "n": 39,
     "median": 6650,
     "best": 433860,
-    "worst": 835,
-    "total": 2123096,
+    "worst": 848,
+    "total": 2123638,
     "er": 2.35,
     "below": 25
    },
    {
     "label": "Mini-bebenang 3 mesej",
     "n": 2,
-    "median": 1799,
-    "best": 2287,
-    "worst": 1311,
-    "total": 3598,
+    "median": 1801,
+    "best": 2288,
+    "worst": 1315,
+    "total": 3603,
     "er": 1.23,
     "below": 2
    },
@@ -1285,18 +1285,18 @@
     "median": 10397,
     "best": 433860,
     "worst": 1359,
-    "total": 1387043,
+    "total": 1387565,
     "er": 2.55,
     "below": 10
    },
    {
     "label": "Petikan rakyat",
     "n": 6,
-    "median": 6480,
+    "median": 6482,
     "best": 389072,
-    "worst": 835,
-    "total": 644823,
-    "er": 2.04,
+    "worst": 848,
+    "total": 644844,
+    "er": 2.05,
     "below": 4
    },
    {
@@ -1305,7 +1305,7 @@
     "median": 5369,
     "best": 11819,
     "worst": 1933,
-    "total": 34052,
+    "total": 34054,
     "er": 1.51,
     "below": 5
    },
@@ -1325,7 +1325,7 @@
     "median": 999,
     "best": 46516,
     "worst": 0,
-    "total": 56286,
+    "total": 56288,
     "er": 1.3,
     "below": 10
    }
@@ -1354,7 +1354,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -92%",
-    "body": "97.9K views vs 1.27M minggu sebelumnya."
+    "body": "98.5K views vs 1.27M minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -1566,10 +1566,10 @@
   },
   {
    "date": "2026-09-15",
-   "views": 48759,
-   "likes": 1557,
+   "views": 49306,
+   "likes": 1574,
    "comments": 54,
-   "shares": 446,
+   "shares": 448,
    "posts": 2
   }
  ],
@@ -1678,7 +1678,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "97.9K",
+   "value": "98.5K",
    "sub": "-92% vs 7 hari sebelumnya"
   },
   {
@@ -1703,10 +1703,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-16 12:06 MYT",
+  "fetchedAt": "2026-09-16 12:37 MYT",
   "totals": {
-   "views": 2135976,
-   "likes": 39536,
+   "views": 2136179,
+   "likes": 39542,
    "replies": 4045,
    "reposts": 8865,
    "quotes": 428,
@@ -1717,7 +1717,7 @@
     "id": "18094958588108363",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdTcyAqkZ_M",
     "timestamp": "2026-09-15",
-    "views": 848,
+    "views": 853,
     "likes": 11,
     "replies": 5,
     "reposts": 0,
@@ -1737,8 +1737,8 @@
     "id": "17935905366366729",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
     "timestamp": "2026-09-14",
-    "views": 47010,
-    "likes": 1562,
+    "views": 47193,
+    "likes": 1568,
     "replies": 51,
     "reposts": 436,
     "quotes": 14
@@ -1857,7 +1857,7 @@
     "id": "18175312390444507",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
-    "views": 240731,
+    "views": 240732,
     "likes": 3137,
     "replies": 97,
     "reposts": 765,
@@ -1957,7 +1957,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 226726,
+    "views": 226735,
     "likes": 4094,
     "replies": 1132,
     "reposts": 1762,
@@ -1997,7 +1997,7 @@
     "id": "18086916884478625",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
     "timestamp": "2026-08-31",
-    "views": 44417,
+    "views": 44420,
     "likes": 2101,
     "replies": 40,
     "reposts": 733,
@@ -2057,7 +2057,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 433926,
+    "views": 433928,
     "likes": 4779,
     "replies": 1170,
     "reposts": 176,
