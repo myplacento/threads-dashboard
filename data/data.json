@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-17 05:28 MYT",
+  "generatedAt": "2026-09-17 05:59 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -74,6 +74,12 @@
    "url": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
    "topComments": [
     {
+     "name": "faa.rhim",
+     "message": "Sy lepas bersalin pantang rumah ex mertua. Mkanan ex husb yg msak. kalau org tak tahu maybe org ckp \"bgusnya suami masak \". walhal kita je tahu rsa mcm mana, ptutnya pgi dh makan nasi pnas2 kalau ibu kita masak. tp sy tak ya. Dekat pukul 3 bru makan nasi. tak tahu nakcrita sakit ",
+     "time": "2026-09-17",
+     "likes": 0
+    },
+    {
      "name": "iamsyuhadaaa_s",
      "message": "Kdg bukan sebab xberitahu, dah beritahu pun tapi masih xfaham2.. tapi nthlah Allah Maha Hebat sy mampu hadapnya .. Cuma mungkin xsnggup nak hadap mengndung n berpntang lagi ..",
      "time": "2026-09-17",
@@ -100,12 +106,6 @@
     {
      "name": "ffar_ah1",
      "message": "Alhamdullillah suami saya jaga saya baik masa pantang jer 😂",
-     "time": "2026-09-17",
-     "likes": 0
-    },
-    {
-     "name": "ciklala_y",
-     "message": "Masa sakit bersalin otak ni tak fikir apa dah.fikir nak keluarkan baby je.lps bersalin anak masuk icu sampai umur 75 hari sbb mslh jantung.tiap hari tgk anak di icu.pantang pun ala kadar je sbb pantang sendiri.perasaan bercampur baur teringat anak tp syukur mampu bertahan dan lal",
      "time": "2026-09-17",
      "likes": 0
     }
@@ -1720,12 +1720,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-17 13:28 MYT",
+  "fetchedAt": "2026-09-17 13:59 MYT",
   "totals": {
-   "views": 2698742,
-   "likes": 49160,
-   "replies": 4361,
-   "reposts": 10641,
+   "views": 2702353,
+   "likes": 49210,
+   "replies": 4362,
+   "reposts": 10654,
    "quotes": 486,
    "posts": 46
   },
@@ -1734,27 +1734,27 @@
     "id": "17970439326137644",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdWBi4iCBI6",
     "timestamp": "2026-09-16",
-    "views": 11695,
-    "likes": 290,
+    "views": 11883,
+    "likes": 296,
     "replies": 17,
-    "reposts": 117,
+    "reposts": 119,
     "quotes": 8
    },
    {
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 549858,
-    "likes": 9282,
-    "replies": 308,
-    "reposts": 1634,
+    "views": 553274,
+    "likes": 9326,
+    "replies": 309,
+    "reposts": 1645,
     "quotes": 50
    },
    {
     "id": "17935905366366729",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
     "timestamp": "2026-09-14",
-    "views": 49105,
+    "views": 49106,
     "likes": 1636,
     "replies": 51,
     "reposts": 462,
@@ -1794,7 +1794,7 @@
     "id": "18024487712883341",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdJJnG0CJLe",
     "timestamp": "2026-09-11",
-    "views": 3924,
+    "views": 3925,
     "likes": 70,
     "replies": 6,
     "reposts": 15,
@@ -1914,7 +1914,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 389324,
+    "views": 389325,
     "likes": 13141,
     "replies": 182,
     "reposts": 2620,
@@ -1974,7 +1974,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 227124,
+    "views": 227128,
     "likes": 4097,
     "replies": 1132,
     "reposts": 1762,
