@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-17 02:52 MYT",
+  "generatedAt": "2026-09-17 03:24 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -74,6 +74,12 @@
    "url": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
    "topComments": [
     {
+     "name": "anissufyaa",
+     "message": "Anak 1-2 normal. Husb jarang ada sebab sy berpantang rumah ibu sendiri. \nAnak ke 3 sy czer. Sy berpantang rumah mertua and Totally suami yg jaga. Sehari lebih 5 kali husb tanya sy ok ke tak. Time czer paling banyak menangis. Bila sedih je husb ada. Husb dgr apa yg kita luah. Pant",
+     "time": "2026-09-17",
+     "likes": 0
+    },
+    {
      "name": "shein_vent",
      "message": "betul tu saya ni first time mom.baru je lepas bersalin. saya kena baby blues kena jugak postpartum depression tpi tahap yg boleh control lgi. saya punya level sekarang dh upgrade smpi saya tarik2 rambut saya & rasa nak hentak kepala kat dinding.",
      "time": "2026-09-17",
@@ -100,12 +106,6 @@
     {
      "name": "sueracun99",
      "message": "Ak ckp kt laki aku , kenapa ea rasa mcm serabut tp xtau sbb ap.. masa tu berpntg hri ke 5 .. ak ckp, xtau knp dan xtau nk ckp mcm mna tp cuma blh ckp rasa serabut je, laki aku kata pegila solat ke zikir ke , sumpah aku rasa nk maki je dia 🌝 .. dia suruh aku solat wth,darah nifas ",
-     "time": "2026-09-17",
-     "likes": 0
-    },
-    {
-     "name": "suesbawalscarfs",
-     "message": "Betul ustaz. Sy pernah bersalin, tiada sosok seorg suami. Sbb suami meninggal. Sedih sgt. Tp mak ayah dan keluarga selalu ada di sisi. Dapat baby pun, jenis tidur sahaja. Senang urus. Tak meragam waktu malam. Sampai sy xingat langsung moment tu. Tgk2 habis dh pantang. Mak ayah sy",
      "time": "2026-09-17",
      "likes": 0
     }
@@ -1720,13 +1720,13 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-17 10:53 MYT",
+  "fetchedAt": "2026-09-17 11:24 MYT",
   "totals": {
-   "views": 2681211,
-   "likes": 48861,
-   "replies": 4353,
-   "reposts": 10594,
-   "quotes": 483,
+   "views": 2683279,
+   "likes": 48946,
+   "replies": 4357,
+   "reposts": 10608,
+   "quotes": 484,
    "posts": 46
   },
   "posts": [
@@ -1735,26 +1735,26 @@
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdWBi4iCBI6",
     "timestamp": "2026-09-16",
     "views": 10527,
-    "likes": 268,
+    "likes": 275,
     "replies": 17,
-    "reposts": 106,
+    "reposts": 110,
     "quotes": 6
    },
    {
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 533586,
-    "likes": 9006,
-    "replies": 300,
-    "reposts": 1598,
-    "quotes": 49
+    "views": 535647,
+    "likes": 9084,
+    "replies": 304,
+    "reposts": 1608,
+    "quotes": 50
    },
    {
     "id": "17935905366366729",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
     "timestamp": "2026-09-14",
-    "views": 49080,
+    "views": 49081,
     "likes": 1635,
     "replies": 51,
     "reposts": 462,
@@ -1974,7 +1974,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 227103,
+    "views": 227109,
     "likes": 4097,
     "replies": 1132,
     "reposts": 1762,
