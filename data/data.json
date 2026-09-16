@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-16 14:58 MYT",
+  "generatedAt": "2026-09-16 15:29 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -52,10 +52,10 @@
   }
  },
  "totals": {
-  "views": 2375568,
-  "likes": 43346,
-  "comments": 4316,
-  "shares": 10156,
+  "views": 2427210,
+  "likes": 44174,
+  "comments": 4344,
+  "shares": 10298,
   "posts": 76
  },
  "posts": [
@@ -172,6 +172,62 @@
    "hookClass": "Petikan rakyat"
   },
   {
+   "id": "6aa9d0ea5609c7f4efea261a",
+   "zid": "6aa7a3a139bae94e9da0dbf4",
+   "platformPostId": "17909230503542405",
+   "content": "Mak saya bidan, 40 tahun sambut bayi. Dia cakap yang paling dia takut bukan masa bersalin. Tapi 40 hari lepas tu. 🧵",
+   "date": "2026-09-16",
+   "time": "07:01",
+   "views": 260284,
+   "likes": 4389,
+   "comments": 160,
+   "shares": 959,
+   "er": 2.12,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
+   "topComments": [
+    {
+     "name": "zlkha.ekaa",
+     "message": "Betul sgt! Wktu pregnant anak no2, benda yg paling sy trauma ialah berpantang. Siyess!!",
+     "time": "2026-09-16",
+     "likes": 0
+    },
+    {
+     "name": "aazcc783",
+     "message": "Saya masa anak pertama lepas bersalin kena baby blues..rasa sedih yg teramat tapi x tahu kenapa..",
+     "time": "2026-09-16",
+     "likes": 0
+    },
+    {
+     "name": "nrnrlnjihah",
+     "message": "Awl tahun 2026 berpantang tanpa ank , ngis sorang2 dlm bilik time semua org tido . Rasa gagal , gagal bwk balik ank sndiri . Rasa mcm tak adil . 9bulan mengandung , meninggal 5hari slps dilahirkan . Takleh nk hadam jwpan yg doktor bg .  Esok bngun buat mcm tkde mnde yg jadi sbb k",
+     "time": "2026-09-16",
+     "likes": 0
+    },
+    {
+     "name": "harisssstimer",
+     "message": "hmm..tak semua org faham ni 🥲",
+     "time": "2026-09-16",
+     "likes": 0
+    },
+    {
+     "name": "liyanazainalshaklee",
+     "message": "Tp ada juga yg refuse check-up lps bersalin,xbg misi p rumah.hmm..",
+     "time": "2026-09-16",
+     "likes": 0
+    },
+    {
+     "name": "syurahhhhhh",
+     "message": "ya allah sangat la tepat. saya tak trauma beranak , tak trauma sakit contraction tapi pantang & proses besarkan bayi 0-3m tu paling trauma. hari hari menangis , bukan sebab suami tak tolong. alhamdulilah suami sangat sangat membantu. saya sendiri taktahu kenapa , short culture mu",
+     "time": "2026-09-16",
+     "likes": 0
+    }
+   ],
+   "items": 6,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Kisah diri"
+  },
+  {
    "id": "6a9f5065ce5bbba4298b644f",
    "zid": "6a9d94f3dbc5428c7211ef76",
    "platformPostId": "18175312390444507",
@@ -282,62 +338,6 @@
    "slot": "18:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Dalil / Nabi"
-  },
-  {
-   "id": "6aa9d0ea5609c7f4efea261a",
-   "zid": "6aa7a3a139bae94e9da0dbf4",
-   "platformPostId": "17909230503542405",
-   "content": "Mak saya bidan, 40 tahun sambut bayi. Dia cakap yang paling dia takut bukan masa bersalin. Tapi 40 hari lepas tu. 🧵",
-   "date": "2026-09-16",
-   "time": "07:01",
-   "views": 209170,
-   "likes": 3565,
-   "comments": 132,
-   "shares": 818,
-   "er": 2.16,
-   "url": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
-   "topComments": [
-    {
-     "name": "aazcc783",
-     "message": "Saya masa anak pertama lepas bersalin kena baby blues..rasa sedih yg teramat tapi x tahu kenapa..",
-     "time": "2026-09-16",
-     "likes": 0
-    },
-    {
-     "name": "nrnrlnjihah",
-     "message": "Awl tahun 2026 berpantang tanpa ank , ngis sorang2 dlm bilik time semua org tido . Rasa gagal , gagal bwk balik ank sndiri . Rasa mcm tak adil . 9bulan mengandung , meninggal 5hari slps dilahirkan . Takleh nk hadam jwpan yg doktor bg .  Esok bngun buat mcm tkde mnde yg jadi sbb k",
-     "time": "2026-09-16",
-     "likes": 0
-    },
-    {
-     "name": "harisssstimer",
-     "message": "hmm..tak semua org faham ni 🥲",
-     "time": "2026-09-16",
-     "likes": 0
-    },
-    {
-     "name": "liyanazainalshaklee",
-     "message": "Tp ada juga yg refuse check-up lps bersalin,xbg misi p rumah.hmm..",
-     "time": "2026-09-16",
-     "likes": 0
-    },
-    {
-     "name": "syurahhhhhh",
-     "message": "ya allah sangat la tepat. saya tak trauma beranak , tak trauma sakit contraction tapi pantang & proses besarkan bayi 0-3m tu paling trauma. hari hari menangis , bukan sebab suami tak tolong. alhamdulilah suami sangat sangat membantu. saya sendiri taktahu kenapa , short culture mu",
-     "time": "2026-09-16",
-     "likes": 0
-    },
-    {
-     "name": "eyladalila",
-     "message": "Saya masih ingat saya call ibu saya nagis², sebab anak langsung taknak berengang, saya tak boleh makan, tak boleh mandi, tak boleh tidur tak boleh berehat, lastly mama saya call Husband, kelam kabut dia balik terus ambil anak. Hampir meroyan saya first time jadi ibu, pernah sekal",
-     "time": "2026-09-16",
-     "likes": 0
-    }
-   ],
-   "items": 6,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Kisah diri"
   },
   {
    "id": "6a8d79fc77555aae0147c61d",
@@ -459,7 +459,7 @@
    "content": "Nabi SAW kata: setiap anak tergadai dengan aqiqahnya. 1400 tahun. Tapi sambutan anak sekarang? Deko RM5,000, cake bertingkat. Aqiqah? Kedai makan pun tak sampai. 😄",
    "date": "2026-09-05",
    "time": "12:15",
-   "views": 60344,
+   "views": 60354,
    "likes": 694,
    "comments": 101,
    "shares": 97,
@@ -478,11 +478,11 @@
    "content": "Nabi SAW kata setiap ayah akan ditanya pasal anaknya. Bukan pasal gaji. Bukan pasal kereta. 1,400 tahun lepas, dan soalan tu masih sama. 🧵",
    "date": "2026-09-15",
    "time": "07:02",
-   "views": 48679,
+   "views": 48730,
    "likes": 1627,
    "comments": 51,
    "shares": 473,
-   "er": 4.42,
+   "er": 4.41,
    "url": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
    "topComments": [],
    "items": 6,
@@ -801,11 +801,11 @@
    "content": "1 minggu lepas, Threads ni pecah 1 juta pandangan. Hari ni dah lebih 4.7 juta. Saya tak sangka, tapi saya tahu kenapa ramai baca. 🧵",
    "date": "2026-09-13",
    "time": "18:02",
-   "views": 4108,
+   "views": 4115,
    "likes": 85,
    "comments": 39,
    "shares": 7,
-   "er": 3.19,
+   "er": 3.18,
    "url": "https://www.threads.com/@ustaz.basri/post/DdOTMdhCnBb",
    "topComments": [],
    "items": 7,
@@ -820,11 +820,11 @@
    "content": "\"Jangan puji anak sangat, nanti dia sombong.\" Ayat ni kita dengar dari kecik. Tapi kajian cakap sebaliknya. 🧵",
    "date": "2026-09-11",
    "time": "18:02",
-   "views": 3896,
+   "views": 3900,
    "likes": 70,
    "comments": 6,
    "shares": 15,
-   "er": 2.34,
+   "er": 2.33,
    "url": "https://www.threads.com/@ustaz.basri/post/DdJJnG0CJLe",
    "topComments": [],
    "items": 5,
@@ -915,7 +915,7 @@
    "content": "Yang paling kekal dalam kepala budak bukan mainan mahal.",
    "date": "2026-09-11",
    "time": "12:01",
-   "views": 2296,
+   "views": 2298,
    "likes": 18,
    "comments": 6,
    "shares": 1,
@@ -934,7 +934,7 @@
    "content": "Harvard ikut 724 lelaki sejak 1938. Dari zaman perang sampai sekarang, 85 tahun. Soalan dia mudah: apa yang buat hidup bahagia dan sihat? 🧵",
    "date": "2026-09-10",
    "time": "18:01",
-   "views": 2268,
+   "views": 2272,
    "likes": 18,
    "comments": 6,
    "shares": 6,
@@ -953,7 +953,7 @@
    "content": "6 bulan pertama hidup anak sulung saya, rumah kami hospital. Jantungnya tak sempurna. Malam-malam awal tu, saya belajar erti sabar yang sebenar. 🧵",
    "date": "2026-09-12",
    "time": "07:02",
-   "views": 2034,
+   "views": 2038,
    "likes": 7,
    "comments": 5,
    "shares": 2,
@@ -1029,17 +1029,36 @@
    "content": "Anak tak minta ayah sempurna. Anak minta ayah yang ada.",
    "date": "2026-09-13",
    "time": "07:01",
-   "views": 1781,
+   "views": 1785,
    "likes": 31,
    "comments": 9,
    "shares": 5,
-   "er": 2.53,
+   "er": 2.52,
    "url": "https://www.threads.com/@ustaz.basri/post/DdNHlfHDeip",
    "topComments": [],
    "items": 5,
    "slot": "07:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Lain-lain"
+  },
+  {
+   "id": "6aaa282618b00b7c8a32d338",
+   "zid": "6aa7a3a3cba6836d46810cae",
+   "platformPostId": "18118008490944053",
+   "content": "Al-Quran suruh ayah 1 benda dulu sebelum suruh anak. Ayat 20:132. Bukan anak, ayah. 1,400 tahun lepas, dan ayat ni masih terang.",
+   "date": "2026-09-16",
+   "time": "12:02",
+   "views": 1603,
+   "likes": 14,
+   "comments": 2,
+   "shares": 6,
+   "er": 1.37,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdVYVzWCPPJ",
+   "topComments": [],
+   "items": 3,
+   "slot": "12:01",
+   "format": "Mini-bebenang 3 mesej",
+   "hookClass": "Dalil / Nabi"
   },
   {
    "id": "6a8c1fde77555aae01dfd2c7",
@@ -1067,11 +1086,11 @@
    "content": "\"Buang je bantal busuk tu, kotor.\" Jangan buang dulu. Benda tu bukan kotor. Itu 1 alat dia bertenang bila mak ayah tak ada.",
    "date": "2026-09-15",
    "time": "12:01",
-   "views": 1388,
+   "views": 1397,
    "likes": 15,
    "comments": 2,
    "shares": 1,
-   "er": 1.3,
+   "er": 1.29,
    "url": "https://www.threads.com/@ustaz.basri/post/DdSzhKwCsa2",
    "topComments": [],
    "items": 3,
@@ -1099,36 +1118,17 @@
    "hookClass": "Dalil / Nabi"
   },
   {
-   "id": "6aaa282618b00b7c8a32d338",
-   "zid": "6aa7a3a3cba6836d46810cae",
-   "platformPostId": "18118008490944053",
-   "content": "Al-Quran suruh ayah 1 benda dulu sebelum suruh anak. Ayat 20:132. Bukan anak, ayah. 1,400 tahun lepas, dan ayat ni masih terang.",
-   "date": "2026-09-16",
-   "time": "12:02",
-   "views": 1191,
-   "likes": 10,
-   "comments": 2,
-   "shares": 5,
-   "er": 1.43,
-   "url": "https://www.threads.com/@ustaz.basri/post/DdVYVzWCPPJ",
-   "topComments": [],
-   "items": 3,
-   "slot": "12:01",
-   "format": "Mini-bebenang 3 mesej",
-   "hookClass": "Dalil / Nabi"
-  },
-  {
    "id": "6aa922303bc91ab4fafb8811",
    "zid": "6aa7a39ff2091c0ab51aa0c0",
    "platformPostId": "18094958588108363",
    "content": "\"Ayah kena kuat. Ayah tak ada masalah.\" Ayat tu yang buat 1 dalam 10 ayah pendam sendiri selepas anak lahir. 🧵",
    "date": "2026-09-15",
    "time": "18:02",
-   "views": 1059,
+   "views": 1078,
    "likes": 13,
    "comments": 5,
    "shares": 0,
-   "er": 1.7,
+   "er": 1.67,
    "url": "https://www.threads.com/@ustaz.basri/post/DdTcyAqkZ_M",
    "topComments": [],
    "items": 6,
@@ -1143,7 +1143,7 @@
    "content": "Kalau boleh jumpa diri awak yang baru lepas dapat anak pertama, satu nasihat apa yang awak nak bagi? Tulis macam pesan kat kawan. 👇",
    "date": "2026-09-10",
    "time": "12:02",
-   "views": 1003,
+   "views": 1005,
    "likes": 4,
    "comments": 17,
    "shares": 0,
@@ -1259,8 +1259,8 @@
     "median": 7539,
     "best": 433860,
     "worst": 0,
-    "total": 1428226,
-    "er": 2.67,
+    "total": 1479399,
+    "er": 2.66,
     "below": 10
    },
    {
@@ -1269,7 +1269,7 @@
     "median": 5065,
     "best": 226635,
     "worst": 674,
-    "total": 665790,
+    "total": 665824,
     "er": 2.08,
     "below": 12
    },
@@ -1279,8 +1279,8 @@
     "median": 1895,
     "best": 172290,
     "worst": 0,
-    "total": 261929,
-    "er": 1.4,
+    "total": 262364,
+    "er": 1.39,
     "below": 13
    }
   ],
@@ -1290,19 +1290,19 @@
     "n": 40,
     "median": 7096,
     "best": 433860,
-    "worst": 1059,
-    "total": 2335092,
-    "er": 2.34,
+    "worst": 1078,
+    "total": 2386309,
+    "er": 2.33,
     "below": 25
    },
    {
     "label": "Mini-bebenang 3 mesej",
     "n": 3,
-    "median": 1388,
-    "best": 2296,
-    "worst": 1191,
-    "total": 4875,
-    "er": 1.27,
+    "median": 1603,
+    "best": 2298,
+    "worst": 1397,
+    "total": 5298,
+    "er": 1.25,
     "below": 3
    },
    {
@@ -1311,7 +1311,7 @@
     "median": 593,
     "best": 11824,
     "worst": 0,
-    "total": 15978,
+    "total": 15980,
     "er": 1.07,
     "below": 7
    }
@@ -1322,8 +1322,8 @@
     "n": 22,
     "median": 9928,
     "best": 433860,
-    "worst": 1191,
-    "total": 1390491,
+    "worst": 1359,
+    "total": 1390964,
     "er": 2.5,
     "below": 11
    },
@@ -1331,20 +1331,20 @@
     "label": "Kisah diri",
     "n": 7,
     "median": 6654,
-    "best": 209170,
+    "best": 260284,
     "worst": 1933,
-    "total": 243262,
-    "er": 1.6,
+    "total": 294387,
+    "er": 1.59,
     "below": 5
    },
    {
     "label": "Petikan rakyat",
     "n": 6,
-    "median": 6486,
+    "median": 6488,
     "best": 389211,
-    "worst": 1059,
-    "total": 645368,
-    "er": 2.01,
+    "worst": 1078,
+    "total": 645400,
+    "er": 2.0,
     "below": 4
    },
    {
@@ -1352,18 +1352,18 @@
     "n": 5,
     "median": 3203,
     "best": 6614,
-    "worst": 2268,
-    "total": 20477,
+    "worst": 2272,
+    "total": 20481,
     "er": 2.65,
     "below": 5
    },
    {
     "label": "Lain-lain",
     "n": 11,
-    "median": 1003,
+    "median": 1005,
     "best": 46539,
     "worst": 0,
-    "total": 56347,
+    "total": 56355,
     "er": 1.3,
     "below": 10
    }
@@ -1391,8 +1391,8 @@
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -78%",
-    "body": "288.7K views vs 1.28M minggu sebelumnya."
+    "title": "Nadi 7 hari turun -73%",
+    "body": "340.4K views vs 1.28M minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -1612,10 +1612,10 @@
   },
   {
    "date": "2026-09-16",
-   "views": 211339,
-   "likes": 3582,
-   "comments": 129,
-   "shares": 826,
+   "views": 262981,
+   "likes": 4410,
+   "comments": 157,
+   "shares": 968,
    "posts": 1
   }
  ],
@@ -1728,8 +1728,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "288.7K",
-   "sub": "-78% vs 7 hari sebelumnya"
+   "value": "340.4K",
+   "sub": "-73% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -1748,18 +1748,18 @@
   },
   {
    "label": "Engagement rate (purata)",
-   "value": "2.43%",
+   "value": "2.42%",
    "sub": "likes+komen+share / views"
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-16 22:58 MYT",
+  "fetchedAt": "2026-09-16 23:29 MYT",
   "totals": {
-   "views": 2400379,
-   "likes": 44009,
-   "replies": 4205,
-   "reposts": 9824,
-   "quotes": 457,
+   "views": 2413076,
+   "likes": 44246,
+   "replies": 4207,
+   "reposts": 9853,
+   "quotes": 458,
    "posts": 48
   },
   "posts": [
@@ -1767,8 +1767,8 @@
     "id": "18118008490944053",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdVYVzWCPPJ",
     "timestamp": "2026-09-16",
-    "views": 1603,
-    "likes": 14,
+    "views": 1669,
+    "likes": 15,
     "replies": 2,
     "reposts": 6,
     "quotes": 0
@@ -1777,17 +1777,17 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 260284,
-    "likes": 4391,
-    "replies": 160,
-    "reposts": 930,
-    "quotes": 29
+    "views": 272871,
+    "likes": 4627,
+    "replies": 162,
+    "reposts": 959,
+    "quotes": 30
    },
    {
     "id": "18094958588108363",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdTcyAqkZ_M",
     "timestamp": "2026-09-15",
-    "views": 1078,
+    "views": 1084,
     "likes": 13,
     "replies": 5,
     "reposts": 0,
@@ -1797,7 +1797,7 @@
     "id": "17967413631149968",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSzhKwCsa2",
     "timestamp": "2026-09-15",
-    "views": 1397,
+    "views": 1398,
     "likes": 15,
     "replies": 2,
     "reposts": 1,
@@ -1807,7 +1807,7 @@
     "id": "17935905366366729",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
     "timestamp": "2026-09-14",
-    "views": 48730,
+    "views": 48750,
     "likes": 1627,
     "replies": 51,
     "reposts": 459,
@@ -1927,7 +1927,7 @@
     "id": "18175312390444507",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
-    "views": 240781,
+    "views": 240783,
     "likes": 3137,
     "replies": 97,
     "reposts": 765,
@@ -2027,7 +2027,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 226862,
+    "views": 226868,
     "likes": 4094,
     "replies": 1132,
     "reposts": 1762,
@@ -2067,7 +2067,7 @@
     "id": "18086916884478625",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
     "timestamp": "2026-08-31",
-    "views": 44425,
+    "views": 44427,
     "likes": 2101,
     "replies": 40,
     "reposts": 733,
@@ -2127,7 +2127,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 433958,
+    "views": 433965,
     "likes": 4779,
     "replies": 1168,
     "reposts": 176,
