@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-16 20:40 MYT",
+  "generatedAt": "2026-09-16 21:11 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -186,6 +186,12 @@
    "url": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
    "topComments": [
     {
+     "name": "sakinahfas",
+     "message": "dengan ini saya memang tak beranak lagi",
+     "time": "2026-09-16",
+     "likes": 0
+    },
+    {
      "name": "izzysofia98_",
      "message": "Lepas balik dari hospital .. sampai rumah semua jadi tak kuat ..badan rasa lemah...dgn ada part bahagian luka...lagi bf anak kdg sampai luka",
      "time": "2026-09-16",
@@ -212,12 +218,6 @@
     {
      "name": "syznn.muhi",
      "message": "Betul masa dekat hospital semuanya ok. Balik rumah ada ja tekanan semua benda nak terasa 😢",
-     "time": "2026-09-16",
-     "likes": 0
-    },
-    {
-     "name": "nxdia.nn_",
-     "message": "Betul. Masa bidan mai mengurut saya masa pantang dia ada tanya dan siap bagi saya semangat. Dia kata dia “nampak” yg saya ni dah takda semangat dah time tu. Sebab masa pantang tu memang betui2 down hari2 nangis sampai ckp taknak baby ni, time tu betui2 emosi terganggu",
      "time": "2026-09-16",
      "likes": 0
     }
@@ -1772,13 +1772,13 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-17 04:40 MYT",
+  "fetchedAt": "2026-09-17 05:11 MYT",
   "totals": {
-   "views": 2528238,
-   "likes": 46250,
-   "replies": 4272,
-   "reposts": 10130,
-   "quotes": 470,
+   "views": 2537597,
+   "likes": 46451,
+   "replies": 4274,
+   "reposts": 10169,
+   "quotes": 471,
    "posts": 48
   },
   "posts": [
@@ -1786,21 +1786,21 @@
     "id": "17970439326137644",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdWBi4iCBI6",
     "timestamp": "2026-09-16",
-    "views": 3528,
-    "likes": 62,
+    "views": 3993,
+    "likes": 76,
     "replies": 9,
-    "reposts": 18,
+    "reposts": 23,
     "quotes": 2
    },
    {
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 385738,
-    "likes": 6580,
-    "replies": 220,
-    "reposts": 1224,
-    "quotes": 40
+    "views": 394598,
+    "likes": 6767,
+    "replies": 222,
+    "reposts": 1258,
+    "quotes": 41
    },
    {
     "id": "18094958588108363",
@@ -1816,7 +1816,7 @@
     "id": "17967413631149968",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSzhKwCsa2",
     "timestamp": "2026-09-15",
-    "views": 1420,
+    "views": 1421,
     "likes": 15,
     "replies": 2,
     "reposts": 1,
@@ -1826,7 +1826,7 @@
     "id": "17935905366366729",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
     "timestamp": "2026-09-14",
-    "views": 48854,
+    "views": 48859,
     "likes": 1630,
     "replies": 51,
     "reposts": 459,
@@ -1946,7 +1946,7 @@
     "id": "18175312390444507",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
-    "views": 240812,
+    "views": 240821,
     "likes": 3137,
     "replies": 97,
     "reposts": 765,
@@ -1986,7 +1986,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 389266,
+    "views": 389269,
     "likes": 13141,
     "replies": 182,
     "reposts": 2620,
@@ -2006,7 +2006,7 @@
     "id": "18094242491207606",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc5FMmRjViO",
     "timestamp": "2026-09-05",
-    "views": 60355,
+    "views": 60357,
     "likes": 694,
     "replies": 101,
     "reposts": 95,
@@ -2046,7 +2046,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 226986,
+    "views": 226996,
     "likes": 4095,
     "replies": 1132,
     "reposts": 1762,
@@ -2076,7 +2076,7 @@
     "id": "18404133565092720",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcuRhhOCE88",
     "timestamp": "2026-08-31",
-    "views": 46543,
+    "views": 46544,
     "likes": 392,
     "replies": 106,
     "reposts": 66,
@@ -2106,7 +2106,7 @@
     "id": "18091620653129431",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcj-U3gDIT7",
     "timestamp": "2026-08-27",
-    "views": 7540,
+    "views": 7542,
     "likes": 39,
     "replies": 39,
     "reposts": 0,
@@ -2206,7 +2206,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 176752,
+    "views": 176753,
     "likes": 3780,
     "replies": 355,
     "reposts": 1222,
