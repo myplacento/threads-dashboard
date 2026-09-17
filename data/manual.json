@@ -1,10 +1,13 @@
 {
-  "target_views": 6000000,
-  "target_views_api": 3000000,
+  "target_views": 10000000,
+  "target_views_api": 6000000,
   "target_followers": 2500,
   "goal": {
-    "label": "6 Juta Views + 2,500 Followers",
-    "sub": "Misi Sunnah Neuroparenting · Threads @ustaz.basri"
+    "label": "10 Juta Views + 2,500 Followers",
+    "sub": "Fasa 2 · Misi Sunnah Neuroparenting · Threads @ustaz.basri",
+    "deadline": "2026-09-30",
+    "phase": "Fasa 2 (selepas 6M tercapai 16/9)",
+    "note": "Views: laju 301K/hari → 10M dalam ~11 hari. Followers: perlu +1,360 (laju perlu ~97/hari, sekarang ~40/hari) → lever utama = kadar tukar viewer jadi follower (0.11% sekarang)."
   },
   "app_history": [
     [
@@ -66,18 +69,23 @@
   "extra_actions": [
     {
       "level": "good",
+      "title": "🎯 TARGET FASA 2 DITETAPKAN: 10 Juta + 2,500 Followers",
+      "body": "Tarikh akhir 30 September 2026. Views: laju 301K/hari ( cukup). Followers: perlu 97/hari vs 40/hari sekarang — ini fokus utama kita."
+    },
+    {
+      "level": "good",
+      "title": "Formula JUARA disahkan: kisah manusia sebenar + angka + emosi",
+      "body": "Bidan-2 570K · Bidan-1 389K · Susu 227K + 212K. STRATEGI BARU: bila satu post meledak, buat SAMBUNGAN (sequel) — terbukti bidan-2 mengalahkan bidan-1."
+    },
+    {
+      "level": "good",
       "title": "Audience paling aktif: 2-5PM",
-      "body": "Selasa 355K · Isnin 341K · Ahad 304K viewers. Slot 12:01 mati tapi 07:01 juara. Cadangan: uji slot 14:01 untuk tangkap puncak ini."
+      "body": "Selasa 355K · Isnin 341K · Ahad 304K viewers. Slot 12:01 mati tapi 07:01 juara. Ujian A/B: 17/9 dipindah 14:01 vs 18/9 kekal 12:01."
     },
     {
-      "level": "good",
-      "title": "🎉 6 Juta views TERCAPAI",
-      "body": "6,775,937 views (113% dari target). Capai pada 16/9, kira-kira 3 minggu dari 1 juta."
-    },
-    {
-      "level": "good",
-      "title": "Rekod baru: 570,582 views",
-      "body": "'Mak saya bidan, 40 tahun sambut bayi' (16/9 07:01) = post #1 sepanjang masa. Formula: nama orang sebenar + angka + ketakutan yang pembaca rasa."
+      "level": "warn",
+      "title": "Lever terbesar belum diguna: kadar tukar 0.11%",
+      "body": "1,140 followers vs 1.0 juta bukan-follower. Pinned post + bio CTA = cara paling murah naikkan follower."
     }
   ]
 }

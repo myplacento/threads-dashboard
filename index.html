@@ -1524,6 +1524,12 @@ video {
           <p class="text-[10px] uppercase tracking-[0.2em] font-black" :class="goalDone ? 'text-emerald-300' : 'text-amber-300'">🎯 Misi Semasa</p>
           <p class="text-xl sm:text-2xl font-black leading-tight mt-1" x-text="goalLabel"></p>
           <p class="text-[11px] text-slate-400 mt-0.5" x-text="goalSub"></p>
+          <p class="text-[11px] mt-1" x-show="daysLeft !== null">
+            <span class="text-slate-500">Tarikh akhir</span>
+            <b class="text-slate-200 num" x-text="goalDeadline"></b>
+            <span class="text-slate-600">·</span>
+            <b class="text-amber-300 num" x-text="daysLeft + ' hari lagi'"></b>
+          </p>
         </div>
         <span class="text-[10px] font-bold rounded-full px-2.5 py-1 border whitespace-nowrap"
               :class="goalDone ? 'bg-emerald-500/20 border-emerald-400/50 text-emerald-300' : 'bg-amber-500/15 border-amber-400/40 text-amber-200'"
@@ -1547,6 +1553,10 @@ video {
             Tinggal <b class="text-amber-300 num" x-text="fmtNum(remaining)"></b>
             <span x-show="paceViews"> · laju <b class="text-emerald-400 num" x-text="fmtNum(paceViews) + '/hari'"></b></span>
           </p>
+          <p class="text-[10px] mt-0.5" x-show="!goalViewsDone && daysLeft">
+            Perlu <b class="num text-slate-200" x-text="fmtNum(needViewsPace) + '/hari'"></b>
+            <span :class="viewsOnTrack ? 'text-emerald-400' : 'text-rose-400'" x-text="viewsOnTrack ? '· ON TRACK ✅' : '· KETINGGALAN ⚠️'"></span>
+          </p>
           <p class="text-[10px] font-semibold mt-0.5" :class="goalViewsDone ? 'text-emerald-400' : 'text-amber-200/90'"
              x-text="goalViewsDone ? '🎉 Sudah tercapai!' : (etaViews ? '⚡ Jangkaan capai ' + etaViews : '')"></p>
         </div>
@@ -1566,6 +1576,10 @@ video {
           <p class="text-[10px] text-slate-400 mt-1.5">
             Tinggal <b class="text-violet-300 num" x-text="fmtNum(followersLeft)"></b>
             <span x-show="paceFollowers"> · laju <b class="text-emerald-400 num" x-text="fmtNum(paceFollowers) + '/hari'"></b></span>
+          </p>
+          <p class="text-[10px] mt-0.5" x-show="!goalFollowersDone && daysLeft">
+            Perlu <b class="num text-slate-200" x-text="fmtNum(needFollowersPace) + '/hari'"></b>
+            <span :class="followersOnTrack ? 'text-emerald-400' : 'text-rose-400'" x-text="followersOnTrack ? '· ON TRACK ✅' : '· KETINGGALAN ⚠️'"></span>
           </p>
           <p class="text-[10px] font-semibold mt-0.5" :class="goalFollowersDone ? 'text-emerald-400' : 'text-violet-200/90'"
              x-text="goalFollowersDone ? '🎉 Sudah tercapai!' : (etaFollowers ? '⚡ Jangkaan capai ' + etaFollowers : '')"></p>
@@ -1976,6 +1990,22 @@ function dashboard() {
     // ---- MISI SEMASA ----
     get goalLabel() { return (this.data.meta.goal || {}).label || '6 Juta Views + 2,500 Followers'; },
     get goalSub() { return (this.data.meta.goal || {}).sub || 'Misi Sunnah Neuroparenting'; },
+    get goalDeadline() { return (this.data.meta.goal || {}).deadline || null; },
+    get daysLeft() {
+      const dl = this.goalDeadline;
+      if (!dl) return null;
+      return Math.max(0, Math.ceil((new Date(dl + 'T23:59:59') - Date.now()) / 86400000));
+    },
+    get needViewsPace() {
+      const d = this.daysLeft; if (!d) return 0;
+      return Math.round(this.remaining / d);
+    },
+    get needFollowersPace() {
+      const d = this.daysLeft; if (!d) return 0;
+      return Math.round(this.followersLeft / d);
+    },
+    get viewsOnTrack() { return this.paceViews >= this.needViewsPace; },
+    get followersOnTrack() { return this.paceFollowers >= this.needFollowersPace; },
     get goalViewsDone() { return this.totalViews >= this.targetViews; },
     get goalFollowersDone() { return this.totalFollowers >= this.followerTarget; },
     get goalDone() { return this.goalViewsDone && this.goalFollowersDone; },
