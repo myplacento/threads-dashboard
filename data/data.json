@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-18 05:17 MYT",
+  "generatedAt": "2026-09-18 05:48 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -81,6 +81,12 @@
    "url": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
    "topComments": [
     {
+     "name": "raniaaaaaaaros",
+     "message": "Terima kasih ustaz ✨",
+     "time": "2026-09-18",
+     "likes": 0
+    },
+    {
      "name": "amiracle_chrysanthemum",
      "message": "Alhamdulillah anak saya 1 tahun 6 bulan mixed formula & breastfeed (hopefully sampai 2years 🥹), My husb work & im working too..\n\nAwal pagi husband jalan kerja saya mandikan anak\nBalik kerja petang husband pula mandikan anak\n\nTengahari & petang balik kerja saya breastfeed anak\nMal",
      "time": "2026-09-18",
@@ -107,12 +113,6 @@
     {
      "name": "booboosyarifah",
      "message": "Sebab tu kot dua2 anak sy takde rezeki susu kan🥹 dpt bf sorang sebulan lg sorang 2weeks je. Allah tau apa jadi kalau sy dpt menyusukan anak2😭 tapi sedih betul tak dpt susu kan anak2. Mesti anak2 sedih tak dpt bonding lama2 dgn mak dorang ni. Serious bab ni mmg rasa loser sgt jadi",
-     "time": "2026-09-18",
-     "likes": 0
-    },
-    {
-     "name": "pontijelitabymumu",
-     "message": "Saya pun tengah dlm fasa menyusukan anak. Walaupun suami busy dengan bermacam kerja dia buat tapi dia takpernah lupa tanya keadaan & diri saya. Kalau saya teringin apa-apa dia terus carikan. Dia mewahkan saya dengan makanan sebab dia tahu apa yg saya makan/minum itu untuk baby ka",
      "time": "2026-09-18",
      "likes": 0
     }
@@ -1828,13 +1828,13 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-18 13:17 MYT",
+  "fetchedAt": "2026-09-18 13:48 MYT",
   "totals": {
-   "views": 3337056,
-   "likes": 65523,
-   "replies": 4766,
-   "reposts": 16101,
-   "quotes": 641,
+   "views": 3339180,
+   "likes": 65569,
+   "replies": 4768,
+   "reposts": 16118,
+   "quotes": 642,
    "posts": 49
   },
   "posts": [
@@ -1842,8 +1842,8 @@
     "id": "17995327781830464",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdYmWYXkRTI",
     "timestamp": "2026-09-17",
-    "views": 3633,
-    "likes": 49,
+    "views": 3658,
+    "likes": 52,
     "replies": 6,
     "reposts": 18,
     "quotes": 0
@@ -1852,7 +1852,7 @@
     "id": "18436307818134733",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdYK4JAEU-l",
     "timestamp": "2026-09-17",
-    "views": 3087,
+    "views": 3089,
     "likes": 24,
     "replies": 7,
     "reposts": 4,
@@ -1862,17 +1862,17 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 591091,
-    "likes": 15659,
-    "replies": 370,
-    "reposts": 5264,
-    "quotes": 150
+    "views": 593081,
+    "likes": 15699,
+    "replies": 372,
+    "reposts": 5280,
+    "quotes": 151
    },
    {
     "id": "17970439326137644",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdWBi4iCBI6",
     "timestamp": "2026-09-16",
-    "views": 17445,
+    "views": 17448,
     "likes": 493,
     "replies": 19,
     "reposts": 196,
@@ -1882,17 +1882,17 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 582198,
-    "likes": 9700,
+    "views": 582294,
+    "likes": 9703,
     "replies": 327,
-    "reposts": 1727,
+    "reposts": 1728,
     "quotes": 55
    },
    {
     "id": "17935905366366729",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
     "timestamp": "2026-09-14",
-    "views": 49526,
+    "views": 49527,
     "likes": 1642,
     "replies": 51,
     "reposts": 464,
@@ -2022,7 +2022,7 @@
     "id": "18138754993525126",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc-2YlZEVTT",
     "timestamp": "2026-09-07",
-    "views": 86890,
+    "views": 86891,
     "likes": 525,
     "replies": 23,
     "reposts": 129,
@@ -2052,7 +2052,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 389448,
+    "views": 389449,
     "likes": 13141,
     "replies": 182,
     "reposts": 2620,
@@ -2112,7 +2112,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 227729,
+    "views": 227733,
     "likes": 4098,
     "replies": 1132,
     "reposts": 1762,
@@ -2212,7 +2212,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 434231,
+    "views": 434232,
     "likes": 4779,
     "replies": 1168,
     "reposts": 176,
