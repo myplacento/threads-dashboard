@@ -1355,6 +1355,21 @@
   ],
   "actions": [
    {
+    "level": "good",
+    "title": "Audience paling aktif: 2-5PM",
+    "body": "Selasa 355K · Isnin 341K · Ahad 304K viewers. Slot 12:01 mati tapi 07:01 juara. Cadangan: uji slot 14:01 untuk tangkap puncak ini."
+   },
+   {
+    "level": "good",
+    "title": "🎉 6 Juta views TERCAPAI",
+    "body": "6,775,937 views (113% dari target). Capai pada 16/9, kira-kira 3 minggu dari 1 juta."
+   },
+   {
+    "level": "good",
+    "title": "Rekod baru: 570,582 views",
+    "body": "'Mak saya bidan, 40 tahun sambut bayi' (16/9 07:01) = post #1 sepanjang masa. Formula: nama orang sebenar + angka + ketakutan yang pembaca rasa."
+   },
+   {
     "level": "warn",
     "title": "Slot 12:01 lemah",
     "body": "Median 2.0K dari 13 post. Kena punch dulu baru tanya, dan mesti mini-bebenang 3 mesej."
@@ -1388,6 +1403,23 @@
     "level": "bad",
     "title": "5/9 post baharu bawah 10K",
     "body": "Tanda hook/topik perlu ditukar, bukan angka besar di atas."
+   }
+  ],
+  "activeTimes": [
+   {
+    "hari": "Selasa",
+    "masa": "2PM - 5PM",
+    "viewers": 355000
+   },
+   {
+    "hari": "Isnin",
+    "masa": "2PM - 5PM",
+    "viewers": 341000
+   },
+   {
+    "hari": "Ahad",
+    "masa": "2PM - 5PM",
+    "viewers": 304000
    }
   ]
  },

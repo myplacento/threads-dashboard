@@ -1787,9 +1787,24 @@ video {
           </div>
         </template>
       </div>
-    </section>
 
-    <!-- ============ SENARAI TINDAKAN ============ -->
+      <div class="card p-3.5 mt-3" x-show="activeTimes.length">
+        <p class="text-[10px] uppercase tracking-wider text-slate-500 font-bold mb-2">🕑 Waktu audience paling aktif (data app)</p>
+        <div class="space-y-1.5">
+          <template x-for="t in activeTimes" :key="t.hari">
+            <div class="flex items-center gap-2 text-[11px]">
+              <span class="w-16 shrink-0 text-slate-400" x-text="t.hari"></span>
+              <span class="w-20 shrink-0 font-mono text-slate-300" x-text="t.masa"></span>
+              <div class="h-2 flex-1 overflow-hidden rounded-full bg-slate-800">
+                <div class="h-full rounded-full bg-sky-500" :style="'width:' + Math.round(t.viewers/355000*100) + '%'"></div>
+              </div>
+              <span class="w-14 shrink-0 text-right font-mono text-slate-400" x-text="fmtNum(t.viewers)"></span>
+            </div>
+          </template>
+        </div>
+        <p class="text-[10px] text-amber-200/90 mt-2 leading-snug">⚠️ Slot kita 07:01 · 12:01 · 18:01 — <b>tiada satu pun dalam tetingkap 2-5PM</b>. Cadangan: uji slot 14:01.</p>
+      </div>
+    </section>
     <section class="mb-5" x-show="actions.length">
       <h3 class="text-[11px] uppercase tracking-widest text-slate-500 font-bold mb-2.5 px-1">⚡ Senarai Tindakan · auto dari data</h3>
       <div class="space-y-2">
@@ -2091,6 +2106,7 @@ function dashboard() {
     get formats() { return this.analysis.formats || []; },
     get hooks() { return this.analysis.hooks || []; },
     get actions() { return this.analysis.actions || []; },
+    get activeTimes() { return this.analysis.activeTimes || []; },
     get boards() {
       return [
         { t: 'Slot posting', rows: this.slots },
