@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-19 04:35 MYT",
+  "generatedAt": "2026-09-19 05:06 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -81,6 +81,12 @@
    "url": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
    "topComments": [
     {
+     "name": "yatiamat",
+     "message": "Mohla bakal mak mertua, didik anak2 lelaki masing2 supaya bertanggungjwab dan faham tanggungjawab...",
+     "time": "2026-09-19",
+     "likes": 0
+    },
+    {
      "name": "ff8six",
      "message": "Nanti anak ustaz bg susu formula je ustaz",
      "time": "2026-09-19",
@@ -107,12 +113,6 @@
     {
      "name": "aishah_alkhushairi",
      "message": "Saya suri rumah, menyusu badan anak sehingga 2 tahun lebih. Rasa penat bila menyusu badan, mengantuk, gusi sakit, badan lemah, dan kena makan byk utk dptkn energy. \nKalau saya suri rumah pun da penat, apa lagi ibu yang bekerja + menyusu, berganda penatnya. Nak kena jaga mental ba",
-     "time": "2026-09-18",
-     "likes": 0
-    },
-    {
-     "name": "amirulabms",
-     "message": "Cuba komen @nnurnjwa",
      "time": "2026-09-18",
      "likes": 0
     }
@@ -1897,13 +1897,13 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-19 12:35 MYT",
+  "fetchedAt": "2026-09-19 13:07 MYT",
   "totals": {
-   "views": 3506441,
-   "likes": 69240,
-   "replies": 4889,
-   "reposts": 17134,
-   "quotes": 664,
+   "views": 3506997,
+   "likes": 69265,
+   "replies": 4891,
+   "reposts": 17140,
+   "quotes": 665,
    "posts": 52
   },
   "posts": [
@@ -1911,8 +1911,8 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 5141,
-    "likes": 84,
+    "views": 5158,
+    "likes": 86,
     "replies": 9,
     "reposts": 10,
     "quotes": 1
@@ -1921,7 +1921,7 @@
     "id": "18135020344630704",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddah8GnjChk",
     "timestamp": "2026-09-18",
-    "views": 12715,
+    "views": 12744,
     "likes": 81,
     "replies": 12,
     "reposts": 1,
@@ -1931,17 +1931,17 @@
     "id": "18024606956696387",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdZ_otPAn2k",
     "timestamp": "2026-09-17",
-    "views": 55480,
-    "likes": 1577,
+    "views": 55829,
+    "likes": 1598,
     "replies": 29,
-    "reposts": 358,
-    "quotes": 4
+    "reposts": 364,
+    "quotes": 5
    },
    {
     "id": "17995327781830464",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdYmWYXkRTI",
     "timestamp": "2026-09-17",
-    "views": 6006,
+    "views": 6008,
     "likes": 72,
     "replies": 7,
     "reposts": 25,
@@ -1951,7 +1951,7 @@
     "id": "18436307818134733",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdYK4JAEU-l",
     "timestamp": "2026-09-17",
-    "views": 3239,
+    "views": 3240,
     "likes": 27,
     "replies": 7,
     "reposts": 5,
@@ -1961,9 +1961,9 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 680611,
-    "likes": 17574,
-    "replies": 438,
+    "views": 680759,
+    "likes": 17576,
+    "replies": 440,
     "reposts": 5910,
     "quotes": 168
    },
@@ -1981,7 +1981,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 584854,
+    "views": 584857,
     "likes": 9730,
     "replies": 330,
     "reposts": 1734,
@@ -2181,7 +2181,7 @@
     "id": "18132288808633322",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc4kvgDCCwH",
     "timestamp": "2026-09-04",
-    "views": 5577,
+    "views": 5579,
     "likes": 205,
     "replies": 10,
     "reposts": 64,
@@ -2201,7 +2201,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 172459,
+    "views": 172461,
     "likes": 1491,
     "replies": 439,
     "reposts": 123,
@@ -2251,7 +2251,7 @@
     "id": "18086916884478625",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
     "timestamp": "2026-08-31",
-    "views": 44501,
+    "views": 44503,
     "likes": 2101,
     "replies": 40,
     "reposts": 733,
@@ -2311,7 +2311,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 434309,
+    "views": 434310,
     "likes": 4779,
     "replies": 1168,
     "reposts": 176,
