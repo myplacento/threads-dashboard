@@ -37,55 +37,64 @@
     [
       "2026-09-16",
       6775937
+    ],
+    [
+      "2026-09-21",
+      8349916
     ]
   ],
   "app_reported": {
-    "views": 6775937,
-    "viewers": 1077854,
-    "followers": 1140,
-    "net_followers_gain": 1122,
-    "followers_growth_pct": 6233.3,
-    "interactions": 93181,
-    "updated": "16/9/2026",
-    "note": "Screenshot app 16/9 (30 hari). 🎉 TARGET 6M TERCAPAI (113%). Rekod baru: 'Mak saya bidan, 40 tahun sambut bayi' 16/9 = 570,582 views (post #1 sepanjang masa). Top-5: bidan-2 570K · azan 434K · bidan-1 389K · dukung 240K · susu 227K. Demo: MY 74.24% (naik dari 62.5%), ID 1.05%, BN 0.92%, SG 0.84%. Viewer types: 1,140 followers vs 1.0 juta bukan-follower. Paling aktif: Selasa/Isnin/Ahad 2-5PM (355K/341K/304K viewers)."
+    "views": 8349916,
+    "viewers": 1280540,
+    "followers": 1797,
+    "net_followers_gain": 1667,
+    "followers_growth_pct": 9261.1,
+    "interactions": 130022,
+    "updated": "21/9/2026",
+    "note": "Screenshot app 21/9. REKOD BARU: 'Al-Quran 2 tahun menyusu, 1 bahagian jarang dibaca' 17/9 = 688,419 views (post #1 sepanjang masa) = SEQUEL kepada post susu 228K. Top-5: susu-2 688K · bidan-2 587K · azan 434K · bidan-1 389K · dukung 241K. Demo: MY 77.57%, ID 6.49%, BN 1.03%, SG 0.98%. Viewer: 1,797 followers vs 1.2 juta bukan-follower (kadar tukar 0.14%). Paling aktif: Ahad 482K, Sabtu 454K, Jumaat 449K (2-5PM)."
   },
   "active_times": [
     {
-      "hari": "Selasa",
-      "masa": "2PM - 5PM",
-      "viewers": 355000
-    },
-    {
-      "hari": "Isnin",
-      "masa": "2PM - 5PM",
-      "viewers": 341000
-    },
-    {
       "hari": "Ahad",
       "masa": "2PM - 5PM",
-      "viewers": 304000
+      "viewers": 482000
+    },
+    {
+      "hari": "Sabtu",
+      "masa": "2PM - 5PM",
+      "viewers": 454000
+    },
+    {
+      "hari": "Jumaat",
+      "masa": "2PM - 5PM",
+      "viewers": 449000
     }
   ],
   "extra_actions": [
     {
       "level": "good",
-      "title": "🎯 TARGET FASA 2 DITETAPKAN: 10 Juta + 2,500 Followers",
-      "body": "Tarikh akhir 30 September 2026. Views: laju 301K/hari ( cukup). Followers: perlu 97/hari vs 40/hari sekarang — ini fokus utama kita."
+      "title": "✅ KEDUA-DUA ON TRACK (Fasa 2)",
+      "body": "Views 8.35M/10M laju 315K/hari (perlu 183K). Followers 1,797/2,500 laju 131/hari (perlu 98/hari). Bio + pinned post dah bergerak."
     },
     {
       "level": "good",
-      "title": "Formula JUARA disahkan: kisah manusia sebenar + angka + emosi",
-      "body": "Bidan-2 570K · Bidan-1 389K · Susu 227K + 212K. STRATEGI BARU: bila satu post meledak, buat SAMBUNGAN (sequel) — terbukti bidan-2 mengalahkan bidan-1."
+      "title": "🥇 REKOD BARU: 688,419 views = SEQUEL menang",
+      "body": "'Al-Quran 2 tahun menyusu, 1 bahagian jarang dibaca' (17/9 07:01) mengalahkan asal (228K) 3×. STRATEGI SEQUEL SAH. Tapi sequel ke-3 macam mula lemah (34K/57K) — had 2 sequel per topik."
     },
     {
       "level": "good",
-      "title": "Audience paling aktif: 2-5PM",
-      "body": "Selasa 355K · Isnin 341K · Ahad 304K viewers. Slot 12:01 mati tapi 07:01 juara. Ujian A/B: 17/9 dipindah 14:01 vs 18/9 kekal 12:01."
+      "title": "👑 Slot 07:01 = RAJA (median 58K)",
+      "body": "Sejak 16/9: 07:01 median 58,408 vs 18:01 median 10,003. Slot 07:01 mesti diisi content TERKUAT. Enam siaran 07:01: 587K, 688K, 60K, 56K, 50K, 3.7K."
     },
     {
-      "level": "warn",
-      "title": "Lever terbesar belum diguna: kadar tukar 0.11%",
-      "body": "1,140 followers vs 1.0 juta bukan-follower. Pinned post + bio CTA = cara paling murah naikkan follower."
+      "level": "bad",
+      "title": "❌ UJIAN 14:01 GAGAL — kekal 12:01",
+      "body": "17/9 14:01 = 3,314 views vs 18/9 12:01 = 13,321 views. Hipotesis 'alih ke puncak 2-5PM' TIDAK disokong. Balik ke 12:01."
+    },
+    {
+      "level": "good",
+      "title": "🌏 Indonesia melonjak 6× (1.05% → 6.49%)",
+      "body": "Malaysia 77.57%. Audience makin serantau — kandungan yang sebut Al-Quran/adat Melayu sampai ke Indonesia."
     }
   ]
 }

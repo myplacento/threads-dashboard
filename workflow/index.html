@@ -97,15 +97,15 @@
             :class="d.status==='sent' ? 'opacity-70' : d.dirty ? 'ring-2 ring-amber-300 bg-amber-50' : ''"></textarea>
           <div class="flex items-center justify-between mt-1 text-[10px]">
             <span>
-              <span x-text="len(d) + ' / 150 aksara'" :class="len(d)>150 ? 'text-rose-600 font-extrabold text-xs' : len(d)>=130 ? 'text-amber-600 font-bold' : 'text-slate-400'"></span>
-              <span x-show="len(d)<=150" x-text="' · baki ' + (150-len(d))" class="text-slate-400"></span>
-              <span x-show="len(d)>150" class="text-rose-600 font-bold"> ⚠️ lebih!</span>
+              <span x-text="len(d) + ' / 250 aksara'" :class="len(d)>250 ? 'text-rose-600 font-extrabold text-xs' : len(d)>=230 ? 'text-amber-600 font-bold' : 'text-slate-400'"></span>
+              <span x-show="len(d)<=250" x-text="' · baki ' + (250-len(d))" class="text-slate-400"></span>
+              <span x-show="len(d)>250" class="text-rose-600 font-bold"> ⚠️ lebih!</span>
               <span x-show="d.dirty" class="ml-2 text-amber-600 font-bold">✎ belum disimpan</span>
             </span>
             <a x-show="d.url" :href="d.url" target="_blank" class="text-emerald-700 hover:underline font-medium">buka post ↗</a>
           </div>
           <div class="h-1.5 w-full bg-slate-100 rounded-full overflow-hidden mt-1.5">
-            <div class="h-full rounded-full transition-all duration-200" :style="'width:'+Math.min(100,len(d)/150*100)+'%'" :class="len(d)>150 ? 'bg-rose-500' : len(d)>=130 ? 'bg-amber-400' : 'bg-emerald-500'"></div>
+            <div class="h-full rounded-full transition-all duration-200" :style="'width:'+Math.min(100,len(d)/250*100)+'%'" :class="len(d)>250 ? 'bg-rose-500' : len(d)>=230 ? 'bg-amber-400' : 'bg-emerald-500'"></div>
           </div>
         </div>
 

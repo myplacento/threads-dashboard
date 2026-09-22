@@ -174,7 +174,7 @@
         <template x-if="expanded===d.id && editing!==d.id">
           <div class="border-t border-slate-800 bg-slate-950/60 px-3.5 py-3 space-y-2.5">
             <template x-if="d.preflight">
-              <p class="text-[10.5px] text-slate-500 italic leading-snug" x-text="'Pre-flight: ' + d.preflight"></p>
+              <p class="text-[10.5px] text-slate-500 italic leading-snug" x-text="'Pre-flight: ' + (d.preflight||'').replace(/\*\*/g,'')"></p>
             </template>
             <template x-for="(m, mi) in d.thread" :key="mi">
               <div class="flex gap-2.5">
@@ -318,7 +318,9 @@ function studio(){
       {i:'😄',c:'text-emerald-300',t:'Jenaka mesra rakyat wajib selit',d:'Minimum 1 punch jenaka setiap thread. Jenaka harian, self-deprecating, kena situasi keluarga. Paling kuat di mesej akhir.',x:'Bukti: median 53,406 vs 5,623. Beza 9.5 kali. Arahan Ustaz 14/9/2026.'},
       {i:'⛔',c:'text-rose-300',t:'Jangan tanya soalan kepada pembaca',d:'Post berbentuk soal-jawab, survey, atau "tag kawan" mati. Kalau nak borak dengan pembaca, buat dalam balasan komen.',x:'Bukti: median 3,831 views vs 6,502. Tiga terendah: 1,920 / 978 / 500.'},
       {i:'🔢',c:'text-sky-300',t:'Angka mesti DIGIT',d:'Tulis "6 bulan", "1,400 tahun", "2 ekor". Jangan tulis perkataan. Sapu sebelum hantar.',x:'Sama juga dalam hook dan badan thread.'},
-      {i:'🕰️',c:'text-indigo-300',t:'Slot tetap',d:'07:01 pagi · 12:01 tengah hari · 18:01 petang (waktu Malaysia).'},
+      {i:'🕰️',c:'text-indigo-300',t:'Slot: 2 post sehari sahaja',d:'07:01 pagi (slot juara) dan 18:01 petang. 12:01 DIBUANG 19/9.',x:'Data 55 post: 07:01 median 9,472 (72% views) · 18:01 median 6,019 · 12:01 median 2,377 (paling lemah, dan 2 dari 3 post yang Ustaz arkib datang dari slot ni). Semua post bebenang 6 mesej, tiada lagi mini 3 mesej.'},
+      {i:'📖',c:'text-amber-300',t:'Kisah manusia + angka + emosi',d:'Formula yang paling kuat. Bukan sains semata, bukan nasihat semata. Cerita orang, dengan angka, dengan rasa.',x:'Bukti: bidan-2 (mak saya bidan, 40 tahun) 570,582 views = rekod sepanjang masa.'},
+      {i:'🔁',c:'text-emerald-300',t:'Post yang pecah, buat SEQUEL',d:'Kalau satu post meletup, sambung dengan benang baharu atas topik sama. Jangan tinggal satu.',x:'Bukti: susu 3/9 (225,924) lalu sequel 2 Tahun 1 Ayat 17/9 = 681,574. Sequel kalahkan asal.'},
       {i:'🚫',c:'text-slate-300',t:'Dilarang',d:'Simbol em dash. Frame menuduh pembaca ("ramai lupa"). Nama institusi barat sebagai R di baris pertama. Reveal AI.'},
       {i:'📚',c:'text-slate-300',t:'Sumber mesti disahkan',d:'Setiap petikan ulama atau hadis kena datang dari teks asal. Kalau tak jumpa, cakap tak jumpa. Jangan reka.'}
     ],
