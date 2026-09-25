@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-26 03:27 MYT",
+  "generatedAt": "2026-09-26 03:58 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -63,8 +63,8 @@
   }
  },
  "totals": {
-  "views": 4244567,
-  "likes": 78263,
+  "views": 4244695,
+  "likes": 78266,
   "comments": 5657,
   "shares": 19384,
   "posts": 95
@@ -245,8 +245,8 @@
    "content": "Mak saya bidan 40 tahun. Dia cakap 1 benda yang dia paling tak sanggup tengok selesai bersalin: uri. Bahagian badan anak kita yang pertama keluar, dan yang pertama orang lupa. 🧵",
    "date": "2026-09-24",
    "time": "07:02",
-   "views": 405076,
-   "likes": 4461,
+   "views": 405174,
+   "likes": 4462,
    "comments": 188,
    "shares": 487,
    "er": 1.27,
@@ -470,7 +470,7 @@
    "content": "Al-Quran sebut cara berhenti susu dalam 1 ayat. Umur ayat tu 1,400 tahun, dan ia tak sebut masa. Ia sebut 2 benda, dan 2 benda itu yang jadi punca gaduh di banyak rumah. 🧵",
    "date": "2026-09-23",
    "time": "07:02",
-   "views": 88384,
+   "views": 88389,
    "likes": 570,
    "comments": 104,
    "shares": 189,
@@ -489,7 +489,7 @@
    "content": "Seorang lelaki ada 10 anak. Tak pernah cium seorang pun. Dia bangga dengan tu, sampai dia cakap depan Nabi SAW. 🧵",
    "date": "2026-09-07",
    "time": "18:01",
-   "views": 86950,
+   "views": 86954,
    "likes": 526,
    "comments": 23,
    "shares": 132,
@@ -584,7 +584,7 @@
    "content": "Ibn Qayyim tulis 700 tahun lalu: kebanyakan kerosakan anak datang dari ibu bapa. Bukan dari telefon. Bukan dari kawan dia. 🧵",
    "date": "2026-09-21",
    "time": "07:02",
-   "views": 54400,
+   "views": 54401,
    "likes": 2279,
    "comments": 98,
    "shares": 592,
@@ -755,7 +755,7 @@
    "content": "1 lelaki bawa anaknya yang baru lahir kepada Nabi SAW. Baginda buat 3 benda. 1,400 tahun lepas, dan semua 3 tak perlu duit. 🧵",
    "date": "2026-09-21",
    "time": "18:02",
-   "views": 10705,
+   "views": 10707,
    "likes": 137,
    "comments": 15,
    "shares": 22,
@@ -793,11 +793,11 @@
    "content": "Nabi SAW cakap: rotan kalau anak tak solat 10 tahun..\n\nSambungan isu semalam.\n\nTapi baca penuh: 7 tahun ajar, 10 tahun pukul — 3 TAHUN latihan dulu.\n\nKita? Hari pertama terus rotan.",
    "date": "2026-08-26",
    "time": "07:33",
-   "views": 9485,
-   "likes": 304,
+   "views": 9489,
+   "likes": 305,
    "comments": 21,
    "shares": 103,
-   "er": 4.51,
+   "er": 4.52,
    "url": "https://www.threads.com/@ustaz.basri/post/Dce07LzCENo",
    "topComments": [],
    "items": 7,
@@ -1496,11 +1496,11 @@
    "content": "Al-Quran sebut 1 perkataan yang kita dilarang cakap pada ibu bapa. Bukan perkataan kesat. Cuma 1 bunyi. 1,400 tahun lepas. 🧵",
    "date": "2026-09-25",
    "time": "18:02",
-   "views": 294,
-   "likes": 12,
+   "views": 308,
+   "likes": 13,
    "comments": 6,
    "shares": 1,
-   "er": 6.46,
+   "er": 6.49,
    "url": "https://www.threads.com/@ustaz.basri/post/DdtMyQ7CKUX",
    "topComments": [],
    "items": 6,
@@ -1574,7 +1574,7 @@
     "median": 10480,
     "best": 691109,
     "worst": 0,
-    "total": 3178252,
+    "total": 3178360,
     "er": 2.51,
     "below": 12
    },
@@ -1583,8 +1583,8 @@
     "n": 27,
     "median": 6187,
     "best": 229487,
-    "worst": 294,
-    "total": 755429,
+    "worst": 308,
+    "total": 755449,
     "er": 2.19,
     "below": 17
    },
@@ -1605,8 +1605,8 @@
     "n": 54,
     "median": 8547,
     "best": 691109,
-    "worst": 294,
-    "total": 4159456,
+    "worst": 308,
+    "total": 4159584,
     "er": 2.32,
     "below": 30
    },
@@ -1635,10 +1635,10 @@
    {
     "label": "Dalil / Nabi",
     "n": 33,
-    "median": 10705,
+    "median": 10707,
     "best": 691109,
-    "worst": 294,
-    "total": 2394965,
+    "worst": 308,
+    "total": 2394995,
     "er": 2.6,
     "below": 15
    },
@@ -1648,7 +1648,7 @@
     "median": 7553,
     "best": 588498,
     "worst": 1971,
-    "total": 1069761,
+    "total": 1069859,
     "er": 1.55,
     "below": 6
    },
@@ -1732,7 +1732,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -52%",
-    "body": "694.4K views vs 1.45M minggu sebelumnya."
+    "body": "694.6K views vs 1.45M minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -2041,8 +2041,8 @@
   },
   {
    "date": "2026-09-25",
-   "views": 34945,
-   "likes": 395,
+   "views": 35073,
+   "likes": 398,
    "comments": 55,
    "shares": 55,
    "posts": 1
@@ -2193,7 +2193,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "694.4K",
+   "value": "694.6K",
    "sub": "-52% vs 7 hari sebelumnya"
   },
   {
@@ -2218,9 +2218,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-26 11:27 MYT",
+  "fetchedAt": "2026-09-26 11:58 MYT",
   "totals": {
-   "views": 4204159,
+   "views": 4204182,
    "likes": 78044,
    "replies": 5502,
    "reposts": 18619,
@@ -2232,7 +2232,7 @@
     "id": "17991888431846857",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdtMyQ7CKUX",
     "timestamp": "2026-09-25",
-    "views": 308,
+    "views": 311,
     "likes": 13,
     "replies": 6,
     "reposts": 1,
@@ -2262,7 +2262,7 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 405174,
+    "views": 405190,
     "likes": 4462,
     "replies": 188,
     "reposts": 480,
@@ -2282,7 +2282,7 @@
     "id": "18633169309058399",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
     "timestamp": "2026-09-22",
-    "views": 88389,
+    "views": 88391,
     "likes": 570,
     "replies": 104,
     "reposts": 179,
@@ -2402,7 +2402,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 691770,
+    "views": 691771,
     "likes": 17687,
     "replies": 442,
     "reposts": 5954,
@@ -2422,7 +2422,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 588614,
+    "views": 588615,
     "likes": 9734,
     "replies": 338,
     "reposts": 1743,
