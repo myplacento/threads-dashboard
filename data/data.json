@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-25 08:16 MYT",
+  "generatedAt": "2026-09-25 08:47 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -309,6 +309,24 @@
    "url": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
    "topComments": [
     {
+     "name": "athilia.tajry",
+     "message": "Alhamdullilah suami saya tunggu sampai settle doctor bagi uri bawak balik. Masa tu pukul 11 mlm. Beranak kat hukm balik rumah kat subang. Mlm tu jugak basuh2 lepastu tanam.",
+     "time": "2026-09-25",
+     "likes": 0
+    },
+    {
+     "name": "hanyamemberipendapat",
+     "message": "nurse hospital ckp kalau tak amek diorang buang je.",
+     "time": "2026-09-25",
+     "likes": 0
+    },
+    {
+     "name": "solynite",
+     "message": "Uri anak no 3 saya dikebumikan bersama org yang meninggal covid. Tu yg pihak hosp maklumkan kepada saya. Sbb masa bersalin anak no3 saya positif covid.",
+     "time": "2026-09-25",
+     "likes": 0
+    },
+    {
      "name": "qhhhssssss2",
      "message": "Ustaz kalau tanam uri letak dalam tempurung kelapa boleh kan ? Masa tanam uri anak saya nenek suruh letak paku..suami tak buat sbb rasa macam tak elok pulak..blkg nenek suami keluarkan paku tu",
      "time": "2026-09-25",
@@ -323,24 +341,6 @@
     {
      "name": "mr_muffin19",
      "message": "Uri ni sng kalau ada sbb kalau kita nk ip address lg susah.",
-     "time": "2026-09-25",
-     "likes": 0
-    },
-    {
-     "name": "n_urutmelayu",
-     "message": "Nampak remeh....tp anak2 benak belajar tu,ko tanya lh org tua dia urus uri mcm mana ...ad yg buang je ke tong sampah..\nJenis ajaran \"bukan wajib pun\"..\nSdgkan tu lahir bersama anak kita....\nBahagian dari tubuh dia..\nKo buat remeh amanah Allah maka jadi lah kesan buruk kemudian ha",
-     "time": "2026-09-25",
-     "likes": 0
-    },
-    {
-     "name": "aishah3005",
-     "message": "Alhamdulillah…ank 4 org, uri semua suami yg uruskan dari basuh sampai tanam.",
-     "time": "2026-09-25",
-     "likes": 0
-    },
-    {
-     "name": "_mpqrs",
-     "message": "Anak sulung bersalin kt kg suami, suami ank bongsu, jd uri mak dia yg cuci n tanam, dia tolong korek lubang je..bersalin ank kedua kt kg sendiri, suami kena buat sendiri semua...sejak dari tu terus pandai buat sendiri semua..total 6 org anak. Anak ketiga tumpang tanam kt rumah ji",
      "time": "2026-09-25",
      "likes": 0
     }
@@ -2182,12 +2182,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-25 16:16 MYT",
+  "fetchedAt": "2026-09-25 16:47 MYT",
   "totals": {
-   "views": 4178272,
-   "likes": 77737,
-   "replies": 5465,
-   "reposts": 18596,
+   "views": 4181977,
+   "likes": 77784,
+   "replies": 5474,
+   "reposts": 18603,
    "quotes": 727,
    "posts": 63
   },
@@ -2196,9 +2196,9 @@
     "id": "18436636288176998",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdsBNZijlnS",
     "timestamp": "2026-09-24",
-    "views": 1438,
-    "likes": 14,
-    "replies": 9,
+    "views": 1855,
+    "likes": 15,
+    "replies": 11,
     "reposts": 7,
     "quotes": 0
    },
@@ -2206,7 +2206,7 @@
     "id": "18124437394806982",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddqn5hYiAGI",
     "timestamp": "2026-09-24",
-    "views": 3691,
+    "views": 3714,
     "likes": 15,
     "replies": 8,
     "reposts": 8,
@@ -2216,10 +2216,10 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 382529,
-    "likes": 4172,
-    "replies": 163,
-    "reposts": 450,
+    "views": 385754,
+    "likes": 4218,
+    "replies": 170,
+    "reposts": 457,
     "quotes": 7
    },
    {
@@ -2236,7 +2236,7 @@
     "id": "18633169309058399",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
     "timestamp": "2026-09-22",
-    "views": 88230,
+    "views": 88233,
     "likes": 571,
     "replies": 98,
     "reposts": 179,
@@ -2266,7 +2266,7 @@
     "id": "18114071980816957",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddht_omDGWW",
     "timestamp": "2026-09-20",
-    "views": 54345,
+    "views": 54346,
     "likes": 2280,
     "replies": 98,
     "reposts": 567,
@@ -2286,7 +2286,7 @@
     "id": "18225630358334097",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdfJMguDcds",
     "timestamp": "2026-09-19",
-    "views": 56823,
+    "views": 56824,
     "likes": 463,
     "replies": 61,
     "reposts": 94,
@@ -2306,7 +2306,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 7527,
+    "views": 7528,
     "likes": 121,
     "replies": 11,
     "reposts": 10,
@@ -2356,7 +2356,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 691179,
+    "views": 691208,
     "likes": 17687,
     "replies": 442,
     "reposts": 5954,
@@ -2576,7 +2576,7 @@
     "id": "18132288808633322",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc4kvgDCCwH",
     "timestamp": "2026-09-04",
-    "views": 5613,
+    "views": 5614,
     "likes": 205,
     "replies": 10,
     "reposts": 64,
@@ -2606,7 +2606,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 229493,
+    "views": 229495,
     "likes": 4098,
     "replies": 1134,
     "reposts": 1762,
@@ -2816,7 +2816,7 @@
     "id": "18076047089402760",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcY8827l60Q",
     "timestamp": "2026-08-23",
-    "views": 8238,
+    "views": 8240,
     "likes": 213,
     "replies": 7,
     "reposts": 60,
