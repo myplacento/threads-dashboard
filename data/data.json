@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-25 10:21 MYT",
+  "generatedAt": "2026-09-25 10:52 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -63,10 +63,10 @@
   }
  },
  "totals": {
-  "views": 4223157,
-  "likes": 78001,
-  "comments": 5624,
-  "shares": 19354,
+  "views": 4235324,
+  "likes": 78166,
+  "comments": 5638,
+  "shares": 19370,
   "posts": 94
  },
  "posts": [
@@ -239,6 +239,62 @@
    "hookClass": "Dalil / Nabi"
   },
   {
+   "id": "6ab46724f8cc28d2740f3add",
+   "zid": "6ab249a4f57d8c8a92e6d675",
+   "platformPostId": "18098372345635109",
+   "content": "Mak saya bidan 40 tahun. Dia cakap 1 benda yang dia paling tak sanggup tengok selesai bersalin: uri. Bahagian badan anak kita yang pertama keluar, dan yang pertama orang lupa. 🧵",
+   "date": "2026-09-24",
+   "time": "07:02",
+   "views": 397261,
+   "likes": 4378,
+   "comments": 184,
+   "shares": 478,
+   "er": 1.27,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
+   "topComments": [
+    {
+     "name": "bella.samsu",
+     "message": "Macam saya dua kali bersalin dua kali tu lekat uri, kena mrp. Dr bius separuh badan lepastu dia seluk la korek2 dengan tangan. Mak yg tolong uruskan sebab hancur lebur, kena tapis ye.. sambil cuci sambil menangis dia.. teruk sngt dia ckp",
+     "time": "2026-09-25",
+     "likes": 0
+    },
+    {
+     "name": "fatin_captivating",
+     "message": "ank 1- hospital basuh siap2 uri,tinggal balik tanam je. ank first,masing2 kelamkabut sikit. berpantang sendiri,suami ambik cuti jaga. uri letak dlm peti atas,seminggu lupa nk tanam😂\nank 2: keluar hospital,terus mak suruh tanam x nak jadi mcm ank pertama. yg best,uri dah siap basu",
+     "time": "2026-09-25",
+     "likes": 0
+    },
+    {
+     "name": "tengokjangantaktengok",
+     "message": "Masa bersalin anak 2nd doktor ambil uri untuk study case. Katanya boleh pilih nk ambik balik tanam or dorg akan uruskan (bakar). Saya cakap nk ambil balik tapi sampai sudah tak diberi. Kol byk kali tak pernah berangkat.",
+     "time": "2026-09-25",
+     "likes": 0
+    },
+    {
+     "name": "shehzaadinisa",
+     "message": "Alhamdulillah... Sepanjang hamil, suami restock semua makanan sunnah. Awal pagi, saya mesti minum minyak kelapa dara setiap hari hingga dah nak bersalin. Kulit halus bersih tanpa jerawat. Lepas minum, selang 5 minit, terus buang najis. Lepas selamat lahir anak, suami terus urus u",
+     "time": "2026-09-25",
+     "likes": 0
+    },
+    {
+     "name": "nonieliah",
+     "message": "Adek beradik sy yg lelaki semua takot nk pgg uri,uri anak2 buah semua sy yg urus dan setelkn..cucu bersih2.xnk bg pecah jgn berbau.balut elok2 lps cuci.soh diorg tanam cpt..",
+     "time": "2026-09-25",
+     "likes": 0
+    },
+    {
+     "name": "alyamahyadin",
+     "message": "Cakap pasal uri, uri i masa beranak berat 1.5kg hahahaha. Besar gilaaaa. Amazed boleh bawak seberat tu + berat anak lagi",
+     "time": "2026-09-25",
+     "likes": 0
+    }
+   ],
+   "items": 6,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Kisah diri"
+  },
+  {
    "id": "6a9ca9ac5f13811b8c3cb333",
    "zid": "6a945a0d61e060d9d85097cd",
    "platformPostId": "17924947371180816",
@@ -293,62 +349,6 @@
    "slot": "07:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Petikan rakyat"
-  },
-  {
-   "id": "6ab46724f8cc28d2740f3add",
-   "zid": "6ab249a4f57d8c8a92e6d675",
-   "platformPostId": "18098372345635109",
-   "content": "Mak saya bidan 40 tahun. Dia cakap 1 benda yang dia paling tak sanggup tengok selesai bersalin: uri. Bahagian badan anak kita yang pertama keluar, dan yang pertama orang lupa. 🧵",
-   "date": "2026-09-24",
-   "time": "07:02",
-   "views": 385754,
-   "likes": 4216,
-   "comments": 170,
-   "shares": 464,
-   "er": 1.26,
-   "url": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
-   "topComments": [
-    {
-     "name": "bella.samsu",
-     "message": "Macam saya dua kali bersalin dua kali tu lekat uri, kena mrp. Dr bius separuh badan lepastu dia seluk la korek2 dengan tangan. Mak yg tolong uruskan sebab hancur lebur, kena tapis ye.. sambil cuci sambil menangis dia.. teruk sngt dia ckp",
-     "time": "2026-09-25",
-     "likes": 0
-    },
-    {
-     "name": "fatin_captivating",
-     "message": "ank 1- hospital basuh siap2 uri,tinggal balik tanam je. ank first,masing2 kelamkabut sikit. berpantang sendiri,suami ambik cuti jaga. uri letak dlm peti atas,seminggu lupa nk tanam😂\nank 2: keluar hospital,terus mak suruh tanam x nak jadi mcm ank pertama. yg best,uri dah siap basu",
-     "time": "2026-09-25",
-     "likes": 0
-    },
-    {
-     "name": "tengokjangantaktengok",
-     "message": "Masa bersalin anak 2nd doktor ambil uri untuk study case. Katanya boleh pilih nk ambik balik tanam or dorg akan uruskan (bakar). Saya cakap nk ambil balik tapi sampai sudah tak diberi. Kol byk kali tak pernah berangkat.",
-     "time": "2026-09-25",
-     "likes": 0
-    },
-    {
-     "name": "shehzaadinisa",
-     "message": "Alhamdulillah... Sepanjang hamil, suami restock semua makanan sunnah. Awal pagi, saya mesti minum minyak kelapa dara setiap hari hingga dah nak bersalin. Kulit halus bersih tanpa jerawat. Lepas minum, selang 5 minit, terus buang najis. Lepas selamat lahir anak, suami terus urus u",
-     "time": "2026-09-25",
-     "likes": 0
-    },
-    {
-     "name": "nonieliah",
-     "message": "Adek beradik sy yg lelaki semua takot nk pgg uri,uri anak2 buah semua sy yg urus dan setelkn..cucu bersih2.xnk bg pecah jgn berbau.balut elok2 lps cuci.soh diorg tanam cpt..",
-     "time": "2026-09-25",
-     "likes": 0
-    },
-    {
-     "name": "alyamahyadin",
-     "message": "Cakap pasal uri, uri i masa beranak berat 1.5kg hahahaha. Besar gilaaaa. Amazed boleh bawak seberat tu + berat anak lagi",
-     "time": "2026-09-25",
-     "likes": 0
-    }
-   ],
-   "items": 6,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Kisah diri"
   },
   {
    "id": "6a9f5065ce5bbba4298b644f",
@@ -470,7 +470,7 @@
    "content": "Al-Quran sebut cara berhenti susu dalam 1 ayat. Umur ayat tu 1,400 tahun, dan ia tak sebut masa. Ia sebut 2 benda, dan 2 benda itu yang jadi punca gaduh di banyak rumah. 🧵",
    "date": "2026-09-23",
    "time": "07:02",
-   "views": 88233,
+   "views": 88261,
    "likes": 571,
    "comments": 98,
    "shares": 189,
@@ -565,7 +565,7 @@
    "content": "Al-Quran bagi 2 tahun untuk menyusu. Tapi ada 1 ayat pasal cara berhenti, dan ia sebut 2 benda yang bukan tentang susu. 🧵",
    "date": "2026-09-20",
    "time": "07:02",
-   "views": 56824,
+   "views": 56826,
    "likes": 463,
    "comments": 61,
    "shares": 97,
@@ -584,7 +584,7 @@
    "content": "Ibn Qayyim tulis 700 tahun lalu: kebanyakan kerosakan anak datang dari ibu bapa. Bukan dari telefon. Bukan dari kawan dia. 🧵",
    "date": "2026-09-21",
    "time": "07:02",
-   "views": 54346,
+   "views": 54348,
    "likes": 2280,
    "comments": 98,
    "shares": 592,
@@ -660,7 +660,7 @@
    "content": "Mak saya bidan 40 tahun. Dia cakap kerja dia paling susah bukan sambut bayi. Tapi pujuk ayah yang tak nak masuk bilik.",
    "date": "2026-09-19",
    "time": "18:02",
-   "views": 34059,
+   "views": 34060,
    "likes": 382,
    "comments": 55,
    "shares": 29,
@@ -755,7 +755,7 @@
    "content": "1 lelaki bawa anaknya yang baru lahir kepada Nabi SAW. Baginda buat 3 benda. 1,400 tahun lepas, dan semua 3 tak perlu duit. 🧵",
    "date": "2026-09-21",
    "time": "18:02",
-   "views": 10703,
+   "views": 10704,
    "likes": 137,
    "comments": 15,
    "shares": 22,
@@ -907,7 +907,7 @@
    "content": "Kenalkan, saya Ustaz Basri. Saya bukan doktor, bukan pakar psikologi. Saya anak seorang bidan, dan 9 tahun saya urus uri untuk lebih 5,000 keluarga.",
    "date": "2026-09-18",
    "time": "20:02",
-   "views": 7528,
+   "views": 7534,
    "likes": 121,
    "comments": 11,
    "shares": 11,
@@ -1135,11 +1135,11 @@
    "content": "Nabi SAW suruh 1 sahabat minum madu 3 kali untuk perut saudaranya, dan 3 kali itu rasa macam tak jadi. Kali ke-4 baru baik. Tapi kita jarang sebut ia untuk 1 golongan ini: ibu yang tengah berpantang. 🧵",
    "date": "2026-09-24",
    "time": "18:01",
-   "views": 3714,
+   "views": 3779,
    "likes": 15,
    "comments": 8,
    "shares": 8,
-   "er": 0.83,
+   "er": 0.82,
    "url": "https://www.threads.com/@ustaz.basri/post/Ddqn5hYiAGI",
    "topComments": [],
    "items": 6,
@@ -1262,6 +1262,25 @@
    "hookClass": "Nama luar (barat)"
   },
   {
+   "id": "6ab5aebf9a217cdec2a498b0",
+   "zid": "6ab249a7bbdbed64ee44e27d",
+   "platformPostId": "18436636288176998",
+   "content": "1 lelaki tanya Nabi SAW siapa paling berhak dilayan baik. Baginda jawab \"ibu\" 3 kali. Kali keempat baru \"ayah\". Bukan kerana ayah kurang. 🧵",
+   "date": "2026-09-25",
+   "time": "07:02",
+   "views": 2286,
+   "likes": 18,
+   "comments": 11,
+   "shares": 8,
+   "er": 1.62,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdsBNZijlnS",
+   "topComments": [],
+   "items": 6,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Dalil / Nabi"
+  },
+  {
    "id": "6aa49be42e4907e81599af3c",
    "zid": "6aa2ca7622368bf78269b29f",
    "platformPostId": "18110320985278444",
@@ -1279,6 +1298,25 @@
    "slot": "07:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Kisah diri"
+  },
+  {
+   "id": "6aa5e3e7c0490b596f3825b7",
+   "zid": "6aa2ca7ab01555da6098e8c3",
+   "platformPostId": "18072888050485595",
+   "content": "Anak tak minta ayah sempurna. Anak minta ayah yang ada.",
+   "date": "2026-09-13",
+   "time": "07:01",
+   "views": 2062,
+   "likes": 33,
+   "comments": 9,
+   "shares": 6,
+   "er": 2.33,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdNHlfHDeip",
+   "topComments": [],
+   "items": 5,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Lain-lain"
   },
   {
    "id": "6aa0efd2d67e304d2e6c1b57",
@@ -1319,25 +1357,6 @@
    "hookClass": "Kisah diri"
   },
   {
-   "id": "6aa5e3e7c0490b596f3825b7",
-   "zid": "6aa2ca7ab01555da6098e8c3",
-   "platformPostId": "18072888050485595",
-   "content": "Anak tak minta ayah sempurna. Anak minta ayah yang ada.",
-   "date": "2026-09-13",
-   "time": "07:01",
-   "views": 1938,
-   "likes": 33,
-   "comments": 9,
-   "shares": 5,
-   "er": 2.43,
-   "url": "https://www.threads.com/@ustaz.basri/post/DdNHlfHDeip",
-   "topComments": [],
-   "items": 5,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Lain-lain"
-  },
-  {
    "id": "6a8e68f977555aae018c68c1",
    "zid": "6a8e59a0d74544963d22dbf7",
    "platformPostId": "18574992031069896",
@@ -1353,25 +1372,6 @@
    "topComments": [],
    "items": 6,
    "slot": "12:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi"
-  },
-  {
-   "id": "6ab5aebf9a217cdec2a498b0",
-   "zid": "6ab249a7bbdbed64ee44e27d",
-   "platformPostId": "18436636288176998",
-   "content": "1 lelaki tanya Nabi SAW siapa paling berhak dilayan baik. Baginda jawab \"ibu\" 3 kali. Kali keempat baru \"ayah\". Bukan kerana ayah kurang. 🧵",
-   "date": "2026-09-25",
-   "time": "07:02",
-   "views": 1855,
-   "likes": 15,
-   "comments": 11,
-   "shares": 7,
-   "er": 1.78,
-   "url": "https://www.threads.com/@ustaz.basri/post/DdsBNZijlnS",
-   "topComments": [],
-   "items": 6,
-   "slot": "07:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Dalil / Nabi"
   },
@@ -1555,17 +1555,17 @@
     "median": 10479,
     "best": 691109,
     "worst": 0,
-    "total": 3157502,
-    "er": 2.53,
+    "total": 3169596,
+    "er": 2.52,
     "below": 12
    },
    {
     "label": "18:01",
     "n": 26,
-    "median": 6841,
+    "median": 6844,
     "best": 229487,
     "worst": 674,
-    "total": 754835,
+    "total": 754908,
     "er": 2.03,
     "below": 16
    },
@@ -1587,17 +1587,17 @@
     "median": 8782,
     "best": 691109,
     "worst": 1359,
-    "total": 4138147,
-    "er": 2.25,
+    "total": 4150308,
+    "er": 2.24,
     "below": 29
    },
    {
     "label": "Mini-bebenang 3 mesej",
     "n": 4,
-    "median": 5432,
+    "median": 5435,
     "best": 13371,
     "worst": 2410,
-    "total": 26645,
+    "total": 26651,
     "er": 1.24,
     "below": 3
    },
@@ -1616,20 +1616,20 @@
    {
     "label": "Dalil / Nabi",
     "n": 32,
-    "median": 11733,
+    "median": 11734,
     "best": 691109,
     "worst": 1359,
-    "total": 2393189,
+    "total": 2393718,
     "er": 2.48,
     "below": 14
    },
    {
     "label": "Kisah diri",
     "n": 10,
-    "median": 7543,
+    "median": 7546,
     "best": 588498,
     "worst": 1971,
-    "total": 1050407,
+    "total": 1061921,
     "er": 1.55,
     "below": 6
    },
@@ -1659,8 +1659,8 @@
     "median": 1103,
     "best": 46609,
     "worst": 0,
-    "total": 56944,
-    "er": 1.28,
+    "total": 57068,
+    "er": 1.27,
     "below": 10
    }
   ],
@@ -1712,8 +1712,8 @@
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -54%",
-    "body": "673.0K views vs 1.45M minggu sebelumnya."
+    "title": "Nadi 7 hari turun -53%",
+    "body": "685.2K views vs 1.45M minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -2017,10 +2017,10 @@
   },
   {
    "date": "2026-09-25",
-   "views": 13535,
-   "likes": 133,
-   "comments": 22,
-   "shares": 25,
+   "views": 25702,
+   "likes": 298,
+   "comments": 36,
+   "shares": 41,
    "posts": 0
   }
  ],
@@ -2165,8 +2165,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "673.0K",
-   "sub": "-54% vs 7 hari sebelumnya"
+   "value": "685.2K",
+   "sub": "-53% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -2190,12 +2190,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-25 18:21 MYT",
+  "fetchedAt": "2026-09-25 18:52 MYT",
   "totals": {
-   "views": 4194151,
-   "likes": 77948,
-   "replies": 5488,
-   "reposts": 18618,
+   "views": 4196738,
+   "likes": 77987,
+   "replies": 5494,
+   "reposts": 18622,
    "quotes": 727,
    "posts": 63
   },
@@ -2204,9 +2204,9 @@
     "id": "18436636288176998",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdsBNZijlnS",
     "timestamp": "2026-09-24",
-    "views": 2286,
+    "views": 2374,
     "likes": 18,
-    "replies": 11,
+    "replies": 12,
     "reposts": 8,
     "quotes": 0
    },
@@ -2214,7 +2214,7 @@
     "id": "18124437394806982",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddqn5hYiAGI",
     "timestamp": "2026-09-24",
-    "views": 3779,
+    "views": 3786,
     "likes": 15,
     "replies": 8,
     "reposts": 8,
@@ -2224,10 +2224,10 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 397261,
-    "likes": 4379,
+    "views": 399730,
+    "likes": 4418,
     "replies": 184,
-    "reposts": 471,
+    "reposts": 475,
     "quotes": 7
    },
    {
@@ -2244,9 +2244,9 @@
     "id": "18633169309058399",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
     "timestamp": "2026-09-22",
-    "views": 88261,
+    "views": 88265,
     "likes": 571,
-    "replies": 98,
+    "replies": 103,
     "reposts": 179,
     "quotes": 10
    },
@@ -2314,7 +2314,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 7534,
+    "views": 7535,
     "likes": 121,
     "replies": 11,
     "reposts": 10,
@@ -2364,7 +2364,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 691285,
+    "views": 691295,
     "likes": 17687,
     "replies": 442,
     "reposts": 5954,
@@ -2384,7 +2384,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 588510,
+    "views": 588511,
     "likes": 9734,
     "replies": 338,
     "reposts": 1743,
@@ -2514,7 +2514,7 @@
     "id": "18175312390444507",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
-    "views": 241202,
+    "views": 241203,
     "likes": 3138,
     "replies": 97,
     "reposts": 765,
@@ -2604,7 +2604,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 172661,
+    "views": 172662,
     "likes": 1491,
     "replies": 451,
     "reposts": 123,
@@ -2614,7 +2614,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 229515,
+    "views": 229519,
     "likes": 4098,
     "replies": 1134,
     "reposts": 1762,
@@ -2774,7 +2774,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 177288,
+    "views": 177289,
     "likes": 3780,
     "replies": 355,
     "reposts": 1221,
