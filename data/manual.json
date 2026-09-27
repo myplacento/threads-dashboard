@@ -1,13 +1,13 @@
 {
   "target_views": 10000000,
   "target_views_api": 6000000,
-  "target_followers": 2500,
+  "target_followers": 2000,
   "goal": {
-    "label": "10 Juta Views + 2,500 Followers",
+    "label": "10 Juta Views + 2,000 Followers",
     "sub": "Fasa 2 · Misi Sunnah Neuroparenting · Threads @ustaz.basri",
     "deadline": "2026-09-30",
     "phase": "Fasa 2 (selepas 6M tercapai 16/9)",
-    "note": "Views: laju 301K/hari → 10M dalam ~11 hari. Followers: perlu +1,360 (laju perlu ~97/hari, sekarang ~40/hari) → lever utama = kadar tukar viewer jadi follower (0.11% sekarang)."
+    "note": "Target followers diturunkan 2,500 → 2,000 atas arahan Ustaz 27/9 (realistik dengan kadar tukar semasa). Views 92.7%, followers 79.5% pada 27/9."
   },
   "app_history": [
     [
@@ -76,9 +76,9 @@
   ],
   "extra_actions": [
     {
-      "level": "warn",
-      "title": "👥 Followers akan lewat ~10 hari",
-      "body": "1,988 → 2,500 perlu +512. Laju sekarang 39-40/hari → hanya siap ~10 Okt (deadline 30 Sep). Post 406K pun cuma bawa +30-50 follower sehari. Lever: CTA dalam post viral + pinned post."
+      "level": "good",
+      "title": "🎯 TARGET DIKEMASKINI: 10 Juta + 2,000 Followers",
+      "body": "Ustaz turunkan sasaran followers 2,500 → 2,000 (arahan 27/9). Followers sekarang 1,988 — tinggal 12 orang sahaja! Siap dalam 1 hari."
     },
     {
       "level": "good",
@@ -88,12 +88,17 @@
     {
       "level": "good",
       "title": "🔥 SEQUEL MASIH MENANG (rekod baharu)",
-      "body": "Bidan-4 (24/9 07:01) = 405,982 views. Peraturan lama 'had 2 sequel' SALAH — yang penting ANGLE baharu, bukan bilangan."
+      "body": "Bidan-4 (24/9 07:01) = 405,982 views. Peraturan 'had 2 sequel' SALAH — yang penting ANGLE baharu, bukan bilangan."
     },
     {
       "level": "bad",
       "title": "⚠️ Slot 18:01 hampir mati",
-      "body": "20/9-27/9 slot 18:01: 4.2K, 10.7K, 1.4K, 3.9K, 6.4K, 2.6K, 29.8K. Median ~4K. Manakala 07:01: 88K, 406K, 106K, 54K. Cadangan: tumpukan 07:01, jadikan 18:01 pilihan sahaja."
+      "body": "20/9-27/9 slot 18:01: 4.2K, 10.7K, 1.4K, 3.9K, 6.4K, 2.6K, 29.8K. Median ~4K. Manakala 07:01: 88K, 406K, 106K, 54K. Cadangan: tumpukan 07:01."
+    },
+    {
+      "level": "good",
+      "title": "📣 CTA 'follow saya' ditambah pada semua benang berjadual",
+      "body": "Arahan Ustaz 27/9: setiap benang berakhir dengan 1 baris CTA untuk naikkan kadar tukar viewer → follower."
     }
   ]
 }
