@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-28 03:37 MYT",
+  "generatedAt": "2026-09-28 04:08 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -67,10 +67,10 @@
   }
  },
  "totals": {
-  "views": 4415976,
-  "likes": 83101,
-  "comments": 5794,
-  "shares": 20539,
+  "views": 4419546,
+  "likes": 83129,
+  "comments": 5797,
+  "shares": 20543,
   "posts": 99
  },
  "posts": [
@@ -193,11 +193,11 @@
    "content": "Nabi SAW azan untuk cucunya pada hari pertama dia lahir — 1400 tahun dah sunnah ni.\n\nKita sibuk pilih hospital & baju bayi, lupa kalimah pertama anak.",
    "date": "2026-08-27",
    "time": "07:32",
-   "views": 434793,
+   "views": 435003,
    "likes": 4779,
-   "comments": 1167,
-   "shares": 223,
-   "er": 1.42,
+   "comments": 1131,
+   "shares": 202,
+   "er": 1.41,
    "url": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
    "topComments": [
     {
@@ -249,9 +249,9 @@
    "content": "Mak saya bidan 40 tahun. Dia cakap 1 benda yang dia paling tak sanggup tengok selesai bersalin: uri. Bahagian badan anak kita yang pertama keluar, dan yang pertama orang lupa. 🧵",
    "date": "2026-09-24",
    "time": "07:02",
-   "views": 406009,
+   "views": 406013,
    "likes": 4475,
-   "comments": 229,
+   "comments": 232,
    "shares": 493,
    "er": 1.28,
    "url": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
@@ -474,11 +474,11 @@
    "content": "Al-Quran sebut ibu mengandung dengan \"lemah bertambah lemah\". Bukan 1 kali lemah. Lemah yang berulang. Ayat 31:14. 🧵",
    "date": "2026-09-26",
    "time": "07:02",
-   "views": 109208,
-   "likes": 4489,
+   "views": 109708,
+   "likes": 4502,
    "comments": 55,
-   "shares": 1067,
-   "er": 5.14,
+   "shares": 1070,
+   "er": 5.13,
    "url": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
    "topComments": [],
    "items": 6,
@@ -607,7 +607,7 @@
    "content": "Ibn Qayyim tulis 700 tahun lalu: kebanyakan kerosakan anak datang dari ibu bapa. Bukan dari telefon. Bukan dari kawan dia. 🧵",
    "date": "2026-09-21",
    "time": "07:02",
-   "views": 54477,
+   "views": 54478,
    "likes": 2279,
    "comments": 98,
    "shares": 592,
@@ -639,6 +639,25 @@
    "hookClass": "Dalil / Nabi"
   },
   {
+   "id": "6ab8ecd0e3a031ac40a60f84",
+   "zid": "6ab249b0a47adaa82c67e54d",
+   "platformPostId": "18382087723224560",
+   "content": "1 ayah bangga sebab dia tak pernah cium 10 anaknya. Dia cakap depan Nabi SAW. Baginda tak marah dia. Baginda buat 1 benda. 🧵",
+   "date": "2026-09-27",
+   "time": "18:02",
+   "views": 48808,
+   "likes": 263,
+   "comments": 15,
+   "shares": 66,
+   "er": 0.7,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdyWU82keI-",
+   "topComments": [],
+   "items": 6,
+   "slot": "18:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Dalil / Nabi"
+  },
+  {
    "id": "6a96179e77555aae016fcce6",
    "zid": "6a9459c827e43db41c5be49e",
    "platformPostId": "18404133565092720",
@@ -656,25 +675,6 @@
    "slot": "07:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Lain-lain"
-  },
-  {
-   "id": "6ab8ecd0e3a031ac40a60f84",
-   "zid": "6ab249b0a47adaa82c67e54d",
-   "platformPostId": "18382087723224560",
-   "content": "1 ayah bangga sebab dia tak pernah cium 10 anaknya. Dia cakap depan Nabi SAW. Baginda tak marah dia. Baginda buat 1 benda. 🧵",
-   "date": "2026-09-27",
-   "time": "18:02",
-   "views": 45961,
-   "likes": 248,
-   "comments": 15,
-   "shares": 65,
-   "er": 0.71,
-   "url": "https://www.threads.com/@ustaz.basri/post/DdyWU82keI-",
-   "topComments": [],
-   "items": 6,
-   "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi"
   },
   {
    "id": "6a95689b77555aae013f8fe0",
@@ -797,7 +797,7 @@
    "content": "1 lelaki bawa anaknya yang baru lahir kepada Nabi SAW. Baginda buat 3 benda. 1,400 tahun lepas, dan semua 3 tak perlu duit. 🧵",
    "date": "2026-09-21",
    "time": "18:02",
-   "views": 10714,
+   "views": 10715,
    "likes": 137,
    "comments": 15,
    "shares": 22,
@@ -1006,7 +1006,7 @@
    "content": "Al-Quran sebut 1 perkataan yang kita dilarang cakap pada ibu bapa. Bukan perkataan kesat. Cuma 1 bunyi. 1,400 tahun lepas. 🧵",
    "date": "2026-09-25",
    "time": "18:02",
-   "views": 6423,
+   "views": 6425,
    "likes": 50,
    "comments": 8,
    "shares": 9,
@@ -1234,7 +1234,7 @@
    "content": "Nabi SAW angkat 2 jari dan letak rapat. Baginda cakap: saya dan orang yang menjaga anak yatim akan bersama di syurga macam ini. 🧵",
    "date": "2026-09-27",
    "time": "07:02",
-   "views": 3485,
+   "views": 3489,
    "likes": 26,
    "comments": 14,
    "shares": 5,
@@ -1329,7 +1329,7 @@
    "content": "\"Biarkan dia nangis, nanti dia kuat.\" 1 ayat ni salah, dan ia buat ramai ibu ayah bertahan dengar anak menangis dengan hati yang pecah. 🧵",
    "date": "2026-09-26",
    "time": "18:02",
-   "views": 2560,
+   "views": 2561,
    "likes": 21,
    "comments": 7,
    "shares": 4,
@@ -1654,17 +1654,17 @@
     "median": 10480,
     "best": 692295,
     "worst": 0,
-    "total": 3294176,
-    "er": 2.57,
+    "total": 3294895,
+    "er": 2.56,
     "below": 13
    },
    {
     "label": "18:01",
     "n": 29,
-    "median": 6423,
+    "median": 6425,
     "best": 229757,
     "worst": 674,
-    "total": 810796,
+    "total": 813647,
     "er": 1.92,
     "below": 18
    },
@@ -1686,7 +1686,7 @@
     "median": 8548,
     "best": 692295,
     "worst": 1359,
-    "total": 4330619,
+    "total": 4334189,
     "er": 2.21,
     "below": 32
    },
@@ -1718,7 +1718,7 @@
     "median": 11739,
     "best": 692295,
     "worst": 1359,
-    "total": 2562024,
+    "total": 2565589,
     "er": 2.43,
     "below": 16
    },
@@ -1728,7 +1728,7 @@
     "median": 7643,
     "best": 588933,
     "worst": 1971,
-    "total": 1071319,
+    "total": 1071323,
     "er": 1.55,
     "below": 6
    },
@@ -1738,7 +1738,7 @@
     "median": 5542,
     "best": 390192,
     "worst": 1395,
-    "total": 670828,
+    "total": 670829,
     "er": 1.66,
     "below": 6
    },
@@ -1812,7 +1812,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -55%",
-    "body": "711.7K views vs 1.59M minggu sebelumnya."
+    "body": "715.2K views vs 1.59M minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -2137,10 +2137,10 @@
   },
   {
    "date": "2026-09-27",
-   "views": 63168,
-   "likes": 652,
-   "comments": 41,
-   "shares": 190,
+   "views": 66738,
+   "likes": 680,
+   "comments": 44,
+   "shares": 194,
    "posts": 1
   }
  ],
@@ -2297,7 +2297,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "711.7K",
+   "value": "715.2K",
    "sub": "-55% vs 7 hari sebelumnya"
   },
   {
@@ -2322,12 +2322,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-28 11:37 MYT",
+  "fetchedAt": "2026-09-28 12:08 MYT",
   "totals": {
-   "views": 4379027,
-   "likes": 82911,
+   "views": 4379609,
+   "likes": 82921,
    "replies": 5597,
-   "reposts": 19726,
+   "reposts": 19725,
    "quotes": 757,
    "posts": 68
   },
@@ -2336,8 +2336,8 @@
     "id": "18382087723224560",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdyWU82keI-",
     "timestamp": "2026-09-27",
-    "views": 48808,
-    "likes": 263,
+    "views": 49252,
+    "likes": 268,
     "replies": 15,
     "reposts": 64,
     "quotes": 2
@@ -2366,8 +2366,8 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 109708,
-    "likes": 4502,
+    "views": 109837,
+    "likes": 4507,
     "replies": 55,
     "reposts": 1040,
     "quotes": 30
@@ -2376,7 +2376,7 @@
     "id": "17991888431846857",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdtMyQ7CKUX",
     "timestamp": "2026-09-25",
-    "views": 6425,
+    "views": 6426,
     "likes": 50,
     "replies": 8,
     "reposts": 9,
@@ -2496,7 +2496,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 7754,
+    "views": 7755,
     "likes": 121,
     "replies": 11,
     "reposts": 10,
@@ -2566,7 +2566,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 589340,
+    "views": 589345,
     "likes": 9736,
     "replies": 339,
     "reposts": 1747,
@@ -2736,7 +2736,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 390218,
+    "views": 390219,
     "likes": 13139,
     "replies": 182,
     "reposts": 2620,
@@ -2826,7 +2826,7 @@
     "id": "18404133565092720",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcuRhhOCE88",
     "timestamp": "2026-08-31",
-    "views": 46623,
+    "views": 46624,
     "likes": 392,
     "replies": 106,
     "reposts": 66,
@@ -2899,7 +2899,7 @@
     "views": 435003,
     "likes": 4779,
     "replies": 1131,
-    "reposts": 156,
+    "reposts": 155,
     "quotes": 46
    },
    {
