@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-28 04:08 MYT",
+  "generatedAt": "2026-09-28 04:39 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -2322,11 +2322,11 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-28 12:08 MYT",
+  "fetchedAt": "2026-09-28 12:40 MYT",
   "totals": {
-   "views": 4379609,
-   "likes": 82921,
-   "replies": 5597,
+   "views": 4380339,
+   "likes": 82925,
+   "replies": 5595,
    "reposts": 19725,
    "quotes": 757,
    "posts": 68
@@ -2336,17 +2336,17 @@
     "id": "18382087723224560",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdyWU82keI-",
     "timestamp": "2026-09-27",
-    "views": 49252,
-    "likes": 268,
+    "views": 49907,
+    "likes": 272,
     "replies": 15,
-    "reposts": 64,
+    "reposts": 65,
     "quotes": 2
    },
    {
     "id": "18356614927222834",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdxKxG5jK9C",
     "timestamp": "2026-09-26",
-    "views": 3489,
+    "views": 3491,
     "likes": 26,
     "replies": 14,
     "reposts": 4,
@@ -2366,7 +2366,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 109837,
+    "views": 109904,
     "likes": 4507,
     "replies": 55,
     "reposts": 1040,
@@ -2386,7 +2386,7 @@
     "id": "18436636288176998",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdsBNZijlnS",
     "timestamp": "2026-09-24",
-    "views": 2819,
+    "views": 2820,
     "likes": 19,
     "replies": 17,
     "reposts": 9,
@@ -2546,7 +2546,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 692757,
+    "views": 692758,
     "likes": 17690,
     "replies": 442,
     "reposts": 5955,
@@ -2566,7 +2566,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 589345,
+    "views": 589349,
     "likes": 9736,
     "replies": 339,
     "reposts": 1747,
@@ -2898,8 +2898,8 @@
     "timestamp": "2026-08-26",
     "views": 435003,
     "likes": 4779,
-    "replies": 1131,
-    "reposts": 155,
+    "replies": 1129,
+    "reposts": 154,
     "quotes": 46
    },
    {
