@@ -41,17 +41,21 @@
     [
       "2026-09-21",
       8349916
+    ],
+    [
+      "2026-09-27",
+      9272517
     ]
   ],
   "app_reported": {
-    "views": 8349916,
-    "viewers": 1280540,
-    "followers": 1797,
-    "net_followers_gain": 1667,
-    "followers_growth_pct": 9261.1,
-    "interactions": 130022,
-    "updated": "21/9/2026",
-    "note": "Screenshot app 21/9. REKOD BARU: 'Al-Quran 2 tahun menyusu, 1 bahagian jarang dibaca' 17/9 = 688,419 views (post #1 sepanjang masa) = SEQUEL kepada post susu 228K. Top-5: susu-2 688K · bidan-2 587K · azan 434K · bidan-1 389K · dukung 241K. Demo: MY 77.57%, ID 6.49%, BN 1.03%, SG 0.98%. Viewer: 1,797 followers vs 1.2 juta bukan-follower (kadar tukar 0.14%). Paling aktif: Ahad 482K, Sabtu 454K, Jumaat 449K (2-5PM)."
+    "views": 9272517,
+    "viewers": 1347382,
+    "followers": 1988,
+    "net_followers_gain": 1720,
+    "followers_growth_pct": 761.1,
+    "interactions": 142425,
+    "updated": "27/9/2026",
+    "note": "Screenshot 27/9. Views 92.7% & followers 79.5% dari sasaran Fasa 2. REKOD: bidan-4 'apa yang dia paling takut' (24/9 07:01) = 405,982 views — SEQUEL ke-4 bidan MASIH menang (angle baharu, bukan ulangan). 26/9 'lemah bertambah lemah' = 106K. 18:01 kini lemah konsisten (1.4K-29.8K). Follower ~40/hari (kadar tukar rendah walaupun post viral)."
   },
   "active_times": [
     {
@@ -72,29 +76,24 @@
   ],
   "extra_actions": [
     {
-      "level": "good",
-      "title": "✅ KEDUA-DUA ON TRACK (Fasa 2)",
-      "body": "Views 8.35M/10M laju 315K/hari (perlu 183K). Followers 1,797/2,500 laju 131/hari (perlu 98/hari). Bio + pinned post dah bergerak."
+      "level": "warn",
+      "title": "👥 Followers akan lewat ~10 hari",
+      "body": "1,988 → 2,500 perlu +512. Laju sekarang 39-40/hari → hanya siap ~10 Okt (deadline 30 Sep). Post 406K pun cuma bawa +30-50 follower sehari. Lever: CTA dalam post viral + pinned post."
     },
     {
       "level": "good",
-      "title": "🥇 REKOD BARU: 688,419 views = SEQUEL menang",
-      "body": "'Al-Quran 2 tahun menyusu, 1 bahagian jarang dibaca' (17/9 07:01) mengalahkan asal (228K) 3×. STRATEGI SEQUEL SAH. Tapi sequel ke-3 macam mula lemah (34K/57K) — had 2 sequel per topik."
+      "title": "📸 Views hampir siap",
+      "body": "9,272,517 = 92.7% dari 10M. Laju ~185K/hari → siap ~30 Sep-1 Okt."
     },
     {
       "level": "good",
-      "title": "👑 Slot 07:01 = RAJA (median 58K)",
-      "body": "Sejak 16/9: 07:01 median 58,408 vs 18:01 median 10,003. Slot 07:01 mesti diisi content TERKUAT. Enam siaran 07:01: 587K, 688K, 60K, 56K, 50K, 3.7K."
+      "title": "🔥 SEQUEL MASIH MENANG (rekod baharu)",
+      "body": "Bidan-4 (24/9 07:01) = 405,982 views. Peraturan lama 'had 2 sequel' SALAH — yang penting ANGLE baharu, bukan bilangan."
     },
     {
       "level": "bad",
-      "title": "❌ UJIAN 14:01 GAGAL — kekal 12:01",
-      "body": "17/9 14:01 = 3,314 views vs 18/9 12:01 = 13,321 views. Hipotesis 'alih ke puncak 2-5PM' TIDAK disokong. Balik ke 12:01."
-    },
-    {
-      "level": "good",
-      "title": "🌏 Indonesia melonjak 6× (1.05% → 6.49%)",
-      "body": "Malaysia 77.57%. Audience makin serantau — kandungan yang sebut Al-Quran/adat Melayu sampai ke Indonesia."
+      "title": "⚠️ Slot 18:01 hampir mati",
+      "body": "20/9-27/9 slot 18:01: 4.2K, 10.7K, 1.4K, 3.9K, 6.4K, 2.6K, 29.8K. Median ~4K. Manakala 07:01: 88K, 406K, 106K, 54K. Cadangan: tumpukan 07:01, jadikan 18:01 pilihan sahaja."
     }
   ]
 }
