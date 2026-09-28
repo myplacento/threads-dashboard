@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-29 03:59 MYT",
+  "generatedAt": "2026-09-29 04:30 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -2372,10 +2372,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-29 11:59 MYT",
+  "fetchedAt": "2026-09-29 12:30 MYT",
   "totals": {
-   "views": 4542468,
-   "likes": 83947,
+   "views": 4543163,
+   "likes": 83953,
    "replies": 5646,
    "reposts": 19921,
    "quotes": 764,
@@ -2386,8 +2386,8 @@
     "id": "18102733826458393",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dd07HEviH4J",
     "timestamp": "2026-09-28",
-    "views": 13632,
-    "likes": 84,
+    "views": 13900,
+    "likes": 85,
     "replies": 7,
     "reposts": 5,
     "quotes": 0
@@ -2396,9 +2396,9 @@
     "id": "17975074632132976",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddzvjk9DrP3",
     "timestamp": "2026-09-27",
-    "views": 111473,
-    "likes": 680,
-    "replies": 38,
+    "views": 111894,
+    "likes": 685,
+    "replies": 39,
     "reposts": 145,
     "quotes": 6
    },
@@ -2416,7 +2416,7 @@
     "id": "18356614927222834",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdxKxG5jK9C",
     "timestamp": "2026-09-26",
-    "views": 3831,
+    "views": 3835,
     "likes": 27,
     "replies": 15,
     "reposts": 4,
@@ -2576,7 +2576,7 @@
     "id": "18135020344630704",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddah8GnjChk",
     "timestamp": "2026-09-18",
-    "views": 13378,
+    "views": 13379,
     "likes": 86,
     "replies": 12,
     "reposts": 1,
@@ -2616,7 +2616,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 693207,
+    "views": 693208,
     "likes": 17690,
     "replies": 442,
     "reposts": 5957,
@@ -2968,7 +2968,7 @@
     "timestamp": "2026-08-26",
     "views": 435029,
     "likes": 4779,
-    "replies": 1120,
+    "replies": 1119,
     "reposts": 150,
     "quotes": 46
    },
