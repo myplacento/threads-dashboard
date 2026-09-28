@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-09-29 06:03 MYT",
+  "generatedAt": "2026-09-29 06:34 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -67,10 +67,10 @@
   }
  },
  "totals": {
-  "views": 4583885,
-  "likes": 84173,
+  "views": 4584753,
+  "likes": 84185,
   "comments": 5860,
-  "shares": 20757,
+  "shares": 20758,
   "posts": 101
  },
  "posts": [
@@ -474,11 +474,11 @@
    "content": "\"Anak lelaki jangan dipeluk sangat. Nanti lembut.\" Ayat ni campur 2 benda berbeza: lembut dan lemah. 🧵",
    "date": "2026-09-28",
    "time": "07:02",
-   "views": 111894,
-   "likes": 685,
+   "views": 112436,
+   "likes": 695,
    "comments": 39,
-   "shares": 151,
-   "er": 0.78,
+   "shares": 152,
+   "er": 0.79,
    "url": "https://www.threads.com/@ustaz.basri/post/Ddzvjk9DrP3",
    "topComments": [],
    "items": 6,
@@ -493,7 +493,7 @@
    "content": "Al-Quran sebut ibu mengandung dengan \"lemah bertambah lemah\". Bukan 1 kali lemah. Lemah yang berulang. Ayat 31:14. 🧵",
    "date": "2026-09-26",
    "time": "07:02",
-   "views": 110939,
+   "views": 110942,
    "likes": 4531,
    "comments": 55,
    "shares": 1084,
@@ -531,7 +531,7 @@
    "content": "Seorang lelaki ada 10 anak. Tak pernah cium seorang pun. Dia bangga dengan tu, sampai dia cakap depan Nabi SAW. 🧵",
    "date": "2026-09-07",
    "time": "18:01",
-   "views": 86958,
+   "views": 86962,
    "likes": 526,
    "comments": 23,
    "shares": 132,
@@ -550,7 +550,7 @@
    "content": "1 ayah bangga sebab dia tak pernah cium 10 anaknya. Dia cakap depan Nabi SAW. Baginda tak marah dia. Baginda buat 1 benda. 🧵",
    "date": "2026-09-27",
    "time": "18:02",
-   "views": 84068,
+   "views": 84073,
    "likes": 502,
    "comments": 19,
    "shares": 103,
@@ -759,8 +759,8 @@
    "content": "Mak saya bidan 40 tahun. Dia pesan 1 benda sebelum anak saya lahir: \"Azan dulu, sebelum dunia bercakap dengan dia.\" Saya buat 3 kali. Yang saya ingat bukan bil hospital. 🧵",
    "date": "2026-09-28",
    "time": "18:02",
-   "views": 13900,
-   "likes": 85,
+   "views": 14211,
+   "likes": 87,
    "comments": 7,
    "shares": 5,
    "er": 0.7,
@@ -873,7 +873,7 @@
    "content": "Nabi SAW cakap: rotan kalau anak tak solat 10 tahun..\n\nSambungan isu semalam.\n\nTapi baca penuh: 7 tahun ajar, 10 tahun pukul — 3 TAHUN latihan dulu.\n\nKita? Hari pertama terus rotan.",
    "date": "2026-08-26",
    "time": "07:33",
-   "views": 9490,
+   "views": 9491,
    "likes": 305,
    "comments": 21,
    "shares": 103,
@@ -1139,7 +1139,7 @@
    "content": "Al-Quran ajar doa 1400 tahun lalu: \"Ya Tuhan kami, kurniakanlah kami pasangan dan zuriat yang menyejukkan mata.\" (Al-Furqan 74) Ramai fikir anak selamatkan rumah tangga. Rupanya terbalik.",
    "date": "2026-09-06",
    "time": "18:16",
-   "views": 5114,
+   "views": 5115,
    "likes": 83,
    "comments": 6,
    "shares": 24,
@@ -1234,7 +1234,7 @@
    "content": "Nabi SAW angkat 2 jari dan letak rapat. Baginda cakap: saya dan orang yang menjaga anak yatim akan bersama di syurga macam ini. 🧵",
    "date": "2026-09-27",
    "time": "07:02",
-   "views": 3835,
+   "views": 3836,
    "likes": 27,
    "comments": 15,
    "shares": 5,
@@ -1692,7 +1692,7 @@
     "median": 28557,
     "best": 692815,
     "worst": 0,
-    "total": 3409627,
+    "total": 3410174,
     "er": 2.5,
     "below": 13
    },
@@ -1702,7 +1702,7 @@
     "median": 7152,
     "best": 229905,
     "worst": 674,
-    "total": 863243,
+    "total": 863564,
     "er": 1.87,
     "below": 18
    },
@@ -1724,7 +1724,7 @@
     "median": 8948,
     "best": 692815,
     "worst": 1359,
-    "total": 4498396,
+    "total": 4499264,
     "er": 2.16,
     "below": 32
    },
@@ -1756,7 +1756,7 @@
     "median": 11740,
     "best": 692815,
     "worst": 1359,
-    "total": 2603308,
+    "total": 2603323,
     "er": 2.43,
     "below": 16
    },
@@ -1766,7 +1766,7 @@
     "median": 9114,
     "best": 390245,
     "worst": 1405,
-    "total": 796760,
+    "total": 797613,
     "er": 1.49,
     "below": 6
    },
@@ -1850,7 +1850,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -46%",
-    "body": "861.6K views vs 1.61M minggu sebelumnya."
+    "body": "862.4K views vs 1.61M minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -2175,16 +2175,16 @@
   },
   {
    "date": "2026-09-27",
-   "views": 182247,
-   "likes": 1395,
+   "views": 182789,
+   "likes": 1405,
    "comments": 83,
-   "shares": 351,
+   "shares": 352,
    "posts": 2
   },
   {
    "date": "2026-09-28",
-   "views": 48830,
-   "likes": 329,
+   "views": 49156,
+   "likes": 331,
    "comments": 24,
    "shares": 57,
    "posts": 1
@@ -2347,7 +2347,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "861.6K",
+   "value": "862.4K",
    "sub": "-46% vs 7 hari sebelumnya"
   },
   {
@@ -2372,7 +2372,7 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-09-29 14:03 MYT",
+  "fetchedAt": "2026-09-29 14:34 MYT",
   "totals": {
    "views": 4544031,
    "likes": 83965,
