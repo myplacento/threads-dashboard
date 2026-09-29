@@ -49,13 +49,13 @@
   ],
   "app_reported": {
     "views": 9272517,
-    "viewers": 1347382,
+    "viewers": 1310553,
     "followers": 2019,
     "net_followers_gain": 1720,
     "followers_growth_pct": 761.1,
     "interactions": 142425,
     "updated": "29/9/2026",
-    "note": "Screenshot 27/9. Views 92.7% & followers 79.5% dari sasaran Fasa 2. REKOD: bidan-4 'apa yang dia paling takut' (24/9 07:01) = 405,982 views — SEQUEL ke-4 bidan MASIH menang (angle baharu, bukan ulangan). 26/9 'lemah bertambah lemah' = 106K. 18:01 kini lemah konsisten (1.4K-29.8K). Follower ~40/hari (kadar tukar rendah walaupun post viral). | 29/9: 🎉 TARGET 2,000 FOLLOWERS TERCAPAI (2,019 pada 28/9). Post 28/9 07:01 'Anak lelaki jangan dipeluk sangat' = 114,762. CTA berkesan: post 27/9 naik 29,813 → 84,111."
+    "note": "Screenshot 27/9. Views 92.7% & followers 79.5% dari sasaran Fasa 2. REKOD: bidan-4 'apa yang dia paling takut' (24/9 07:01) = 405,982 views — SEQUEL ke-4 bidan MASIH menang (angle baharu, bukan ulangan). 26/9 'lemah bertambah lemah' = 106K. 18:01 kini lemah konsisten (1.4K-29.8K). Follower ~40/hari (kadar tukar rendah walaupun post viral). | 29/9: 🎉 TARGET 2,000 FOLLOWERS TERCAPAI (2,019 pada 28/9). Post 28/9 07:01 'Anak lelaki jangan dipeluk sangat' = 114,762. CTA berkesan: post 27/9 naik 29,813 → 84,111. | 29/9 (seksyen Profile, 30 hari): views 8,837,698 (+544.3%), viewers 1,310,553 (+231.4%). Meta AI: 'breakout month, views naik 5x+, wanita 25-34 Malaysia, Mom Threads teratas'."
   },
   "active_times": [
     {
@@ -95,5 +95,13 @@
       "title": "⚠️ 29/9 07:01 masih lemah (2,691)",
       "body": "Post Nabi SAW 'sebaik-baik kamu' baru 5 jam — mungkin masih memanjat. Semak semula petang ini."
     }
-  ]
+  ],
+  "app_profile": {
+    "views": 8837698,
+    "viewers": 1310553,
+    "pct_views": "+544.3%",
+    "pct_viewers": "+231.4%",
+    "tarikh": "29/9/2026",
+    "sumber": "Screenshot seksyen 'Profile' (Overview, 30 hari)"
+  }
 }
