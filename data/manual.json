@@ -1,13 +1,13 @@
 {
-  "target_views": 10000000,
-  "target_views_api": 6000000,
-  "target_followers": 2000,
+  "target_views": 15000000,
+  "target_views_api": 8000000,
+  "target_followers": 3500,
   "goal": {
-    "label": "10 Juta Views + 2,000 Followers",
-    "sub": "Fasa 2 · Misi Sunnah Neuroparenting · Threads @ustaz.basri",
-    "deadline": "2026-09-30",
-    "phase": "Fasa 2 (selepas 6M tercapai 16/9)",
-    "note": "Target followers diturunkan 2,500 → 2,000 atas arahan Ustaz 27/9 (realistik dengan kadar tukar semasa). Views 92.7%, followers 79.5% pada 27/9."
+    "label": "15 Juta Views + 3,500 Followers",
+    "sub": "Fasa 3 · Misi Sunnah Neuroparenting · Threads @ustaz.basri",
+    "deadline": "2026-10-31",
+    "phase": "Fasa 3 (Fasa 2 tercapai 29/9: 10.19M views + 2,067 fol)",
+    "note": "Ditetapkan babaya 29/9. Views: 10.19M → 15M perlu +4.81M (~26 hari pada 185K/hari). Followers: 2,067 → 3,500 perlu +1,433 (~45/hari, sepadan laju semasa)."
   },
   "app_history": [
     [
@@ -45,55 +45,64 @@
     [
       "2026-09-27",
       9272517
+    ],
+    [
+      "2026-09-29",
+      10187353
     ]
   ],
   "app_reported": {
-    "views": 9272517,
-    "viewers": 1310553,
-    "followers": 2019,
-    "net_followers_gain": 1720,
-    "followers_growth_pct": 761.1,
-    "interactions": 142425,
+    "views": 10187353,
+    "viewers": 1453205,
+    "followers": 2067,
+    "net_followers_gain": 2010,
+    "followers_growth_pct": 11166.7,
+    "interactions": 157857,
     "updated": "29/9/2026",
-    "note": "Screenshot 27/9. Views 92.7% & followers 79.5% dari sasaran Fasa 2. REKOD: bidan-4 'apa yang dia paling takut' (24/9 07:01) = 405,982 views — SEQUEL ke-4 bidan MASIH menang (angle baharu, bukan ulangan). 26/9 'lemah bertambah lemah' = 106K. 18:01 kini lemah konsisten (1.4K-29.8K). Follower ~40/hari (kadar tukar rendah walaupun post viral). | 29/9: 🎉 TARGET 2,000 FOLLOWERS TERCAPAI (2,019 pada 28/9). Post 28/9 07:01 'Anak lelaki jangan dipeluk sangat' = 114,762. CTA berkesan: post 27/9 naik 29,813 → 84,111. | 29/9 (seksyen Profile, 30 hari): views 8,837,698 (+544.3%), viewers 1,310,553 (+231.4%). Meta AI: 'breakout month, views naik 5x+, wanita 25-34 Malaysia, Mom Threads teratas'."
+    "note": "29/9 (Overview, 90 hari): 10,187,353 views · 1,453,205 viewers · +2,010 fol (11166.7%) · 157,857 interactions. 🎉 FASA 2 TERCAPAI. Bandar: KL 7.25%, Shah Alam 4.33%, JB 3.28%. Aktif: Ahad 600K, Khamis 560K, Sabtu 558K (2-5PM). Top post: susu-2 693K, bidan-2 589K, azan 435K, bidan-4 406K, bidan-1 390K."
   },
   "active_times": [
     {
       "hari": "Ahad",
-      "masa": "2PM - 5PM",
-      "viewers": 482000
+      "masa": "2PM-5PM",
+      "viewers": 600000
+    },
+    {
+      "hari": "Khamis",
+      "masa": "2PM-5PM",
+      "viewers": 560000
     },
     {
       "hari": "Sabtu",
-      "masa": "2PM - 5PM",
-      "viewers": 454000
-    },
-    {
-      "hari": "Jumaat",
-      "masa": "2PM - 5PM",
-      "viewers": 449000
+      "masa": "2PM-5PM",
+      "viewers": 558000
     }
   ],
   "extra_actions": [
     {
       "level": "good",
-      "title": "🎉 TARGET FOLLOWERS TERCAPAI (2,019 / 2,000)",
-      "body": "Sasaran followers Fasa 2 selesai pada 28/9. Views sedang mara ke 10M."
+      "title": "🎉🎉 FASA 2 TERCAPAI — 10,187,353 VIEWS + 2,067 FOLLOWERS",
+      "body": "Views 101.9%, followers 103.4%. Dicapai 29 Sept 2026 — kira-kira 6 minggu dari akaun mula."
     },
     {
       "level": "good",
-      "title": "📈 CTA berkesan? Post 27/9 naik 29.8K → 84.1K",
-      "body": "Post yang kita tambah CTA 'follow saya' pada 27/9 telah naik 2.8× dalam 2 hari. Pantau sama ada kadar tukar follower meningkat."
+      "title": "🎯 FASA 3 DITETAPKAN: 15 Juta + 3,500 Followers (31 Okt)",
+      "body": "Views +4.81M (26 hari pada 185K/hari — boleh). Followers +1,433 (45/hari — sepadan laju semasa)."
     },
     {
       "level": "good",
-      "title": "🔥 28/9 07:01 = 114,762 views",
-      "body": "'Anak lelaki jangan dipeluk sangat. Nanti lembut' — myth-busting + ungkapan rakyat, slot raja."
+      "title": "🏙️ Audience kita sangat tempatan: KL 7.25%, Shah Alam 4.33%, JB 3.28%",
+      "body": "Boleh guna rujukan tempatan (Klang, Kajang) untuk naikkan rasa 'dekat'."
     },
     {
-      "level": "warn",
-      "title": "⚠️ 29/9 07:01 masih lemah (2,691)",
-      "body": "Post Nabi SAW 'sebaik-baik kamu' baru 5 jam — mungkin masih memanjat. Semak semula petang ini."
+      "level": "good",
+      "title": "🕑 Waktu emas: Ahad 600K · Khamis 560K · Sabtu 558K (2-5PM)",
+      "body": "Hujung minggu + Khamis petang = audience paling ramai online. Sesuai untuk balas komen & engagement."
+    },
+    {
+      "level": "good",
+      "title": "🏆 Top 5 seumur: 693K · 589K · 435K · 406K · 390K",
+      "body": "4 dari 5 = kisah manusia sebenar (bidan/mak). 1 = Al-Quran+angka. Formula kita disahkan, bukan kebetulan."
     }
   ],
   "app_profile": {
@@ -103,5 +112,54 @@
     "pct_viewers": "+231.4%",
     "tarikh": "29/9/2026",
     "sumber": "Screenshot seksyen 'Profile' (Overview, 30 hari)"
-  }
+  },
+  "fasa2_result": {
+    "views": 10187353,
+    "viewers": 1453205,
+    "followers": 2067,
+    "net_followers": 2010,
+    "interactions": 157857,
+    "tarikh": "29/9/2026",
+    "tetingkap": "90 hari (seumur akaun)",
+    "nota": "FASA 2 TERCAPAI: 10,187,353 views (101.9%) + 2,067 followers (103.4%). Dicapai 29 Sept 2026, ~6 minggu dari akaun mula."
+  },
+  "most_active_times": [
+    {
+      "hari": "Ahad",
+      "masa": "2PM-5PM",
+      "viewers": 600000
+    },
+    {
+      "hari": "Khamis",
+      "masa": "2PM-5PM",
+      "viewers": 560000
+    },
+    {
+      "hari": "Sabtu",
+      "masa": "2PM-5PM",
+      "viewers": 558000
+    }
+  ],
+  "cities": [
+    {
+      "bandar": "Kuala Lumpur",
+      "pct": 7.25
+    },
+    {
+      "bandar": "Shah Alam",
+      "pct": 4.33
+    },
+    {
+      "bandar": "Johor Bahru",
+      "pct": 3.28
+    },
+    {
+      "bandar": "Kajang",
+      "pct": 2.47
+    },
+    {
+      "bandar": "Klang",
+      "pct": 2.12
+    }
+  ]
 }
