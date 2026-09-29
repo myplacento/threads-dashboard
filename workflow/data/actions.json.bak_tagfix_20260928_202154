@@ -6685,10 +6685,9 @@
  },
  "a9bc71756e5a": {
   "id": "a9bc71756e5a",
-  "action": "edit",
-  "ts": 1790598121.9086843,
-  "text": "Terima kasih sudi tag kawan awak. Moga dia pun dapat 1 benda dari thread ni. 🤲",
-  "note": "auto-fix 28/9: draf asal '👍🏻' ditolak guard (terlalu pendek) -> teks sah, tunggu approve semula"
+  "action": "approve",
+  "ts": 1790579618.3150055,
+  "text": "👍🏻"
  },
  "8c20872fbb9f": {
   "id": "8c20872fbb9f",
@@ -6756,55 +6755,5 @@
   "action": "approve",
   "ts": 1790579960.239175,
   "text": "Tabik, siapkan awal sebelum EDD memang paling tenang. 👍\n\nTerima kasih kongsi cara awak, banyak yang boleh belajar. Moga jadi asbab kebaikan. 🤲"
- },
- "679223e9ee5b": {
-  "id": "679223e9ee5b",
-  "action": "approve",
-  "text": "Aminnn. Doa isteri ni Allah dengar. \n\nTeruskan ya. Semoga Allah limpahkan sakinah dalam keluarga kamu. 🤲",
-  "ts": 1790652643.3726218,
-  "regen": true
- },
- "d0b000882ddc": {
-  "id": "d0b000882ddc",
-  "action": "approve",
-  "ts": 1790652693.8788629,
-  "text": "MasyaAllah, peluk tu memang ubat paling mujarab kan. 😊\n\n"
- },
- "32cd774856b4": {
-  "id": "32cd774856b4",
-  "action": "approve",
-  "ts": 1790652727.299547,
-  "text": "MasyaAllah, anak lelaki 7 tahun pun masih melekat dengan ibu. \n\nKuat betul binding nya tu. 😄"
- },
- "e3cc7d571dd9": {
-  "id": "e3cc7d571dd9",
-  "action": "approve",
-  "text": "Alhamdulillah, anak lelaki pun tak segan peluk mama. 😄\n\nBila besar nanti, insyaAllah tangan yang biasa memeluk takkan lupa jalan balik. 🤲",
-  "ts": 1790652808.18492,
-  "regen": true
- },
- "02c443c9b33c": {
-  "id": "02c443c9b33c",
-  "action": "skip",
-  "ts": 1790652814.4180214,
-  "text": "Betul tu. 😄\nAnak pertama memang campur semua rasa, ada yang kelakar, ada yang sampai sebak.\nSaya pun belajar jadi ayah dari situ, bukan dari buku. Semoga Allah bantu kita semua. 🤲"
- },
- "e8ad454e0d1b": {
-  "id": "e8ad454e0d1b",
-  "action": "approve",
-  "ts": 1790652956.6291788,
-  "text": "MasyaAllah, perubahan tu ditangan kita. 👍 "
- },
- "7ff4bde8532e": {
-  "id": "7ff4bde8532e",
-  "action": "approve",
-  "ts": 1790653056.2668948,
-  "text": "MasyaAllah, memori yang baik untuk anak.\n\nMoga Allah besarkan anak-anak akk jadi lelaki penyayang. 🤲"
- },
- "16bb35eafa99": {
-  "id": "16bb35eafa99",
-  "action": "approve",
-  "ts": 1790653082.8623185,
-  "text": "Betul, ibu. Pelukan tak pernah buat ayah kurang tegas.\nYang anak ingat sampai besar bukan marah kita, tapi tangan yang selalu ada."
  }
 }
