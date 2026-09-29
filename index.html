@@ -2135,6 +2135,7 @@ function dashboard() {
     get slots() { return this.analysis.slots || []; },
     get formats() { return this.analysis.formats || []; },
     get hooks() { return this.analysis.hooks || []; },
+    get pillars() { return this.analysis.pillars || []; },
     get actions() { return this.analysis.actions || []; },
     get activeTimes() { return this.analysis.activeTimes || []; },
     get boards() {
@@ -2142,6 +2143,7 @@ function dashboard() {
         { t: 'Slot posting', rows: this.slots },
         { t: 'Format', rows: this.formats },
         { t: 'Jenis hook (R)', rows: this.hooks },
+        { t: 'Pilar format', rows: this.pillars },
       ];
     },
     get posts() { return this.data.posts || []; },
