@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-03 05:23 MYT",
+  "generatedAt": "2026-10-03 05:54 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -2749,12 +2749,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-03 13:23 MYT",
+  "fetchedAt": "2026-10-03 13:54 MYT",
   "totals": {
-   "views": 4608477,
-   "likes": 84903,
+   "views": 4608762,
+   "likes": 84911,
    "replies": 5714,
-   "reposts": 20094,
+   "reposts": 20097,
    "quotes": 760,
    "posts": 79
   },
@@ -2763,20 +2763,20 @@
     "id": "18130202758688181",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dd_Oa90Dcc3",
     "timestamp": "2026-10-02",
-    "views": 5946,
+    "views": 6020,
     "likes": 75,
     "replies": 5,
-    "reposts": 19,
+    "reposts": 20,
     "quotes": 0
    },
    {
     "id": "18116443634100079",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dd-CzCWiLva",
     "timestamp": "2026-10-01",
-    "views": 16260,
-    "likes": 225,
+    "views": 16466,
+    "likes": 233,
     "replies": 9,
-    "reposts": 76,
+    "reposts": 78,
     "quotes": 0
    },
    {
@@ -2793,7 +2793,7 @@
     "id": "18101851085309390",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dd7d9bKiDwX",
     "timestamp": "2026-09-30",
-    "views": 3032,
+    "views": 3033,
     "likes": 31,
     "replies": 10,
     "reposts": 9,
@@ -2893,7 +2893,7 @@
     "id": "17991196179021160",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdvxioAjv6K",
     "timestamp": "2026-09-26",
-    "views": 2620,
+    "views": 2621,
     "likes": 21,
     "replies": 7,
     "reposts": 4,
@@ -2943,7 +2943,7 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 406337,
+    "views": 406339,
     "likes": 4475,
     "replies": 251,
     "reposts": 486,
@@ -3103,7 +3103,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 590150,
+    "views": 590151,
     "likes": 9740,
     "replies": 339,
     "reposts": 1749,
