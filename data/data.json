@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-05 05:03 MYT",
+  "generatedAt": "2026-10-05 05:34 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 4667704,
+  "views": 4667717,
   "likes": 85309,
   "comments": 5969,
   "shares": 20979,
@@ -707,7 +707,7 @@
    "content": "WHO kata: bayi bawah 1 tahun, skrin = 0. Sifar. Kita? Bagi tablet sebelum anak boleh duduk. 😄",
    "date": "2026-09-01",
    "time": "07:32",
-   "views": 46662,
+   "views": 46666,
    "likes": 392,
    "comments": 104,
    "shares": 66,
@@ -807,7 +807,7 @@
    "content": "Pukul 2 pagi, anak saya demam. Yang tinggal cuma doa yang Nabi SAW ajar. Saya duduk tepi dia sepanjang malam, dan tak boleh buat apa-apa. 🧵",
    "date": "2026-10-02",
    "time": "07:02",
-   "views": 17846,
+   "views": 17847,
    "likes": 260,
    "comments": 9,
    "shares": 82,
@@ -887,7 +887,7 @@
    "content": "\"Jangan dukung, nanti manja.\" Ayat ni dah keluar sekali dan pecah 241K pandangan. Hari ni saya jawab: manja bukan sebab dipeluk. 🧵",
    "date": "2026-10-02",
    "time": "18:03",
-   "views": 10930,
+   "views": 10931,
    "likes": 154,
    "comments": 5,
    "shares": 43,
@@ -1587,7 +1587,7 @@
    "content": "Nabi SAW lalu pada sekumpulan budak, dan baginda bagi salam dahulu. Bukan budak yang bagi. 1,400 tahun. 🧵",
    "date": "2026-10-04",
    "time": "18:02",
-   "views": 2701,
+   "views": 2707,
    "likes": 18,
    "comments": 5,
    "shares": 4,
@@ -1847,7 +1847,7 @@
    "content": "\"Nanti dulu, ayah busy.\" Ayat ni keluar 10 kali sehari dalam banyak rumah. Anak tak dengar \"nanti\". Dia dengar: aku tak penting. 🧵",
    "date": "2026-10-04",
    "time": "07:02",
-   "views": 1233,
+   "views": 1234,
    "likes": 8,
    "comments": 5,
    "shares": 3,
@@ -2029,7 +2029,7 @@
     "median": 8307,
     "best": 694981,
     "worst": 0,
-    "total": 3452252,
+    "total": 3452258,
     "er": 2.34,
     "below": 19
    },
@@ -2039,7 +2039,7 @@
     "median": 6338,
     "best": 230649,
     "worst": 674,
-    "total": 904211,
+    "total": 904218,
     "er": 1.84,
     "below": 23
    },
@@ -2061,7 +2061,7 @@
     "median": 6702,
     "best": 694981,
     "worst": 1065,
-    "total": 3901563,
+    "total": 3901576,
     "er": 2.12,
     "below": 32
    },
@@ -2092,8 +2092,8 @@
     "n": 13,
     "median": 9122,
     "best": 390494,
-    "worst": 1233,
-    "total": 822589,
+    "worst": 1234,
+    "total": 822591,
     "er": 1.51,
     "below": 7
    },
@@ -2103,7 +2103,7 @@
     "median": 8917,
     "best": 694981,
     "worst": 1065,
-    "total": 2659635,
+    "total": 2659642,
     "er": 2.3,
     "below": 25
    },
@@ -2131,9 +2131,9 @@
     "label": "Lain-lain",
     "n": 12,
     "median": 891,
-    "best": 46662,
+    "best": 46666,
     "worst": 0,
-    "total": 57226,
+    "total": 57230,
     "er": 1.16,
     "below": 11
    }
@@ -2145,7 +2145,7 @@
     "median": 28930,
     "best": 590441,
     "worst": 6702,
-    "total": 1483141,
+    "total": 1483142,
     "er": 1.69,
     "below": 1
    },
@@ -2155,7 +2155,7 @@
     "median": 8556,
     "best": 694981,
     "worst": 1065,
-    "total": 2408587,
+    "total": 2408593,
     "er": 2.3,
     "below": 25
    },
@@ -2174,8 +2174,8 @@
     "n": 7,
     "median": 5567,
     "best": 241481,
-    "worst": 1233,
-    "total": 381028,
+    "worst": 1234,
+    "total": 381030,
     "er": 1.53,
     "below": 4
    },
@@ -2193,9 +2193,9 @@
     "label": "Human/Lain",
     "n": 12,
     "median": 2133,
-    "best": 46662,
+    "best": 46666,
     "worst": 0,
-    "total": 72118,
+    "total": 72122,
     "er": 0.96,
     "below": 10
    },
@@ -2640,7 +2640,7 @@
   },
   {
    "date": "2026-10-04",
-   "views": 5131,
+   "views": 5144,
    "likes": 28,
    "comments": 5,
    "shares": 5,
@@ -2853,9 +2853,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-05 13:03 MYT",
+  "fetchedAt": "2026-10-05 13:34 MYT",
   "totals": {
-   "views": 4626933,
+   "views": 4626981,
    "likes": 85080,
    "replies": 5721,
    "reposts": 20114,
@@ -2867,7 +2867,7 @@
     "id": "17998387713040985",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeEX6q7Dam8",
     "timestamp": "2026-10-04",
-    "views": 2707,
+    "views": 2710,
     "likes": 18,
     "replies": 5,
     "reposts": 4,
@@ -3087,7 +3087,7 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 406461,
+    "views": 406462,
     "likes": 4475,
     "replies": 251,
     "reposts": 486,
@@ -3247,7 +3247,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 590566,
+    "views": 590570,
     "likes": 9740,
     "replies": 339,
     "reposts": 1749,
@@ -3517,7 +3517,7 @@
     "id": "18086916884478625",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
     "timestamp": "2026-08-31",
-    "views": 44928,
+    "views": 44968,
     "likes": 2103,
     "replies": 40,
     "reposts": 728,
