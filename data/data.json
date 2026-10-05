@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generatedAt": "2026-10-05 12:18 MYT",
+  "generatedAt": "2026-10-05 12:49 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
-   "profilePicture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/805218846_18101177006094220_8599483572105926107_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=VeUm-nJ7B5EQ7kNvwEdHiko&_nc_oc=AdpyXulrd0plJofvu_KG989xRrz5LTEnfgtzUbFbJVNC93CWS0IoM3CJbGlrTTNzbA0&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jmaaOY2xkxR29jMaEYesfQ&_nc_tpa=Q5bMBQLloYo-CmrcpvJxsS8pyV6B4zMm1MuRXpOfzQoqsvOyUVT6cpQMq6_BJKf2YWkvmJ23Rlnwvr_89Q&oh=00_AQOJpzY1Ktg6MDMb4YKX-npTzyTnO7JHYUEVelh_JzrW2Q&oe=6AC7BE0C",
-   "followers": 2066
+   "profilePicture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/805218846_18101177006094220_8599483572105926107_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=VeUm-nJ7B5EQ7kNvwEfS5FQ&_nc_oc=AdpEVYnbbYzeQxyb9xkucOuESF9jQLLya9CWa6w2CKJ_OxyT8L_LewkDUJhJD_Qxhpc&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9Oz9y4ZY437P7th64lrEYw&_nc_tpa=Q5bMBQLuSCw63YgWsxWqK7qLXPUXE0Mb9azov58l7No6giiY67MSpUZQWiV_27D3Hj66Iaw4UU5AGKJMxw&oh=00_AQOPLeNEJ_BNm0R-lQRGC5twE8BpN4c_oKuGJnBZ6zVj4Q&oe=6AC90F8C",
+   "followers": 2072
   },
   "targetViews": 15000000,
   "targetViewsApi": 8000000,
@@ -2851,6 +2851,10 @@
   {
    "date": "2026-10-04",
    "count": 2066
+  },
+  {
+   "date": "2026-10-05",
+   "count": 2072
   }
  ],
  "insights": [
@@ -2871,8 +2875,8 @@
   },
   {
    "label": "Pertumbuhan follower",
-   "value": "+2048",
-   "sub": "+11378% sepanjang tempoh"
+   "value": "+2054",
+   "sub": "+11411% sepanjang tempoh"
   },
   {
    "label": "Engagement rate (purata)",
@@ -2881,12 +2885,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-05 20:18 MYT",
+  "fetchedAt": "2026-10-05 20:50 MYT",
   "totals": {
-   "views": 4631242,
-   "likes": 85143,
-   "replies": 5730,
-   "reposts": 20126,
+   "views": 4631403,
+   "likes": 85146,
+   "replies": 5737,
+   "reposts": 20127,
    "quotes": 760,
    "posts": 84
   },
@@ -2895,17 +2899,17 @@
     "id": "18432776725196670",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeFxK1MCAA1",
     "timestamp": "2026-10-04",
-    "views": 3035,
-    "likes": 59,
+    "views": 3118,
+    "likes": 62,
     "replies": 12,
-    "reposts": 13,
+    "reposts": 14,
     "quotes": 1
    },
    {
     "id": "17998387713040985",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeEX6q7Dam8",
     "timestamp": "2026-10-04",
-    "views": 2744,
+    "views": 2745,
     "likes": 19,
     "replies": 5,
     "reposts": 4,
@@ -3125,9 +3129,9 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 406473,
+    "views": 406476,
     "likes": 4475,
-    "replies": 251,
+    "replies": 254,
     "reposts": 486,
     "quotes": 7
    },
@@ -3147,7 +3151,7 @@
     "timestamp": "2026-09-22",
     "views": 88658,
     "likes": 571,
-    "replies": 104,
+    "replies": 108,
     "reposts": 179,
     "quotes": 10
    },
@@ -3175,7 +3179,7 @@
     "id": "18114071980816957",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddht_omDGWW",
     "timestamp": "2026-09-20",
-    "views": 54669,
+    "views": 54670,
     "likes": 2279,
     "replies": 98,
     "reposts": 567,
@@ -3265,7 +3269,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 695184,
+    "views": 695190,
     "likes": 17695,
     "replies": 442,
     "reposts": 5958,
@@ -3285,7 +3289,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 590607,
+    "views": 590616,
     "likes": 9740,
     "replies": 339,
     "reposts": 1749,
@@ -3455,7 +3459,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 390497,
+    "views": 390498,
     "likes": 13138,
     "replies": 182,
     "reposts": 2620,
@@ -3555,7 +3559,7 @@
     "id": "18086916884478625",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
     "timestamp": "2026-08-31",
-    "views": 45882,
+    "views": 45934,
     "likes": 2106,
     "replies": 40,
     "reposts": 728,
@@ -3575,7 +3579,7 @@
     "id": "18091620653129431",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcj-U3gDIT7",
     "timestamp": "2026-08-27",
-    "views": 7566,
+    "views": 7567,
     "likes": 39,
     "replies": 37,
     "reposts": 0,
@@ -3675,7 +3679,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 177662,
+    "views": 177666,
     "likes": 3777,
     "replies": 339,
     "reposts": 1204,
