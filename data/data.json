@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-08 05:37 MYT",
+  "generatedAt": "2026-10-08 06:08 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -2969,11 +2969,11 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-08 13:37 MYT",
+  "fetchedAt": "2026-10-08 14:08 MYT",
   "totals": {
-   "views": 4689894,
+   "views": 4689909,
    "likes": 86742,
-   "replies": 5740,
+   "replies": 5739,
    "reposts": 20355,
    "quotes": 761,
    "posts": 87
@@ -2993,7 +2993,7 @@
     "id": "17892799299438761",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeMGRWdDaQv",
     "timestamp": "2026-10-07",
-    "views": 1225,
+    "views": 1226,
     "likes": 20,
     "replies": 5,
     "reposts": 7,
@@ -3003,7 +3003,7 @@
     "id": "18019822502727928",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeK6xAqjaUA",
     "timestamp": "2026-10-06",
-    "views": 1310,
+    "views": 1314,
     "likes": 19,
     "replies": 5,
     "reposts": 2,
@@ -3033,7 +3033,7 @@
     "id": "17961435159217940",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeG8txmDN8i",
     "timestamp": "2026-10-05",
-    "views": 50205,
+    "views": 50206,
     "likes": 1525,
     "replies": 9,
     "reposts": 230,
@@ -3383,7 +3383,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 695932,
+    "views": 695936,
     "likes": 17696,
     "replies": 442,
     "reposts": 5959,
@@ -3623,7 +3623,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 172985,
+    "views": 172986,
     "likes": 1491,
     "replies": 446,
     "reposts": 122,
@@ -3673,7 +3673,7 @@
     "id": "18086916884478625",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
     "timestamp": "2026-08-31",
-    "views": 47427,
+    "views": 47431,
     "likes": 2107,
     "replies": 40,
     "reposts": 730,
@@ -3735,7 +3735,7 @@
     "timestamp": "2026-08-26",
     "views": 435303,
     "likes": 4778,
-    "replies": 1099,
+    "replies": 1098,
     "reposts": 150,
     "quotes": 43
    },
