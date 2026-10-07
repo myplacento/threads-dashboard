@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-08 03:01 MYT",
+  "generatedAt": "2026-10-08 03:33 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 4734631,
+  "views": 4734687,
   "likes": 86999,
   "comments": 6028,
   "shares": 21246,
@@ -313,10 +313,10 @@
    "content": "Mak saya bidan, Hajjah Rafeah. 40 tahun lebih sambut bayi. Satu pesanan dia untuk semua suami: jangan tinggalkan isteri bersendirian.",
    "date": "2026-09-06",
    "time": "07:31",
-   "views": 390540,
-   "likes": 13139,
-   "comments": 182,
-   "shares": 2671,
+   "views": 390570,
+   "likes": 13138,
+   "comments": 180,
+   "shares": 2669,
    "er": 4.09,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
    "topComments": [
@@ -687,7 +687,7 @@
    "content": "\"Kalau suami mengaji dekat perut isteri sampai khatam, macam mana ustaz?\" Jawapannya ada dalam 1 ayat yang umurnya 1,400 tahun, dan ia bukan pasal khatam. 🧵",
    "date": "2026-10-05",
    "time": "18:02",
-   "views": 50197,
+   "views": 50202,
    "likes": 1525,
    "comments": 9,
    "shares": 234,
@@ -767,7 +767,7 @@
    "content": "Mak saya bidan 40 tahun. Dia cakap kerja dia paling susah bukan sambut bayi. Tapi pujuk ayah yang tak nak masuk bilik.",
    "date": "2026-09-19",
    "time": "18:02",
-   "views": 34087,
+   "views": 34089,
    "likes": 382,
    "comments": 55,
    "shares": 29,
@@ -827,7 +827,7 @@
    "content": "Pukul 2 pagi, anak saya demam. Yang tinggal cuma doa yang Nabi SAW ajar. Saya duduk tepi dia sepanjang malam, dan tak boleh buat apa-apa. 🧵",
    "date": "2026-10-02",
    "time": "07:02",
-   "views": 17918,
+   "views": 17919,
    "likes": 260,
    "comments": 9,
    "shares": 82,
@@ -1227,7 +1227,7 @@
    "content": "Anak menangis, kita peluk, orang tua kata: \"manja nanti!\" John Bowlby, 1958: salah. Peluk anak itu bukan manja, itu perlindungan.",
    "date": "2026-09-05",
    "time": "07:32",
-   "views": 5617,
+   "views": 5619,
    "likes": 205,
    "comments": 10,
    "shares": 66,
@@ -1887,11 +1887,11 @@
    "content": "Mak saya bidan 40 tahun. Dia cakap yang paling banyak dia nampak bukan bayi yang lambat. Tapi ibu ayah yang tak berhenti membandingkan. 🧵",
    "date": "2026-10-07",
    "time": "07:02",
-   "views": 1294,
+   "views": 1302,
    "likes": 19,
    "comments": 5,
    "shares": 2,
-   "er": 2.01,
+   "er": 2,
    "url": "https://www.threads.com/@ustaz.basri/post/DeK6xAqjaUA",
    "topComments": [],
    "items": 6,
@@ -1907,11 +1907,11 @@
    "content": "\"Kalau boleh suapkan anak pakai tangan, lagi bagus. Biar dia rasa kita kasih.\" 1 ibu tulis ayat ni. Anak makan 3 kali sehari. Sepanjang 5 tahun pertama, itu lebih 5,000 kali di meja kita. Dan ia bukan sekadar tradisi lama. 🧵",
    "date": "2026-10-07",
    "time": "18:02",
-   "views": 1209,
+   "views": 1217,
    "likes": 20,
    "comments": 5,
    "shares": 7,
-   "er": 2.65,
+   "er": 2.63,
    "url": "https://www.threads.com/@ustaz.basri/post/DeMGRWdDaQv",
    "topComments": [],
    "items": 6,
@@ -2109,7 +2109,7 @@
     "median": 7567,
     "best": 695806,
     "worst": 0,
-    "total": 3459990,
+    "total": 3460031,
     "er": 2.35,
     "below": 21
    },
@@ -2119,7 +2119,7 @@
     "median": 6341,
     "best": 230922,
     "worst": 0,
-    "total": 959401,
+    "total": 959416,
     "er": 1.86,
     "below": 24
    },
@@ -2141,7 +2141,7 @@
     "median": 6686,
     "best": 695806,
     "worst": 1187,
-    "total": 3964214,
+    "total": 3964270,
     "er": 2.18,
     "below": 34
    },
@@ -2173,7 +2173,7 @@
     "median": 9285,
     "best": 695806,
     "worst": 1359,
-    "total": 2661995,
+    "total": 2661996,
     "er": 2.35,
     "below": 23
    },
@@ -2182,8 +2182,8 @@
     "n": 11,
     "median": 7567,
     "best": 591004,
-    "worst": 1294,
-    "total": 1075687,
+    "worst": 1302,
+    "total": 1075697,
     "er": 1.58,
     "below": 7
    },
@@ -2191,9 +2191,9 @@
     "label": "Petikan rakyat",
     "n": 17,
     "median": 5572,
-    "best": 390540,
+    "best": 390570,
     "worst": 1187,
-    "total": 881077,
+    "total": 881120,
     "er": 1.75,
     "below": 10
    },
@@ -2203,7 +2203,7 @@
     "median": 3215,
     "best": 6671,
     "worst": 2381,
-    "total": 20801,
+    "total": 20803,
     "er": 2.63,
     "below": 5
    },
@@ -2225,7 +2225,7 @@
     "median": 20852,
     "best": 591004,
     "worst": 1187,
-    "total": 1486493,
+    "total": 1486534,
     "er": 1.7,
     "below": 3
    },
@@ -2234,18 +2234,18 @@
     "n": 45,
     "median": 8795,
     "best": 695806,
-    "worst": 1209,
-    "total": 2465939,
+    "worst": 1217,
+    "total": 2465952,
     "er": 2.39,
     "below": 25
    },
    {
     "label": "N-Tesis",
     "n": 8,
-    "median": 6144,
+    "median": 6145,
     "best": 9122,
     "worst": 1586,
-    "total": 45451,
+    "total": 45453,
     "er": 2.4,
     "below": 8
    },
@@ -2339,7 +2339,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -86%",
-    "body": "112.3K views vs 788.6K minggu sebelumnya."
+    "body": "112.4K views vs 788.6K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -2736,7 +2736,7 @@
   },
   {
    "date": "2026-10-06",
-   "views": 26115,
+   "views": 26123,
    "likes": 717,
    "comments": 26,
    "shares": 93,
@@ -2744,7 +2744,7 @@
   },
   {
    "date": "2026-10-07",
-   "views": 3006,
+   "views": 3054,
    "likes": 30,
    "comments": 6,
    "shares": 7,
@@ -2944,7 +2944,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "112.3K",
+   "value": "112.4K",
    "sub": "-86% vs 7 hari sebelumnya"
   },
   {
@@ -2969,9 +2969,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-08 11:02 MYT",
+  "fetchedAt": "2026-10-08 11:33 MYT",
   "totals": {
-   "views": 4689836,
+   "views": 4689837,
    "likes": 86742,
    "replies": 5740,
    "reposts": 20355,
@@ -2993,7 +2993,7 @@
     "id": "17892799299438761",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeMGRWdDaQv",
     "timestamp": "2026-10-07",
-    "views": 1217,
+    "views": 1218,
     "likes": 20,
     "replies": 5,
     "reposts": 7,
