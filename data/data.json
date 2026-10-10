@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-10 09:28 MYT",
+  "generatedAt": "2026-10-10 09:59 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,8 +71,8 @@
   }
  },
  "totals": {
-  "views": 4743982,
-  "likes": 87074,
+  "views": 4744065,
+  "likes": 87075,
   "comments": 6053,
   "shares": 21256,
   "posts": 126
@@ -747,7 +747,7 @@
    "content": "WHO kata: bayi bawah 1 tahun, skrin = 0. Sifar. Kita? Bagi tablet sebelum anak boleh duduk. 😄",
    "date": "2026-09-01",
    "time": "07:32",
-   "views": 46678,
+   "views": 46681,
    "likes": 392,
    "comments": 104,
    "shares": 65,
@@ -1721,6 +1721,26 @@
    "pillar": "Human/Lain"
   },
   {
+   "id": "6ac97ed9fc69b0e908082948",
+   "zid": "6ac2a325755ed9e9c59cc0b6",
+   "platformPostId": "17942637372092652",
+   "content": "\"Kenapa masih panas ni?\" Dia pegang termometer tu 3 kali dalam 10 minit. Pukul 2 pagi. Sepanjang malam tu, dia tak tidur 1 minit pun. 🧵",
+   "date": "2026-10-10",
+   "time": "07:02",
+   "views": 2189,
+   "likes": 9,
+   "comments": 5,
+   "shares": 2,
+   "er": 0.73,
+   "url": "https://www.threads.com/@ustaz.basri/post/DeSpMJJjGvw",
+   "topComments": [],
+   "items": 6,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Petikan rakyat",
+   "pillar": "Human/Lain"
+  },
+  {
    "id": "6aa49be42e4907e81599af3c",
    "zid": "6aa2ca7622368bf78269b29f",
    "platformPostId": "18110320985278444",
@@ -1738,26 +1758,6 @@
    "slot": "07:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Kisah diri",
-   "pillar": "Human/Lain"
-  },
-  {
-   "id": "6ac97ed9fc69b0e908082948",
-   "zid": "6ac2a325755ed9e9c59cc0b6",
-   "platformPostId": "17942637372092652",
-   "content": "\"Kenapa masih panas ni?\" Dia pegang termometer tu 3 kali dalam 10 minit. Pukul 2 pagi. Sepanjang malam tu, dia tak tidur 1 minit pun. 🧵",
-   "date": "2026-10-10",
-   "time": "07:02",
-   "views": 2119,
-   "likes": 8,
-   "comments": 5,
-   "shares": 2,
-   "er": 0.71,
-   "url": "https://www.threads.com/@ustaz.basri/post/DeSpMJJjGvw",
-   "topComments": [],
-   "items": 6,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Petikan rakyat",
    "pillar": "Human/Lain"
   },
   {
@@ -2027,11 +2027,11 @@
    "content": "\"Awak laki pun manusia.\" 4 patah perkataan je, dan ia jawapan pada 1 ayat yang keluar dalam rumah kita sejak 2 generasi: \"Jangan peluk sangat, nanti lembut.\" 🧵",
    "date": "2026-10-09",
    "time": "18:02",
-   "views": 867,
+   "views": 876,
    "likes": 5,
    "comments": 5,
    "shares": 2,
-   "er": 1.38,
+   "er": 1.37,
    "url": "https://www.threads.com/@ustaz.basri/post/DeRP7tQjYQ2",
    "topComments": [],
    "items": 6,
@@ -2047,11 +2047,11 @@
    "content": "\"Hidup ni macam roda, kadang kita di atas, kadang kita di bawah.\" Orang tua kita cakap lama dulu. Kita hantar anak ke 3 kelas supaya dia menang. Bukan 1 kelas pun ajar dia cara turun, dan 20 tahun kemudian itu yang paling menentukan. 🧵",
    "date": "2026-10-09",
    "time": "07:03",
-   "views": 810,
+   "views": 811,
    "likes": 12,
    "comments": 5,
    "shares": 2,
-   "er": 2.35,
+   "er": 2.34,
    "url": "https://www.threads.com/@ustaz.basri/post/DeQEcKWDbKJ",
    "topComments": [],
    "items": 6,
@@ -2209,7 +2209,7 @@
     "median": 6692,
     "best": 696283,
     "worst": 0,
-    "total": 3466335,
+    "total": 3466409,
     "er": 2.29,
     "below": 24
    },
@@ -2219,7 +2219,7 @@
     "median": 5664,
     "best": 231091,
     "worst": 0,
-    "total": 962331,
+    "total": 962340,
     "er": 1.84,
     "below": 26
    },
@@ -2240,8 +2240,8 @@
     "n": 67,
     "median": 6210,
     "best": 696283,
-    "worst": 810,
-    "total": 3973309,
+    "worst": 811,
+    "total": 3973392,
     "er": 2.13,
     "below": 39
    },
@@ -2292,8 +2292,8 @@
     "n": 20,
     "median": 4011,
     "best": 390619,
-    "worst": 810,
-    "total": 885255,
+    "worst": 811,
+    "total": 885335,
     "er": 1.71,
     "below": 13
    },
@@ -2311,9 +2311,9 @@
     "label": "Lain-lain",
     "n": 13,
     "median": 674,
-    "best": 46678,
+    "best": 46681,
     "worst": 0,
-    "total": 57263,
+    "total": 57266,
     "er": 1.06,
     "below": 12
    }
@@ -2344,8 +2344,8 @@
     "n": 9,
     "median": 5620,
     "best": 9123,
-    "worst": 810,
-    "total": 46367,
+    "worst": 811,
+    "total": 46368,
     "er": 2.39,
     "below": 9
    },
@@ -2354,8 +2354,8 @@
     "n": 8,
     "median": 4815,
     "best": 241545,
-    "worst": 867,
-    "total": 383850,
+    "worst": 876,
+    "total": 383859,
     "er": 1.45,
     "below": 5
    },
@@ -2372,10 +2372,10 @@
    {
     "label": "Human/Lain",
     "n": 14,
-    "median": 2102,
-    "best": 46678,
+    "median": 2137,
+    "best": 46681,
     "worst": 0,
-    "total": 74273,
+    "total": 74346,
     "er": 0.88,
     "below": 12
    },
@@ -2438,12 +2438,12 @@
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -71%",
-    "body": "89.5K views vs 312.6K minggu sebelumnya."
+    "title": "Nadi 7 hari turun -74%",
+    "body": "81.5K views vs 309.8K minggu sebelumnya."
    },
    {
     "level": "bad",
-    "title": "13/14 post baharu bawah 10K",
+    "title": "12/13 post baharu bawah 10K",
     "body": "Tanda hook/topik perlu ditukar, bukan angka besar di atas."
    }
   ],
@@ -2865,6 +2865,14 @@
    "comments": 10,
    "shares": 5,
    "posts": 2
+  },
+  {
+   "date": "2026-10-10",
+   "views": 83,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "posts": 0
   }
  ],
  "followers": [
@@ -3068,8 +3076,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "89.5K",
-   "sub": "-71% vs 7 hari sebelumnya"
+   "value": "81.5K",
+   "sub": "-74% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3093,9 +3101,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-10 17:28 MYT",
+  "fetchedAt": "2026-10-10 17:59 MYT",
   "totals": {
-   "views": 4699189,
+   "views": 4699223,
    "likes": 86813,
    "replies": 5761,
    "reposts": 20360,
@@ -3107,7 +3115,7 @@
     "id": "17942637372092652",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeSpMJJjGvw",
     "timestamp": "2026-10-09",
-    "views": 2189,
+    "views": 2196,
     "likes": 9,
     "replies": 5,
     "reposts": 2,
@@ -3117,7 +3125,7 @@
     "id": "18116715467070071",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeRP7tQjYQ2",
     "timestamp": "2026-10-09",
-    "views": 876,
+    "views": 879,
     "likes": 5,
     "replies": 5,
     "reposts": 2,
@@ -3127,7 +3135,7 @@
     "id": "18336124780279396",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeQEcKWDbKJ",
     "timestamp": "2026-10-08",
-    "views": 811,
+    "views": 812,
     "likes": 12,
     "replies": 5,
     "reposts": 2,
@@ -3137,7 +3145,7 @@
     "id": "18107605988243407",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeOrIujiHU2",
     "timestamp": "2026-10-08",
-    "views": 1358,
+    "views": 1359,
     "likes": 18,
     "replies": 5,
     "reposts": 2,
@@ -3557,7 +3565,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 696541,
+    "views": 696548,
     "likes": 17695,
     "replies": 442,
     "reposts": 5959,
@@ -3577,7 +3585,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 591530,
+    "views": 591531,
     "likes": 9743,
     "replies": 339,
     "reposts": 1750,
@@ -3807,7 +3815,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 231155,
+    "views": 231157,
     "likes": 4098,
     "replies": 1109,
     "reposts": 1743,
@@ -3847,7 +3855,7 @@
     "id": "18086916884478625",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
     "timestamp": "2026-08-31",
-    "views": 47523,
+    "views": 47535,
     "likes": 2107,
     "replies": 40,
     "reposts": 730,
