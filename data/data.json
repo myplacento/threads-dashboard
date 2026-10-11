@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-12 03:26 MYT",
+  "generatedAt": "2026-10-12 03:57 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 4768745,
-  "likes": 87458,
-  "comments": 6074,
-  "shares": 21334,
+  "views": 4769212,
+  "likes": 87468,
+  "comments": 6075,
+  "shares": 21337,
   "posts": 129
  },
  "posts": [
@@ -447,7 +447,7 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 177863,
+   "views": 177888,
    "likes": 3775,
    "comments": 337,
    "shares": 1253,
@@ -801,6 +801,26 @@
    "pillar": "Story"
   },
   {
+   "id": "6acac67d58f3570356f09d8d",
+   "zid": "6ac2a328fa7ab3143f4988b9",
+   "platformPostId": "17904378873355592",
+   "content": "\"Setiap kali gaduh dengan suami, saya terus doa. Ya Allah, aku ada Kau je.\" Ayat 1 ibu ni bukan pasrah. Dan Al-Quran dah jawab benda ni 1,400 tahun lepas. 🧵",
+   "date": "2026-10-11",
+   "time": "07:02",
+   "views": 18106,
+   "likes": 336,
+   "comments": 5,
+   "shares": 76,
+   "er": 2.3,
+   "url": "https://www.threads.com/@ustaz.basri/post/DeVN73lAG8r",
+   "topComments": [],
+   "items": 6,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6abee73d670c3f224ceffdda",
    "zid": "6ab249c0ef0deb2121aa30f0",
    "platformPostId": "18116443634100079",
@@ -836,26 +856,6 @@
    "topComments": [],
    "items": 6,
    "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6acac67d58f3570356f09d8d",
-   "zid": "6ac2a328fa7ab3143f4988b9",
-   "platformPostId": "17904378873355592",
-   "content": "\"Setiap kali gaduh dengan suami, saya terus doa. Ya Allah, aku ada Kau je.\" Ayat 1 ibu ni bukan pasrah. Dan Al-Quran dah jawab benda ni 1,400 tahun lepas. 🧵",
-   "date": "2026-10-11",
-   "time": "07:02",
-   "views": 17726,
-   "likes": 328,
-   "comments": 5,
-   "shares": 73,
-   "er": 2.29,
-   "url": "https://www.threads.com/@ustaz.basri/post/DeVN73lAG8r",
-   "topComments": [],
-   "items": 6,
-   "slot": "07:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
@@ -1147,7 +1147,7 @@
    "content": "Tiga kali saya teman isteri bersalin. Tiga kali juga nurse suruh saya duduk sebelum saya pengsan. 🧵",
    "date": "2026-09-07",
    "time": "07:02",
-   "views": 6704,
+   "views": 6705,
    "likes": 72,
    "comments": 10,
    "shares": 3,
@@ -1641,6 +1641,26 @@
    "pillar": "Human/Lain"
   },
   {
+   "id": "6acb5fca03cf004be4ffb247",
+   "zid": "6ac2a32a27fffea9233606c1",
+   "platformPostId": "18117510982950009",
+   "content": "Nabi SAW tolong kerja rumah. Baginda juga tolong Fatimah giling gandum. Itu 1,400 tahun lepas. Kita masih berdebat soalan yang sama, padahal jawapannya bukan rahsia. 🧵",
+   "date": "2026-10-11",
+   "time": "18:03",
+   "views": 2886,
+   "likes": 44,
+   "comments": 12,
+   "shares": 3,
+   "er": 2.04,
+   "url": "https://www.threads.com/@ustaz.basri/post/DeWZjxAjRsr",
+   "topComments": [],
+   "items": 6,
+   "slot": "18:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6ab5aebf9a217cdec2a498b0",
    "zid": "6ab249a7bbdbed64ee44e27d",
    "platformPostId": "18436636288176998",
@@ -1656,26 +1676,6 @@
    "topComments": [],
    "items": 6,
    "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6acb5fca03cf004be4ffb247",
-   "zid": "6ac2a32a27fffea9233606c1",
-   "platformPostId": "18117510982950009",
-   "content": "Nabi SAW tolong kerja rumah. Baginda juga tolong Fatimah giling gandum. Itu 1,400 tahun lepas. Kita masih berdebat soalan yang sama, padahal jawapannya bukan rahsia. 🧵",
-   "date": "2026-10-11",
-   "time": "18:03",
-   "views": 2830,
-   "likes": 42,
-   "comments": 11,
-   "shares": 3,
-   "er": 1.98,
-   "url": "https://www.threads.com/@ustaz.basri/post/DeWZjxAjRsr",
-   "topComments": [],
-   "items": 6,
-   "slot": "18:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
@@ -1767,7 +1767,7 @@
    "content": "\"Kenapa masih panas ni?\" Dia pegang termometer tu 3 kali dalam 10 minit. Pukul 2 pagi. Sepanjang malam tu, dia tak tidur 1 minit pun. 🧵",
    "date": "2026-10-10",
    "time": "07:02",
-   "views": 2295,
+   "views": 2297,
    "likes": 9,
    "comments": 5,
    "shares": 2,
@@ -1867,7 +1867,7 @@
    "content": "\"Saya masih peluk dan cium anak saya dari baby sampai sekarang dia 17 tahun.\" 1 ibu cakap dia buat macam tu 17 tahun. Dan ia bukan manja. 🧵",
    "date": "2026-10-10",
    "time": "18:03",
-   "views": 1915,
+   "views": 1917,
    "likes": 7,
    "comments": 5,
    "shares": 1,
@@ -2087,7 +2087,7 @@
    "content": "\"Awak laki pun manusia.\" 4 patah perkataan je, dan ia jawapan pada 1 ayat yang keluar dalam rumah kita sejak 2 generasi: \"Jangan peluk sangat, nanti lembut.\" 🧵",
    "date": "2026-10-09",
    "time": "18:02",
-   "views": 939,
+   "views": 940,
    "likes": 6,
    "comments": 5,
    "shares": 2,
@@ -2266,10 +2266,10 @@
    {
     "label": "07:01",
     "n": 41,
-    "median": 6704,
+    "median": 6705,
     "best": 696881,
     "worst": 0,
-    "total": 3485789,
+    "total": 3486172,
     "er": 2.29,
     "below": 24
    },
@@ -2279,7 +2279,7 @@
     "median": 4727,
     "best": 231271,
     "worst": 0,
-    "total": 967593,
+    "total": 967677,
     "er": 1.82,
     "below": 28
    },
@@ -2311,7 +2311,7 @@
     "median": 5348,
     "best": 696881,
     "worst": 843,
-    "total": 3656031,
+    "total": 3656473,
     "er": 2.02,
     "below": 38
    },
@@ -2321,7 +2321,7 @@
     "median": 4762,
     "best": 435418,
     "worst": 0,
-    "total": 1047473,
+    "total": 1047498,
     "er": 1.87,
     "below": 23
    }
@@ -2333,7 +2333,7 @@
     "median": 8933,
     "best": 696881,
     "worst": 1359,
-    "total": 2688309,
+    "total": 2688770,
     "er": 2.32,
     "below": 26
    },
@@ -2343,7 +2343,7 @@
     "median": 7572,
     "best": 591863,
     "worst": 1351,
-    "total": 1076932,
+    "total": 1076933,
     "er": 1.58,
     "below": 7
    },
@@ -2353,7 +2353,7 @@
     "median": 3974,
     "best": 390640,
     "worst": 843,
-    "total": 887587,
+    "total": 887592,
     "er": 1.65,
     "below": 14
    },
@@ -2385,7 +2385,7 @@
     "median": 17959,
     "best": 591863,
     "worst": 1195,
-    "total": 1489706,
+    "total": 1489709,
     "er": 1.61,
     "below": 4
    },
@@ -2395,7 +2395,7 @@
     "median": 8329,
     "best": 696881,
     "worst": 1307,
-    "total": 2492125,
+    "total": 2492586,
     "er": 2.36,
     "below": 28
    },
@@ -2414,8 +2414,8 @@
     "n": 8,
     "median": 4818,
     "best": 241554,
-    "worst": 939,
-    "total": 383969,
+    "worst": 940,
+    "total": 383970,
     "er": 1.45,
     "below": 5
    },
@@ -2435,7 +2435,7 @@
     "median": 2137,
     "best": 46682,
     "worst": 0,
-    "total": 74454,
+    "total": 74456,
     "er": 0.88,
     "below": 12
    },
@@ -2498,8 +2498,8 @@
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -29%",
-    "body": "97.1K views vs 136.1K minggu sebelumnya."
+    "title": "Nadi 7 hari turun -28%",
+    "body": "97.5K views vs 136.1K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -2936,10 +2936,10 @@
   },
   {
    "date": "2026-10-11",
-   "views": 21674,
-   "likes": 366,
-   "comments": 11,
-   "shares": 76,
+   "views": 22141,
+   "likes": 376,
+   "comments": 12,
+   "shares": 79,
    "posts": 1
   }
  ],
@@ -3152,8 +3152,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "97.1K",
-   "sub": "-29% vs 7 hari sebelumnya"
+   "value": "97.5K",
+   "sub": "-28% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3177,12 +3177,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-12 11:26 MYT",
+  "fetchedAt": "2026-10-12 11:58 MYT",
   "totals": {
-   "views": 4724048,
-   "likes": 87203,
+   "views": 4724177,
+   "likes": 87206,
    "replies": 5780,
-   "reposts": 20437,
+   "reposts": 20438,
    "quotes": 756,
    "posts": 95
   },
@@ -3191,7 +3191,7 @@
     "id": "18117510982950009",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeWZjxAjRsr",
     "timestamp": "2026-10-11",
-    "views": 2886,
+    "views": 2903,
     "likes": 44,
     "replies": 12,
     "reposts": 3,
@@ -3201,10 +3201,10 @@
     "id": "17904378873355592",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeVN73lAG8r",
     "timestamp": "2026-10-10",
-    "views": 18106,
-    "likes": 336,
+    "views": 18207,
+    "likes": 339,
     "replies": 5,
-    "reposts": 75,
+    "reposts": 76,
     "quotes": 1
    },
    {
@@ -3601,7 +3601,7 @@
     "id": "18225630358334097",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdfJMguDcds",
     "timestamp": "2026-09-19",
-    "views": 56954,
+    "views": 56957,
     "likes": 464,
     "replies": 61,
     "reposts": 95,
@@ -3671,7 +3671,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 696930,
+    "views": 696932,
     "likes": 17695,
     "replies": 442,
     "reposts": 5959,
@@ -3691,7 +3691,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 591927,
+    "views": 591932,
     "likes": 9744,
     "replies": 339,
     "reposts": 1750,
@@ -3821,7 +3821,7 @@
     "id": "18175312390444507",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
-    "views": 241561,
+    "views": 241562,
     "likes": 3138,
     "replies": 95,
     "reposts": 761,
