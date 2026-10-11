@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-12 05:00 MYT",
+  "generatedAt": "2026-10-12 05:31 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 4769212,
-  "likes": 87468,
+  "views": 4769487,
+  "likes": 87475,
   "comments": 6075,
-  "shares": 21337,
+  "shares": 21338,
   "posts": 129
  },
  "posts": [
@@ -370,7 +370,7 @@
    "content": "\"Jangan dukung, nanti manja.\" \"Jangan layan, nanti membuang masa.\" Mitos ni dah lama, tapi sains dah jawab. 🧵",
    "date": "2026-09-08",
    "time": "07:02",
-   "views": 241554,
+   "views": 241562,
    "likes": 3138,
    "comments": 95,
    "shares": 783,
@@ -807,11 +807,11 @@
    "content": "\"Setiap kali gaduh dengan suami, saya terus doa. Ya Allah, aku ada Kau je.\" Ayat 1 ibu ni bukan pasrah. Dan Al-Quran dah jawab benda ni 1,400 tahun lepas. 🧵",
    "date": "2026-10-11",
    "time": "07:02",
-   "views": 18106,
-   "likes": 336,
+   "views": 18334,
+   "likes": 343,
    "comments": 5,
-   "shares": 76,
-   "er": 2.3,
+   "shares": 77,
+   "er": 2.32,
    "url": "https://www.threads.com/@ustaz.basri/post/DeVN73lAG8r",
    "topComments": [],
    "items": 6,
@@ -1621,6 +1621,26 @@
    "pillar": "Myth-busting"
   },
   {
+   "id": "6acb5fca03cf004be4ffb247",
+   "zid": "6ac2a32a27fffea9233606c1",
+   "platformPostId": "18117510982950009",
+   "content": "Nabi SAW tolong kerja rumah. Baginda juga tolong Fatimah giling gandum. Itu 1,400 tahun lepas. Kita masih berdebat soalan yang sama, padahal jawapannya bukan rahsia. 🧵",
+   "date": "2026-10-11",
+   "time": "18:03",
+   "views": 2923,
+   "likes": 44,
+   "comments": 12,
+   "shares": 3,
+   "er": 2.02,
+   "url": "https://www.threads.com/@ustaz.basri/post/DeWZjxAjRsr",
+   "topComments": [],
+   "items": 6,
+   "slot": "18:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6a9fe973a6a29d470accf029",
    "zid": "6a9d94f5dbc5428c7211f080",
    "platformPostId": "18138618454610773",
@@ -1639,26 +1659,6 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Nama luar (barat)",
    "pillar": "Human/Lain"
-  },
-  {
-   "id": "6acb5fca03cf004be4ffb247",
-   "zid": "6ac2a32a27fffea9233606c1",
-   "platformPostId": "18117510982950009",
-   "content": "Nabi SAW tolong kerja rumah. Baginda juga tolong Fatimah giling gandum. Itu 1,400 tahun lepas. Kita masih berdebat soalan yang sama, padahal jawapannya bukan rahsia. 🧵",
-   "date": "2026-10-11",
-   "time": "18:03",
-   "views": 2886,
-   "likes": 44,
-   "comments": 12,
-   "shares": 3,
-   "er": 2.04,
-   "url": "https://www.threads.com/@ustaz.basri/post/DeWZjxAjRsr",
-   "topComments": [],
-   "items": 6,
-   "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
   },
   {
    "id": "6ab5aebf9a217cdec2a498b0",
@@ -1867,7 +1867,7 @@
    "content": "\"Saya masih peluk dan cium anak saya dari baby sampai sekarang dia 17 tahun.\" 1 ibu cakap dia buat macam tu 17 tahun. Dan ia bukan manja. 🧵",
    "date": "2026-10-10",
    "time": "18:03",
-   "views": 1917,
+   "views": 1919,
    "likes": 7,
    "comments": 5,
    "shares": 1,
@@ -2269,7 +2269,7 @@
     "median": 6705,
     "best": 696881,
     "worst": 0,
-    "total": 3486172,
+    "total": 3486408,
     "er": 2.29,
     "below": 24
    },
@@ -2279,7 +2279,7 @@
     "median": 4727,
     "best": 231271,
     "worst": 0,
-    "total": 967677,
+    "total": 967716,
     "er": 1.82,
     "below": 28
    },
@@ -2311,7 +2311,7 @@
     "median": 5348,
     "best": 696881,
     "worst": 843,
-    "total": 3656473,
+    "total": 3656748,
     "er": 2.02,
     "below": 38
    },
@@ -2333,7 +2333,7 @@
     "median": 8933,
     "best": 696881,
     "worst": 1359,
-    "total": 2688770,
+    "total": 2689035,
     "er": 2.32,
     "below": 26
    },
@@ -2353,7 +2353,7 @@
     "median": 3974,
     "best": 390640,
     "worst": 843,
-    "total": 887592,
+    "total": 887602,
     "er": 1.65,
     "below": 14
    },
@@ -2385,7 +2385,7 @@
     "median": 17959,
     "best": 591863,
     "worst": 1195,
-    "total": 1489709,
+    "total": 1489711,
     "er": 1.61,
     "below": 4
    },
@@ -2395,7 +2395,7 @@
     "median": 8329,
     "best": 696881,
     "worst": 1307,
-    "total": 2492586,
+    "total": 2492851,
     "er": 2.36,
     "below": 28
    },
@@ -2413,9 +2413,9 @@
     "label": "Myth-busting",
     "n": 8,
     "median": 4818,
-    "best": 241554,
+    "best": 241562,
     "worst": 940,
-    "total": 383970,
+    "total": 383978,
     "er": 1.45,
     "below": 5
    },
@@ -2499,7 +2499,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -28%",
-    "body": "97.5K views vs 136.1K minggu sebelumnya."
+    "body": "97.8K views vs 136.1K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -2936,10 +2936,10 @@
   },
   {
    "date": "2026-10-11",
-   "views": 22141,
-   "likes": 376,
+   "views": 22416,
+   "likes": 383,
    "comments": 12,
-   "shares": 79,
+   "shares": 80,
    "posts": 1
   }
  ],
@@ -3152,7 +3152,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "97.5K",
+   "value": "97.8K",
    "sub": "-28% vs 7 hari sebelumnya"
   },
   {
@@ -3177,10 +3177,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-12 13:00 MYT",
+  "fetchedAt": "2026-10-12 13:31 MYT",
   "totals": {
-   "views": 4724334,
-   "likes": 87210,
+   "views": 4724425,
+   "likes": 87211,
    "replies": 5780,
    "reposts": 20438,
    "quotes": 756,
@@ -3191,7 +3191,7 @@
     "id": "18117510982950009",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeWZjxAjRsr",
     "timestamp": "2026-10-11",
-    "views": 2923,
+    "views": 2930,
     "likes": 44,
     "replies": 12,
     "reposts": 3,
@@ -3201,8 +3201,8 @@
     "id": "17904378873355592",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeVN73lAG8r",
     "timestamp": "2026-10-10",
-    "views": 18334,
-    "likes": 343,
+    "views": 18414,
+    "likes": 344,
     "replies": 5,
     "reposts": 76,
     "quotes": 1
@@ -3211,7 +3211,7 @@
     "id": "18077123462557858",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeT0x4kiDG5",
     "timestamp": "2026-10-10",
-    "views": 1919,
+    "views": 1920,
     "likes": 7,
     "replies": 5,
     "reposts": 1,
@@ -3621,7 +3621,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 8244,
+    "views": 8245,
     "likes": 125,
     "replies": 11,
     "reposts": 10,
@@ -3691,7 +3691,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 591936,
+    "views": 591938,
     "likes": 9744,
     "replies": 339,
     "reposts": 1750,
