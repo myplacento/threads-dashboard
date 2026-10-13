@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-14 05:09 MYT",
+  "generatedAt": "2026-10-14 05:40 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,9 +71,9 @@
   }
  },
  "totals": {
-  "views": 4955880,
-  "likes": 90112,
-  "comments": 6167,
+  "views": 4957204,
+  "likes": 90115,
+  "comments": 6169,
   "shares": 21910,
   "posts": 133
  },
@@ -447,7 +447,7 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 177910,
+   "views": 177939,
    "likes": 3775,
    "comments": 337,
    "shares": 1253,
@@ -527,7 +527,7 @@
    "content": "Mak saya, Hajjah Rafeah, 40 tahun sambut bayi. Dia kata yang paling dia takut bukan ibu yang menjerit. Dia takut ibu yang duduk elok, senyum elok, tapi mata kosong.",
    "date": "2026-10-12",
    "time": "18:03",
-   "views": 90474,
+   "views": 90478,
    "likes": 1298,
    "comments": 17,
    "shares": 103,
@@ -539,6 +539,26 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Kisah diri",
    "pillar": "Story"
+  },
+  {
+   "id": "6acc247c1b7ceb45290480f8",
+   "zid": "6ac9f2d4d9aa362ed2c695eb",
+   "platformPostId": "18348909712269450",
+   "content": "Saya urus uri lebih 5,000 keluarga sejak 2017. Benda paling saya takut bukan uri yang tak selamat. Ibu yang bersalin, balik rumah, dan tiada siapa lagi tanya dia ok tak.",
+   "date": "2026-10-12",
+   "time": "07:02",
+   "views": 89249,
+   "likes": 1253,
+   "comments": 41,
+   "shares": 462,
+   "er": 1.97,
+   "url": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
+   "topComments": [],
+   "items": 7,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Kisah diri",
+   "pillar": "N-Tesis"
   },
   {
    "id": "6ab31ed90f64881b5f763468",
@@ -559,26 +579,6 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6acc247c1b7ceb45290480f8",
-   "zid": "6ac9f2d4d9aa362ed2c695eb",
-   "platformPostId": "18348909712269450",
-   "content": "Saya urus uri lebih 5,000 keluarga sejak 2017. Benda paling saya takut bukan uri yang tak selamat. Ibu yang bersalin, balik rumah, dan tiada siapa lagi tanya dia ok tak.",
-   "date": "2026-10-12",
-   "time": "07:02",
-   "views": 88071,
-   "likes": 1253,
-   "comments": 41,
-   "shares": 462,
-   "er": 1.99,
-   "url": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
-   "topComments": [],
-   "items": 7,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Kisah diri",
-   "pillar": "N-Tesis"
   },
   {
    "id": "6a9ea17d3a56117b816022b1",
@@ -1187,7 +1187,7 @@
    "content": "Tiga kali saya teman isteri bersalin. Tiga kali juga nurse suruh saya duduk sebelum saya pengsan. 🧵",
    "date": "2026-09-07",
    "time": "07:02",
-   "views": 6705,
+   "views": 6706,
    "likes": 72,
    "comments": 10,
    "shares": 3,
@@ -1567,11 +1567,11 @@
    "content": "9 tahun saya urus uri. Lebih 5,000 keluarga. \"Bagusnya suami awak, dia masak untuk awak.\" Ayat tu orang cakap pada ibu yang tak lalu makan 9 bulan.",
    "date": "2026-10-13",
    "time": "18:02",
-   "views": 3378,
-   "likes": 49,
-   "comments": 13,
+   "views": 3485,
+   "likes": 52,
+   "comments": 15,
    "shares": 3,
-   "er": 1.92,
+   "er": 2.01,
    "url": "https://www.threads.com/@ustaz.basri/post/DebjGwWjWcr",
    "topComments": [],
    "items": 5,
@@ -1587,7 +1587,7 @@
    "content": "\"Dia kecil lagi, cakap pun dia tak faham.\" Kajian jumpa anak dengar lebih 1.4 juta perkataan sebelum umur 5. Dia faham lebih awal dari yang kita sangka.",
    "date": "2026-09-17",
    "time": "14:02",
-   "views": 3375,
+   "views": 3377,
    "likes": 28,
    "comments": 7,
    "shares": 6,
@@ -2007,7 +2007,7 @@
    "content": "\"Alaa, orang lain pun macamtu. Relax je la.\" 1 ayat ini yang paling ramai ibu sebut dalam 2,188 komen saya. Bukan ayat orang jahat. Ia ayat orang yang tak tahu nak cakap apa. 🧵",
    "date": "2026-09-23",
    "time": "18:02",
-   "views": 1418,
+   "views": 1419,
    "likes": 7,
    "comments": 6,
    "shares": 3,
@@ -2087,7 +2087,7 @@
    "content": "Mak saya 40 tahun jadi bidan. \"Suami saya tanya saya ok tak. Sehari lebih 5 kali.\" Anak ke-3 dia, dan kali ni bukan bersalin biasa, dia dibedah.",
    "date": "2026-10-13",
    "time": "07:02",
-   "views": 1319,
+   "views": 1320,
    "likes": 7,
    "comments": 7,
    "shares": 0,
@@ -2167,7 +2167,7 @@
    "content": "\"Awak laki pun manusia.\" 4 patah perkataan je, dan ia jawapan pada 1 ayat yang keluar dalam rumah kita sejak 2 generasi: \"Jangan peluk sangat, nanti lembut.\" 🧵",
    "date": "2026-10-09",
    "time": "18:02",
-   "views": 967,
+   "views": 968,
    "likes": 6,
    "comments": 5,
    "shares": 2,
@@ -2306,10 +2306,10 @@
    {
     "label": "07:01",
     "n": 43,
-    "median": 6705,
+    "median": 6706,
     "best": 697250,
     "worst": 0,
-    "total": 3578011,
+    "total": 3579191,
     "er": 2.25,
     "below": 25
    },
@@ -2319,8 +2319,8 @@
     "median": 4728,
     "best": 231448,
     "worst": 0,
-    "total": 1062460,
-    "er": 1.81,
+    "total": 1062602,
+    "er": 1.82,
     "below": 29
    },
    {
@@ -2329,7 +2329,7 @@
     "median": 3221,
     "best": 173070,
     "worst": 575,
-    "total": 277581,
+    "total": 277583,
     "er": 1.53,
     "below": 10
    }
@@ -2341,17 +2341,17 @@
     "median": 6199,
     "best": 435464,
     "worst": 0,
-    "total": 1047789,
+    "total": 1047818,
     "er": 2.0,
     "below": 21
    },
    {
     "label": "Mini-bebenang 3 mesej",
     "n": 4,
-    "median": 5880,
+    "median": 5881,
     "best": 13390,
     "worst": 2458,
-    "total": 27608,
+    "total": 27610,
     "er": 1.21,
     "below": 3
    },
@@ -2361,7 +2361,7 @@
     "median": 5349,
     "best": 697250,
     "worst": 859,
-    "total": 3842655,
+    "total": 3843948,
     "er": 2.0,
     "below": 40
    }
@@ -2373,7 +2373,7 @@
     "median": 8935,
     "best": 697250,
     "worst": 1359,
-    "total": 2691003,
+    "total": 2691032,
     "er": 2.32,
     "below": 26
    },
@@ -2383,18 +2383,18 @@
     "median": 8385,
     "best": 592318,
     "worst": 1364,
-    "total": 1256280,
-    "er": 1.61,
+    "total": 1257463,
+    "er": 1.6,
     "below": 7
    },
    {
     "label": "Petikan rakyat",
     "n": 23,
-    "median": 3378,
+    "median": 3485,
     "best": 390711,
     "worst": 859,
-    "total": 892664,
-    "er": 1.63,
+    "total": 892776,
+    "er": 1.64,
     "below": 16
    },
    {
@@ -2425,7 +2425,7 @@
     "median": 17985,
     "best": 592318,
     "worst": 1196,
-    "total": 1582248,
+    "total": 1582254,
     "er": 1.56,
     "below": 5
    },
@@ -2435,7 +2435,7 @@
     "median": 8323,
     "best": 697250,
     "worst": 1313,
-    "total": 2498034,
+    "total": 2498171,
     "er": 2.35,
     "below": 29
    },
@@ -2443,9 +2443,9 @@
     "label": "N-Tesis",
     "n": 10,
     "median": 6152,
-    "best": 88071,
+    "best": 89249,
     "worst": 859,
-    "total": 134701,
+    "total": 135879,
     "er": 2.33,
     "below": 9
    },
@@ -2454,8 +2454,8 @@
     "n": 8,
     "median": 4822,
     "best": 241574,
-    "worst": 967,
-    "total": 384137,
+    "worst": 968,
+    "total": 384138,
     "er": 1.44,
     "below": 5
    },
@@ -2475,7 +2475,7 @@
     "median": 2257,
     "best": 46683,
     "worst": 0,
-    "total": 74490,
+    "total": 74492,
     "er": 1.02,
     "below": 10
    },
@@ -2538,8 +2538,8 @@
    },
    {
     "level": "good",
-    "title": "Nadi 7 hari naik +89%",
-    "body": "224.2K views vs 118.6K minggu sebelumnya."
+    "title": "Nadi 7 hari naik +90%",
+    "body": "225.6K views vs 118.6K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -2992,9 +2992,9 @@
   },
   {
    "date": "2026-10-13",
-   "views": 65286,
-   "likes": 735,
-   "comments": 44,
+   "views": 66610,
+   "likes": 738,
+   "comments": 46,
    "shares": 104,
    "posts": 1
   }
@@ -3216,8 +3216,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "224.2K",
-   "sub": "+89% vs 7 hari sebelumnya"
+   "value": "225.6K",
+   "sub": "+90% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3241,11 +3241,11 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-14 13:09 MYT",
+  "fetchedAt": "2026-10-14 13:40 MYT",
   "totals": {
-   "views": 4912005,
+   "views": 4912521,
    "likes": 89843,
-   "replies": 5874,
+   "replies": 5873,
    "reposts": 20986,
    "quotes": 779,
    "posts": 99
@@ -3255,7 +3255,7 @@
     "id": "17872538982649551",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DebjGwWjWcr",
     "timestamp": "2026-10-13",
-    "views": 3485,
+    "views": 3511,
     "likes": 52,
     "replies": 15,
     "reposts": 3,
@@ -3285,7 +3285,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 89249,
+    "views": 89730,
     "likes": 1253,
     "replies": 41,
     "reposts": 441,
@@ -3295,7 +3295,7 @@
     "id": "18117510982950009",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeWZjxAjRsr",
     "timestamp": "2026-10-11",
-    "views": 3205,
+    "views": 3207,
     "likes": 54,
     "replies": 12,
     "reposts": 4,
@@ -3775,7 +3775,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 697302,
+    "views": 697307,
     "likes": 17696,
     "replies": 442,
     "reposts": 5960,
@@ -3795,7 +3795,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 592361,
+    "views": 592363,
     "likes": 9744,
     "replies": 339,
     "reposts": 1750,
@@ -4127,7 +4127,7 @@
     "timestamp": "2026-08-26",
     "views": 435487,
     "likes": 4777,
-    "replies": 1097,
+    "replies": 1096,
     "reposts": 150,
     "quotes": 42
    },
