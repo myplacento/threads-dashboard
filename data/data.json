@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-19 19:26 MYT",
+  "generatedAt": "2026-10-19 19:57 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5259267,
-  "likes": 94265,
-  "comments": 6455,
-  "shares": 22925,
+  "views": 5262253,
+  "likes": 94306,
+  "comments": 6456,
+  "shares": 22930,
   "posts": 143
  },
  "posts": [
@@ -447,11 +447,11 @@
    "content": "Al-Quran bagi ibu 2 tahun penuh untuk menyusu. Tapi yang buat 1 ibu bertahan 2 tahun bukan susu. Kaki suaminya.",
    "date": "2026-10-18",
    "time": "18:02",
-   "views": 205292,
-   "likes": 3397,
-   "comments": 149,
-   "shares": 798,
-   "er": 2.12,
+   "views": 208000,
+   "likes": 3438,
+   "comments": 150,
+   "shares": 803,
+   "er": 2.11,
    "url": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
    "topComments": [],
    "items": 8,
@@ -507,7 +507,7 @@
    "content": "\"Anak lelaki jangan dipeluk sangat. Nanti lembut.\" Ayat ni campur 2 benda berbeza: lembut dan lemah. 🧵",
    "date": "2026-09-28",
    "time": "07:02",
-   "views": 115397,
+   "views": 115406,
    "likes": 699,
    "comments": 49,
    "shares": 154,
@@ -687,7 +687,7 @@
    "content": "Nabi SAW kata: setiap anak tergadai dengan aqiqahnya. 1400 tahun. Tapi sambutan anak sekarang? Deko RM5,000, cake bertingkat. Aqiqah? Kedai makan pun tak sampai. 😄",
    "date": "2026-09-05",
    "time": "12:15",
-   "views": 60492,
+   "views": 60493,
    "likes": 694,
    "comments": 100,
    "shares": 92,
@@ -827,11 +827,11 @@
    "content": "Mak saya 40 tahun jadi bidan. \"Jangan selalu dukung. Nanti dia clingy, nanti dia manja.\" Ayat ni 1 ibu ikut selama 8 tahun.",
    "date": "2026-10-16",
    "time": "07:03",
-   "views": 42328,
+   "views": 42576,
    "likes": 254,
    "comments": 35,
    "shares": 45,
-   "er": 0.79,
+   "er": 0.78,
    "url": "https://www.threads.com/@ustaz.basri/post/DeiGAyhjR5O",
    "topComments": [],
    "items": 7,
@@ -867,7 +867,7 @@
    "content": "Saya dah urus uri 5,000 keluarga. Kerja saya habis dalam 24 jam. \"Saya sanggup kerat perut 10 kali. Tapi jangan sesekali biar saya seorang diri dalam pantang.\"",
    "date": "2026-10-17",
    "time": "07:04",
-   "views": 26356,
+   "views": 26368,
    "likes": 281,
    "comments": 20,
    "shares": 129,
@@ -1407,7 +1407,7 @@
    "content": "Al-Quran ajar doa 1400 tahun lalu: \"Ya Tuhan kami, kurniakanlah kami pasangan dan zuriat yang menyejukkan mata.\" (Al-Furqan 74) Ramai fikir anak selamatkan rumah tangga. Rupanya terbalik.",
    "date": "2026-09-06",
    "time": "18:16",
-   "views": 5120,
+   "views": 5123,
    "likes": 83,
    "comments": 6,
    "shares": 24,
@@ -1507,7 +1507,7 @@
    "content": "Nabi SAW angkat 2 jari dan letak rapat. Baginda cakap: saya dan orang yang menjaga anak yatim akan bersama di syurga macam ini. 🧵",
    "date": "2026-09-27",
    "time": "07:02",
-   "views": 4151,
+   "views": 4156,
    "likes": 28,
    "comments": 17,
    "shares": 5,
@@ -2309,7 +2309,7 @@
     "median": 8315,
     "best": 698259,
     "worst": 0,
-    "total": 3656319,
+    "total": 3656593,
     "er": 2.28,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 6347,
     "best": 231856,
     "worst": 0,
-    "total": 1273134,
+    "total": 1275845,
     "er": 1.86,
     "below": 28
    },
@@ -2329,7 +2329,7 @@
     "median": 3226,
     "best": 173179,
     "worst": 577,
-    "total": 277728,
+    "total": 277729,
     "er": 1.52,
     "below": 10
    }
@@ -2351,7 +2351,7 @@
     "median": 6479,
     "best": 698259,
     "worst": 866,
-    "total": 4130655,
+    "total": 4133641,
     "er": 2.02,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9065,
     "best": 698259,
     "worst": 1359,
-    "total": 2898801,
+    "total": 2901518,
     "er": 2.31,
     "below": 26
    },
@@ -2393,7 +2393,7 @@
     "median": 5585,
     "best": 390876,
     "worst": 866,
-    "total": 964412,
+    "total": 964681,
     "er": 1.7,
     "below": 14
    },
@@ -2425,7 +2425,7 @@
     "median": 28946,
     "best": 593573,
     "worst": 1200,
-    "total": 1623313,
+    "total": 1623561,
     "er": 1.61,
     "below": 3
    },
@@ -2435,7 +2435,7 @@
     "median": 8821,
     "best": 698259,
     "worst": 1320,
-    "total": 2711328,
+    "total": 2714045,
     "er": 2.36,
     "below": 29
    },
@@ -2455,7 +2455,7 @@
     "median": 4826,
     "best": 241642,
     "worst": 979,
-    "total": 384315,
+    "total": 384324,
     "er": 1.44,
     "below": 5
    },
@@ -2475,7 +2475,7 @@
     "median": 2358,
     "best": 46688,
     "worst": 0,
-    "total": 100869,
+    "total": 100881,
     "er": 1.15,
     "below": 9
    },
@@ -2538,8 +2538,8 @@
    },
    {
     "level": "good",
-    "title": "Nadi 7 hari naik +99%",
-    "body": "368.7K views vs 185.1K minggu sebelumnya."
+    "title": "Nadi 7 hari naik +101%",
+    "body": "371.7K views vs 185.1K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3035,10 +3035,10 @@
   },
   {
    "date": "2026-10-19",
-   "views": 77057,
-   "likes": 1475,
-   "comments": 98,
-   "shares": 282,
+   "views": 80043,
+   "likes": 1516,
+   "comments": 99,
+   "shares": 287,
    "posts": 0
   }
  ],
@@ -3283,8 +3283,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "368.7K",
-   "sub": "+99% vs 7 hari sebelumnya"
+   "value": "371.7K",
+   "sub": "+101% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3308,10 +3308,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-20 03:27 MYT",
+  "fetchedAt": "2026-10-20 03:58 MYT",
   "totals": {
-   "views": 5193243,
-   "likes": 93863,
+   "views": 5194023,
+   "likes": 93864,
    "replies": 6045,
    "reposts": 21899,
    "quotes": 813,
@@ -3322,8 +3322,8 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 208000,
-    "likes": 3438,
+    "views": 208690,
+    "likes": 3439,
     "replies": 150,
     "reposts": 770,
     "quotes": 33
@@ -3332,7 +3332,7 @@
     "id": "18163538266497054",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dekq7yljdFE",
     "timestamp": "2026-10-16",
-    "views": 26368,
+    "views": 26370,
     "likes": 281,
     "replies": 20,
     "reposts": 128,
@@ -3342,7 +3342,7 @@
     "id": "18075357506562573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeiGAyhjR5O",
     "timestamp": "2026-10-15",
-    "views": 42576,
+    "views": 42629,
     "likes": 254,
     "replies": 35,
     "reposts": 42,
@@ -3372,7 +3372,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 95459,
+    "views": 95464,
     "likes": 1256,
     "replies": 41,
     "reposts": 442,
@@ -3392,7 +3392,7 @@
     "id": "17904378873355592",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeVN73lAG8r",
     "timestamp": "2026-10-10",
-    "views": 19081,
+    "views": 19083,
     "likes": 360,
     "replies": 5,
     "reposts": 79,
@@ -3612,7 +3612,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 112789,
+    "views": 112795,
     "likes": 4534,
     "replies": 56,
     "reposts": 1056,
@@ -3792,7 +3792,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 698326,
+    "views": 698338,
     "likes": 17695,
     "replies": 432,
     "reposts": 5937,
@@ -3812,7 +3812,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 593660,
+    "views": 593667,
     "likes": 9748,
     "replies": 333,
     "reposts": 1741,
@@ -4042,7 +4042,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 231887,
+    "views": 231890,
     "likes": 4097,
     "replies": 1106,
     "reposts": 1742,
