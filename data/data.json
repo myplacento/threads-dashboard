@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-22 04:58 MYT",
+  "generatedAt": "2026-10-22 05:29 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5295564,
+  "views": 5295644,
   "likes": 94726,
   "comments": 6492,
   "shares": 23053,
@@ -427,7 +427,7 @@
    "content": "Al-Quran bagi ibu 2 tahun penuh untuk menyusu. Tapi yang buat 1 ibu bertahan 2 tahun bukan susu. Kaki suaminya.",
    "date": "2026-10-18",
    "time": "18:02",
-   "views": 235817,
+   "views": 235820,
    "likes": 3851,
    "comments": 183,
    "shares": 925,
@@ -447,7 +447,7 @@
    "content": "Al-Quran sebut: ibu menyusukan anak dua tahun penuh. 1400 tahun, tak pernah outdated.\n\nWHO baru sahaja tulis garis panduan yang sama. Sains lambat? Tak. Sains rajin. Yang penting: jumpa jugak. 😄\n\nTapi soalan sebenar: dua tahun tu, siapa sanggup?",
    "date": "2026-09-03",
    "time": "18:15",
-   "views": 231983,
+   "views": 232055,
    "likes": 4097,
    "comments": 1106,
    "shares": 1917,
@@ -667,7 +667,7 @@
    "content": "Nabi SAW pegang cucu dia 2 orang, dan baca 1 doa pendek. Bukan jampi mahal. 1,400 tahun lepas, dan doa tu masih ada dalam buku kecil kita. 🧵",
    "date": "2026-09-18",
    "time": "07:02",
-   "views": 60725,
+   "views": 60728,
    "likes": 1721,
    "comments": 31,
    "shares": 391,
@@ -1027,7 +1027,7 @@
    "content": "\"Jangan dukung, nanti manja.\" Ayat ni dah keluar sekali dan pecah 241K pandangan. Hari ni saya jawab: manja bukan sebab dipeluk. 🧵",
    "date": "2026-10-02",
    "time": "18:03",
-   "views": 11044,
+   "views": 11046,
    "likes": 154,
    "comments": 5,
    "shares": 43,
@@ -1128,10 +1128,10 @@
    "date": "2026-08-27",
    "time": "18:16",
    "views": 9129,
-   "likes": 65,
+   "likes": 64,
    "comments": 6,
    "shares": 12,
-   "er": 0.91,
+   "er": 0.9,
    "url": "https://www.threads.com/@ustaz.basri/post/DcijWpPgruo",
    "topComments": [],
    "items": 1,
@@ -2309,7 +2309,7 @@
     "median": 8315,
     "best": 698536,
     "worst": 0,
-    "total": 3661608,
+    "total": 3661611,
     "er": 2.28,
     "below": 23
    },
@@ -2317,9 +2317,9 @@
     "label": "18:01",
     "n": 44,
     "median": 6348,
-    "best": 235817,
+    "best": 235820,
     "worst": 0,
-    "total": 1304064,
+    "total": 1304141,
     "er": 1.86,
     "below": 28
    },
@@ -2341,7 +2341,7 @@
     "median": 6686,
     "best": 435637,
     "worst": 0,
-    "total": 1048747,
+    "total": 1048819,
     "er": 2.06,
     "below": 20
    },
@@ -2351,7 +2351,7 @@
     "median": 6481,
     "best": 698536,
     "worst": 866,
-    "total": 4166599,
+    "total": 4166607,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9067,
     "best": 698536,
     "worst": 1359,
-    "total": 2930271,
+    "total": 2930349,
     "er": 2.31,
     "below": 26
    },
@@ -2393,7 +2393,7 @@
     "median": 5593,
     "best": 390902,
     "worst": 866,
-    "total": 968287,
+    "total": 968289,
     "er": 1.7,
     "below": 14
    },
@@ -2435,7 +2435,7 @@
     "median": 8822,
     "best": 698536,
     "worst": 1331,
-    "total": 2742727,
+    "total": 2742733,
     "er": 2.36,
     "below": 29
    },
@@ -2455,7 +2455,7 @@
     "median": 4831,
     "best": 241662,
     "worst": 979,
-    "total": 384383,
+    "total": 384385,
     "er": 1.44,
     "below": 5
    },
@@ -2463,9 +2463,9 @@
     "label": "Sunnah x Sains",
     "n": 3,
     "median": 4018,
-    "best": 231983,
+    "best": 232055,
     "worst": 3226,
-    "total": 239227,
+    "total": 239299,
     "er": 1.67,
     "below": 2
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "good",
     "title": "Nadi 7 hari naik +35%",
-    "body": "321.6K views vs 237.8K minggu sebelumnya."
+    "body": "321.7K views vs 237.8K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3051,7 +3051,7 @@
   },
   {
    "date": "2026-10-21",
-   "views": 972,
+   "views": 1052,
    "likes": 4,
    "comments": 2,
    "shares": 0,
@@ -3307,7 +3307,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "321.6K",
+   "value": "321.7K",
    "sub": "+35% vs 7 hari sebelumnya"
   },
   {
@@ -3332,9 +3332,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-22 12:58 MYT",
+  "fetchedAt": "2026-10-22 13:29 MYT",
   "totals": {
-   "views": 5226749,
+   "views": 5226751,
    "likes": 94274,
    "replies": 6076,
    "reposts": 22005,
@@ -3346,7 +3346,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 235820,
+    "views": 235821,
     "likes": 3851,
     "replies": 183,
     "reposts": 883,
@@ -3816,7 +3816,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 698644,
+    "views": 698645,
     "likes": 17695,
     "replies": 432,
     "reposts": 5935,
