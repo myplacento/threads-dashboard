@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-22 04:27 MYT",
+  "generatedAt": "2026-10-22 04:58 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -3332,11 +3332,11 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-22 12:27 MYT",
+  "fetchedAt": "2026-10-22 12:58 MYT",
   "totals": {
    "views": 5226749,
    "likes": 94274,
-   "replies": 6077,
+   "replies": 6076,
    "reposts": 22005,
    "quotes": 817,
    "posts": 94
@@ -3728,7 +3728,7 @@
     "timestamp": "2026-09-20",
     "views": 54802,
     "likes": 2279,
-    "replies": 97,
+    "replies": 96,
     "reposts": 564,
     "quotes": 25
    },
