@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-25 06:05 MYT",
+  "generatedAt": "2026-10-25 06:36 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5299576,
+  "views": 5299587,
   "likes": 94735,
   "comments": 6492,
   "shares": 23058,
@@ -427,7 +427,7 @@
    "content": "Al-Quran bagi ibu 2 tahun penuh untuk menyusu. Tapi yang buat 1 ibu bertahan 2 tahun bukan susu. Kaki suaminya.",
    "date": "2026-10-18",
    "time": "18:02",
-   "views": 236341,
+   "views": 236342,
    "likes": 3853,
    "comments": 183,
    "shares": 926,
@@ -647,7 +647,7 @@
    "content": "Al-Quran ajar: anak minta izin masuk bilik ibu bapa, 3 waktu. Tiga waktu, bukan sekali-sekala. Kita? Masuk bilik anak, terus je. 😄",
    "date": "2026-09-04",
    "time": "18:16",
-   "views": 62159,
+   "views": 62161,
    "likes": 1395,
    "comments": 32,
    "shares": 233,
@@ -707,7 +707,7 @@
    "content": "Al-Quran bagi 2 tahun untuk menyusu. Tapi ada 1 ayat pasal cara berhenti, dan ia sebut 2 benda yang bukan tentang susu. 🧵",
    "date": "2026-09-20",
    "time": "07:02",
-   "views": 57130,
+   "views": 57131,
    "likes": 465,
    "comments": 60,
    "shares": 97,
@@ -727,7 +727,7 @@
    "content": "Ibn Qayyim tulis 700 tahun lalu: kebanyakan kerosakan anak datang dari ibu bapa. Bukan dari telefon. Bukan dari kawan dia. 🧵",
    "date": "2026-09-21",
    "time": "07:02",
-   "views": 54812,
+   "views": 54819,
    "likes": 2279,
    "comments": 92,
    "shares": 587,
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 698839,
     "worst": 0,
-    "total": 3664012,
+    "total": 3664020,
     "er": 2.27,
     "below": 23
    },
@@ -2317,9 +2317,9 @@
     "label": "18:01",
     "n": 44,
     "median": 6371,
-    "best": 236341,
+    "best": 236342,
     "worst": 0,
-    "total": 1305638,
+    "total": 1305641,
     "er": 1.86,
     "below": 28
    },
@@ -2351,7 +2351,7 @@
     "median": 6523,
     "best": 698839,
     "worst": 866,
-    "total": 4170047,
+    "total": 4170058,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9099,
     "best": 698839,
     "worst": 1359,
-    "total": 2932422,
+    "total": 2932433,
     "er": 2.31,
     "below": 26
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 698839,
     "worst": 1359,
-    "total": 2744712,
+    "total": 2744723,
     "er": 2.36,
     "below": 29
    },
@@ -3075,7 +3075,7 @@
   },
   {
    "date": "2026-10-24",
-   "views": 786,
+   "views": 797,
    "likes": 3,
    "comments": 0,
    "shares": 1,
@@ -3368,9 +3368,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-25 14:05 MYT",
+  "fetchedAt": "2026-10-25 14:36 MYT",
   "totals": {
-   "views": 5230382,
+   "views": 5230389,
    "likes": 94277,
    "replies": 6070,
    "reposts": 21996,
@@ -3852,7 +3852,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 698942,
+    "views": 698947,
     "likes": 17692,
     "replies": 432,
     "reposts": 5933,
@@ -3872,7 +3872,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594466,
+    "views": 594467,
     "likes": 9748,
     "replies": 332,
     "reposts": 1738,
@@ -4042,7 +4042,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 391043,
+    "views": 391044,
     "likes": 13130,
     "replies": 179,
     "reposts": 2607,
