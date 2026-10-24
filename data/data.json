@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-25 04:32 MYT",
+  "generatedAt": "2026-10-25 05:03 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5299549,
+  "views": 5299576,
   "likes": 94735,
   "comments": 6492,
   "shares": 23058,
@@ -427,7 +427,7 @@
    "content": "Al-Quran bagi ibu 2 tahun penuh untuk menyusu. Tapi yang buat 1 ibu bertahan 2 tahun bukan susu. Kaki suaminya.",
    "date": "2026-10-18",
    "time": "18:02",
-   "views": 236339,
+   "views": 236341,
    "likes": 3853,
    "comments": 183,
    "shares": 926,
@@ -587,10 +587,10 @@
    "content": "Al-Quran sebut cara berhenti susu dalam 1 ayat. Umur ayat tu 1,400 tahun, dan ia tak sebut masa. Ia sebut 2 benda, dan 2 benda itu yang jadi punca gaduh di banyak rumah. 🧵",
    "date": "2026-09-23",
    "time": "07:02",
-   "views": 88906,
+   "views": 88912,
    "likes": 571,
    "comments": 114,
-   "shares": 188,
+   "shares": 186,
    "er": 0.98,
    "url": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
    "topComments": [],
@@ -607,7 +607,7 @@
    "content": "Seorang lelaki ada 10 anak. Tak pernah cium seorang pun. Dia bangga dengan tu, sampai dia cakap depan Nabi SAW. 🧵",
    "date": "2026-09-07",
    "time": "18:01",
-   "views": 87005,
+   "views": 87007,
    "likes": 526,
    "comments": 23,
    "shares": 132,
@@ -747,7 +747,7 @@
    "content": "\"Kalau suami mengaji dekat perut isteri sampai khatam, macam mana ustaz?\" Jawapannya ada dalam 1 ayat yang umurnya 1,400 tahun, dan ia bukan pasal khatam. 🧵",
    "date": "2026-10-05",
    "time": "18:02",
-   "views": 50550,
+   "views": 50561,
    "likes": 1527,
    "comments": 9,
    "shares": 235,
@@ -1387,7 +1387,7 @@
    "content": "\"Budak kecik, biasalah tu.\" Anak sulung saya tinggal 6 bulan dalam NICU. Lubang jantung, air dalam otak, paru-paru lemah. 6 bulan bukan biasa. 🧵",
    "date": "2026-09-22",
    "time": "07:02",
-   "views": 5598,
+   "views": 5599,
    "likes": 58,
    "comments": 22,
    "shares": 10,
@@ -1807,7 +1807,7 @@
    "content": "Nabi SAW lalu pada sekumpulan budak, dan baginda bagi salam dahulu. Bukan budak yang bagi. 1,400 tahun. 🧵",
    "date": "2026-10-04",
    "time": "18:02",
-   "views": 2852,
+   "views": 2857,
    "likes": 20,
    "comments": 5,
    "shares": 4,
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 698839,
     "worst": 0,
-    "total": 3664005,
+    "total": 3664012,
     "er": 2.27,
     "below": 23
    },
@@ -2317,9 +2317,9 @@
     "label": "18:01",
     "n": 44,
     "median": 6371,
-    "best": 236339,
+    "best": 236341,
     "worst": 0,
-    "total": 1305618,
+    "total": 1305638,
     "er": 1.86,
     "below": 28
    },
@@ -2351,7 +2351,7 @@
     "median": 6523,
     "best": 698839,
     "worst": 866,
-    "total": 4170020,
+    "total": 4170047,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9099,
     "best": 698839,
     "worst": 1359,
-    "total": 2932407,
+    "total": 2932422,
     "er": 2.31,
     "below": 26
    },
@@ -2390,10 +2390,10 @@
    {
     "label": "Petikan rakyat",
     "n": 23,
-    "median": 5598,
+    "median": 5599,
     "best": 391023,
     "worst": 866,
-    "total": 969267,
+    "total": 969279,
     "er": 1.69,
     "below": 14
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 698839,
     "worst": 1359,
-    "total": 2744686,
+    "total": 2744712,
     "er": 2.36,
     "below": 29
    },
@@ -2455,7 +2455,7 @@
     "median": 4834,
     "best": 241687,
     "worst": 979,
-    "total": 384536,
+    "total": 384537,
     "er": 1.44,
     "below": 5
    },
@@ -3075,7 +3075,7 @@
   },
   {
    "date": "2026-10-24",
-   "views": 759,
+   "views": 786,
    "likes": 3,
    "comments": 0,
    "shares": 1,
@@ -3368,9 +3368,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-25 12:32 MYT",
+  "fetchedAt": "2026-10-25 13:03 MYT",
   "totals": {
-   "views": 5230373,
+   "views": 5230376,
    "likes": 94277,
    "replies": 6070,
    "reposts": 21996,
@@ -3672,7 +3672,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113003,
+    "views": 113005,
     "likes": 4539,
     "replies": 56,
     "reposts": 1059,
@@ -3852,7 +3852,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 698938,
+    "views": 698939,
     "likes": 17692,
     "replies": 432,
     "reposts": 5933,
