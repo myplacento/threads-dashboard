@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-24 08:19 MYT",
+  "generatedAt": "2026-10-24 08:50 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5298790,
+  "views": 5298922,
   "likes": 94732,
   "comments": 6492,
   "shares": 23057,
@@ -85,10 +85,10 @@
    "content": "Al-Quran sebut 2 tahun penuh untuk menyusu. Tapi 1 bahagian selepas tu jarang dibaca. Perintah tu bukan pada ibu. Ia pada ayah. 🧵",
    "date": "2026-09-17",
    "time": "07:02",
-   "views": 698734,
-   "likes": 17693,
+   "views": 698839,
+   "likes": 17692,
    "comments": 432,
-   "shares": 6101,
+   "shares": 6100,
    "er": 3.47,
    "url": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
    "topComments": [
@@ -427,7 +427,7 @@
    "content": "Al-Quran bagi ibu 2 tahun penuh untuk menyusu. Tapi yang buat 1 ibu bertahan 2 tahun bukan susu. Kaki suaminya.",
    "date": "2026-10-18",
    "time": "18:02",
-   "views": 236202,
+   "views": 236213,
    "likes": 3852,
    "comments": 183,
    "shares": 926,
@@ -1147,7 +1147,7 @@
    "content": "Nabi SAW solat, cucu baginda naik atas belakang. Baginda sujud lama, tak nak cucu jatuh. 1,400 tahun. Kita pula tolak anak bila dia datang. 🧵",
    "date": "2026-09-29",
    "time": "18:01",
-   "views": 9091,
+   "views": 9099,
    "likes": 237,
    "comments": 18,
    "shares": 27,
@@ -1487,7 +1487,7 @@
    "content": "Anas bin Malik khidmat dengan Nabi SAW 10 tahun. Dia kata baginda tak pernah sekali pun menengking dia. 🧵",
    "date": "2026-09-30",
    "time": "18:02",
-   "views": 4262,
+   "views": 4270,
    "likes": 65,
    "comments": 5,
    "shares": 6,
@@ -2307,9 +2307,9 @@
     "label": "07:01",
     "n": 43,
     "median": 8315,
-    "best": 698734,
+    "best": 698839,
     "worst": 0,
-    "total": 3663546,
+    "total": 3663651,
     "er": 2.27,
     "below": 23
    },
@@ -2317,9 +2317,9 @@
     "label": "18:01",
     "n": 44,
     "median": 6365,
-    "best": 236202,
+    "best": 236213,
     "worst": 0,
-    "total": 1305329,
+    "total": 1305356,
     "er": 1.86,
     "below": 28
    },
@@ -2349,9 +2349,9 @@
     "label": "Bebenang 5-8 mesej",
     "n": 69,
     "median": 6512,
-    "best": 698734,
+    "best": 698839,
     "worst": 866,
-    "total": 4169334,
+    "total": 4169466,
     "er": 2.01,
     "below": 38
    },
@@ -2370,10 +2370,10 @@
    {
     "label": "Dalil / Nabi",
     "n": 49,
-    "median": 9091,
-    "best": 698734,
+    "median": 9099,
+    "best": 698839,
     "worst": 1359,
-    "total": 2931950,
+    "total": 2932082,
     "er": 2.31,
     "below": 26
    },
@@ -2433,9 +2433,9 @@
     "label": "Sunnah/Dalil",
     "n": 51,
     "median": 8824,
-    "best": 698734,
+    "best": 698839,
     "worst": 1359,
-    "total": 2744224,
+    "total": 2744356,
     "er": 2.36,
     "below": 29
    },
@@ -2534,12 +2534,12 @@
    {
     "level": "good",
     "title": "Slot terbaik: 07:01",
-    "body": "Median 8.3K · terbaik 698.7K · 43 post. Letak kandungan paling kuat di sini."
+    "body": "Median 8.3K · terbaik 698.8K · 43 post. Letak kandungan paling kuat di sini."
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -15%",
-    "body": "254.4K views vs 300.4K minggu sebelumnya."
+    "title": "Nadi 7 hari turun -18%",
+    "body": "248.2K views vs 303.7K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3072,6 +3072,14 @@
    "comments": 0,
    "shares": 0,
    "posts": 0
+  },
+  {
+   "date": "2026-10-24",
+   "views": 132,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "posts": 0
   }
  ],
  "followers": [
@@ -3331,12 +3339,12 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "254.4K",
-   "sub": "-15% vs 7 hari sebelumnya"
+   "value": "248.2K",
+   "sub": "-18% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
-   "value": "698.7K",
+   "value": "698.8K",
    "sub": "Al-Quran sebut 2 tahun penuh untuk menyusu. Tapi 1 bahagian …"
   },
   {
@@ -3356,12 +3364,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-24 16:19 MYT",
+  "fetchedAt": "2026-10-24 16:50 MYT",
   "totals": {
-   "views": 5229630,
+   "views": 5229643,
    "likes": 94274,
    "replies": 6071,
-   "reposts": 21999,
+   "reposts": 21998,
    "quotes": 816,
    "posts": 94
   },
@@ -3370,7 +3378,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236213,
+    "views": 236215,
     "likes": 3852,
     "replies": 183,
     "reposts": 884,
@@ -3723,7 +3731,7 @@
     "views": 88906,
     "likes": 571,
     "replies": 114,
-    "reposts": 178,
+    "reposts": 177,
     "quotes": 10
    },
    {
@@ -3840,7 +3848,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 698839,
+    "views": 698841,
     "likes": 17692,
     "replies": 432,
     "reposts": 5933,
@@ -3860,7 +3868,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594430,
+    "views": 594431,
     "likes": 9748,
     "replies": 332,
     "reposts": 1739,
@@ -4030,7 +4038,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 390984,
+    "views": 390986,
     "likes": 13130,
     "replies": 179,
     "reposts": 2607,
@@ -4190,7 +4198,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 435690,
+    "views": 435692,
     "likes": 4774,
     "replies": 1095,
     "reposts": 150,
@@ -4250,7 +4258,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 178073,
+    "views": 178077,
     "likes": 3771,
     "replies": 337,
     "reposts": 1201,
