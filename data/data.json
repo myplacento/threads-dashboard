@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-26 02:21 MYT",
+  "generatedAt": "2026-10-26 02:52 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,8 +71,8 @@
   }
  },
  "totals": {
-  "views": 5300050,
-  "likes": 94736,
+  "views": 5300097,
+  "likes": 94737,
   "comments": 6492,
   "shares": 23058,
   "posts": 143
@@ -487,7 +487,7 @@
    "content": "Nabi SAW pesan: nama anak akan dipanggil sampai hari kiamat. 1400 tahun. Tapi kita? Pilih nama dalam 7 saat masa isi borang lahir. 😄",
    "date": "2026-09-04",
    "time": "12:15",
-   "views": 173260,
+   "views": 173266,
    "likes": 1490,
    "comments": 443,
    "shares": 126,
@@ -527,8 +527,8 @@
    "content": "Al-Quran sebut ibu mengandung dengan \"lemah bertambah lemah\". Bukan 1 kali lemah. Lemah yang berulang. Ayat 31:14. 🧵",
    "date": "2026-09-26",
    "time": "07:02",
-   "views": 112997,
-   "likes": 4538,
+   "views": 113038,
+   "likes": 4539,
    "comments": 56,
    "shares": 1090,
    "er": 5.03,
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 698962,
     "worst": 0,
-    "total": 3664303,
+    "total": 3664344,
     "er": 2.27,
     "below": 23
    },
@@ -2327,9 +2327,9 @@
     "label": "12:01",
     "n": 13,
     "median": 3227,
-    "best": 173260,
+    "best": 173266,
     "worst": 578,
-    "total": 277841,
+    "total": 277847,
     "er": 1.51,
     "below": 10
    }
@@ -2351,7 +2351,7 @@
     "median": 6524,
     "best": 698962,
     "worst": 866,
-    "total": 4170409,
+    "total": 4170456,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9102,
     "best": 698962,
     "worst": 1359,
-    "total": 2932729,
+    "total": 2932776,
     "er": 2.31,
     "below": 26
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 698962,
     "worst": 1359,
-    "total": 2744935,
+    "total": 2744982,
     "er": 2.36,
     "below": 29
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -66%",
-    "body": "117.8K views vs 349.5K minggu sebelumnya."
+    "body": "117.9K views vs 349.5K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3083,8 +3083,8 @@
   },
   {
    "date": "2026-10-25",
-   "views": 337,
-   "likes": 1,
+   "views": 384,
+   "likes": 2,
    "comments": 0,
    "shares": 0,
    "posts": 0
@@ -3355,7 +3355,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "117.8K",
+   "value": "117.9K",
    "sub": "-66% vs 7 hari sebelumnya"
   },
   {
@@ -3380,9 +3380,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-26 10:21 MYT",
+  "fetchedAt": "2026-10-26 10:53 MYT",
   "totals": {
-   "views": 5230818,
+   "views": 5230825,
    "likes": 94278,
    "replies": 6068,
    "reposts": 21994,
@@ -3394,7 +3394,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236430,
+    "views": 236433,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3414,7 +3414,7 @@
     "id": "18075357506562573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeiGAyhjR5O",
     "timestamp": "2026-10-15",
-    "views": 46326,
+    "views": 46327,
     "likes": 259,
     "replies": 37,
     "reposts": 42,
@@ -3864,7 +3864,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699021,
+    "views": 699022,
     "likes": 17693,
     "replies": 432,
     "reposts": 5933,
@@ -4214,7 +4214,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 435707,
+    "views": 435709,
     "likes": 4774,
     "replies": 1094,
     "reposts": 150,
