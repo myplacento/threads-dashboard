@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-25 15:26 MYT",
+  "generatedAt": "2026-10-25 15:57 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5299964,
+  "views": 5299988,
   "likes": 94735,
   "comments": 6492,
   "shares": 23058,
@@ -427,7 +427,7 @@
    "content": "Al-Quran bagi ibu 2 tahun penuh untuk menyusu. Tapi yang buat 1 ibu bertahan 2 tahun bukan susu. Kaki suaminya.",
    "date": "2026-10-18",
    "time": "18:02",
-   "views": 236370,
+   "views": 236373,
    "likes": 3853,
    "comments": 183,
    "shares": 926,
@@ -467,10 +467,10 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 178089,
+   "views": 178109,
    "likes": 3771,
    "comments": 337,
-   "shares": 1250,
+   "shares": 1249,
    "er": 3.01,
    "url": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
    "topComments": [],
@@ -2007,7 +2007,7 @@
    "content": "10 tahun Anas bin Malik khidmat dengan Nabi SAW. Sepanjang 10 tahun itu, baginda tak pernah sekali pun berkata \"ah\" kepadanya (Bukhari 6038). 🧵",
    "date": "2026-10-08",
    "time": "07:02",
-   "views": 1823,
+   "views": 1824,
    "likes": 25,
    "comments": 5,
    "shares": 1,
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 698962,
     "worst": 0,
-    "total": 3664258,
+    "total": 3664259,
     "er": 2.27,
     "below": 23
    },
@@ -2317,9 +2317,9 @@
     "label": "18:01",
     "n": 44,
     "median": 6372,
-    "best": 236370,
+    "best": 236373,
     "worst": 0,
-    "total": 1305779,
+    "total": 1305802,
     "er": 1.86,
     "below": 28
    },
@@ -2341,7 +2341,7 @@
     "median": 6687,
     "best": 435700,
     "worst": 0,
-    "total": 1049330,
+    "total": 1049350,
     "er": 2.06,
     "below": 20
    },
@@ -2351,7 +2351,7 @@
     "median": 6524,
     "best": 698962,
     "worst": 866,
-    "total": 4170345,
+    "total": 4170349,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9102,
     "best": 698962,
     "worst": 1359,
-    "total": 2932691,
+    "total": 2932715,
     "er": 2.31,
     "below": 26
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 698962,
     "worst": 1359,
-    "total": 2744897,
+    "total": 2744921,
     "er": 2.36,
     "below": 29
    },
@@ -3083,7 +3083,7 @@
   },
   {
    "date": "2026-10-25",
-   "views": 251,
+   "views": 275,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -3380,9 +3380,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-25 23:26 MYT",
+  "fetchedAt": "2026-10-25 23:57 MYT",
   "totals": {
-   "views": 5230550,
+   "views": 5230558,
    "likes": 94278,
    "replies": 6069,
    "reposts": 21995,
@@ -3394,7 +3394,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236373,
+    "views": 236376,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3424,7 +3424,7 @@
     "id": "17872538982649551",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DebjGwWjWcr",
     "timestamp": "2026-10-13",
-    "views": 9318,
+    "views": 9319,
     "likes": 184,
     "replies": 46,
     "reposts": 31,
@@ -4054,7 +4054,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 391052,
+    "views": 391054,
     "likes": 13129,
     "replies": 179,
     "reposts": 2607,
@@ -4114,7 +4114,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232353,
+    "views": 232355,
     "likes": 4097,
     "replies": 1106,
     "reposts": 1741,
