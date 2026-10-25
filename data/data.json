@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-26 03:54 MYT",
+  "generatedAt": "2026-10-26 04:25 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5300097,
+  "views": 5300112,
   "likes": 94737,
   "comments": 6492,
   "shares": 23058,
@@ -199,7 +199,7 @@
    "content": "Nabi SAW azan untuk cucunya pada hari pertama dia lahir — 1400 tahun dah sunnah ni.\n\nKita sibuk pilih hospital & baju bayi, lupa kalimah pertama anak.",
    "date": "2026-08-27",
    "time": "07:32",
-   "views": 435700,
+   "views": 435709,
    "likes": 4774,
    "comments": 1094,
    "shares": 192,
@@ -256,10 +256,10 @@
    "content": "Mak saya bidan 40 tahun. Dia cakap 1 benda yang dia paling tak sanggup tengok selesai bersalin: uri. Bahagian badan anak kita yang pertama keluar, dan yang pertama orang lupa. 🧵",
    "date": "2026-09-24",
    "time": "07:02",
-   "views": 407377,
+   "views": 407383,
    "likes": 4475,
-   "comments": 262,
-   "shares": 493,
+   "comments": 261,
+   "shares": 492,
    "er": 1.28,
    "url": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
    "topComments": [
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 698962,
     "worst": 0,
-    "total": 3664344,
+    "total": 3664359,
     "er": 2.27,
     "below": 23
    },
@@ -2339,9 +2339,9 @@
     "label": "Post tunggal",
     "n": 27,
     "median": 6687,
-    "best": 435700,
+    "best": 435709,
     "worst": 0,
-    "total": 1049350,
+    "total": 1049359,
     "er": 2.06,
     "below": 20
    },
@@ -2351,7 +2351,7 @@
     "median": 6524,
     "best": 698962,
     "worst": 866,
-    "total": 4170456,
+    "total": 4170462,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9102,
     "best": 698962,
     "worst": 1359,
-    "total": 2932776,
+    "total": 2932785,
     "er": 2.31,
     "below": 26
    },
@@ -2383,7 +2383,7 @@
     "median": 8953,
     "best": 594468,
     "worst": 1418,
-    "total": 1267678,
+    "total": 1267684,
     "er": 1.57,
     "below": 7
    },
@@ -2425,7 +2425,7 @@
     "median": 28969,
     "best": 594468,
     "worst": 1200,
-    "total": 1628779,
+    "total": 1628785,
     "er": 1.6,
     "below": 3
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 698962,
     "worst": 1359,
-    "total": 2744982,
+    "total": 2744991,
     "er": 2.36,
     "below": 29
    },
@@ -3083,7 +3083,7 @@
   },
   {
    "date": "2026-10-25",
-   "views": 384,
+   "views": 399,
    "likes": 2,
    "comments": 0,
    "shares": 0,
@@ -3380,12 +3380,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-26 11:55 MYT",
+  "fetchedAt": "2026-10-26 12:25 MYT",
   "totals": {
-   "views": 5230832,
+   "views": 5230835,
    "likes": 94278,
    "replies": 6068,
-   "reposts": 21994,
+   "reposts": 21993,
    "quotes": 816,
    "posts": 94
   },
@@ -3684,7 +3684,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113038,
+    "views": 113040,
     "likes": 4539,
     "replies": 56,
     "reposts": 1059,
@@ -3884,7 +3884,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594514,
+    "views": 594515,
     "likes": 9749,
     "replies": 332,
     "reposts": 1738,
@@ -4157,7 +4157,7 @@
     "views": 47705,
     "likes": 2106,
     "replies": 40,
-    "reposts": 730,
+    "reposts": 729,
     "quotes": 23
    },
    {
