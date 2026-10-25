@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-25 21:40 MYT",
+  "generatedAt": "2026-10-25 22:12 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5300041,
+  "views": 5300048,
   "likes": 94736,
   "comments": 6492,
   "shares": 23058,
@@ -927,7 +927,7 @@
    "content": "Pukul 2 pagi, anak saya demam. Yang tinggal cuma doa yang Nabi SAW ajar. Saya duduk tepi dia sepanjang malam, dan tak boleh buat apa-apa. 🧵",
    "date": "2026-10-02",
    "time": "07:02",
-   "views": 18110,
+   "views": 18112,
    "likes": 260,
    "comments": 9,
    "shares": 82,
@@ -1107,7 +1107,7 @@
    "content": "9 tahun saya urus uri. Lebih 5,000 keluarga. \"Bagusnya suami awak, dia masak untuk awak.\" Ayat tu orang cakap pada ibu yang tak lalu makan 9 bulan.",
    "date": "2026-10-13",
    "time": "18:02",
-   "views": 9317,
+   "views": 9319,
    "likes": 184,
    "comments": 46,
    "shares": 33,
@@ -1167,7 +1167,7 @@
    "content": "Kenalkan, saya Ustaz Basri. Saya bukan doktor, bukan pakar psikologi. Saya anak seorang bidan, dan 9 tahun saya urus uri untuk lebih 5,000 keluarga.",
    "date": "2026-09-18",
    "time": "20:02",
-   "views": 8951,
+   "views": 8953,
    "likes": 127,
    "comments": 11,
    "shares": 10,
@@ -1867,7 +1867,7 @@
    "content": "Harvard ikut 724 lelaki sejak 1938. Dari zaman perang sampai sekarang, 85 tahun. Soalan dia mudah: apa yang buat hidup bahagia dan sihat? 🧵",
    "date": "2026-09-10",
    "time": "18:01",
-   "views": 2386,
+   "views": 2387,
    "likes": 20,
    "comments": 6,
    "shares": 6,
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 698962,
     "worst": 0,
-    "total": 3664301,
+    "total": 3664303,
     "er": 2.27,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 6372,
     "best": 236384,
     "worst": 0,
-    "total": 1305813,
+    "total": 1305818,
     "er": 1.86,
     "below": 28
    },
@@ -2351,17 +2351,17 @@
     "median": 6524,
     "best": 698962,
     "worst": 866,
-    "total": 4170402,
+    "total": 4170407,
     "er": 2.01,
     "below": 38
    },
    {
     "label": "Mini-bebenang 3 mesej",
     "n": 4,
-    "median": 6169,
+    "median": 6170,
     "best": 13398,
     "worst": 2467,
-    "total": 28203,
+    "total": 28205,
     "er": 1.18,
     "below": 3
    }
@@ -2373,17 +2373,17 @@
     "median": 9102,
     "best": 698962,
     "worst": 1359,
-    "total": 2932727,
+    "total": 2932729,
     "er": 2.31,
     "below": 26
    },
    {
     "label": "Kisah diri",
     "n": 13,
-    "median": 8951,
+    "median": 8953,
     "best": 594468,
     "worst": 1418,
-    "total": 1267674,
+    "total": 1267676,
     "er": 1.57,
     "below": 7
    },
@@ -2393,7 +2393,7 @@
     "median": 5599,
     "best": 391055,
     "worst": 866,
-    "total": 969363,
+    "total": 969365,
     "er": 1.69,
     "below": 14
    },
@@ -2402,8 +2402,8 @@
     "n": 5,
     "median": 3227,
     "best": 6687,
-    "worst": 2386,
-    "total": 20854,
+    "worst": 2387,
+    "total": 20855,
     "er": 2.61,
     "below": 5
    },
@@ -2425,7 +2425,7 @@
     "median": 28969,
     "best": 594468,
     "worst": 1200,
-    "total": 1628775,
+    "total": 1628777,
     "er": 1.6,
     "below": 3
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 698962,
     "worst": 1359,
-    "total": 2744933,
+    "total": 2744935,
     "er": 2.36,
     "below": 29
    },
@@ -2445,7 +2445,7 @@
     "median": 6158,
     "best": 95904,
     "worst": 866,
-    "total": 143163,
+    "total": 143165,
     "er": 2.3,
     "below": 9
    },
@@ -2472,10 +2472,10 @@
    {
     "label": "Human/Lain",
     "n": 12,
-    "median": 2359,
+    "median": 2360,
     "best": 46722,
     "worst": 0,
-    "total": 101131,
+    "total": 101132,
     "er": 1.15,
     "below": 9
    },
@@ -3083,7 +3083,7 @@
   },
   {
    "date": "2026-10-25",
-   "views": 328,
+   "views": 335,
    "likes": 1,
    "comments": 0,
    "shares": 0,
@@ -3375,14 +3375,14 @@
   },
   {
    "label": "Engagement rate (purata)",
-   "value": "2.35%",
+   "value": "2.34%",
    "sub": "likes+komen+share / views"
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-26 05:40 MYT",
+  "fetchedAt": "2026-10-26 06:12 MYT",
   "totals": {
-   "views": 5230699,
+   "views": 5230708,
    "likes": 94278,
    "replies": 6068,
    "reposts": 21994,
@@ -3394,7 +3394,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236410,
+    "views": 236411,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3404,7 +3404,7 @@
     "id": "18163538266497054",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dekq7yljdFE",
     "timestamp": "2026-10-16",
-    "views": 26571,
+    "views": 26572,
     "likes": 281,
     "replies": 20,
     "reposts": 128,
@@ -3444,7 +3444,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 95913,
+    "views": 95915,
     "likes": 1256,
     "replies": 42,
     "reposts": 442,
@@ -3514,7 +3514,7 @@
     "id": "17961435159217940",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeG8txmDN8i",
     "timestamp": "2026-10-05",
-    "views": 50565,
+    "views": 50566,
     "likes": 1527,
     "replies": 9,
     "reposts": 231,
@@ -3864,7 +3864,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699004,
+    "views": 699005,
     "likes": 17693,
     "replies": 432,
     "reposts": 5933,
@@ -4114,7 +4114,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232379,
+    "views": 232380,
     "likes": 4097,
     "replies": 1106,
     "reposts": 1741,
@@ -4214,7 +4214,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 435705,
+    "views": 435707,
     "likes": 4774,
     "replies": 1094,
     "reposts": 150,
