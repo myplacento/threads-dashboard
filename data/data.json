@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-26 14:47 MYT",
+  "generatedAt": "2026-10-26 15:18 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5300410,
+  "views": 5300414,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -1307,7 +1307,7 @@
    "content": "Al-Quran sebut 1 perkataan yang kita dilarang cakap pada ibu bapa. Bukan perkataan kesat. Cuma 1 bunyi. 1,400 tahun lepas. 🧵",
    "date": "2026-09-25",
    "time": "18:02",
-   "views": 6524,
+   "views": 6526,
    "likes": 51,
    "comments": 8,
    "shares": 9,
@@ -1587,7 +1587,7 @@
    "content": "Nabi SAW suruh 1 sahabat minum madu 3 kali untuk perut saudaranya, dan 3 kali itu rasa macam tak jadi. Kali ke-4 baru baik. Tapi kita jarang sebut ia untuk 1 golongan ini: ibu yang tengah berpantang. 🧵",
    "date": "2026-09-24",
    "time": "18:01",
-   "views": 3977,
+   "views": 3979,
    "likes": 16,
    "comments": 8,
    "shares": 8,
@@ -2316,10 +2316,10 @@
    {
     "label": "18:01",
     "n": 44,
-    "median": 6372,
+    "median": 6373,
     "best": 236384,
     "worst": 0,
-    "total": 1305896,
+    "total": 1305900,
     "er": 1.86,
     "below": 28
    },
@@ -2348,10 +2348,10 @@
    {
     "label": "Bebenang 5-8 mesej",
     "n": 69,
-    "median": 6524,
+    "median": 6526,
     "best": 699032,
     "worst": 866,
-    "total": 4170698,
+    "total": 4170702,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9103,
     "best": 699032,
     "worst": 1359,
-    "total": 2932937,
+    "total": 2932941,
     "er": 2.31,
     "below": 26
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699032,
     "worst": 1359,
-    "total": 2745091,
+    "total": 2745095,
     "er": 2.36,
     "below": 29
    },
@@ -3091,7 +3091,7 @@
   },
   {
    "date": "2026-10-26",
-   "views": 280,
+   "views": 284,
    "likes": 2,
    "comments": 0,
    "shares": 0,
@@ -3392,9 +3392,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-26 22:47 MYT",
+  "fetchedAt": "2026-10-26 23:18 MYT",
   "totals": {
-   "views": 5231058,
+   "views": 5231064,
    "likes": 94277,
    "replies": 6066,
    "reposts": 21990,
@@ -3526,7 +3526,7 @@
     "id": "17961435159217940",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeG8txmDN8i",
     "timestamp": "2026-10-05",
-    "views": 50572,
+    "views": 50574,
     "likes": 1527,
     "replies": 9,
     "reposts": 231,
@@ -3826,7 +3826,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 8956,
+    "views": 8957,
     "likes": 127,
     "replies": 11,
     "reposts": 10,
@@ -4126,7 +4126,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232415,
+    "views": 232418,
     "likes": 4097,
     "replies": 1106,
     "reposts": 1741,
