@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-27 01:41 MYT",
+  "generatedAt": "2026-10-27 02:12 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5300603,
+  "views": 5300611,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -507,7 +507,7 @@
    "content": "\"Anak lelaki jangan dipeluk sangat. Nanti lembut.\" Ayat ni campur 2 benda berbeza: lembut dan lemah. 🧵",
    "date": "2026-09-28",
    "time": "07:02",
-   "views": 115471,
+   "views": 115473,
    "likes": 699,
    "comments": 49,
    "shares": 154,
@@ -687,7 +687,7 @@
    "content": "Nabi SAW kata: setiap anak tergadai dengan aqiqahnya. 1400 tahun. Tapi sambutan anak sekarang? Deko RM5,000, cake bertingkat. Aqiqah? Kedai makan pun tak sampai. 😄",
    "date": "2026-09-05",
    "time": "12:15",
-   "views": 60497,
+   "views": 60502,
    "likes": 694,
    "comments": 100,
    "shares": 92,
@@ -1507,7 +1507,7 @@
    "content": "Nabi SAW angkat 2 jari dan letak rapat. Baginda cakap: saya dan orang yang menjaga anak yatim akan bersama di syurga macam ini. 🧵",
    "date": "2026-09-27",
    "time": "07:02",
-   "views": 4195,
+   "views": 4196,
    "likes": 28,
    "comments": 17,
    "shares": 5,
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 699032,
     "worst": 0,
-    "total": 3664621,
+    "total": 3664624,
     "er": 2.27,
     "below": 23
    },
@@ -2329,7 +2329,7 @@
     "median": 3227,
     "best": 173266,
     "worst": 578,
-    "total": 277847,
+    "total": 277852,
     "er": 1.51,
     "below": 10
    }
@@ -2351,7 +2351,7 @@
     "median": 6526,
     "best": 699032,
     "worst": 866,
-    "total": 4170875,
+    "total": 4170883,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9103,
     "best": 699032,
     "worst": 1359,
-    "total": 2933095,
+    "total": 2933101,
     "er": 2.31,
     "below": 26
    },
@@ -2393,7 +2393,7 @@
     "median": 5599,
     "best": 391070,
     "worst": 866,
-    "total": 969424,
+    "total": 969426,
     "er": 1.69,
     "below": 14
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699032,
     "worst": 1359,
-    "total": 2745246,
+    "total": 2745252,
     "er": 2.36,
     "below": 29
    },
@@ -2455,7 +2455,7 @@
     "median": 4834,
     "best": 241699,
     "worst": 979,
-    "total": 384556,
+    "total": 384558,
     "er": 1.44,
     "below": 5
    },
@@ -3091,7 +3091,7 @@
   },
   {
    "date": "2026-10-26",
-   "views": 473,
+   "views": 481,
    "likes": 2,
    "comments": 0,
    "shares": 0,
@@ -3392,11 +3392,11 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-27 09:41 MYT",
+  "fetchedAt": "2026-10-27 10:12 MYT",
   "totals": {
-   "views": 5231367,
+   "views": 5231379,
    "likes": 94275,
-   "replies": 6066,
+   "replies": 6065,
    "reposts": 21985,
    "quotes": 816,
    "posts": 94
@@ -3406,7 +3406,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236555,
+    "views": 236560,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3416,7 +3416,7 @@
     "id": "18163538266497054",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dekq7yljdFE",
     "timestamp": "2026-10-16",
-    "views": 26585,
+    "views": 26586,
     "likes": 281,
     "replies": 20,
     "reposts": 128,
@@ -3456,7 +3456,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 95978,
+    "views": 95980,
     "likes": 1256,
     "replies": 42,
     "reposts": 442,
@@ -3696,7 +3696,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113051,
+    "views": 113053,
     "likes": 4539,
     "replies": 56,
     "reposts": 1057,
@@ -4126,9 +4126,9 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232455,
+    "views": 232457,
     "likes": 4097,
-    "replies": 1106,
+    "replies": 1105,
     "reposts": 1741,
     "quotes": 174
    },
