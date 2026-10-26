@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-26 19:26 MYT",
+  "generatedAt": "2026-10-26 19:57 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5300559,
+  "views": 5300577,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -313,10 +313,10 @@
    "content": "Mak saya bidan, Hajjah Rafeah. 40 tahun lebih sambut bayi. Satu pesanan dia untuk semua suami: jangan tinggalkan isteri bersendirian.",
    "date": "2026-09-06",
    "time": "07:31",
-   "views": 391055,
-   "likes": 13129,
+   "views": 391070,
+   "likes": 13127,
    "comments": 179,
-   "shares": 2658,
+   "shares": 2655,
    "er": 4.08,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
    "topComments": [
@@ -1567,7 +1567,7 @@
    "content": "\"Saya membesar tanpa pelukan. Saya tengok anak orang lain dipeluk.\" 115,139 orang baca ayat ni. Dan ia bukan keluhan. Ia ayat orang yang pilih untuk tak patahkan orang lain. 🧵",
    "date": "2026-10-05",
    "time": "07:02",
-   "views": 4034,
+   "views": 4037,
    "likes": 86,
    "comments": 16,
    "shares": 17,
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 699032,
     "worst": 0,
-    "total": 3664590,
+    "total": 3664608,
     "er": 2.27,
     "below": 23
    },
@@ -2351,7 +2351,7 @@
     "median": 6526,
     "best": 699032,
     "worst": 866,
-    "total": 4170837,
+    "total": 4170855,
     "er": 2.01,
     "below": 38
    },
@@ -2391,9 +2391,9 @@
     "label": "Petikan rakyat",
     "n": 23,
     "median": 5599,
-    "best": 391055,
+    "best": 391070,
     "worst": 866,
-    "total": 969404,
+    "total": 969422,
     "er": 1.69,
     "below": 14
    },
@@ -2425,7 +2425,7 @@
     "median": 28969,
     "best": 594526,
     "worst": 1200,
-    "total": 1628862,
+    "total": 1628877,
     "er": 1.6,
     "below": 3
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699032,
     "worst": 1359,
-    "total": 2745233,
+    "total": 2745236,
     "er": 2.36,
     "below": 29
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -93%",
-    "body": "27.4K views vs 382.5K minggu sebelumnya."
+    "body": "27.5K views vs 382.5K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3091,7 +3091,7 @@
   },
   {
    "date": "2026-10-26",
-   "views": 429,
+   "views": 447,
    "likes": 2,
    "comments": 0,
    "shares": 0,
@@ -3367,7 +3367,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "27.4K",
+   "value": "27.5K",
    "sub": "-93% vs 7 hari sebelumnya"
   },
   {
@@ -3392,9 +3392,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-27 03:26 MYT",
+  "fetchedAt": "2026-10-27 03:58 MYT",
   "totals": {
-   "views": 5231162,
+   "views": 5231167,
    "likes": 94275,
    "replies": 6066,
    "reposts": 21989,
@@ -3406,7 +3406,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236522,
+    "views": 236523,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3456,7 +3456,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 95962,
+    "views": 95964,
     "likes": 1256,
     "replies": 42,
     "reposts": 442,
@@ -3896,7 +3896,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594546,
+    "views": 594547,
     "likes": 9748,
     "replies": 332,
     "reposts": 1738,
@@ -4286,7 +4286,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 178122,
+    "views": 178123,
     "likes": 3771,
     "replies": 337,
     "reposts": 1200,
