@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-28 00:59 MYT",
+  "generatedAt": "2026-10-28 01:30 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5301127,
+  "views": 5301128,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -567,7 +567,7 @@
    "content": "Mak saya, Hajjah Rafeah, 40 tahun sambut bayi. Dia kata yang paling dia takut bukan ibu yang menjerit. Dia takut ibu yang duduk elok, senyum elok, tapi mata kosong.",
    "date": "2026-10-12",
    "time": "18:03",
-   "views": 90796,
+   "views": 90797,
    "likes": 1304,
    "comments": 17,
    "shares": 103,
@@ -2319,7 +2319,7 @@
     "median": 6373,
     "best": 236619,
     "worst": 0,
-    "total": 1306261,
+    "total": 1306262,
     "er": 1.86,
     "below": 28
    },
@@ -2351,7 +2351,7 @@
     "median": 6526,
     "best": 699132,
     "worst": 866,
-    "total": 4171296,
+    "total": 4171297,
     "er": 2.01,
     "below": 38
    },
@@ -2383,7 +2383,7 @@
     "median": 8959,
     "best": 594579,
     "worst": 1420,
-    "total": 1267897,
+    "total": 1267898,
     "er": 1.57,
     "below": 7
    },
@@ -2425,7 +2425,7 @@
     "median": 28969,
     "best": 594579,
     "worst": 1200,
-    "total": 1628975,
+    "total": 1628976,
     "er": 1.6,
     "below": 3
    },
@@ -3099,7 +3099,7 @@
   },
   {
    "date": "2026-10-27",
-   "views": 452,
+   "views": 453,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -3404,9 +3404,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-28 09:00 MYT",
+  "fetchedAt": "2026-10-28 09:31 MYT",
   "totals": {
-   "views": 5231942,
+   "views": 5231957,
    "likes": 94270,
    "replies": 6065,
    "reposts": 21981,
@@ -3448,7 +3448,7 @@
     "id": "17872538982649551",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DebjGwWjWcr",
     "timestamp": "2026-10-13",
-    "views": 9321,
+    "views": 9323,
     "likes": 184,
     "replies": 46,
     "reposts": 31,
@@ -3468,7 +3468,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96013,
+    "views": 96015,
     "likes": 1256,
     "replies": 42,
     "reposts": 442,
@@ -3488,7 +3488,7 @@
     "id": "17904378873355592",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeVN73lAG8r",
     "timestamp": "2026-10-10",
-    "views": 19152,
+    "views": 19153,
     "likes": 360,
     "replies": 5,
     "reposts": 79,
@@ -3888,7 +3888,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699239,
+    "views": 699243,
     "likes": 17693,
     "replies": 432,
     "reposts": 5930,
@@ -3908,7 +3908,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594605,
+    "views": 594606,
     "likes": 9747,
     "replies": 332,
     "reposts": 1738,
@@ -4078,7 +4078,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 391083,
+    "views": 391084,
     "likes": 13126,
     "replies": 179,
     "reposts": 2604,
@@ -4238,7 +4238,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 435747,
+    "views": 435751,
     "likes": 4773,
     "replies": 1094,
     "reposts": 150,
