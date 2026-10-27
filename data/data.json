@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-27 07:53 MYT",
+  "generatedAt": "2026-10-27 08:24 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5300667,
+  "views": 5300675,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -647,7 +647,7 @@
    "content": "Al-Quran ajar: anak minta izin masuk bilik ibu bapa, 3 waktu. Tiga waktu, bukan sekali-sekala. Kita? Masuk bilik anak, terus je. 😄",
    "date": "2026-09-04",
    "time": "18:16",
-   "views": 62162,
+   "views": 62164,
    "likes": 1394,
    "comments": 32,
    "shares": 233,
@@ -727,11 +727,11 @@
    "content": "Ibn Qayyim tulis 700 tahun lalu: kebanyakan kerosakan anak datang dari ibu bapa. Bukan dari telefon. Bukan dari kawan dia. 🧵",
    "date": "2026-09-21",
    "time": "07:02",
-   "views": 54824,
+   "views": 54830,
    "likes": 2279,
    "comments": 92,
    "shares": 587,
-   "er": 5.4,
+   "er": 5.39,
    "url": "https://www.threads.com/@ustaz.basri/post/Ddht_omDGWW",
    "topComments": [],
    "items": 6,
@@ -2309,7 +2309,7 @@
     "median": 8316,
     "best": 699032,
     "worst": 0,
-    "total": 3664665,
+    "total": 3664671,
     "er": 2.27,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 6373,
     "best": 236510,
     "worst": 0,
-    "total": 1306063,
+    "total": 1306065,
     "er": 1.86,
     "below": 28
    },
@@ -2351,7 +2351,7 @@
     "median": 6526,
     "best": 699032,
     "worst": 866,
-    "total": 4170922,
+    "total": 4170930,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9103,
     "best": 699032,
     "worst": 1359,
-    "total": 2933143,
+    "total": 2933151,
     "er": 2.31,
     "below": 26
    },
@@ -2435,8 +2435,8 @@
     "median": 8824,
     "best": 699032,
     "worst": 1359,
-    "total": 2745307,
-    "er": 2.36,
+    "total": 2745315,
+    "er": 2.35,
     "below": 29
    },
    {
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -93%",
-    "body": "27.5K views vs 382.5K minggu sebelumnya."
+    "body": "27.6K views vs 382.5K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3091,7 +3091,7 @@
   },
   {
    "date": "2026-10-26",
-   "views": 537,
+   "views": 545,
    "likes": 2,
    "comments": 0,
    "shares": 0,
@@ -3367,7 +3367,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "27.5K",
+   "value": "27.6K",
    "sub": "-93% vs 7 hari sebelumnya"
   },
   {
@@ -3392,10 +3392,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-27 15:53 MYT",
+  "fetchedAt": "2026-10-27 16:24 MYT",
   "totals": {
-   "views": 5231419,
-   "likes": 94274,
+   "views": 5231432,
+   "likes": 94273,
    "replies": 6065,
    "reposts": 21983,
    "quotes": 816,
@@ -3406,7 +3406,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236565,
+    "views": 236567,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3876,8 +3876,8 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699116,
-    "likes": 17693,
+    "views": 699120,
+    "likes": 17692,
     "replies": 432,
     "reposts": 5930,
     "quotes": 167
@@ -4126,7 +4126,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232458,
+    "views": 232464,
     "likes": 4097,
     "replies": 1105,
     "reposts": 1741,
@@ -4226,7 +4226,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 435726,
+    "views": 435727,
     "likes": 4774,
     "replies": 1094,
     "reposts": 150,
