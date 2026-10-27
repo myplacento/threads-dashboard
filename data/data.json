@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-27 17:13 MYT",
+  "generatedAt": "2026-10-27 17:44 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5300978,
+  "views": 5300989,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -467,7 +467,7 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 178119,
+   "views": 178130,
    "likes": 3771,
    "comments": 337,
    "shares": 1249,
@@ -2319,7 +2319,7 @@
     "median": 6373,
     "best": 236510,
     "worst": 0,
-    "total": 1306139,
+    "total": 1306150,
     "er": 1.86,
     "below": 28
    },
@@ -2341,7 +2341,7 @@
     "median": 6687,
     "best": 435726,
     "worst": 0,
-    "total": 1049522,
+    "total": 1049533,
     "er": 2.06,
     "below": 20
    },
@@ -2373,7 +2373,7 @@
     "median": 9103,
     "best": 699132,
     "worst": 1359,
-    "total": 2933329,
+    "total": 2933340,
     "er": 2.31,
     "below": 26
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699132,
     "worst": 1359,
-    "total": 2745426,
+    "total": 2745437,
     "er": 2.35,
     "below": 29
    },
@@ -3099,7 +3099,7 @@
   },
   {
    "date": "2026-10-27",
-   "views": 303,
+   "views": 314,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -3404,10 +3404,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-28 01:13 MYT",
+  "fetchedAt": "2026-10-28 01:44 MYT",
   "totals": {
-   "views": 5231664,
-   "likes": 94274,
+   "views": 5231680,
+   "likes": 94273,
    "replies": 6065,
    "reposts": 21982,
    "quotes": 816,
@@ -3418,7 +3418,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236612,
+    "views": 236618,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3438,7 +3438,7 @@
     "id": "18075357506562573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeiGAyhjR5O",
     "timestamp": "2026-10-15",
-    "views": 46347,
+    "views": 46349,
     "likes": 259,
     "replies": 37,
     "reposts": 42,
@@ -3468,7 +3468,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 95999,
+    "views": 96001,
     "likes": 1256,
     "replies": 42,
     "reposts": 442,
@@ -3588,7 +3588,7 @@
     "id": "18116443634100079",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dd-CzCWiLva",
     "timestamp": "2026-10-01",
-    "views": 18126,
+    "views": 18128,
     "likes": 260,
     "replies": 9,
     "reposts": 82,
@@ -3888,7 +3888,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699175,
+    "views": 699179,
     "likes": 17693,
     "replies": 432,
     "reposts": 5930,
@@ -4299,7 +4299,7 @@
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
     "views": 178130,
-    "likes": 3771,
+    "likes": 3770,
     "replies": 337,
     "reposts": 1200,
     "quotes": 49
