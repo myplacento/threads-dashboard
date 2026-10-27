@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-28 07:12 MYT",
+  "generatedAt": "2026-10-28 07:43 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5301208,
+  "views": 5301219,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -587,7 +587,7 @@
    "content": "Al-Quran sebut cara berhenti susu dalam 1 ayat. Umur ayat tu 1,400 tahun, dan ia tak sebut masa. Ia sebut 2 benda, dan 2 benda itu yang jadi punca gaduh di banyak rumah. 🧵",
    "date": "2026-09-23",
    "time": "07:02",
-   "views": 88918,
+   "views": 88925,
    "likes": 571,
    "comments": 114,
    "shares": 186,
@@ -747,7 +747,7 @@
    "content": "\"Kalau suami mengaji dekat perut isteri sampai khatam, macam mana ustaz?\" Jawapannya ada dalam 1 ayat yang umurnya 1,400 tahun, dan ia bukan pasal khatam. 🧵",
    "date": "2026-10-05",
    "time": "18:02",
-   "views": 50579,
+   "views": 50583,
    "likes": 1527,
    "comments": 9,
    "shares": 235,
@@ -2309,7 +2309,7 @@
     "median": 8317,
     "best": 699132,
     "worst": 0,
-    "total": 3664998,
+    "total": 3665005,
     "er": 2.27,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 6373,
     "best": 236619,
     "worst": 0,
-    "total": 1306262,
+    "total": 1306266,
     "er": 1.86,
     "below": 28
    },
@@ -2351,7 +2351,7 @@
     "median": 6526,
     "best": 699132,
     "worst": 866,
-    "total": 4171339,
+    "total": 4171350,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9103,
     "best": 699132,
     "worst": 1359,
-    "total": 2933530,
+    "total": 2933537,
     "er": 2.31,
     "below": 26
    },
@@ -2393,7 +2393,7 @@
     "median": 5599,
     "best": 391079,
     "worst": 866,
-    "total": 969490,
+    "total": 969494,
     "er": 1.69,
     "below": 14
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699132,
     "worst": 1359,
-    "total": 2745618,
+    "total": 2745629,
     "er": 2.35,
     "below": 29
    },
@@ -3099,7 +3099,7 @@
   },
   {
    "date": "2026-10-27",
-   "views": 533,
+   "views": 544,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -3404,9 +3404,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-28 15:12 MYT",
+  "fetchedAt": "2026-10-28 15:44 MYT",
   "totals": {
-   "views": 5232014,
+   "views": 5232026,
    "likes": 94268,
    "replies": 6065,
    "reposts": 21980,
@@ -3708,7 +3708,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113082,
+    "views": 113083,
     "likes": 4539,
     "replies": 56,
     "reposts": 1052,
@@ -3888,7 +3888,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699252,
+    "views": 699261,
     "likes": 17693,
     "replies": 432,
     "reposts": 5930,
@@ -4238,7 +4238,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 435766,
+    "views": 435768,
     "likes": 4772,
     "replies": 1094,
     "reposts": 150,
