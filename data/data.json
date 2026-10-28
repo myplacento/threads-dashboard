@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-29 01:52 MYT",
+  "generatedAt": "2026-10-29 02:23 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5301760,
+  "views": 5301776,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -567,7 +567,7 @@
    "content": "Mak saya, Hajjah Rafeah, 40 tahun sambut bayi. Dia kata yang paling dia takut bukan ibu yang menjerit. Dia takut ibu yang duduk elok, senyum elok, tapi mata kosong.",
    "date": "2026-10-12",
    "time": "18:03",
-   "views": 90797,
+   "views": 90810,
    "likes": 1304,
    "comments": 17,
    "shares": 103,
@@ -1667,7 +1667,7 @@
    "content": "Nabi SAW tolong kerja rumah. Baginda juga tolong Fatimah giling gandum. Itu 1,400 tahun lepas. Kita masih berdebat soalan yang sama, padahal jawapannya bukan rahsia. 🧵",
    "date": "2026-10-11",
    "time": "18:03",
-   "views": 3307,
+   "views": 3310,
    "likes": 56,
    "comments": 12,
    "shares": 4,
@@ -2319,7 +2319,7 @@
     "median": 6373,
     "best": 236749,
     "worst": 0,
-    "total": 1306497,
+    "total": 1306513,
     "er": 1.86,
     "below": 28
    },
@@ -2351,7 +2351,7 @@
     "median": 6526,
     "best": 699273,
     "worst": 866,
-    "total": 4171799,
+    "total": 4171815,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9103,
     "best": 699273,
     "worst": 1359,
-    "total": 2933908,
+    "total": 2933911,
     "er": 2.31,
     "below": 26
    },
@@ -2383,7 +2383,7 @@
     "median": 8966,
     "best": 594626,
     "worst": 1421,
-    "total": 1267985,
+    "total": 1267998,
     "er": 1.57,
     "below": 7
    },
@@ -2425,7 +2425,7 @@
     "median": 28969,
     "best": 594626,
     "worst": 1200,
-    "total": 1629100,
+    "total": 1629113,
     "er": 1.6,
     "below": 3
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699273,
     "worst": 1359,
-    "total": 2745935,
+    "total": 2745938,
     "er": 2.35,
     "below": 29
    },
@@ -3107,7 +3107,7 @@
   },
   {
    "date": "2026-10-28",
-   "views": 541,
+   "views": 557,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -3416,9 +3416,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-29 09:52 MYT",
+  "fetchedAt": "2026-10-29 10:23 MYT",
   "totals": {
-   "views": 5232580,
+   "views": 5232586,
    "likes": 94264,
    "replies": 6064,
    "reposts": 21978,
@@ -3430,7 +3430,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236787,
+    "views": 236790,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3720,7 +3720,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113117,
+    "views": 113119,
     "likes": 4539,
     "replies": 56,
     "reposts": 1051,
@@ -4200,7 +4200,7 @@
     "id": "18134526358620975",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcoJutMgUGS",
     "timestamp": "2026-08-29",
-    "views": 11858,
+    "views": 11859,
     "likes": 147,
     "replies": 2,
     "reposts": 26,
