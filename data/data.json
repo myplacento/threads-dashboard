@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-28 08:45 MYT",
+  "generatedAt": "2026-10-28 09:17 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5301219,
+  "views": 5301224,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -707,7 +707,7 @@
    "content": "Al-Quran bagi 2 tahun untuk menyusu. Tapi ada 1 ayat pasal cara berhenti, dan ia sebut 2 benda yang bukan tentang susu. 🧵",
    "date": "2026-09-20",
    "time": "07:02",
-   "views": 57133,
+   "views": 57137,
    "likes": 465,
    "comments": 60,
    "shares": 97,
@@ -727,7 +727,7 @@
    "content": "Ibn Qayyim tulis 700 tahun lalu: kebanyakan kerosakan anak datang dari ibu bapa. Bukan dari telefon. Bukan dari kawan dia. 🧵",
    "date": "2026-09-21",
    "time": "07:02",
-   "views": 54830,
+   "views": 54831,
    "likes": 2279,
    "comments": 92,
    "shares": 587,
@@ -1188,10 +1188,10 @@
    "date": "2026-08-27",
    "time": "12:16",
    "views": 8824,
-   "likes": 273,
+   "likes": 272,
    "comments": 5,
    "shares": 15,
-   "er": 3.32,
+   "er": 3.31,
    "url": "https://www.threads.com/@ustaz.basri/post/Dch6IVUAFKO",
    "topComments": [],
    "items": 1,
@@ -2309,7 +2309,7 @@
     "median": 8317,
     "best": 699132,
     "worst": 0,
-    "total": 3665005,
+    "total": 3665010,
     "er": 2.27,
     "below": 23
    },
@@ -2351,7 +2351,7 @@
     "median": 6526,
     "best": 699132,
     "worst": 866,
-    "total": 4171350,
+    "total": 4171355,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9103,
     "best": 699132,
     "worst": 1359,
-    "total": 2933537,
+    "total": 2933542,
     "er": 2.31,
     "below": 26
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699132,
     "worst": 1359,
-    "total": 2745629,
+    "total": 2745634,
     "er": 2.35,
     "below": 29
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -98%",
-    "body": "6.6K views vs 334.7K minggu sebelumnya."
+    "body": "5.5K views vs 321.8K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3104,6 +3104,14 @@
    "comments": 0,
    "shares": 0,
    "posts": 0
+  },
+  {
+   "date": "2026-10-28",
+   "views": 5,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "posts": 0
   }
  ],
  "followers": [
@@ -3379,7 +3387,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "6.6K",
+   "value": "5.5K",
    "sub": "-98% vs 7 hari sebelumnya"
   },
   {
@@ -3404,9 +3412,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-28 16:46 MYT",
+  "fetchedAt": "2026-10-28 17:17 MYT",
   "totals": {
-   "views": 5232035,
+   "views": 5232046,
    "likes": 94268,
    "replies": 6065,
    "reposts": 21980,
@@ -3418,7 +3426,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236658,
+    "views": 236662,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3888,7 +3896,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699261,
+    "views": 699265,
     "likes": 17693,
     "replies": 432,
     "reposts": 5930,
@@ -3908,7 +3916,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594612,
+    "views": 594613,
     "likes": 9747,
     "replies": 332,
     "reposts": 1738,
@@ -3918,7 +3926,7 @@
     "id": "17935905366366729",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
     "timestamp": "2026-09-14",
-    "views": 50199,
+    "views": 50200,
     "likes": 1643,
     "replies": 52,
     "reposts": 460,
@@ -4078,7 +4086,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 391086,
+    "views": 391087,
     "likes": 13126,
     "replies": 179,
     "reposts": 2604,
