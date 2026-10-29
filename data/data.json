@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-29 08:05 MYT",
+  "generatedAt": "2026-10-29 08:36 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5301868,
+  "views": 5301893,
   "likes": 94739,
   "comments": 6492,
   "shares": 23058,
@@ -587,10 +587,10 @@
    "content": "Al-Quran sebut cara berhenti susu dalam 1 ayat. Umur ayat tu 1,400 tahun, dan ia tak sebut masa. Ia sebut 2 benda, dan 2 benda itu yang jadi punca gaduh di banyak rumah. 🧵",
    "date": "2026-09-23",
    "time": "07:02",
-   "views": 88925,
+   "views": 88937,
    "likes": 571,
    "comments": 114,
-   "shares": 186,
+   "shares": 185,
    "er": 0.98,
    "url": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
    "topComments": [],
@@ -747,7 +747,7 @@
    "content": "\"Kalau suami mengaji dekat perut isteri sampai khatam, macam mana ustaz?\" Jawapannya ada dalam 1 ayat yang umurnya 1,400 tahun, dan ia bukan pasal khatam. 🧵",
    "date": "2026-10-05",
    "time": "18:02",
-   "views": 50583,
+   "views": 50595,
    "likes": 1527,
    "comments": 9,
    "shares": 235,
@@ -1807,7 +1807,7 @@
    "content": "Nabi SAW lalu pada sekumpulan budak, dan baginda bagi salam dahulu. Bukan budak yang bagi. 1,400 tahun. 🧵",
    "date": "2026-10-04",
    "time": "18:02",
-   "views": 2858,
+   "views": 2859,
    "likes": 20,
    "comments": 5,
    "shares": 4,
@@ -2309,7 +2309,7 @@
     "median": 8317,
     "best": 699273,
     "worst": 0,
-    "total": 3665394,
+    "total": 3665406,
     "er": 2.27,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 6373,
     "best": 236749,
     "worst": 0,
-    "total": 1306514,
+    "total": 1306527,
     "er": 1.86,
     "below": 28
    },
@@ -2351,7 +2351,7 @@
     "median": 6526,
     "best": 699273,
     "worst": 866,
-    "total": 4171871,
+    "total": 4171896,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9103,
     "best": 699273,
     "worst": 1359,
-    "total": 2933998,
+    "total": 2934011,
     "er": 2.31,
     "below": 26
    },
@@ -2393,7 +2393,7 @@
     "median": 5599,
     "best": 391096,
     "worst": 866,
-    "total": 969587,
+    "total": 969599,
     "er": 1.69,
     "below": 14
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699273,
     "worst": 1359,
-    "total": 2746026,
+    "total": 2746051,
     "er": 2.35,
     "below": 29
    },
@@ -2538,8 +2538,8 @@
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -98%",
-    "body": "6.1K views vs 321.8K minggu sebelumnya."
+    "title": "Nadi 7 hari turun -99%",
+    "body": "4.3K views vs 321.0K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3112,6 +3112,14 @@
    "comments": 0,
    "shares": 0,
    "posts": 0
+  },
+  {
+   "date": "2026-10-29",
+   "views": 25,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "posts": 0
   }
  ],
  "followers": [
@@ -3391,8 +3399,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "6.1K",
-   "sub": "-98% vs 7 hari sebelumnya"
+   "value": "4.3K",
+   "sub": "-99% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3416,9 +3424,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-29 16:05 MYT",
+  "fetchedAt": "2026-10-29 16:36 MYT",
   "totals": {
-   "views": 5232665,
+   "views": 5232669,
    "likes": 94260,
    "replies": 6063,
    "reposts": 21978,
@@ -3430,7 +3438,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236803,
+    "views": 236806,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3900,7 +3908,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699333,
+    "views": 699334,
     "likes": 17693,
     "replies": 432,
     "reposts": 5930,
