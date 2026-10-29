@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-29 17:56 MYT",
+  "generatedAt": "2026-10-29 18:28 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -357,9 +357,9 @@
      "likes": 0
     }
    ],
-   "items": 8,
+   "items": 1,
    "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Petikan rakyat",
    "pillar": "Story"
   },
@@ -414,9 +414,9 @@
      "likes": 0
     }
    ],
-   "items": 6,
+   "items": 1,
    "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Petikan rakyat",
    "pillar": "Myth-busting"
   },
@@ -494,9 +494,9 @@
    "er": 1.19,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
    "topComments": [],
-   "items": 8,
+   "items": 1,
    "slot": "12:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
@@ -614,9 +614,9 @@
    "er": 0.78,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc-2YlZEVTT",
    "topComments": [],
-   "items": 6,
+   "items": 1,
    "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
@@ -654,9 +654,9 @@
    "er": 2.67,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc3JnLuDLjp",
    "topComments": [],
-   "items": 8,
+   "items": 1,
    "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
@@ -694,9 +694,9 @@
    "er": 1.46,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc5FMmRjViO",
    "topComments": [],
-   "items": 8,
+   "items": 1,
    "slot": "12:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
@@ -1274,9 +1274,9 @@
    "er": 1.27,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc9q7boipW_",
    "topComments": [],
-   "items": 6,
+   "items": 1,
    "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Kisah diri",
    "pillar": "Story"
   },
@@ -1374,9 +1374,9 @@
    "er": 4.99,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc4kvgDCCwH",
    "topComments": [],
-   "items": 8,
+   "items": 1,
    "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Nama luar (barat)",
    "pillar": "N-Tesis"
   },
@@ -1414,9 +1414,9 @@
    "er": 2.21,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc8TPOYiNZJ",
    "topComments": [],
-   "items": 7,
+   "items": 1,
    "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
@@ -1974,9 +1974,9 @@
    "er": 1.36,
    "url": "https://www.threads.com/@ustaz.basri/post/Dc6BqbcCNEe",
    "topComments": [],
-   "items": 7,
+   "items": 1,
    "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
+   "format": "Post tunggal",
    "hookClass": "Kisah diri",
    "pillar": "Interaktif"
   },
@@ -2337,23 +2337,13 @@
   "formats": [
    {
     "label": "Post tunggal",
-    "n": 27,
-    "median": 6687,
+    "n": 37,
+    "median": 7591,
     "best": 435796,
     "worst": 0,
-    "total": 1049769,
-    "er": 2.06,
-    "below": 20
-   },
-   {
-    "label": "Bebenang 5-8 mesej",
-    "n": 69,
-    "median": 6528,
-    "best": 699349,
-    "worst": 866,
-    "total": 4172135,
-    "er": 2.01,
-    "below": 38
+    "total": 2084986,
+    "er": 2.09,
+    "below": 24
    },
    {
     "label": "Mini-bebenang 3 mesej",
@@ -2364,6 +2354,16 @@
     "total": 28218,
     "er": 1.18,
     "below": 3
+   },
+   {
+    "label": "Bebenang 5-8 mesej",
+    "n": 59,
+    "median": 5599,
+    "best": 699349,
+    "worst": 866,
+    "total": 3136918,
+    "er": 1.98,
+    "below": 34
    }
   ],
   "hooks": [
@@ -2529,7 +2529,7 @@
    {
     "level": "warn",
     "title": "Post tunggal lemah",
-    "body": "Median 6.7K (27 post) vs bebenang. Slot 07:01 & 18:01 mesti 5-8 mesej."
+    "body": "Median 7.6K (37 post) vs bebenang. Slot 07:01 & 18:01 mesti 5-8 mesej."
    },
    {
     "level": "good",
@@ -3428,9 +3428,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-30 01:56 MYT",
+  "fetchedAt": "2026-10-30 02:28 MYT",
   "totals": {
-   "views": 5232931,
+   "views": 5232940,
    "likes": 94260,
    "replies": 6061,
    "reposts": 21979,
@@ -3442,7 +3442,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236858,
+    "views": 236859,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3462,7 +3462,7 @@
     "id": "18075357506562573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeiGAyhjR5O",
     "timestamp": "2026-10-15",
-    "views": 46425,
+    "views": 46426,
     "likes": 259,
     "replies": 37,
     "reposts": 42,
@@ -3492,7 +3492,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96060,
+    "views": 96061,
     "likes": 1256,
     "replies": 42,
     "reposts": 442,
@@ -3732,7 +3732,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113125,
+    "views": 113127,
     "likes": 4539,
     "replies": 56,
     "reposts": 1051,
@@ -3932,7 +3932,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594675,
+    "views": 594676,
     "likes": 9746,
     "replies": 332,
     "reposts": 1738,
@@ -4162,7 +4162,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232636,
+    "views": 232639,
     "likes": 4097,
     "replies": 1105,
     "reposts": 1741,
