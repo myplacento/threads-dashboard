@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-29 17:25 MYT",
+  "generatedAt": "2026-10-29 17:56 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5302206,
+  "views": 5302208,
   "likes": 94740,
   "comments": 6492,
   "shares": 23059,
@@ -1307,7 +1307,7 @@
    "content": "Al-Quran sebut 1 perkataan yang kita dilarang cakap pada ibu bapa. Bukan perkataan kesat. Cuma 1 bunyi. 1,400 tahun lepas. 🧵",
    "date": "2026-09-25",
    "time": "18:02",
-   "views": 6526,
+   "views": 6528,
    "likes": 51,
    "comments": 8,
    "shares": 9,
@@ -2048,10 +2048,10 @@
    "date": "2026-09-23",
    "time": "18:02",
    "views": 1430,
-   "likes": 7,
+   "likes": 6,
    "comments": 6,
    "shares": 3,
-   "er": 1.12,
+   "er": 1.05,
    "url": "https://www.threads.com/@ustaz.basri/post/DdoDKC7iN1Q",
    "topComments": [],
    "items": 6,
@@ -2316,11 +2316,11 @@
    {
     "label": "18:01",
     "n": 44,
-    "median": 6373,
+    "median": 6374,
     "best": 236749,
     "worst": 0,
-    "total": 1306614,
-    "er": 1.86,
+    "total": 1306616,
+    "er": 1.85,
     "below": 28
    },
    {
@@ -2348,10 +2348,10 @@
    {
     "label": "Bebenang 5-8 mesej",
     "n": 69,
-    "median": 6526,
+    "median": 6528,
     "best": 699349,
     "worst": 866,
-    "total": 4172133,
+    "total": 4172135,
     "er": 2.01,
     "below": 38
    },
@@ -2373,7 +2373,7 @@
     "median": 9104,
     "best": 699349,
     "worst": 1359,
-    "total": 2934200,
+    "total": 2934202,
     "er": 2.31,
     "below": 26
    },
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699349,
     "worst": 1359,
-    "total": 2746168,
+    "total": 2746170,
     "er": 2.35,
     "below": 29
    },
@@ -3115,7 +3115,7 @@
   },
   {
    "date": "2026-10-29",
-   "views": 338,
+   "views": 340,
    "likes": 1,
    "comments": 0,
    "shares": 1,
@@ -3428,9 +3428,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-30 01:25 MYT",
+  "fetchedAt": "2026-10-30 01:56 MYT",
   "totals": {
-   "views": 5232925,
+   "views": 5232931,
    "likes": 94260,
    "replies": 6061,
    "reposts": 21979,
@@ -3442,7 +3442,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236857,
+    "views": 236858,
     "likes": 3853,
     "replies": 183,
     "reposts": 884,
@@ -3492,7 +3492,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96058,
+    "views": 96060,
     "likes": 1256,
     "replies": 42,
     "reposts": 442,
@@ -3862,7 +3862,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 8979,
+    "views": 8980,
     "likes": 127,
     "replies": 11,
     "reposts": 10,
@@ -3912,7 +3912,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699376,
+    "views": 699377,
     "likes": 17694,
     "replies": 432,
     "reposts": 5930,
@@ -4072,7 +4072,7 @@
     "id": "18138754993525126",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc-2YlZEVTT",
     "timestamp": "2026-09-07",
-    "views": 87007,
+    "views": 87008,
     "likes": 525,
     "replies": 23,
     "reposts": 129,
