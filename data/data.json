@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-30 16:47 MYT",
+  "generatedAt": "2026-10-30 17:18 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,8 +71,8 @@
   }
  },
  "totals": {
-  "views": 5303063,
-  "likes": 94747,
+  "views": 5303118,
+  "likes": 94748,
   "comments": 6504,
   "shares": 23059,
   "posts": 145
@@ -547,8 +547,8 @@
    "content": "Saya urus uri lebih 5,000 keluarga sejak 2017. Benda paling saya takut bukan uri yang tak selamat. Ibu yang bersalin, balik rumah, dan tiada siapa lagi tanya dia ok tak.",
    "date": "2026-10-12",
    "time": "07:02",
-   "views": 96053,
-   "likes": 1256,
+   "views": 96103,
+   "likes": 1257,
    "comments": 42,
    "shares": 463,
    "er": 1.83,
@@ -907,8 +907,8 @@
    "content": "\"Setiap kali gaduh dengan suami, saya terus doa. Ya Allah, aku ada Kau je.\" Ayat 1 ibu ni bukan pasrah. Dan Al-Quran dah jawab benda ni 1,400 tahun lepas. 🧵",
    "date": "2026-10-11",
    "time": "07:02",
-   "views": 19160,
-   "likes": 360,
+   "views": 19162,
+   "likes": 359,
    "comments": 5,
    "shares": 80,
    "er": 2.32,
@@ -2261,6 +2261,26 @@
    "pillar": "Interaktif"
   },
   {
+   "id": "6ae3d624bca8c514e93a10cf",
+   "zid": "6ae31d83327a8272363fb40b",
+   "platformPostId": "17976571080170692",
+   "content": "Anak saya 2 tahun tiru cara saya mengelap meja, dan saya tak pernah ajar dia. Yang dia ikut bukan kata-kata kita.",
+   "date": "2026-10-30",
+   "time": "07:03",
+   "views": 147,
+   "likes": 3,
+   "comments": 6,
+   "shares": 0,
+   "er": 6.12,
+   "url": "https://www.threads.com/@ustaz.basri/post/DfGJLWBgFE9",
+   "topComments": [],
+   "items": 7,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Kisah diri",
+   "pillar": "Story"
+  },
+  {
    "id": "6ae33cec1ed0085273e689eb",
    "zid": "6ae31c2ab5c63338222a703e",
    "platformPostId": "18098491244435295",
@@ -2279,26 +2299,6 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Kisah diri",
    "pillar": "Story"
-  },
-  {
-   "id": "6ae3d624bca8c514e93a10cf",
-   "zid": "6ae31d83327a8272363fb40b",
-   "platformPostId": "17976571080170692",
-   "content": "Anak saya 2 tahun tiru cara saya mengelap meja, dan saya tak pernah ajar dia. Yang dia ikut bukan kata-kata kita.",
-   "date": "2026-10-30",
-   "time": "07:03",
-   "views": 144,
-   "likes": 3,
-   "comments": 6,
-   "shares": 0,
-   "er": 6.25,
-   "url": "https://www.threads.com/@ustaz.basri/post/DfGJLWBgFE9",
-   "topComments": [],
-   "items": 7,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Kisah diri",
-   "pillar": "Story"
   }
  ],
  "analysis": {
@@ -2308,8 +2308,8 @@
     "n": 43,
     "median": 8317,
     "best": 699467,
-    "worst": 144,
-    "total": 3666061,
+    "worst": 147,
+    "total": 3666116,
     "er": 2.41,
     "below": 23
    },
@@ -2360,9 +2360,9 @@
     "n": 61,
     "median": 4508,
     "best": 699467,
-    "worst": 144,
-    "total": 3137615,
-    "er": 2.1,
+    "worst": 145,
+    "total": 3137670,
+    "er": 2.09,
     "below": 36
    }
   ],
@@ -2373,7 +2373,7 @@
     "median": 9104,
     "best": 699467,
     "worst": 1359,
-    "total": 2934617,
+    "total": 2934619,
     "er": 2.31,
     "below": 26
    },
@@ -2382,9 +2382,9 @@
     "n": 15,
     "median": 7592,
     "best": 594704,
-    "worst": 144,
-    "total": 1268437,
-    "er": 2.1,
+    "worst": 145,
+    "total": 1268490,
+    "er": 2.09,
     "below": 9
    },
    {
@@ -2424,9 +2424,9 @@
     "n": 14,
     "median": 20987,
     "best": 594704,
-    "worst": 144,
-    "total": 1629561,
-    "er": 2.16,
+    "worst": 145,
+    "total": 1629564,
+    "er": 2.15,
     "below": 5
    },
    {
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699467,
     "worst": 1359,
-    "total": 2746524,
+    "total": 2746526,
     "er": 2.35,
     "below": 29
    },
@@ -2443,9 +2443,9 @@
     "label": "N-Tesis",
     "n": 10,
     "median": 6158,
-    "best": 96053,
+    "best": 96103,
     "worst": 866,
-    "total": 143354,
+    "total": 143404,
     "er": 2.3,
     "below": 9
    },
@@ -3123,8 +3123,8 @@
   },
   {
    "date": "2026-10-30",
-   "views": 435,
-   "likes": 4,
+   "views": 490,
+   "likes": 5,
    "comments": 0,
    "shares": 0,
    "posts": 0
@@ -3440,9 +3440,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-31 00:47 MYT",
+  "fetchedAt": "2026-10-31 01:18 MYT",
   "totals": {
-   "views": 5233730,
+   "views": 5233740,
    "likes": 94263,
    "replies": 6073,
    "reposts": 21979,
@@ -3474,7 +3474,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 236984,
+    "views": 236985,
     "likes": 3854,
     "replies": 183,
     "reposts": 884,
@@ -3764,7 +3764,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113150,
+    "views": 113151,
     "likes": 4539,
     "replies": 56,
     "reposts": 1051,
@@ -3944,7 +3944,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699488,
+    "views": 699494,
     "likes": 17694,
     "replies": 432,
     "reposts": 5930,
@@ -4194,7 +4194,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232694,
+    "views": 232695,
     "likes": 4096,
     "replies": 1105,
     "reposts": 1741,
@@ -4354,7 +4354,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 178161,
+    "views": 178162,
     "likes": 3768,
     "replies": 337,
     "reposts": 1200,
