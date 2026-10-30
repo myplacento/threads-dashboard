@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-31 06:48 MYT",
+  "generatedAt": "2026-10-31 07:19 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5303399,
+  "views": 5303438,
   "likes": 94752,
   "comments": 6510,
   "shares": 23059,
@@ -487,7 +487,7 @@
    "content": "Nabi SAW pesan: nama anak akan dipanggil sampai hari kiamat. 1400 tahun. Tapi kita? Pilih nama dalam 7 saat masa isi borang lahir. 😄",
    "date": "2026-09-04",
    "time": "12:15",
-   "views": 173290,
+   "views": 173298,
    "likes": 1490,
    "comments": 443,
    "shares": 126,
@@ -527,7 +527,7 @@
    "content": "Al-Quran sebut ibu mengandung dengan \"lemah bertambah lemah\". Bukan 1 kali lemah. Lemah yang berulang. Ayat 31:14. 🧵",
    "date": "2026-09-26",
    "time": "07:02",
-   "views": 113137,
+   "views": 113165,
    "likes": 4539,
    "comments": 56,
    "shares": 1082,
@@ -2261,6 +2261,26 @@
    "pillar": "Interaktif"
   },
   {
+   "id": "6ae3d624bca8c514e93a10cf",
+   "zid": "6ae31d83327a8272363fb40b",
+   "platformPostId": "17976571080170692",
+   "content": "Anak saya 2 tahun tiru cara saya mengelap meja, dan saya tak pernah ajar dia. Yang dia ikut bukan kata-kata kita.",
+   "date": "2026-10-30",
+   "time": "07:03",
+   "views": 158,
+   "likes": 3,
+   "comments": 6,
+   "shares": 0,
+   "er": 5.7,
+   "url": "https://www.threads.com/@ustaz.basri/post/DfGJLWBgFE9",
+   "topComments": [],
+   "items": 7,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Kisah diri",
+   "pillar": "Story"
+  },
+  {
    "id": "6ae33cec1ed0085273e689eb",
    "zid": "6ae31c2ab5c63338222a703e",
    "platformPostId": "18098491244435295",
@@ -2279,26 +2299,6 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Kisah diri",
    "pillar": "Story"
-  },
-  {
-   "id": "6ae3d624bca8c514e93a10cf",
-   "zid": "6ae31d83327a8272363fb40b",
-   "platformPostId": "17976571080170692",
-   "content": "Anak saya 2 tahun tiru cara saya mengelap meja, dan saya tak pernah ajar dia. Yang dia ikut bukan kata-kata kita.",
-   "date": "2026-10-30",
-   "time": "07:03",
-   "views": 156,
-   "likes": 3,
-   "comments": 6,
-   "shares": 0,
-   "er": 5.77,
-   "url": "https://www.threads.com/@ustaz.basri/post/DfGJLWBgFE9",
-   "topComments": [],
-   "items": 7,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Kisah diri",
-   "pillar": "Story"
   }
  ],
  "analysis": {
@@ -2308,8 +2308,8 @@
     "n": 43,
     "median": 8317,
     "best": 699467,
-    "worst": 156,
-    "total": 3666150,
+    "worst": 158,
+    "total": 3666180,
     "er": 2.4,
     "below": 23
    },
@@ -2327,9 +2327,9 @@
     "label": "12:01",
     "n": 13,
     "median": 3227,
-    "best": 173290,
+    "best": 173298,
     "worst": 578,
-    "total": 277880,
+    "total": 277888,
     "er": 1.51,
     "below": 10
    }
@@ -2341,7 +2341,7 @@
     "median": 8317,
     "best": 435808,
     "worst": 578,
-    "total": 2085155,
+    "total": 2085163,
     "er": 2.21,
     "below": 22
    },
@@ -2360,8 +2360,8 @@
     "n": 61,
     "median": 4508,
     "best": 699467,
-    "worst": 156,
-    "total": 3137803,
+    "worst": 158,
+    "total": 3137833,
     "er": 2.08,
     "below": 36
    }
@@ -2373,7 +2373,7 @@
     "median": 9104,
     "best": 699467,
     "worst": 1359,
-    "total": 2934738,
+    "total": 2934774,
     "er": 2.31,
     "below": 26
    },
@@ -2382,8 +2382,8 @@
     "n": 15,
     "median": 7592,
     "best": 594704,
-    "worst": 156,
-    "total": 1268520,
+    "worst": 158,
+    "total": 1268522,
     "er": 2.04,
     "below": 9
    },
@@ -2424,9 +2424,9 @@
     "n": 14,
     "median": 20988,
     "best": 594704,
-    "worst": 156,
-    "total": 1629602,
-    "er": 2.1,
+    "worst": 158,
+    "total": 1629604,
+    "er": 2.09,
     "below": 5
    },
    {
@@ -2435,7 +2435,7 @@
     "median": 8824,
     "best": 699467,
     "worst": 1359,
-    "total": 2746644,
+    "total": 2746680,
     "er": 2.35,
     "below": 29
    },
@@ -3123,7 +3123,7 @@
   },
   {
    "date": "2026-10-30",
-   "views": 771,
+   "views": 810,
    "likes": 9,
    "comments": 6,
    "shares": 0,
@@ -3440,16 +3440,26 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-31 14:48 MYT",
+  "fetchedAt": "2026-10-31 15:19 MYT",
   "totals": {
-   "views": 5234118,
-   "likes": 94265,
-   "replies": 6079,
+   "views": 5234126,
+   "likes": 94266,
+   "replies": 6085,
    "reposts": 21979,
    "quotes": 814,
-   "posts": 97
+   "posts": 98
   },
   "posts": [
+   {
+    "id": "18116736965469864",
+    "permalink": "https://www.threads.com/@ustaz.basri/post/DfItxKwgljW",
+    "timestamp": "2026-10-30",
+    "views": 0,
+    "likes": 1,
+    "replies": 6,
+    "reposts": 0,
+    "quotes": 0
+   },
    {
     "id": "18110810870352742",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfHUjtbDaps",
@@ -3504,7 +3514,7 @@
     "id": "18075357506562573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeiGAyhjR5O",
     "timestamp": "2026-10-15",
-    "views": 46442,
+    "views": 46444,
     "likes": 259,
     "replies": 37,
     "reposts": 42,
@@ -3534,7 +3544,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96121,
+    "views": 96123,
     "likes": 1257,
     "replies": 42,
     "reposts": 442,
@@ -3774,7 +3784,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113165,
+    "views": 113166,
     "likes": 4539,
     "replies": 56,
     "reposts": 1051,
@@ -3954,7 +3964,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699561,
+    "views": 699562,
     "likes": 17694,
     "replies": 432,
     "reposts": 5930,
@@ -4204,7 +4214,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232723,
+    "views": 232725,
     "likes": 4096,
     "replies": 1105,
     "reposts": 1741,
