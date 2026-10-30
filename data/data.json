@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-31 03:41 MYT",
+  "generatedAt": "2026-10-31 04:12 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5303390,
+  "views": 5303393,
   "likes": 94752,
   "comments": 6510,
   "shares": 23059,
@@ -2287,11 +2287,11 @@
    "content": "Anak saya 2 tahun tiru cara saya mengelap meja, dan saya tak pernah ajar dia. Yang dia ikut bukan kata-kata kita.",
    "date": "2026-10-30",
    "time": "07:03",
-   "views": 154,
+   "views": 155,
    "likes": 3,
    "comments": 6,
    "shares": 0,
-   "er": 5.84,
+   "er": 5.81,
    "url": "https://www.threads.com/@ustaz.basri/post/DfGJLWBgFE9",
    "topComments": [],
    "items": 7,
@@ -2308,8 +2308,8 @@
     "n": 43,
     "median": 8317,
     "best": 699467,
-    "worst": 154,
-    "total": 3666145,
+    "worst": 155,
+    "total": 3666146,
     "er": 2.4,
     "below": 23
    },
@@ -2360,8 +2360,8 @@
     "n": 61,
     "median": 4508,
     "best": 699467,
-    "worst": 154,
-    "total": 3137798,
+    "worst": 155,
+    "total": 3137799,
     "er": 2.08,
     "below": 36
    }
@@ -2382,8 +2382,8 @@
     "n": 15,
     "median": 7592,
     "best": 594704,
-    "worst": 154,
-    "total": 1268518,
+    "worst": 155,
+    "total": 1268519,
     "er": 2.05,
     "below": 9
    },
@@ -2424,8 +2424,8 @@
     "n": 14,
     "median": 20988,
     "best": 594704,
-    "worst": 154,
-    "total": 1629600,
+    "worst": 155,
+    "total": 1629601,
     "er": 2.1,
     "below": 5
    },
@@ -3123,7 +3123,7 @@
   },
   {
    "date": "2026-10-30",
-   "views": 762,
+   "views": 765,
    "likes": 9,
    "comments": 6,
    "shares": 0,
@@ -3440,7 +3440,7 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-31 11:41 MYT",
+  "fetchedAt": "2026-10-31 12:13 MYT",
   "totals": {
    "views": 5234093,
    "likes": 94265,
