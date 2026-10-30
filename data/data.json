@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-31 00:33 MYT",
+  "generatedAt": "2026-10-31 01:04 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5303372,
+  "views": 5303375,
   "likes": 94752,
   "comments": 6510,
   "shares": 23059,
@@ -2261,6 +2261,26 @@
    "pillar": "Interaktif"
   },
   {
+   "id": "6ae33cec1ed0085273e689eb",
+   "zid": "6ae31c2ab5c63338222a703e",
+   "platformPostId": "18098491244435295",
+   "content": "Mak saya bidan 40 tahun. Dia kata uri bukan kerja ayah sorang. Itu kerja bersama.",
+   "date": "2026-10-29",
+   "time": "19:02",
+   "views": 155,
+   "likes": 1,
+   "comments": 6,
+   "shares": 0,
+   "er": 4.52,
+   "url": "https://www.threads.com/@ustaz.basri/post/DfE2on6jaGm",
+   "topComments": [],
+   "items": 7,
+   "slot": "18:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Kisah diri",
+   "pillar": "Story"
+  },
+  {
    "id": "6ae3d624bca8c514e93a10cf",
    "zid": "6ae31d83327a8272363fb40b",
    "platformPostId": "17976571080170692",
@@ -2276,26 +2296,6 @@
    "topComments": [],
    "items": 7,
    "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Kisah diri",
-   "pillar": "Story"
-  },
-  {
-   "id": "6ae33cec1ed0085273e689eb",
-   "zid": "6ae31c2ab5c63338222a703e",
-   "platformPostId": "18098491244435295",
-   "content": "Mak saya bidan 40 tahun. Dia kata uri bukan kerja ayah sorang. Itu kerja bersama.",
-   "date": "2026-10-29",
-   "time": "19:02",
-   "views": 152,
-   "likes": 1,
-   "comments": 6,
-   "shares": 0,
-   "er": 4.61,
-   "url": "https://www.threads.com/@ustaz.basri/post/DfE2on6jaGm",
-   "topComments": [],
-   "items": 7,
-   "slot": "18:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Kisah diri",
    "pillar": "Story"
@@ -2318,8 +2318,8 @@
     "n": 44,
     "median": 6374,
     "best": 236998,
-    "worst": 152,
-    "total": 1307160,
+    "worst": 155,
+    "total": 1307163,
     "er": 1.96,
     "below": 28
    },
@@ -2360,8 +2360,8 @@
     "n": 61,
     "median": 4508,
     "best": 699467,
-    "worst": 152,
-    "total": 3137791,
+    "worst": 154,
+    "total": 3137794,
     "er": 2.08,
     "below": 36
    }
@@ -2382,9 +2382,9 @@
     "n": 15,
     "median": 7592,
     "best": 594704,
-    "worst": 152,
-    "total": 1268504,
-    "er": 2.06,
+    "worst": 154,
+    "total": 1268507,
+    "er": 2.05,
     "below": 9
    },
    {
@@ -2424,8 +2424,8 @@
     "n": 14,
     "median": 20987,
     "best": 594704,
-    "worst": 152,
-    "total": 1629593,
+    "worst": 154,
+    "total": 1629596,
     "er": 2.11,
     "below": 5
    },
@@ -3123,7 +3123,7 @@
   },
   {
    "date": "2026-10-30",
-   "views": 744,
+   "views": 747,
    "likes": 9,
    "comments": 6,
    "shares": 0,
@@ -3440,9 +3440,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-31 08:34 MYT",
+  "fetchedAt": "2026-10-31 09:05 MYT",
   "totals": {
-   "views": 5234039,
+   "views": 5234060,
    "likes": 94265,
    "replies": 6079,
    "reposts": 21979,
@@ -3474,7 +3474,7 @@
     "id": "18098491244435295",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfE2on6jaGm",
     "timestamp": "2026-10-29",
-    "views": 155,
+    "views": 158,
     "likes": 1,
     "replies": 6,
     "reposts": 0,
@@ -3484,7 +3484,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 237010,
+    "views": 237020,
     "likes": 3854,
     "replies": 183,
     "reposts": 884,
@@ -3534,7 +3534,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96112,
+    "views": 96114,
     "likes": 1257,
     "replies": 42,
     "reposts": 442,
@@ -3954,7 +3954,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699546,
+    "views": 699549,
     "likes": 17694,
     "replies": 432,
     "reposts": 5930,
@@ -4204,7 +4204,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232718,
+    "views": 232721,
     "likes": 4096,
     "replies": 1105,
     "reposts": 1741,
