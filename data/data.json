@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-31 02:08 MYT",
+  "generatedAt": "2026-10-31 02:39 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5303375,
+  "views": 5303390,
   "likes": 94752,
   "comments": 6510,
   "shares": 23059,
@@ -927,7 +927,7 @@
    "content": "Pukul 2 pagi, anak saya demam. Yang tinggal cuma doa yang Nabi SAW ajar. Saya duduk tepi dia sepanjang malam, dan tak boleh buat apa-apa. 🧵",
    "date": "2026-10-02",
    "time": "07:02",
-   "views": 18132,
+   "views": 18133,
    "likes": 260,
    "comments": 9,
    "shares": 82,
@@ -1167,7 +1167,7 @@
    "content": "Kenalkan, saya Ustaz Basri. Saya bukan doktor, bukan pakar psikologi. Saya anak seorang bidan, dan 9 tahun saya urus uri untuk lebih 5,000 keluarga.",
    "date": "2026-09-18",
    "time": "20:02",
-   "views": 8986,
+   "views": 8994,
    "likes": 127,
    "comments": 11,
    "shares": 10,
@@ -2267,11 +2267,11 @@
    "content": "Mak saya bidan 40 tahun. Dia kata uri bukan kerja ayah sorang. Itu kerja bersama.",
    "date": "2026-10-29",
    "time": "19:02",
-   "views": 155,
+   "views": 158,
    "likes": 1,
    "comments": 6,
    "shares": 0,
-   "er": 4.52,
+   "er": 4.43,
    "url": "https://www.threads.com/@ustaz.basri/post/DfE2on6jaGm",
    "topComments": [],
    "items": 7,
@@ -2309,7 +2309,7 @@
     "median": 8317,
     "best": 699467,
     "worst": 154,
-    "total": 3666144,
+    "total": 3666145,
     "er": 2.4,
     "below": 23
    },
@@ -2318,8 +2318,8 @@
     "n": 44,
     "median": 6374,
     "best": 236998,
-    "worst": 155,
-    "total": 1307163,
+    "worst": 158,
+    "total": 1307174,
     "er": 1.96,
     "below": 28
    },
@@ -2348,10 +2348,10 @@
    {
     "label": "Mini-bebenang 3 mesej",
     "n": 4,
-    "median": 6186,
+    "median": 6190,
     "best": 13398,
     "worst": 2467,
-    "total": 28238,
+    "total": 28246,
     "er": 1.18,
     "below": 3
    },
@@ -2361,7 +2361,7 @@
     "median": 4508,
     "best": 699467,
     "worst": 154,
-    "total": 3137794,
+    "total": 3137798,
     "er": 2.08,
     "below": 36
    }
@@ -2373,7 +2373,7 @@
     "median": 9104,
     "best": 699467,
     "worst": 1359,
-    "total": 2934736,
+    "total": 2934737,
     "er": 2.31,
     "below": 26
    },
@@ -2383,7 +2383,7 @@
     "median": 7592,
     "best": 594704,
     "worst": 154,
-    "total": 1268507,
+    "total": 1268518,
     "er": 2.05,
     "below": 9
    },
@@ -2422,11 +2422,11 @@
    {
     "label": "Story",
     "n": 14,
-    "median": 20987,
+    "median": 20988,
     "best": 594704,
     "worst": 154,
-    "total": 1629596,
-    "er": 2.11,
+    "total": 1629600,
+    "er": 2.1,
     "below": 5
    },
    {
@@ -2445,7 +2445,7 @@
     "median": 6158,
     "best": 96103,
     "worst": 866,
-    "total": 143404,
+    "total": 143412,
     "er": 2.3,
     "below": 9
    },
@@ -3123,7 +3123,7 @@
   },
   {
    "date": "2026-10-30",
-   "views": 747,
+   "views": 762,
    "likes": 9,
    "comments": 6,
    "shares": 0,
@@ -3440,9 +3440,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-31 10:08 MYT",
+  "fetchedAt": "2026-10-31 10:40 MYT",
   "totals": {
-   "views": 5234079,
+   "views": 5234086,
    "likes": 94265,
    "replies": 6079,
    "reposts": 21979,
@@ -3454,7 +3454,7 @@
     "id": "18110810870352742",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfHUjtbDaps",
     "timestamp": "2026-10-30",
-    "views": 106,
+    "views": 107,
     "likes": 3,
     "replies": 6,
     "reposts": 0,
@@ -3484,7 +3484,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 237022,
+    "views": 237023,
     "likes": 3854,
     "replies": 183,
     "reposts": 884,
@@ -3534,7 +3534,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96115,
+    "views": 96116,
     "likes": 1257,
     "replies": 42,
     "reposts": 442,
@@ -3954,7 +3954,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699553,
+    "views": 699554,
     "likes": 17694,
     "replies": 432,
     "reposts": 5930,
@@ -3974,7 +3974,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594722,
+    "views": 594723,
     "likes": 9745,
     "replies": 332,
     "reposts": 1738,
@@ -4144,7 +4144,7 @@
     "id": "17924947371180816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc7JeOjjf1K",
     "timestamp": "2026-09-05",
-    "views": 391135,
+    "views": 391136,
     "likes": 13128,
     "replies": 179,
     "reposts": 2604,
@@ -4304,7 +4304,7 @@
     "id": "18188395375395400",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
     "timestamp": "2026-08-26",
-    "views": 435815,
+    "views": 435816,
     "likes": 4771,
     "replies": 1094,
     "reposts": 150,
