@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-01 06:41 MYT",
+  "generatedAt": "2026-11-01 07:11 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -3447,34 +3447,44 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-01 14:41 MYT",
+  "fetchedAt": "2026-11-01 15:11 MYT",
   "totals": {
-   "views": 5314616,
-   "likes": 95520,
-   "replies": 6314,
-   "reposts": 22375,
+   "views": 5315434,
+   "likes": 95540,
+   "replies": 6322,
+   "reposts": 22382,
    "quotes": 845,
-   "posts": 99
+   "posts": 100
   },
   "posts": [
+   {
+    "id": "17913457563474036",
+    "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
+    "timestamp": "2026-10-31",
+    "views": 0,
+    "likes": 0,
+    "replies": 7,
+    "reposts": 0,
+    "quotes": 0
+   },
    {
     "id": "17994159783069368",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfJ5T8YETC7",
     "timestamp": "2026-10-31",
-    "views": 76465,
-    "likes": 1207,
-    "replies": 226,
-    "reposts": 384,
+    "views": 77273,
+    "likes": 1226,
+    "replies": 227,
+    "reposts": 390,
     "quotes": 31
    },
    {
     "id": "18116736965469864",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfItxKwgljW",
     "timestamp": "2026-10-30",
-    "views": 2547,
-    "likes": 51,
+    "views": 2553,
+    "likes": 52,
     "replies": 8,
-    "reposts": 12,
+    "reposts": 13,
     "quotes": 1
    },
    {
@@ -3491,7 +3501,7 @@
     "id": "17976571080170692",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfGJLWBgFE9",
     "timestamp": "2026-10-29",
-    "views": 209,
+    "views": 210,
     "likes": 4,
     "replies": 6,
     "reposts": 0,
@@ -3681,7 +3691,7 @@
     "id": "18116443634100079",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dd-CzCWiLva",
     "timestamp": "2026-10-01",
-    "views": 18144,
+    "views": 18145,
     "likes": 260,
     "replies": 9,
     "reposts": 82,
@@ -3931,7 +3941,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 9166,
+    "views": 9167,
     "likes": 127,
     "replies": 11,
     "reposts": 10,
@@ -3951,7 +3961,7 @@
     "id": "18024606956696387",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdZ_otPAn2k",
     "timestamp": "2026-09-17",
-    "views": 60760,
+    "views": 60761,
     "likes": 1721,
     "replies": 31,
     "reposts": 383,
