@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-31 09:54 MYT",
+  "generatedAt": "2026-10-31 10:25 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5303523,
-  "likes": 94755,
+  "views": 5303909,
+  "likes": 94764,
   "comments": 6516,
-  "shares": 23060,
+  "shares": 23063,
   "posts": 147
  },
  "posts": [
@@ -587,7 +587,7 @@
    "content": "Al-Quran sebut cara berhenti susu dalam 1 ayat. Umur ayat tu 1,400 tahun, dan ia tak sebut masa. Ia sebut 2 benda, dan 2 benda itu yang jadi punca gaduh di banyak rumah. 🧵",
    "date": "2026-09-23",
    "time": "07:02",
-   "views": 88943,
+   "views": 88955,
    "likes": 571,
    "comments": 114,
    "shares": 185,
@@ -747,7 +747,7 @@
    "content": "\"Kalau suami mengaji dekat perut isteri sampai khatam, macam mana ustaz?\" Jawapannya ada dalam 1 ayat yang umurnya 1,400 tahun, dan ia bukan pasal khatam. 🧵",
    "date": "2026-10-05",
    "time": "18:02",
-   "views": 50601,
+   "views": 50606,
    "likes": 1527,
    "comments": 9,
    "shares": 235,
@@ -1807,7 +1807,7 @@
    "content": "Nabi SAW lalu pada sekumpulan budak, dan baginda bagi salam dahulu. Bukan budak yang bagi. 1,400 tahun. 🧵",
    "date": "2026-10-04",
    "time": "18:02",
-   "views": 2859,
+   "views": 2860,
    "likes": 20,
    "comments": 5,
    "shares": 4,
@@ -2261,6 +2261,26 @@
    "pillar": "Interaktif"
   },
   {
+   "id": "6ae534780350e13e22e2cc64",
+   "zid": "6ae31d867849009b539e01e6",
+   "platformPostId": "18116736965469864",
+   "content": "Bayi 6 bulan menangis, dan seseorang kata dia manjakan ibu bapanya. Tapi menangis itu bukan taktik, ia bahasa.",
+   "date": "2026-10-31",
+   "time": "07:01",
+   "views": 417,
+   "likes": 12,
+   "comments": 6,
+   "shares": 4,
+   "er": 5.28,
+   "url": "https://www.threads.com/@ustaz.basri/post/DfItxKwgljW",
+   "topComments": [],
+   "items": 7,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Lain-lain",
+   "pillar": "N-Tesis"
+  },
+  {
    "id": "6ae3d624bca8c514e93a10cf",
    "zid": "6ae31d83327a8272363fb40b",
    "platformPostId": "17976571080170692",
@@ -2279,49 +2299,29 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Kisah diri",
    "pillar": "Story"
-  },
-  {
-   "id": "6ae33cec1ed0085273e689eb",
-   "zid": "6ae31c2ab5c63338222a703e",
-   "platformPostId": "18098491244435295",
-   "content": "Mak saya bidan 40 tahun. Dia kata uri bukan kerja ayah sorang. Itu kerja bersama.",
-   "date": "2026-10-29",
-   "time": "19:02",
-   "views": 160,
-   "likes": 1,
-   "comments": 6,
-   "shares": 0,
-   "er": 4.38,
-   "url": "https://www.threads.com/@ustaz.basri/post/DfE2on6jaGm",
-   "topComments": [],
-   "items": 7,
-   "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Kisah diri",
-   "pillar": "Story"
   }
  ],
  "analysis": {
   "slots": [
    {
     "label": "07:01",
-    "n": 43,
-    "median": 8317,
+    "n": 44,
+    "median": 7954,
     "best": 699467,
     "worst": 160,
-    "total": 3666196,
-    "er": 2.4,
-    "below": 23
+    "total": 3666625,
+    "er": 2.47,
+    "below": 24
    },
    {
     "label": "18:01",
-    "n": 44,
-    "median": 6374,
+    "n": 43,
+    "median": 6528,
     "best": 236998,
-    "worst": 160,
-    "total": 1307191,
-    "er": 1.95,
-    "below": 28
+    "worst": 674,
+    "total": 1307037,
+    "er": 1.9,
+    "below": 27
    },
    {
     "label": "12:01",
@@ -2361,8 +2361,8 @@
     "median": 4508,
     "best": 699467,
     "worst": 160,
-    "total": 3137840,
-    "er": 2.08,
+    "total": 3138115,
+    "er": 2.09,
     "below": 36
    }
   ],
@@ -2373,19 +2373,19 @@
     "median": 9104,
     "best": 699467,
     "worst": 1359,
-    "total": 2934800,
+    "total": 2934813,
     "er": 2.31,
     "below": 26
    },
    {
     "label": "Kisah diri",
-    "n": 15,
-    "median": 7592,
+    "n": 14,
+    "median": 8293,
     "best": 594704,
     "worst": 160,
-    "total": 1268528,
-    "er": 2.03,
-    "below": 9
+    "total": 1268368,
+    "er": 1.86,
+    "below": 8
    },
    {
     "label": "Petikan rakyat",
@@ -2393,7 +2393,7 @@
     "median": 5599,
     "best": 391134,
     "worst": 866,
-    "total": 969751,
+    "total": 969756,
     "er": 1.69,
     "below": 14
    },
@@ -2409,25 +2409,25 @@
    },
    {
     "label": "Lain-lain",
-    "n": 8,
-    "median": 1841,
+    "n": 9,
+    "median": 1592,
     "best": 46724,
-    "worst": 578,
-    "total": 57341,
-    "er": 1.69,
-    "below": 7
+    "worst": 417,
+    "total": 57758,
+    "er": 2.09,
+    "below": 8
    }
   ],
   "pillars": [
    {
     "label": "Story",
-    "n": 14,
-    "median": 20988,
+    "n": 13,
+    "median": 23843,
     "best": 594704,
     "worst": 160,
-    "total": 1629610,
-    "er": 2.08,
-    "below": 5
+    "total": 1629450,
+    "er": 1.91,
+    "below": 4
    },
    {
     "label": "Sunnah/Dalil",
@@ -2435,19 +2435,19 @@
     "median": 8824,
     "best": 699467,
     "worst": 1359,
-    "total": 2746707,
+    "total": 2746725,
     "er": 2.35,
     "below": 29
    },
    {
     "label": "N-Tesis",
-    "n": 10,
-    "median": 6158,
+    "n": 11,
+    "median": 5630,
     "best": 96103,
-    "worst": 866,
-    "total": 143412,
-    "er": 2.3,
-    "below": 9
+    "worst": 417,
+    "total": 143829,
+    "er": 2.57,
+    "below": 10
    },
    {
     "label": "Myth-busting",
@@ -2529,12 +2529,12 @@
    {
     "level": "good",
     "title": "Slot terbaik: 07:01",
-    "body": "Median 8.3K · terbaik 699.5K · 43 post. Letak kandungan paling kuat di sini."
+    "body": "Median 8.0K · terbaik 699.5K · 44 post. Letak kandungan paling kuat di sini."
    },
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -98%",
-    "body": "3.8K views vs 248.9K minggu sebelumnya."
+    "body": "4.2K views vs 248.9K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3123,15 +3123,15 @@
   },
   {
    "date": "2026-10-30",
-   "views": 860,
-   "likes": 12,
+   "views": 1227,
+   "likes": 21,
    "comments": 12,
-   "shares": 1,
+   "shares": 4,
    "posts": 2
   },
   {
    "date": "2026-10-31",
-   "views": 35,
+   "views": 54,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -3423,7 +3423,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "3.8K",
+   "value": "4.2K",
    "sub": "-98% vs 7 hari sebelumnya"
   },
   {
@@ -3448,13 +3448,13 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-10-31 17:54 MYT",
+  "fetchedAt": "2026-10-31 18:25 MYT",
   "totals": {
-   "views": 5234627,
-   "likes": 94272,
+   "views": 5234794,
+   "likes": 94274,
    "replies": 6085,
    "reposts": 21983,
-   "quotes": 814,
+   "quotes": 813,
    "posts": 98
   },
   "posts": [
@@ -3462,8 +3462,8 @@
     "id": "18116736965469864",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfItxKwgljW",
     "timestamp": "2026-10-30",
-    "views": 417,
-    "likes": 12,
+    "views": 572,
+    "likes": 14,
     "replies": 6,
     "reposts": 4,
     "quotes": 0
@@ -3472,7 +3472,7 @@
     "id": "18110810870352742",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfHUjtbDaps",
     "timestamp": "2026-10-30",
-    "views": 113,
+    "views": 115,
     "likes": 3,
     "replies": 6,
     "reposts": 0,
@@ -3972,11 +3972,11 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 699569,
+    "views": 699571,
     "likes": 17693,
     "replies": 432,
     "reposts": 5930,
-    "quotes": 167
+    "quotes": 166
    },
    {
     "id": "17970439326137644",
@@ -3992,7 +3992,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 594732,
+    "views": 594737,
     "likes": 9745,
     "replies": 332,
     "reposts": 1738,
@@ -4222,7 +4222,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232746,
+    "views": 232749,
     "likes": 4095,
     "replies": 1105,
     "reposts": 1741,
