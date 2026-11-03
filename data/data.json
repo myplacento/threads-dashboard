@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-04 07:01 MYT",
+  "generatedAt": "2026-11-04 07:33 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -3488,21 +3488,31 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-04 15:02 MYT",
+  "fetchedAt": "2026-11-04 15:33 MYT",
   "totals": {
-   "views": 5478607,
-   "likes": 97919,
-   "replies": 6513,
+   "views": 5479361,
+   "likes": 97920,
+   "replies": 6519,
    "reposts": 23082,
    "quotes": 901,
-   "posts": 103
+   "posts": 104
   },
   "posts": [
+   {
+    "id": "18339688507261069",
+    "permalink": "https://www.threads.com/@ustaz.basri/post/DfTBGVuiBwM",
+    "timestamp": "2026-11-03",
+    "views": 744,
+    "likes": 1,
+    "replies": 6,
+    "reposts": 0,
+    "quotes": 0
+   },
    {
     "id": "18036070526669743",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfRnzhsjElf",
     "timestamp": "2026-11-03",
-    "views": 1339,
+    "views": 1340,
     "likes": 4,
     "replies": 6,
     "reposts": 0,
@@ -3512,7 +3522,7 @@
     "id": "18178329181445921",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfQcKrOCNQL",
     "timestamp": "2026-11-02",
-    "views": 3556,
+    "views": 3560,
     "likes": 54,
     "replies": 6,
     "reposts": 15,
@@ -3532,7 +3542,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 118823,
+    "views": 118824,
     "likes": 1755,
     "replies": 120,
     "reposts": 542,
@@ -4082,7 +4092,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 595645,
+    "views": 595646,
     "likes": 9745,
     "replies": 330,
     "reposts": 1740,
@@ -4312,7 +4322,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 232964,
+    "views": 232967,
     "likes": 4097,
     "replies": 1105,
     "reposts": 1741,
