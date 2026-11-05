@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-06 06:15 MYT",
+  "generatedAt": "2026-11-06 06:46 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5718875,
-  "likes": 101842,
+  "views": 5720887,
+  "likes": 101920,
   "comments": 7091,
-  "shares": 24844,
+  "shares": 24854,
   "posts": 157
  },
  "posts": [
@@ -507,11 +507,11 @@
    "content": "Saya urus uri 9 tahun, lebih 5,000 keluarga. Bila saya tanya ibu menyusu apa dia perlu, jawapannya sama. Tidur, bukan susu.",
    "date": "2026-11-04",
    "time": "18:03",
-   "views": 155713,
-   "likes": 3369,
+   "views": 157701,
+   "likes": 3447,
    "comments": 84,
-   "shares": 584,
-   "er": 2.59,
+   "shares": 594,
+   "er": 2.62,
    "url": "https://www.threads.com/@ustaz.basri/post/DfUMrDBCKQx",
    "topComments": [],
    "items": 7,
@@ -527,7 +527,7 @@
    "content": "Seorang ibu menyusu 2 tahun lalu doa cepat berhenti. Tapi yang dia rindu kemudian bukan susu.",
    "date": "2026-11-01",
    "time": "07:02",
-   "views": 119908,
+   "views": 119914,
    "likes": 1756,
    "comments": 145,
    "shares": 589,
@@ -587,7 +587,7 @@
    "content": "Seorang isteri ada ijazah, 3 anak, dan duduk rumah. Orang kata dia malas. Sebenarnya dia mengira.",
    "date": "2026-10-31",
    "time": "18:01",
-   "views": 112002,
+   "views": 112003,
    "likes": 1784,
    "comments": 299,
    "shares": 577,
@@ -1467,7 +1467,7 @@
    "content": "Al-Quran ajar doa 1400 tahun lalu: \"Ya Tuhan kami, kurniakanlah kami pasangan dan zuriat yang menyejukkan mata.\" (Al-Furqan 74) Ramai fikir anak selamatkan rumah tangga. Rupanya terbalik.",
    "date": "2026-09-06",
    "time": "18:16",
-   "views": 5128,
+   "views": 5129,
    "likes": 83,
    "comments": 6,
    "shares": 24,
@@ -1687,11 +1687,11 @@
    "content": "Seorang suami fikir rumah dia tenang 5 tahun. Yang buat isteri terasa bukan kerja banyak, tapi kerja yang dia tak nampak.",
    "date": "2026-11-03",
    "time": "07:02",
-   "views": 3653,
+   "views": 3654,
    "likes": 56,
    "comments": 6,
    "shares": 16,
-   "er": 2.14,
+   "er": 2.13,
    "url": "https://www.threads.com/@ustaz.basri/post/DfQcKrOCNQL",
    "topComments": [],
    "items": 7,
@@ -2147,7 +2147,7 @@
    "content": "Seorang ayah ada 3 anak, dan dia campur nama semua anak supaya senada. Tetapi nama itu bukan sekadar panggilan.",
    "date": "2026-11-05",
    "time": "07:02",
-   "views": 1725,
+   "views": 1738,
    "likes": 8,
    "comments": 5,
    "shares": 1,
@@ -2187,7 +2187,7 @@
    "content": "Saya urus uri 9 tahun. Soalan paling kerap dari suami bukan pasal uri. Saya kena beli apa?",
    "date": "2026-11-03",
    "time": "18:02",
-   "views": 1447,
+   "views": 1448,
    "likes": 4,
    "comments": 6,
    "shares": 0,
@@ -2309,7 +2309,7 @@
     "median": 8938,
     "best": 700151,
     "worst": 1440,
-    "total": 3795306,
+    "total": 3795326,
     "er": 2.3,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 8344,
     "best": 237449,
     "worst": 1392,
-    "total": 1578589,
+    "total": 1580580,
     "er": 1.89,
     "below": 27
    },
@@ -2341,7 +2341,7 @@
     "median": 8587,
     "best": 435903,
     "worst": 1359,
-    "total": 2083897,
+    "total": 2083898,
     "er": 2.24,
     "below": 19
    },
@@ -2361,7 +2361,7 @@
     "median": 5921,
     "best": 700151,
     "worst": 1392,
-    "total": 3537516,
+    "total": 3539526,
     "er": 1.96,
     "below": 36
    }
@@ -2383,7 +2383,7 @@
     "median": 9113,
     "best": 700151,
     "worst": 1359,
-    "total": 2937483,
+    "total": 2937484,
     "er": 2.3,
     "below": 26
    },
@@ -2393,7 +2393,7 @@
     "median": 8557,
     "best": 595974,
     "worst": 1440,
-    "total": 1429564,
+    "total": 1431553,
     "er": 1.53,
     "below": 9
    },
@@ -2411,9 +2411,9 @@
     "label": "Lain-lain",
     "n": 10,
     "median": 2608,
-    "best": 119908,
+    "best": 119914,
     "worst": 1593,
-    "total": 295017,
+    "total": 295038,
     "er": 1.81,
     "below": 7
    }
@@ -2435,7 +2435,7 @@
     "median": 8830,
     "best": 700151,
     "worst": 1359,
-    "total": 2749094,
+    "total": 2749095,
     "er": 2.35,
     "below": 29
    },
@@ -2443,9 +2443,9 @@
     "label": "N-Tesis",
     "n": 17,
     "median": 5630,
-    "best": 155713,
-    "worst": 1447,
-    "total": 542523,
+    "best": 157701,
+    "worst": 1448,
+    "total": 544533,
     "er": 2.06,
     "below": 13
    },
@@ -2533,8 +2533,8 @@
    },
    {
     "level": "good",
-    "title": "Nadi 7 hari naik +8237%",
-    "body": "416.2K views vs 5.0K minggu sebelumnya."
+    "title": "Nadi 7 hari naik +8277%",
+    "body": "418.3K views vs 5.0K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3163,7 +3163,7 @@
   },
   {
    "date": "2026-11-04",
-   "views": 38649,
+   "views": 38662,
    "likes": 416,
    "comments": 52,
    "shares": 93,
@@ -3171,10 +3171,10 @@
   },
   {
    "date": "2026-11-05",
-   "views": 122612,
-   "likes": 2974,
+   "views": 124611,
+   "likes": 3052,
    "comments": 72,
-   "shares": 494,
+   "shares": 504,
    "posts": 0
   }
  ],
@@ -3487,8 +3487,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "416.2K",
-   "sub": "+8237% vs 7 hari sebelumnya"
+   "value": "418.3K",
+   "sub": "+8277% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3512,12 +3512,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-06 14:15 MYT",
+  "fetchedAt": "2026-11-06 14:46 MYT",
   "totals": {
-   "views": 5642717,
-   "likes": 101377,
+   "views": 5644189,
+   "likes": 101409,
    "replies": 6640,
-   "reposts": 23651,
+   "reposts": 23654,
    "quotes": 923,
    "posts": 106
   },
@@ -3526,7 +3526,7 @@
     "id": "18189913054417711",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfVlwSXCERn",
     "timestamp": "2026-11-04",
-    "views": 1738,
+    "views": 1745,
     "likes": 8,
     "replies": 5,
     "reposts": 1,
@@ -3536,10 +3536,10 @@
     "id": "18033520277875463",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfUMrDBCKQx",
     "timestamp": "2026-11-04",
-    "views": 157701,
-    "likes": 3448,
+    "views": 159155,
+    "likes": 3480,
     "replies": 84,
-    "reposts": 573,
+    "reposts": 576,
     "quotes": 22
    },
    {
@@ -3586,7 +3586,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 119914,
+    "views": 119917,
     "likes": 1756,
     "replies": 145,
     "reposts": 543,
@@ -3646,7 +3646,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 237452,
+    "views": 237453,
     "likes": 3855,
     "replies": 185,
     "reposts": 884,
@@ -3696,7 +3696,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96296,
+    "views": 96297,
     "likes": 1257,
     "replies": 42,
     "reposts": 442,
@@ -4066,7 +4066,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 9645,
+    "views": 9646,
     "likes": 130,
     "replies": 11,
     "reposts": 10,
@@ -4116,7 +4116,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700188,
+    "views": 700190,
     "likes": 17690,
     "replies": 432,
     "reposts": 5928,
@@ -4136,7 +4136,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 596082,
+    "views": 596084,
     "likes": 9745,
     "replies": 329,
     "reposts": 1739,
@@ -4356,7 +4356,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 173448,
+    "views": 173449,
     "likes": 1491,
     "replies": 443,
     "reposts": 121,
