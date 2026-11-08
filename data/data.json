@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-09 05:49 MYT",
+  "generatedAt": "2026-11-09 06:20 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5794360,
+  "views": 5794403,
   "likes": 103116,
   "comments": 7195,
   "shares": 25049,
@@ -370,7 +370,7 @@
    "content": "\"Jangan dukung, nanti manja.\" \"Jangan layan, nanti membuang masa.\" Mitos ni dah lama, tapi sains dah jawab. 🧵",
    "date": "2026-09-08",
    "time": "07:02",
-   "views": 241770,
+   "views": 241774,
    "likes": 3132,
    "comments": 95,
    "shares": 779,
@@ -427,7 +427,7 @@
    "content": "Al-Quran bagi ibu 2 tahun penuh untuk menyusu. Tapi yang buat 1 ibu bertahan 2 tahun bukan susu. Kaki suaminya.",
    "date": "2026-10-18",
    "time": "18:02",
-   "views": 237554,
+   "views": 237572,
    "likes": 3855,
    "comments": 185,
    "shares": 926,
@@ -807,7 +807,7 @@
    "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
    "date": "2026-11-07",
    "time": "18:01",
-   "views": 50673,
+   "views": 50691,
    "likes": 872,
    "comments": 73,
    "shares": 149,
@@ -2307,9 +2307,9 @@
     "label": "18:01",
     "n": 44,
     "median": 9131,
-    "best": 237554,
+    "best": 237572,
     "worst": 1435,
-    "total": 1642123,
+    "total": 1642159,
     "er": 1.88,
     "below": 24
    },
@@ -2319,7 +2319,7 @@
     "median": 7962,
     "best": 700400,
     "worst": 1427,
-    "total": 3801615,
+    "total": 3801619,
     "er": 2.22,
     "below": 25
    },
@@ -2351,7 +2351,7 @@
     "median": 8327,
     "best": 700400,
     "worst": 1593,
-    "total": 3542139,
+    "total": 3542161,
     "er": 2.18,
     "below": 28
    },
@@ -2361,7 +2361,7 @@
     "median": 6536,
     "best": 407521,
     "worst": 1427,
-    "total": 2150822,
+    "total": 2150840,
     "er": 1.83,
     "below": 28
    }
@@ -2373,7 +2373,7 @@
     "median": 9551,
     "best": 700400,
     "worst": 1851,
-    "total": 2988958,
+    "total": 2988994,
     "er": 2.25,
     "below": 25
    },
@@ -2383,7 +2383,7 @@
     "median": 9379,
     "best": 391255,
     "worst": 1435,
-    "total": 966012,
+    "total": 966016,
     "er": 1.64,
     "below": 10
    },
@@ -2435,7 +2435,7 @@
     "median": 9246,
     "best": 700400,
     "worst": 1435,
-    "total": 2799001,
+    "total": 2799037,
     "er": 2.29,
     "below": 27
    },
@@ -2453,9 +2453,9 @@
     "label": "Myth-busting",
     "n": 7,
     "median": 5625,
-    "best": 241770,
+    "best": 241774,
     "worst": 2682,
-    "total": 383774,
+    "total": 383778,
     "er": 1.45,
     "below": 4
    },
@@ -3187,7 +3187,7 @@
   },
   {
    "date": "2026-11-07",
-   "views": 30620,
+   "views": 30621,
    "likes": 372,
    "comments": 36,
    "shares": 72,
@@ -3195,7 +3195,7 @@
   },
   {
    "date": "2026-11-08",
-   "views": 31823,
+   "views": 31865,
    "likes": 541,
    "comments": 45,
    "shares": 84,
@@ -3548,9 +3548,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-09 13:49 MYT",
+  "fetchedAt": "2026-11-09 14:20 MYT",
   "totals": {
-   "views": 5716146,
+   "views": 5716157,
    "likes": 102559,
    "replies": 6742,
    "reposts": 23830,
@@ -3562,7 +3562,7 @@
     "id": "18193254622404133",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfefkqKkT0B",
     "timestamp": "2026-11-08",
-    "views": 1068,
+    "views": 1069,
     "likes": 9,
     "replies": 4,
     "reposts": 0,
@@ -3582,7 +3582,7 @@
     "id": "17873537514642386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
     "timestamp": "2026-11-07",
-    "views": 50691,
+    "views": 50696,
     "likes": 872,
     "replies": 73,
     "reposts": 145,
@@ -3982,7 +3982,7 @@
     "id": "17975074632132976",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddzvjk9DrP3",
     "timestamp": "2026-09-27",
-    "views": 115551,
+    "views": 115552,
     "likes": 699,
     "replies": 48,
     "reposts": 148,
@@ -4022,7 +4022,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113420,
+    "views": 113421,
     "likes": 4539,
     "replies": 56,
     "reposts": 1049,
@@ -4202,7 +4202,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700422,
+    "views": 700424,
     "likes": 17685,
     "replies": 431,
     "reposts": 5926,
@@ -4222,7 +4222,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 596740,
+    "views": 596741,
     "likes": 9745,
     "replies": 328,
     "reposts": 1739,
