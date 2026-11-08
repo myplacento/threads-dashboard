@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-09 04:16 MYT",
+  "generatedAt": "2026-11-09 04:47 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5794297,
-  "likes": 103113,
+  "views": 5794360,
+  "likes": 103116,
   "comments": 7195,
-  "shares": 25048,
+  "shares": 25049,
   "posts": 162
  },
  "posts": [
@@ -467,10 +467,10 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 178510,
+   "views": 178523,
    "likes": 3767,
    "comments": 337,
-   "shares": 1248,
+   "shares": 1247,
    "er": 3,
    "url": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
    "topComments": [],
@@ -507,7 +507,7 @@
    "content": "Saya urus uri 9 tahun, lebih 5,000 keluarga. Bila saya tanya ibu menyusu apa dia perlu, jawapannya sama. Tidur, bukan susu.",
    "date": "2026-11-04",
    "time": "18:03",
-   "views": 167523,
+   "views": 167526,
    "likes": 3726,
    "comments": 101,
    "shares": 634,
@@ -801,6 +801,26 @@
    "pillar": "Sunnah/Dalil"
   },
   {
+   "id": "6aeef73ba5334af83f1baaf9",
+   "zid": null,
+   "platformPostId": "17873537514642386",
+   "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
+   "date": "2026-11-07",
+   "time": "18:01",
+   "views": 50673,
+   "likes": 872,
+   "comments": 73,
+   "shares": 149,
+   "er": 2.16,
+   "url": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
+   "topComments": [],
+   "items": 1,
+   "slot": "18:01",
+   "format": "Post tunggal",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6ac383dafdecd9ea2396222b",
    "zid": "6ac2a316f89d77e95597fbf1",
    "platformPostId": "17961435159217940",
@@ -818,26 +838,6 @@
    "slot": "18:01",
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Petikan rakyat",
-   "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6aeef73ba5334af83f1baaf9",
-   "zid": null,
-   "platformPostId": "17873537514642386",
-   "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
-   "date": "2026-11-07",
-   "time": "18:01",
-   "views": 50639,
-   "likes": 869,
-   "comments": 73,
-   "shares": 148,
-   "er": 2.15,
-   "url": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
-   "topComments": [],
-   "items": 1,
-   "slot": "18:01",
-   "format": "Post tunggal",
-   "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
   {
@@ -2309,8 +2309,8 @@
     "median": 9131,
     "best": 237554,
     "worst": 1435,
-    "total": 1642073,
-    "er": 1.87,
+    "total": 1642123,
+    "er": 1.88,
     "below": 24
    },
    {
@@ -2351,7 +2351,7 @@
     "median": 8327,
     "best": 700400,
     "worst": 1593,
-    "total": 3542092,
+    "total": 3542139,
     "er": 2.18,
     "below": 28
    },
@@ -2361,7 +2361,7 @@
     "median": 6536,
     "best": 407521,
     "worst": 1427,
-    "total": 2150819,
+    "total": 2150822,
     "er": 1.83,
     "below": 28
    }
@@ -2373,7 +2373,7 @@
     "median": 9551,
     "best": 700400,
     "worst": 1851,
-    "total": 2988911,
+    "total": 2988958,
     "er": 2.25,
     "below": 25
    },
@@ -2393,7 +2393,7 @@
     "median": 7597,
     "best": 596695,
     "worst": 1427,
-    "total": 1446861,
+    "total": 1446864,
     "er": 1.48,
     "below": 9
    },
@@ -2435,7 +2435,7 @@
     "median": 9246,
     "best": 700400,
     "worst": 1435,
-    "total": 2798954,
+    "total": 2799001,
     "er": 2.29,
     "below": 27
    },
@@ -2443,9 +2443,9 @@
     "label": "N-Tesis",
     "n": 17,
     "median": 5630,
-    "best": 167523,
+    "best": 167526,
     "worst": 1547,
-    "total": 558844,
+    "total": 558847,
     "er": 2.02,
     "below": 12
    },
@@ -2534,7 +2534,7 @@
    {
     "level": "good",
     "title": "Nadi 7 hari naik +5%",
-    "body": "253.2K views vs 240.9K minggu sebelumnya."
+    "body": "253.3K views vs 240.9K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3187,7 +3187,7 @@
   },
   {
    "date": "2026-11-07",
-   "views": 30614,
+   "views": 30620,
    "likes": 372,
    "comments": 36,
    "shares": 72,
@@ -3195,10 +3195,10 @@
   },
   {
    "date": "2026-11-08",
-   "views": 31766,
-   "likes": 538,
+   "views": 31823,
+   "likes": 541,
    "comments": 45,
-   "shares": 83,
+   "shares": 84,
    "posts": 1
   }
  ],
@@ -3523,7 +3523,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "253.2K",
+   "value": "253.3K",
    "sub": "+5% vs 7 hari sebelumnya"
   },
   {
@@ -3548,9 +3548,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-09 12:16 MYT",
+  "fetchedAt": "2026-11-09 12:47 MYT",
   "totals": {
-   "views": 5716113,
+   "views": 5716126,
    "likes": 102559,
    "replies": 6743,
    "reposts": 23830,
@@ -3582,7 +3582,7 @@
     "id": "17873537514642386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
     "timestamp": "2026-11-07",
-    "views": 50673,
+    "views": 50682,
     "likes": 872,
     "replies": 73,
     "reposts": 145,
@@ -3682,7 +3682,7 @@
     "id": "17994159783069368",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfJ5T8YETC7",
     "timestamp": "2026-10-31",
-    "views": 112274,
+    "views": 112275,
     "likes": 1785,
     "replies": 300,
     "reposts": 536,
@@ -3782,7 +3782,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96351,
+    "views": 96352,
     "likes": 1257,
     "replies": 42,
     "reposts": 442,
@@ -4222,7 +4222,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 596736,
+    "views": 596737,
     "likes": 9745,
     "replies": 328,
     "reposts": 1739,
@@ -4452,7 +4452,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 233231,
+    "views": 233232,
     "likes": 4095,
     "replies": 1105,
     "reposts": 1739,
