@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-10 05:11 MYT",
+  "generatedAt": "2026-11-10 05:43 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5800591,
+  "views": 5800664,
   "likes": 103173,
   "comments": 7200,
   "shares": 25061,
@@ -467,7 +467,7 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 178523,
+   "views": 178532,
    "likes": 3767,
    "comments": 337,
    "shares": 1247,
@@ -807,7 +807,7 @@
    "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
    "date": "2026-11-07",
    "time": "18:01",
-   "views": 50964,
+   "views": 50969,
    "likes": 876,
    "comments": 73,
    "shares": 150,
@@ -1661,6 +1661,26 @@
    "pillar": "Sunnah/Dalil"
   },
   {
+   "id": "6af19d57c93fdc7ed05de198",
+   "zid": null,
+   "platformPostId": "18126941788905816",
+   "content": "Al-Quran surah ke-2, ayat 233, sebut 1 larangan yang jarang dibaca sampai habis. Allah larang ibu disusahkan kerana anaknya. Bukan larang ibu menyusu.",
+   "date": "2026-11-09",
+   "time": "18:01",
+   "views": 4018,
+   "likes": 41,
+   "comments": 3,
+   "shares": 9,
+   "er": 1.32,
+   "url": "https://www.threads.com/@ustaz.basri/post/DfhEc-SE5ru",
+   "topComments": [],
+   "items": 1,
+   "slot": "18:01",
+   "format": "Post tunggal",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6ab5000c615c37cd18ccae15",
    "zid": "6ab249a637b61185f12ab492",
    "platformPostId": "18124437394806982",
@@ -1677,26 +1697,6 @@
    "items": 6,
    "slot": "18:01",
    "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6af19d57c93fdc7ed05de198",
-   "zid": null,
-   "platformPostId": "18126941788905816",
-   "content": "Al-Quran surah ke-2, ayat 233, sebut 1 larangan yang jarang dibaca sampai habis. Allah larang ibu disusahkan kerana anaknya. Bukan larang ibu menyusu.",
-   "date": "2026-11-09",
-   "time": "18:01",
-   "views": 3964,
-   "likes": 41,
-   "comments": 3,
-   "shares": 9,
-   "er": 1.34,
-   "url": "https://www.threads.com/@ustaz.basri/post/DfhEc-SE5ru",
-   "topComments": [],
-   "items": 1,
-   "slot": "18:01",
-   "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
@@ -2207,7 +2207,7 @@
    "content": "10 tahun Anas bin Malik khidmat dengan Nabi SAW. Sepanjang 10 tahun itu, baginda tak pernah sekali pun berkata \"ah\" kepadanya (Bukhari 6038). 🧵",
    "date": "2026-10-08",
    "time": "07:02",
-   "views": 1851,
+   "views": 1852,
    "likes": 25,
    "comments": 5,
    "shares": 1,
@@ -2309,7 +2309,7 @@
     "median": 9115,
     "best": 237572,
     "worst": 1435,
-    "total": 1646669,
+    "total": 1646737,
     "er": 1.86,
     "below": 25
    },
@@ -2319,7 +2319,7 @@
     "median": 8327,
     "best": 700489,
     "worst": 1441,
-    "total": 3800775,
+    "total": 3800776,
     "er": 2.25,
     "below": 24
    },
@@ -2351,7 +2351,7 @@
     "median": 7962,
     "best": 700489,
     "worst": 1594,
-    "total": 3546834,
+    "total": 3546902,
     "er": 2.16,
     "below": 29
    },
@@ -2361,7 +2361,7 @@
     "median": 7825,
     "best": 407539,
     "worst": 1435,
-    "total": 2149848,
+    "total": 2149849,
     "er": 1.84,
     "below": 27
    }
@@ -2392,8 +2392,8 @@
     "n": 50,
     "median": 9333,
     "best": 700489,
-    "worst": 1851,
-    "total": 2993520,
+    "worst": 1852,
+    "total": 2993589,
     "er": 2.23,
     "below": 26
    },
@@ -2435,7 +2435,7 @@
     "median": 9115,
     "best": 700489,
     "worst": 1435,
-    "total": 2803520,
+    "total": 2803589,
     "er": 2.27,
     "below": 28
    },
@@ -3208,7 +3208,7 @@
   },
   {
    "date": "2026-11-09",
-   "views": 6021,
+   "views": 6094,
    "likes": 53,
    "comments": 3,
    "shares": 12,
@@ -3565,9 +3565,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-10 13:11 MYT",
+  "fetchedAt": "2026-11-10 13:43 MYT",
   "totals": {
-   "views": 5722579,
+   "views": 5722594,
    "likes": 102611,
    "replies": 6747,
    "reposts": 23842,
@@ -3579,7 +3579,7 @@
     "id": "18126941788905816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfhEc-SE5ru",
     "timestamp": "2026-11-09",
-    "views": 4018,
+    "views": 4027,
     "likes": 41,
     "replies": 3,
     "reposts": 9,
@@ -3709,7 +3709,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 120649,
+    "views": 120654,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -4239,7 +4239,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700509,
+    "views": 700510,
     "likes": 17685,
     "replies": 431,
     "reposts": 5926,
