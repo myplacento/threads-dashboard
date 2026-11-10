@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-11 07:06 MYT",
+  "generatedAt": "2026-11-11 07:38 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -3572,12 +3572,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-11 15:07 MYT",
+  "fetchedAt": "2026-11-11 15:38 MYT",
   "totals": {
-   "views": 5756984,
-   "likes": 102817,
+   "views": 5759069,
+   "likes": 102824,
    "replies": 6756,
-   "reposts": 23872,
+   "reposts": 23874,
    "quotes": 924,
    "posts": 116
   },
@@ -3586,8 +3586,8 @@
     "id": "17930831112182263",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DflChuyk3Zp",
     "timestamp": "2026-11-10",
-    "views": 0,
-    "likes": 0,
+    "views": 1167,
+    "likes": 3,
     "replies": 2,
     "reposts": 0,
     "quotes": 0
@@ -3596,10 +3596,10 @@
     "id": "18154798015546579",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfjpQ9Ok36X",
     "timestamp": "2026-11-10",
-    "views": 32716,
-    "likes": 190,
+    "views": 33626,
+    "likes": 194,
     "replies": 4,
-    "reposts": 30,
+    "reposts": 32,
     "quotes": 0
    },
    {
@@ -3616,7 +3616,7 @@
     "id": "18126941788905816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfhEc-SE5ru",
     "timestamp": "2026-11-09",
-    "views": 4356,
+    "views": 4357,
     "likes": 43,
     "replies": 5,
     "reposts": 9,
@@ -3746,7 +3746,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 120956,
+    "views": 120959,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -3756,7 +3756,7 @@
     "id": "17994159783069368",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfJ5T8YETC7",
     "timestamp": "2026-10-31",
-    "views": 112398,
+    "views": 112400,
     "likes": 1786,
     "replies": 300,
     "reposts": 536,
@@ -4156,7 +4156,7 @@
     "id": "18633169309058399",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
     "timestamp": "2026-09-22",
-    "views": 89024,
+    "views": 89026,
     "likes": 571,
     "replies": 114,
     "reposts": 175,
