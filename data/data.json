@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-10 19:10 MYT",
+  "generatedAt": "2026-11-10 19:41 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,11 +71,11 @@
   }
  },
  "totals": {
-  "views": 5801851,
-  "likes": 103190,
-  "comments": 7204,
-  "shares": 25062,
-  "posts": 165
+  "views": 5803302,
+  "likes": 103194,
+  "comments": 7206,
+  "shares": 25063,
+  "posts": 166
  },
  "posts": [
   {
@@ -507,7 +507,7 @@
    "content": "Saya urus uri 9 tahun, lebih 5,000 keluarga. Bila saya tanya ibu menyusu apa dia perlu, jawapannya sama. Tidur, bukan susu.",
    "date": "2026-11-04",
    "time": "18:03",
-   "views": 167630,
+   "views": 167634,
    "likes": 3726,
    "comments": 101,
    "shares": 634,
@@ -587,7 +587,7 @@
    "content": "Seorang isteri ada ijazah, 3 anak, dan duduk rumah. Orang kata dia malas. Sebenarnya dia mengira.",
    "date": "2026-10-31",
    "time": "18:01",
-   "views": 112314,
+   "views": 112375,
    "likes": 1785,
    "comments": 300,
    "shares": 577,
@@ -647,7 +647,7 @@
    "content": "Al-Quran sebut cara berhenti susu dalam 1 ayat. Umur ayat tu 1,400 tahun, dan ia tak sebut masa. Ia sebut 2 benda, dan 2 benda itu yang jadi punca gaduh di banyak rumah. 🧵",
    "date": "2026-09-23",
    "time": "07:02",
-   "views": 89018,
+   "views": 89023,
    "likes": 571,
    "comments": 114,
    "shares": 185,
@@ -807,7 +807,7 @@
    "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
    "date": "2026-11-07",
    "time": "18:01",
-   "views": 51004,
+   "views": 51007,
    "likes": 877,
    "comments": 73,
    "shares": 150,
@@ -827,7 +827,7 @@
    "content": "\"Kalau suami mengaji dekat perut isteri sampai khatam, macam mana ustaz?\" Jawapannya ada dalam 1 ayat yang umurnya 1,400 tahun, dan ia bukan pasal khatam. 🧵",
    "date": "2026-10-05",
    "time": "18:02",
-   "views": 50658,
+   "views": 50663,
    "likes": 1526,
    "comments": 9,
    "shares": 234,
@@ -1547,7 +1547,7 @@
    "content": "Al-Quran surah ke-2, ayat 233, sebut 1 larangan yang jarang dibaca sampai habis. Allah larang ibu disusahkan kerana anaknya. Bukan larang ibu menyusu.",
    "date": "2026-11-09",
    "time": "18:01",
-   "views": 4315,
+   "views": 4327,
    "likes": 43,
    "comments": 5,
    "shares": 9,
@@ -1927,7 +1927,7 @@
    "content": "Nabi SAW lalu pada sekumpulan budak, dan baginda bagi salam dahulu. Bukan budak yang bagi. 1,400 tahun. 🧵",
    "date": "2026-10-04",
    "time": "18:02",
-   "views": 2874,
+   "views": 2875,
    "likes": 20,
    "comments": 5,
    "shares": 3,
@@ -2309,7 +2309,7 @@
     "median": 9115,
     "best": 237604,
     "worst": 1435,
-    "total": 1647163,
+    "total": 1647249,
     "er": 1.86,
     "below": 25
    },
@@ -2319,7 +2319,7 @@
     "median": 8327,
     "best": 700489,
     "worst": 1442,
-    "total": 3801146,
+    "total": 3801151,
     "er": 2.25,
     "below": 24
    },
@@ -2351,7 +2351,7 @@
     "median": 7962,
     "best": 700489,
     "worst": 1594,
-    "total": 3547343,
+    "total": 3547358,
     "er": 2.16,
     "below": 29
    },
@@ -2361,7 +2361,7 @@
     "median": 7825,
     "best": 407557,
     "worst": 1435,
-    "total": 2150261,
+    "total": 2150337,
     "er": 1.84,
     "below": 27
    }
@@ -2373,7 +2373,7 @@
     "median": 9731,
     "best": 596880,
     "worst": 1442,
-    "total": 1445874,
+    "total": 1445878,
     "er": 1.51,
     "below": 8
    },
@@ -2383,7 +2383,7 @@
     "median": 9382,
     "best": 391276,
     "worst": 1435,
-    "total": 966086,
+    "total": 966091,
     "er": 1.64,
     "below": 10
    },
@@ -2393,7 +2393,7 @@
     "median": 9333,
     "best": 700489,
     "worst": 1852,
-    "total": 2994076,
+    "total": 2994097,
     "er": 2.23,
     "below": 26
    },
@@ -2413,7 +2413,7 @@
     "median": 2625,
     "best": 120693,
     "worst": 1594,
-    "total": 296746,
+    "total": 296807,
     "er": 1.79,
     "below": 7
    }
@@ -2435,7 +2435,7 @@
     "median": 9115,
     "best": 700489,
     "worst": 1435,
-    "total": 2804070,
+    "total": 2804096,
     "er": 2.27,
     "below": 28
    },
@@ -2443,9 +2443,9 @@
     "label": "N-Tesis",
     "n": 17,
     "median": 5630,
-    "best": 167630,
+    "best": 167634,
     "worst": 1553,
-    "total": 559546,
+    "total": 559611,
     "er": 2.02,
     "below": 12
    },
@@ -2538,8 +2538,8 @@
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -5%",
-    "body": "244.2K views vs 256.4K minggu sebelumnya."
+    "title": "Nadi 7 hari turun -4%",
+    "body": "245.7K views vs 256.4K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3208,7 +3208,7 @@
   },
   {
    "date": "2026-11-09",
-   "views": 6474,
+   "views": 6480,
    "likes": 66,
    "comments": 5,
    "shares": 13,
@@ -3216,11 +3216,11 @@
   },
   {
    "date": "2026-11-10",
-   "views": 807,
-   "likes": 4,
-   "comments": 2,
-   "shares": 0,
-   "posts": 0
+   "views": 2252,
+   "likes": 8,
+   "comments": 4,
+   "shares": 1,
+   "posts": 1
   }
  ],
  "followers": [
@@ -3552,8 +3552,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "244.2K",
-   "sub": "-5% vs 7 hari sebelumnya"
+   "value": "245.7K",
+   "sub": "-4% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3577,12 +3577,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-11 03:10 MYT",
+  "fetchedAt": "2026-11-11 03:41 MYT",
   "totals": {
-   "views": 5725230,
-   "likes": 102630,
+   "views": 5725979,
+   "likes": 102636,
    "replies": 6752,
-   "reposts": 23844,
+   "reposts": 23846,
    "quotes": 924,
    "posts": 115
   },
@@ -3591,17 +3591,17 @@
     "id": "18154798015546579",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfjpQ9Ok36X",
     "timestamp": "2026-11-10",
-    "views": 1352,
-    "likes": 4,
+    "views": 2068,
+    "likes": 10,
     "replies": 2,
-    "reposts": 1,
+    "reposts": 2,
     "quotes": 0
    },
    {
     "id": "17957511357033273",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfidtv2AZB1",
     "timestamp": "2026-11-09",
-    "views": 297,
+    "views": 304,
     "likes": 12,
     "replies": 2,
     "reposts": 1,
@@ -3611,7 +3611,7 @@
     "id": "18126941788905816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfhEc-SE5ru",
     "timestamp": "2026-11-09",
-    "views": 4327,
+    "views": 4332,
     "likes": 43,
     "replies": 5,
     "reposts": 9,
@@ -3651,7 +3651,7 @@
     "id": "17873537514642386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
     "timestamp": "2026-11-07",
-    "views": 51007,
+    "views": 51011,
     "likes": 877,
     "replies": 73,
     "reposts": 146,
@@ -3691,7 +3691,7 @@
     "id": "18033520277875463",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfUMrDBCKQx",
     "timestamp": "2026-11-04",
-    "views": 167634,
+    "views": 167636,
     "likes": 3726,
     "replies": 101,
     "reposts": 612,
@@ -3741,7 +3741,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 120878,
+    "views": 120885,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -3804,7 +3804,7 @@
     "views": 237621,
     "likes": 3854,
     "replies": 185,
-    "reposts": 884,
+    "reposts": 885,
     "quotes": 42
    },
    {
@@ -3851,7 +3851,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96426,
+    "views": 96430,
     "likes": 1257,
     "replies": 42,
     "reposts": 442,
@@ -4151,7 +4151,7 @@
     "id": "18633169309058399",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
     "timestamp": "2026-09-22",
-    "views": 89023,
+    "views": 89024,
     "likes": 571,
     "replies": 114,
     "reposts": 175,
@@ -4271,7 +4271,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700550,
+    "views": 700551,
     "likes": 17685,
     "replies": 431,
     "reposts": 5926,
@@ -4421,7 +4421,7 @@
     "id": "18175312390444507",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
-    "views": 241782,
+    "views": 241783,
     "likes": 3130,
     "replies": 95,
     "reposts": 759,
@@ -4681,7 +4681,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 178537,
+    "views": 178538,
     "likes": 3767,
     "replies": 337,
     "reposts": 1198,
