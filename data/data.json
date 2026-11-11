@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-11 15:25 MYT",
+  "generatedAt": "2026-11-11 15:56 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5848511,
-  "likes": 103473,
+  "views": 5850509,
+  "likes": 103486,
   "comments": 7212,
-  "shares": 25104,
+  "shares": 25105,
   "posts": 167
  },
  "posts": [
@@ -507,7 +507,7 @@
    "content": "Saya urus uri 9 tahun, lebih 5,000 keluarga. Bila saya tanya ibu menyusu apa dia perlu, jawapannya sama. Tidur, bukan susu.",
    "date": "2026-11-04",
    "time": "18:03",
-   "views": 167676,
+   "views": 167678,
    "likes": 3726,
    "comments": 101,
    "shares": 634,
@@ -547,7 +547,7 @@
    "content": "\"Anak lelaki jangan dipeluk sangat. Nanti lembut.\" Ayat ni campur 2 benda berbeza: lembut dan lemah. 🧵",
    "date": "2026-09-28",
    "time": "07:02",
-   "views": 115556,
+   "views": 115561,
    "likes": 699,
    "comments": 48,
    "shares": 154,
@@ -807,7 +807,7 @@
    "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
    "date": "2026-11-07",
    "time": "18:01",
-   "views": 51030,
+   "views": 51032,
    "likes": 877,
    "comments": 73,
    "shares": 150,
@@ -927,10 +927,10 @@
    "content": "Aisyah RA sebut, untuk anak lelaki 2 kambing, untuk anak perempuan 1 kambing. Hadis Abu Dawud 2836. Ramai tersalah faham maksud beza itu.",
    "date": "2026-11-10",
    "time": "18:01",
-   "views": 43146,
-   "likes": 271,
+   "views": 44997,
+   "likes": 284,
    "comments": 6,
-   "shares": 41,
+   "shares": 42,
    "er": 0.74,
    "url": "https://www.threads.com/@ustaz.basri/post/DfjpQ9Ok36X",
    "topComments": [],
@@ -2007,11 +2007,11 @@
    "content": "Hadis Abu Dawud 2838 sebut aqiqah pada hari ke-7. Tetapi ada keluarga yang buat 7,000 km dari rumahnya, di Tanah Suci.",
    "date": "2026-11-11",
    "time": "07:01",
-   "views": 2493,
+   "views": 2626,
    "likes": 9,
    "comments": 2,
    "shares": 0,
-   "er": 0.44,
+   "er": 0.42,
    "url": "https://www.threads.com/@ustaz.basri/post/DflChuyk3Zp",
    "topComments": [],
    "items": 1,
@@ -2309,7 +2309,7 @@
     "median": 9150,
     "best": 237634,
     "worst": 1553,
-    "total": 1689213,
+    "total": 1691068,
     "er": 1.86,
     "below": 24
    },
@@ -2319,7 +2319,7 @@
     "median": 8327,
     "best": 700560,
     "worst": 1852,
-    "total": 3802790,
+    "total": 3802928,
     "er": 2.22,
     "below": 24
    },
@@ -2351,7 +2351,7 @@
     "median": 9249,
     "best": 407557,
     "worst": 1553,
-    "total": 2147911,
+    "total": 2147918,
     "er": 1.86,
     "below": 25
    },
@@ -2361,7 +2361,7 @@
     "median": 7962,
     "best": 700560,
     "worst": 1594,
-    "total": 3593370,
+    "total": 3595356,
     "er": 2.09,
     "below": 30
    }
@@ -2373,7 +2373,7 @@
     "median": 11866,
     "best": 597011,
     "worst": 1553,
-    "total": 1444708,
+    "total": 1444710,
     "er": 1.48,
     "below": 7
    },
@@ -2383,7 +2383,7 @@
     "median": 10244,
     "best": 391282,
     "worst": 2333,
-    "total": 964682,
+    "total": 964687,
     "er": 1.67,
     "below": 9
    },
@@ -2393,7 +2393,7 @@
     "median": 9333,
     "best": 700560,
     "worst": 1852,
-    "total": 3040004,
+    "total": 3041990,
     "er": 2.17,
     "below": 27
    },
@@ -2435,7 +2435,7 @@
     "median": 9249,
     "best": 700560,
     "worst": 1852,
-    "total": 2848486,
+    "total": 2850472,
     "er": 2.23,
     "below": 28
    },
@@ -2443,9 +2443,9 @@
     "label": "N-Tesis",
     "n": 17,
     "median": 5630,
-    "best": 167676,
+    "best": 167678,
     "worst": 1553,
-    "total": 560022,
+    "total": 560024,
     "er": 2.02,
     "below": 12
    },
@@ -2455,7 +2455,7 @@
     "median": 5627,
     "best": 241785,
     "worst": 2683,
-    "total": 383804,
+    "total": 383809,
     "er": 1.45,
     "below": 4
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -14%",
-    "body": "252.2K views vs 294.4K minggu sebelumnya."
+    "body": "254.2K views vs 294.4K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3224,10 +3224,10 @@
   },
   {
    "date": "2026-11-11",
-   "views": 11205,
-   "likes": 84,
+   "views": 13203,
+   "likes": 97,
    "comments": 2,
-   "shares": 9,
+   "shares": 10,
    "posts": 0
   }
  ],
@@ -3564,7 +3564,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "252.2K",
+   "value": "254.2K",
    "sub": "-14% vs 7 hari sebelumnya"
   },
   {
@@ -3589,10 +3589,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-11 23:25 MYT",
+  "fetchedAt": "2026-11-11 23:56 MYT",
   "totals": {
-   "views": 5772094,
-   "likes": 102923,
+   "views": 5772493,
+   "likes": 102924,
    "replies": 6758,
    "reposts": 23883,
    "quotes": 925,
@@ -3603,7 +3603,7 @@
     "id": "17930831112182263",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DflChuyk3Zp",
     "timestamp": "2026-11-10",
-    "views": 2626,
+    "views": 2677,
     "likes": 9,
     "replies": 2,
     "reposts": 0,
@@ -3613,8 +3613,8 @@
     "id": "18154798015546579",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfjpQ9Ok36X",
     "timestamp": "2026-11-10",
-    "views": 44997,
-    "likes": 284,
+    "views": 45327,
+    "likes": 286,
     "replies": 6,
     "reposts": 41,
     "quotes": 1
@@ -3623,7 +3623,7 @@
     "id": "17957511357033273",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfidtv2AZB1",
     "timestamp": "2026-11-09",
-    "views": 361,
+    "views": 362,
     "likes": 14,
     "replies": 2,
     "reposts": 1,
@@ -3633,7 +3633,7 @@
     "id": "18126941788905816",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfhEc-SE5ru",
     "timestamp": "2026-11-09",
-    "views": 4363,
+    "views": 4364,
     "likes": 44,
     "replies": 5,
     "reposts": 9,
@@ -3713,7 +3713,7 @@
     "id": "18033520277875463",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfUMrDBCKQx",
     "timestamp": "2026-11-04",
-    "views": 167678,
+    "views": 167681,
     "likes": 3726,
     "replies": 101,
     "reposts": 612,
@@ -3763,7 +3763,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 120993,
+    "views": 120998,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -3823,7 +3823,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 237649,
+    "views": 237651,
     "likes": 3854,
     "replies": 185,
     "reposts": 885,
@@ -4154,7 +4154,7 @@
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
     "views": 407561,
-    "likes": 4471,
+    "likes": 4470,
     "replies": 254,
     "reposts": 482,
     "quotes": 7
@@ -4173,7 +4173,7 @@
     "id": "18633169309058399",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
     "timestamp": "2026-09-22",
-    "views": 89027,
+    "views": 89028,
     "likes": 571,
     "replies": 114,
     "reposts": 175,
@@ -4293,7 +4293,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700580,
+    "views": 700584,
     "likes": 17686,
     "replies": 431,
     "reposts": 5925,
@@ -4313,7 +4313,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 597025,
+    "views": 597026,
     "likes": 9745,
     "replies": 328,
     "reposts": 1740,
