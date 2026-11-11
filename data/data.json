@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-12 06:59 MYT",
+  "generatedAt": "2026-11-12 07:30 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,9 +71,9 @@
   }
  },
  "totals": {
-  "views": 5855442,
+  "views": 5855466,
   "likes": 103514,
-  "comments": 7218,
+  "comments": 7219,
   "shares": 25108,
   "posts": 168
  },
@@ -467,7 +467,7 @@
    "content": "Imam al-Ghazali tulis 900 tahun lalu: anak yang selalu didera jadi penakut dan pendusta.\n\nKita masih percaya rotan = didikan.",
    "date": "2026-08-25",
    "time": "18:18",
-   "views": 178542,
+   "views": 178546,
    "likes": 3767,
    "comments": 337,
    "shares": 1247,
@@ -867,9 +867,9 @@
    "content": "Aisyah RA sebut, untuk anak lelaki 2 kambing, untuk anak perempuan 1 kambing. Hadis Abu Dawud 2836. Ramai tersalah faham maksud beza itu.",
    "date": "2026-11-10",
    "time": "18:01",
-   "views": 48195,
+   "views": 48196,
    "likes": 299,
-   "comments": 10,
+   "comments": 11,
    "shares": 42,
    "er": 0.73,
    "url": "https://www.threads.com/@ustaz.basri/post/DfjpQ9Ok36X",
@@ -1947,7 +1947,7 @@
    "content": "Hadis Abu Dawud 2838 sebut aqiqah pada hari ke-7. Tetapi ada keluarga yang buat 7,000 km dari rumahnya, di Tanah Suci.",
    "date": "2026-11-11",
    "time": "07:01",
-   "views": 2891,
+   "views": 2894,
    "likes": 9,
    "comments": 2,
    "shares": 0,
@@ -2309,7 +2309,7 @@
     "median": 9152,
     "best": 237634,
     "worst": 1554,
-    "total": 1694394,
+    "total": 1694399,
     "er": 1.85,
     "below": 24
    },
@@ -2319,7 +2319,7 @@
     "median": 8327,
     "best": 700611,
     "worst": 1852,
-    "total": 3803332,
+    "total": 3803335,
     "er": 2.22,
     "below": 24
    },
@@ -2361,7 +2361,7 @@
     "median": 7962,
     "best": 700611,
     "worst": 1594,
-    "total": 3598981,
+    "total": 3598989,
     "er": 2.09,
     "below": 30
    }
@@ -2393,7 +2393,7 @@
     "median": 9333,
     "best": 700611,
     "worst": 1852,
-    "total": 3045612,
+    "total": 3045620,
     "er": 2.17,
     "below": 27
    },
@@ -2435,7 +2435,7 @@
     "median": 9249,
     "best": 700611,
     "worst": 1852,
-    "total": 2854051,
+    "total": 2854059,
     "er": 2.23,
     "below": 28
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -12%",
-    "body": "259.1K views vs 294.4K minggu sebelumnya."
+    "body": "259.2K views vs 294.4K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3224,9 +3224,9 @@
   },
   {
    "date": "2026-11-11",
-   "views": 18136,
+   "views": 18160,
    "likes": 125,
-   "comments": 8,
+   "comments": 9,
    "shares": 13,
    "posts": 1
   }
@@ -3564,7 +3564,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "259.1K",
+   "value": "259.2K",
    "sub": "-12% vs 7 hari sebelumnya"
   },
   {
@@ -3589,21 +3589,31 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-12 15:00 MYT",
+  "fetchedAt": "2026-11-12 15:30 MYT",
   "totals": {
-   "views": 5777187,
+   "views": 5777211,
    "likes": 102946,
-   "replies": 6765,
+   "replies": 6767,
    "reposts": 23881,
    "quotes": 925,
-   "posts": 117
+   "posts": 118
   },
   "posts": [
+   {
+    "id": "18109258775360088",
+    "permalink": "https://www.threads.com/@ustaz.basri/post/DfnnR2Tk9D5",
+    "timestamp": "2026-11-11",
+    "views": 13,
+    "likes": 0,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0
+   },
    {
     "id": "18139188844644859",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfmODaoExm6",
     "timestamp": "2026-11-11",
-    "views": 1193,
+    "views": 1195,
     "likes": 10,
     "replies": 2,
     "reposts": 3,
@@ -3613,7 +3623,7 @@
     "id": "17930831112182263",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DflChuyk3Zp",
     "timestamp": "2026-11-10",
-    "views": 2894,
+    "views": 2895,
     "likes": 9,
     "replies": 2,
     "reposts": 0,
@@ -3773,7 +3783,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 121173,
+    "views": 121181,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
