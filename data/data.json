@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-12 02:19 MYT",
+  "generatedAt": "2026-11-12 02:50 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,8 +71,8 @@
   }
  },
  "totals": {
-  "views": 5855312,
-  "likes": 103513,
+  "views": 5855380,
+  "likes": 103514,
   "comments": 7218,
   "shares": 25108,
   "posts": 168
@@ -142,7 +142,7 @@
    "content": "Mak saya bidan, 40 tahun sambut bayi. Dia cakap yang paling dia takut bukan masa bersalin. Tapi 40 hari lepas tu. 🧵",
    "date": "2026-09-16",
    "time": "07:01",
-   "views": 597011,
+   "views": 597038,
    "likes": 9745,
    "comments": 328,
    "shares": 1796,
@@ -867,7 +867,7 @@
    "content": "Aisyah RA sebut, untuk anak lelaki 2 kambing, untuk anak perempuan 1 kambing. Hadis Abu Dawud 2836. Ramai tersalah faham maksud beza itu.",
    "date": "2026-11-10",
    "time": "18:01",
-   "views": 48180,
+   "views": 48187,
    "likes": 299,
    "comments": 10,
    "shares": 42,
@@ -887,7 +887,7 @@
    "content": "Ibn Qayyim al-Jawziyyah, ulama besar zaman dulu, tulis buku khas pasal bayi. Tajuk dia Tuhfat al-Maudud. Dalam bab 15 dia cakap: \"Kebanyakan kerosakan anak datang dari kecuaian ayah dan ditinggalkan didikan fardhu dan sunnah.\"",
    "date": "2026-08-31",
    "time": "18:17",
-   "views": 47760,
+   "views": 47761,
    "likes": 2106,
    "comments": 40,
    "shares": 751,
@@ -1941,6 +1941,26 @@
    "pillar": "Sunnah/Dalil"
   },
   {
+   "id": "6af3aadbe8e3e170b17c7a01",
+   "zid": null,
+   "platformPostId": "17930831112182263",
+   "content": "Hadis Abu Dawud 2838 sebut aqiqah pada hari ke-7. Tetapi ada keluarga yang buat 7,000 km dari rumahnya, di Tanah Suci.",
+   "date": "2026-11-11",
+   "time": "07:01",
+   "views": 2881,
+   "likes": 9,
+   "comments": 2,
+   "shares": 0,
+   "er": 0.38,
+   "url": "https://www.threads.com/@ustaz.basri/post/DflChuyk3Zp",
+   "topComments": [],
+   "items": 1,
+   "slot": "07:01",
+   "format": "Post tunggal",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6ac22647bd148760bf72c7ce",
    "zid": "6ab249c89921e995efa2b31b",
    "platformPostId": "17998387713040985",
@@ -1957,26 +1977,6 @@
    "items": 6,
    "slot": "18:01",
    "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6af3aadbe8e3e170b17c7a01",
-   "zid": null,
-   "platformPostId": "17930831112182263",
-   "content": "Hadis Abu Dawud 2838 sebut aqiqah pada hari ke-7. Tetapi ada keluarga yang buat 7,000 km dari rumahnya, di Tanah Suci.",
-   "date": "2026-11-11",
-   "time": "07:01",
-   "views": 2874,
-   "likes": 9,
-   "comments": 2,
-   "shares": 0,
-   "er": 0.38,
-   "url": "https://www.threads.com/@ustaz.basri/post/DflChuyk3Zp",
-   "topComments": [],
-   "items": 1,
-   "slot": "07:01",
-   "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
@@ -2309,7 +2309,7 @@
     "median": 9152,
     "best": 237634,
     "worst": 1554,
-    "total": 1694378,
+    "total": 1694386,
     "er": 1.85,
     "below": 24
    },
@@ -2319,7 +2319,7 @@
     "median": 8327,
     "best": 700611,
     "worst": 1852,
-    "total": 3803274,
+    "total": 3803308,
     "er": 2.22,
     "below": 24
    },
@@ -2361,7 +2361,7 @@
     "median": 7962,
     "best": 700611,
     "worst": 1594,
-    "total": 3598921,
+    "total": 3598963,
     "er": 2.09,
     "below": 30
    }
@@ -2371,9 +2371,9 @@
     "label": "Kisah diri",
     "n": 15,
     "median": 11866,
-    "best": 597011,
+    "best": 597038,
     "worst": 1554,
-    "total": 1444725,
+    "total": 1444752,
     "er": 1.48,
     "below": 7
    },
@@ -2393,7 +2393,7 @@
     "median": 9333,
     "best": 700611,
     "worst": 1852,
-    "total": 3045578,
+    "total": 3045593,
     "er": 2.17,
     "below": 27
    },
@@ -2423,9 +2423,9 @@
     "label": "Story",
     "n": 10,
     "median": 40338,
-    "best": 597011,
+    "best": 597038,
     "worst": 6714,
-    "total": 1629599,
+    "total": 1629626,
     "er": 1.57,
     "below": 1
    },
@@ -2435,7 +2435,7 @@
     "median": 9249,
     "best": 700611,
     "worst": 1852,
-    "total": 2854017,
+    "total": 2854032,
     "er": 2.23,
     "below": 28
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -12%",
-    "body": "259.0K views vs 294.4K minggu sebelumnya."
+    "body": "259.1K views vs 294.4K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3224,8 +3224,8 @@
   },
   {
    "date": "2026-11-11",
-   "views": 18006,
-   "likes": 124,
+   "views": 18074,
+   "likes": 125,
    "comments": 8,
    "shares": 13,
    "posts": 1
@@ -3564,7 +3564,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "259.0K",
+   "value": "259.1K",
    "sub": "-12% vs 7 hari sebelumnya"
   },
   {
@@ -3589,9 +3589,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-12 10:20 MYT",
+  "fetchedAt": "2026-11-12 10:51 MYT",
   "totals": {
-   "views": 5777053,
+   "views": 5777064,
    "likes": 102946,
    "replies": 6764,
    "reposts": 23882,
@@ -3603,7 +3603,7 @@
     "id": "18139188844644859",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfmODaoExm6",
     "timestamp": "2026-11-11",
-    "views": 1149,
+    "views": 1150,
     "likes": 10,
     "replies": 2,
     "reposts": 3,
@@ -3623,7 +3623,7 @@
     "id": "18154798015546579",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfjpQ9Ok36X",
     "timestamp": "2026-11-10",
-    "views": 48187,
+    "views": 48188,
     "likes": 299,
     "replies": 10,
     "reposts": 41,
@@ -3773,7 +3773,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 121127,
+    "views": 121130,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -4303,7 +4303,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700620,
+    "views": 700623,
     "likes": 17686,
     "replies": 431,
     "reposts": 5924,
@@ -4543,7 +4543,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 173783,
+    "views": 173784,
     "likes": 1492,
     "replies": 443,
     "reposts": 123,
@@ -4553,7 +4553,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 233395,
+    "views": 233397,
     "likes": 4095,
     "replies": 1105,
     "reposts": 1739,
