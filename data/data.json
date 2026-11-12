@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-13 06:50 MYT",
+  "generatedAt": "2026-11-13 07:21 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -205,44 +205,7 @@
    "shares": 192,
    "er": 1.39,
    "url": "https://www.threads.com/@ustaz.basri/post/DchZnKiCJ-_",
-   "topComments": [
-    {
-     "name": "macchiato.mango",
-     "message": "Azan lepas anak dh lahir, pilih hospital dgn baju sebelum anak lahir. So apa kena mengena?",
-     "time": "2026-08-30",
-     "likes": 0
-    },
-    {
-     "name": "syahrulnell",
-     "message": "Ustaz keni? Self proclaimed? Kalau begini cara berdakwah tanpa kalam n hikmah yg betul, better buang je title Ustaz tu. Buruk nama Agama kepada public.",
-     "time": "2026-08-29",
-     "likes": 0
-    },
-    {
-     "name": "eyenoonaziz",
-     "message": "Sy bersalin czer so suami xboleh masuk.\nTp suami cerita sblm ank nak dihantar ke SCN, nurse akan cari ayahnye dlu utk diazankan..",
-     "time": "2026-08-29",
-     "likes": 0
-    },
-    {
-     "name": "nazha.aini",
-     "message": "Dah bagus tu nak ingatkan sunnah.  Alhamdullilah 4 anak semua diazankan oleh ayahnya. Tapi ayat kedua tu mcm tak kena. Tak salah pun nak buat preparation.",
-     "time": "2026-08-29",
-     "likes": 0
-    },
-    {
-     "name": "addy_asdfg",
-     "message": "Rage bait ke ni 🥵",
-     "time": "2026-08-29",
-     "likes": 0
-    },
-    {
-     "name": "kamal_white",
-     "message": "Ustaz dulu kecik2 doktot bagi dengar lagu dangdut ka ? Lain macam pekat",
-     "time": "2026-08-29",
-     "likes": 0
-    }
-   ],
+   "topComments": [],
    "items": 1,
    "slot": "07:01",
    "format": "Post tunggal",
@@ -3601,16 +3564,26 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-13 14:50 MYT",
+  "fetchedAt": "2026-11-13 15:22 MYT",
   "totals": {
-   "views": 5780142,
-   "likes": 102958,
-   "replies": 6767,
+   "views": 5780166,
+   "likes": 102961,
+   "replies": 6769,
    "reposts": 23881,
    "quotes": 923,
-   "posts": 119
+   "posts": 120
   },
   "posts": [
+   {
+    "id": "18135214300759386",
+    "permalink": "https://www.threads.com/@ustaz.basri/post/DfqMBwsk2Ut",
+    "timestamp": "2026-11-12",
+    "views": 2,
+    "likes": 4,
+    "replies": 2,
+    "reposts": 0,
+    "quotes": 0
+   },
    {
     "id": "18126968510472548",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfoy0Dbk6wg",
@@ -3625,7 +3598,7 @@
     "id": "18109258775360088",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfnnR2Tk9D5",
     "timestamp": "2026-11-11",
-    "views": 679,
+    "views": 682,
     "likes": 3,
     "replies": 2,
     "reposts": 0,
@@ -3645,7 +3618,7 @@
     "id": "17930831112182263",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DflChuyk3Zp",
     "timestamp": "2026-11-10",
-    "views": 2902,
+    "views": 2903,
     "likes": 9,
     "replies": 2,
     "reposts": 0,
@@ -3715,7 +3688,7 @@
     "id": "17873537514642386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
     "timestamp": "2026-11-07",
-    "views": 51059,
+    "views": 51060,
     "likes": 877,
     "replies": 73,
     "reposts": 146,
@@ -3805,7 +3778,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 121670,
+    "views": 121680,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -4335,7 +4308,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700765,
+    "views": 700771,
     "likes": 17687,
     "replies": 431,
     "reposts": 5924,
@@ -4486,7 +4459,7 @@
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdAPuFqDXbH",
     "timestamp": "2026-09-07",
     "views": 241797,
-    "likes": 3130,
+    "likes": 3129,
     "replies": 95,
     "reposts": 759,
     "quotes": 20
@@ -4575,7 +4548,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 173787,
+    "views": 173788,
     "likes": 1492,
     "replies": 443,
     "reposts": 123,
