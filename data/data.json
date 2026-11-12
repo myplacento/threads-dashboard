@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-13 03:12 MYT",
+  "generatedAt": "2026-11-13 03:43 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5858171,
+  "views": 5858210,
   "likes": 103527,
   "comments": 7223,
-  "shares": 25110,
+  "shares": 25111,
   "posts": 170
  },
  "posts": [
@@ -142,7 +142,7 @@
    "content": "Mak saya bidan, 40 tahun sambut bayi. Dia cakap yang paling dia takut bukan masa bersalin. Tapi 40 hari lepas tu. 🧵",
    "date": "2026-09-16",
    "time": "07:01",
-   "views": 597038,
+   "views": 597061,
    "likes": 9745,
    "comments": 328,
    "shares": 1796,
@@ -867,7 +867,7 @@
    "content": "Aisyah RA sebut, untuk anak lelaki 2 kambing, untuk anak perempuan 1 kambing. Hadis Abu Dawud 2836. Ramai tersalah faham maksud beza itu.",
    "date": "2026-11-10",
    "time": "18:01",
-   "views": 48262,
+   "views": 48263,
    "likes": 299,
    "comments": 11,
    "shares": 42,
@@ -887,11 +887,11 @@
    "content": "Ibn Qayyim al-Jawziyyah, ulama besar zaman dulu, tulis buku khas pasal bayi. Tajuk dia Tuhfat al-Maudud. Dalam bab 15 dia cakap: \"Kebanyakan kerosakan anak datang dari kecuaian ayah dan ditinggalkan didikan fardhu dan sunnah.\"",
    "date": "2026-08-31",
    "time": "18:17",
-   "views": 47761,
+   "views": 47767,
    "likes": 2106,
    "comments": 40,
    "shares": 751,
-   "er": 6.07,
+   "er": 6.06,
    "url": "https://www.threads.com/@ustaz.basri/post/Dcs2kXijpA3",
    "topComments": [],
    "items": 1,
@@ -947,7 +947,7 @@
    "content": "Mak saya bidan 40 tahun. Dia cakap kerja dia paling susah bukan sambut bayi. Tapi pujuk ayah yang tak nak masuk bilik.",
    "date": "2026-09-19",
    "time": "18:02",
-   "views": 34100,
+   "views": 34101,
    "likes": 382,
    "comments": 54,
    "shares": 29,
@@ -2309,7 +2309,7 @@
     "median": 9153,
     "best": 237674,
     "worst": 1554,
-    "total": 1694706,
+    "total": 1694714,
     "er": 1.85,
     "below": 24
    },
@@ -2319,7 +2319,7 @@
     "median": 8327,
     "best": 700748,
     "worst": 1852,
-    "total": 3803854,
+    "total": 3803877,
     "er": 2.22,
     "below": 24
    },
@@ -2351,7 +2351,7 @@
     "median": 9249,
     "best": 407563,
     "worst": 1554,
-    "total": 2148542,
+    "total": 2148543,
     "er": 1.86,
     "below": 25
    },
@@ -2361,7 +2361,7 @@
     "median": 7962,
     "best": 700748,
     "worst": 1594,
-    "total": 3599303,
+    "total": 3599333,
     "er": 2.09,
     "below": 30
    }
@@ -2371,9 +2371,9 @@
     "label": "Kisah diri",
     "n": 15,
     "median": 11867,
-    "best": 597038,
+    "best": 597061,
     "worst": 1554,
-    "total": 1444818,
+    "total": 1444842,
     "er": 1.48,
     "below": 7
    },
@@ -2393,7 +2393,7 @@
     "median": 9333,
     "best": 700748,
     "worst": 1852,
-    "total": 3045963,
+    "total": 3045970,
     "er": 2.17,
     "below": 27
    },
@@ -2423,9 +2423,9 @@
     "label": "Story",
     "n": 10,
     "median": 40339,
-    "best": 597038,
+    "best": 597061,
     "worst": 6714,
-    "total": 1629643,
+    "total": 1629667,
     "er": 1.57,
     "below": 1
    },
@@ -2435,7 +2435,7 @@
     "median": 9249,
     "best": 700748,
     "worst": 1852,
-    "total": 2854351,
+    "total": 2854358,
     "er": 2.23,
     "below": 28
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -69%",
-    "body": "132.4K views vs 423.1K minggu sebelumnya."
+    "body": "132.5K views vs 423.1K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3232,10 +3232,10 @@
   },
   {
    "date": "2026-11-12",
-   "views": 2026,
+   "views": 2065,
    "likes": 10,
    "comments": 2,
-   "shares": 2,
+   "shares": 3,
    "posts": 1
   }
  ],
@@ -3576,7 +3576,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "132.4K",
+   "value": "132.5K",
    "sub": "-69% vs 7 hari sebelumnya"
   },
   {
@@ -3601,9 +3601,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-13 11:13 MYT",
+  "fetchedAt": "2026-11-13 11:44 MYT",
   "totals": {
-   "views": 5780066,
+   "views": 5780073,
    "likes": 102959,
    "replies": 6767,
    "reposts": 23882,
@@ -3715,7 +3715,7 @@
     "id": "17873537514642386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
     "timestamp": "2026-11-07",
-    "views": 51058,
+    "views": 51059,
     "likes": 877,
     "replies": 73,
     "reposts": 146,
@@ -3805,7 +3805,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 121618,
+    "views": 121622,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -3865,7 +3865,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 237709,
+    "views": 237711,
     "likes": 3855,
     "replies": 185,
     "reposts": 885,
