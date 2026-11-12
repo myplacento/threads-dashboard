@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-13 04:45 MYT",
+  "generatedAt": "2026-11-13 05:17 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5858210,
+  "views": 5858231,
   "likes": 103527,
   "comments": 7223,
   "shares": 25111,
@@ -607,10 +607,10 @@
    "content": "Saya urus uri lebih 5,000 keluarga sejak 2017. Benda paling saya takut bukan uri yang tak selamat. Ibu yang bersalin, balik rumah, dan tiada siapa lagi tanya dia ok tak.",
    "date": "2026-10-12",
    "time": "07:02",
-   "views": 96467,
+   "views": 96487,
    "likes": 1257,
-   "comments": 42,
-   "shares": 461,
+   "comments": 41,
+   "shares": 459,
    "er": 1.82,
    "url": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
    "topComments": [],
@@ -807,7 +807,7 @@
    "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
    "date": "2026-11-07",
    "time": "18:01",
-   "views": 51058,
+   "views": 51059,
    "likes": 877,
    "comments": 73,
    "shares": 150,
@@ -2309,7 +2309,7 @@
     "median": 9153,
     "best": 237674,
     "worst": 1554,
-    "total": 1694714,
+    "total": 1694715,
     "er": 1.85,
     "below": 24
    },
@@ -2319,7 +2319,7 @@
     "median": 8327,
     "best": 700748,
     "worst": 1852,
-    "total": 3803877,
+    "total": 3803897,
     "er": 2.22,
     "below": 24
    },
@@ -2351,7 +2351,7 @@
     "median": 9249,
     "best": 407563,
     "worst": 1554,
-    "total": 2148543,
+    "total": 2148563,
     "er": 1.86,
     "below": 25
    },
@@ -2361,7 +2361,7 @@
     "median": 7962,
     "best": 700748,
     "worst": 1594,
-    "total": 3599333,
+    "total": 3599334,
     "er": 2.09,
     "below": 30
    }
@@ -2373,7 +2373,7 @@
     "median": 11867,
     "best": 597061,
     "worst": 1554,
-    "total": 1444842,
+    "total": 1444862,
     "er": 1.48,
     "below": 7
    },
@@ -2393,7 +2393,7 @@
     "median": 9333,
     "best": 700748,
     "worst": 1852,
-    "total": 3045970,
+    "total": 3045971,
     "er": 2.17,
     "below": 27
    },
@@ -2435,7 +2435,7 @@
     "median": 9249,
     "best": 700748,
     "worst": 1852,
-    "total": 2854358,
+    "total": 2854359,
     "er": 2.23,
     "below": 28
    },
@@ -2445,7 +2445,7 @@
     "median": 5631,
     "best": 167728,
     "worst": 1554,
-    "total": 560554,
+    "total": 560574,
     "er": 2.02,
     "below": 12
    },
@@ -3232,7 +3232,7 @@
   },
   {
    "date": "2026-11-12",
-   "views": 2065,
+   "views": 2086,
    "likes": 10,
    "comments": 2,
    "shares": 3,
@@ -3601,9 +3601,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-13 12:46 MYT",
+  "fetchedAt": "2026-11-13 13:17 MYT",
   "totals": {
-   "views": 5780093,
+   "views": 5780104,
    "likes": 102959,
    "replies": 6767,
    "reposts": 23882,
@@ -3805,7 +3805,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 121632,
+    "views": 121642,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -4155,7 +4155,7 @@
     "id": "17862014451695406",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdumBZVDDI4",
     "timestamp": "2026-09-25",
-    "views": 113481,
+    "views": 113482,
     "likes": 4540,
     "replies": 56,
     "reposts": 1049,
