@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generatedAt": "2026-11-13 12:32 MYT",
+  "generatedAt": "2026-11-13 13:03 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
-   "profilePicture": "https://scontent-bru2-1.cdninstagram.com/v/t51.82787-19/805218846_18101177006094220_8599483572105926107_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GB6q-i_M93ax7E5AANtVLi_-gFd3bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=W5Q-Z0R-v40Q7kNvwHAMIT3&_nc_oc=AdpONSlFak7_yVJy_U54Jj0S9nyVn6T4SKvK5F7ruxNwWPOyA30gOnm5fuVkfA-HLBI&_nc_zt=24&_nc_ht=scontent-bru2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=egQjo2iS8oxb48K07nCsLQ&_nc_tpa=Q5bMBQL8qR39oYngSSA9__dMq_RKyDTf2ONHOTkIBdHlYYAfBb_tyPqjDaNxmPpd4jC4FXEHjlbV7G4NCg&oh=00_AQQ7UWhVmlZ63TitQsIjoJ5rZ9xbggh0lwiYRhPczSBEdg&oe=6AFB288C",
+   "profilePicture": "https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-19/805218846_18101177006094220_8599483572105926107_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GB6q-i_M93ax7E5AANtVLi_-gFd3bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=W5Q-Z0R-v40Q7kNvwEcYmyS&_nc_oc=Ado2MII-64Eg5rRJ3E9pj-FUhr08980IUnDo0pvLqvBZYIGIIRx-D7mYjttA7ninIrw&_nc_zt=24&_nc_ht=scontent-mrs2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ieVi-1LoaUSAzdUxPRJ6-w&_nc_tpa=Q5bMBQLRbhqwVVarn-hEit1WIt7AVbmIKkbIzDjng6V8niU-UsslL5iovS7M8SrKdabb9Pef9tv480GLHg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQOXVvnW5iXEj9u1mYpInlsMCInMqNjH_qTCwAt_XOi-Q&oe=6AFC7A0C",
    "followers": 2417
   },
   "targetViews": 15000000,
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5859202,
+  "views": 5859263,
   "likes": 103541,
   "comments": 7225,
-  "shares": 25111,
+  "shares": 25112,
   "posts": 171
  },
  "posts": [
@@ -807,7 +807,7 @@
    "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
    "date": "2026-11-07",
    "time": "18:01",
-   "views": 51064,
+   "views": 51065,
    "likes": 877,
    "comments": 73,
    "shares": 150,
@@ -2309,7 +2309,7 @@
     "median": 9153,
     "best": 237714,
     "worst": 1554,
-    "total": 1694774,
+    "total": 1694775,
     "er": 1.85,
     "below": 24
    },
@@ -2361,7 +2361,7 @@
     "median": 7962,
     "best": 700748,
     "worst": 1594,
-    "total": 3599368,
+    "total": 3599369,
     "er": 2.09,
     "below": 30
    }
@@ -2393,7 +2393,7 @@
     "median": 9333,
     "best": 700748,
     "worst": 1852,
-    "total": 3046032,
+    "total": 3046033,
     "er": 2.17,
     "below": 27
    },
@@ -2435,7 +2435,7 @@
     "median": 9249,
     "best": 700748,
     "worst": 1852,
-    "total": 2854420,
+    "total": 2854421,
     "er": 2.23,
     "below": 28
    },
@@ -3240,10 +3240,10 @@
   },
   {
    "date": "2026-11-13",
-   "views": 724,
+   "views": 785,
    "likes": 6,
    "comments": 0,
-   "shares": 0,
+   "shares": 1,
    "posts": 0
   }
  ],
@@ -3579,6 +3579,10 @@
   {
    "date": "2026-11-12",
    "count": 2417
+  },
+  {
+   "date": "2026-11-13",
+   "count": 2417
   }
  ],
  "insights": [
@@ -3609,10 +3613,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-13 20:33 MYT",
+  "fetchedAt": "2026-11-13 21:04 MYT",
   "totals": {
-   "views": 5780844,
-   "likes": 102973,
+   "views": 5780886,
+   "likes": 102974,
    "replies": 6769,
    "reposts": 23881,
    "quotes": 923,
@@ -3623,8 +3627,8 @@
     "id": "18135214300759386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfqMBwsk2Ut",
     "timestamp": "2026-11-12",
-    "views": 482,
-    "likes": 13,
+    "views": 497,
+    "likes": 14,
     "replies": 2,
     "reposts": 1,
     "quotes": 0
@@ -3653,7 +3657,7 @@
     "id": "18139188844644859",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfmODaoExm6",
     "timestamp": "2026-11-11",
-    "views": 1306,
+    "views": 1308,
     "likes": 12,
     "replies": 2,
     "reposts": 6,
@@ -3773,7 +3777,7 @@
     "id": "18033520277875463",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfUMrDBCKQx",
     "timestamp": "2026-11-04",
-    "views": 167759,
+    "views": 167761,
     "likes": 3726,
     "replies": 101,
     "reposts": 612,
@@ -3823,7 +3827,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 121785,
+    "views": 121797,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -3833,7 +3837,7 @@
     "id": "17994159783069368",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfJ5T8YETC7",
     "timestamp": "2026-10-31",
-    "views": 112547,
+    "views": 112549,
     "likes": 1786,
     "replies": 300,
     "reposts": 536,
@@ -3933,7 +3937,7 @@
     "id": "18348909712269450",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeXyuf9DFE0",
     "timestamp": "2026-10-11",
-    "views": 96491,
+    "views": 96493,
     "likes": 1257,
     "replies": 41,
     "reposts": 438,
@@ -4353,7 +4357,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700789,
+    "views": 700792,
     "likes": 17687,
     "replies": 431,
     "reposts": 5923,
@@ -4373,7 +4377,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 597064,
+    "views": 597066,
     "likes": 9745,
     "replies": 328,
     "reposts": 1740,
@@ -4603,7 +4607,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 233445,
+    "views": 233447,
     "likes": 4095,
     "replies": 1105,
     "reposts": 1739,
