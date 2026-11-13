@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-14 02:33 MYT",
+  "generatedAt": "2026-11-14 03:04 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5861121,
+  "views": 5861281,
   "likes": 103567,
   "comments": 7229,
   "shares": 25115,
@@ -85,10 +85,10 @@
    "content": "Al-Quran sebut 2 tahun penuh untuk menyusu. Tapi 1 bahagian selepas tu jarang dibaca. Perintah tu bukan pada ibu. Ia pada ayah. 🧵",
    "date": "2026-09-17",
    "time": "07:02",
-   "views": 700748,
-   "likes": 17687,
+   "views": 700866,
+   "likes": 17686,
    "comments": 431,
-   "shares": 6089,
+   "shares": 6088,
    "er": 3.45,
    "url": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
    "topComments": [
@@ -847,7 +847,7 @@
    "content": "Nabi SAW kata setiap ayah akan ditanya pasal anaknya. Bukan pasal gaji. Bukan pasal kereta. 1,400 tahun lepas, dan soalan tu masih sama. 🧵",
    "date": "2026-09-15",
    "time": "07:02",
-   "views": 50248,
+   "views": 50249,
    "likes": 1642,
    "comments": 52,
    "shares": 475,
@@ -867,7 +867,7 @@
    "content": "Aisyah RA sebut, untuk anak lelaki 2 kambing, untuk anak perempuan 1 kambing. Hadis Abu Dawud 2836. Ramai tersalah faham maksud beza itu.",
    "date": "2026-11-10",
    "time": "18:01",
-   "views": 48282,
+   "views": 48283,
    "likes": 299,
    "comments": 11,
    "shares": 42,
@@ -987,7 +987,7 @@
    "content": "Mak saya bidan 40 tahun. Dia pesan 1 benda sebelum anak saya lahir: \"Azan dulu, sebelum dunia bercakap dengan dia.\" Saya buat 3 kali. Yang saya ingat bukan bil hospital. 🧵",
    "date": "2026-09-28",
    "time": "18:02",
-   "views": 23859,
+   "views": 23860,
    "likes": 172,
    "comments": 7,
    "shares": 7,
@@ -1467,7 +1467,7 @@
    "content": "Anak menangis, kita peluk, orang tua kata: \"manja nanti!\" John Bowlby, 1958: salah. Peluk anak itu bukan manja, itu perlindungan.",
    "date": "2026-09-05",
    "time": "07:32",
-   "views": 5631,
+   "views": 5632,
    "likes": 205,
    "comments": 10,
    "shares": 66,
@@ -1607,7 +1607,7 @@
    "content": "Al-Quran sebut jaga keluarga dari api. Bukan jaga duit. Bukan jaga nama. Ayat 66:6, 1,400 tahun lepas. 🧵",
    "date": "2026-09-20",
    "time": "18:02",
-   "views": 4283,
+   "views": 4284,
    "likes": 71,
    "comments": 10,
    "shares": 22,
@@ -2309,7 +2309,7 @@
     "median": 9154,
     "best": 237714,
     "worst": 1554,
-    "total": 1694984,
+    "total": 1694987,
     "er": 1.85,
     "below": 24
    },
@@ -2317,9 +2317,9 @@
     "label": "07:01",
     "n": 45,
     "median": 8327,
-    "best": 700748,
+    "best": 700866,
     "worst": 1852,
-    "total": 3804422,
+    "total": 3804542,
     "er": 2.22,
     "below": 24
    },
@@ -2351,7 +2351,7 @@
     "median": 9249,
     "best": 407565,
     "worst": 1554,
-    "total": 2149236,
+    "total": 2149238,
     "er": 1.86,
     "below": 25
    },
@@ -2359,9 +2359,9 @@
     "label": "Post tunggal",
     "n": 50,
     "median": 7963,
-    "best": 700748,
+    "best": 700866,
     "worst": 1594,
-    "total": 3599457,
+    "total": 3599578,
     "er": 2.09,
     "below": 30
    }
@@ -2383,7 +2383,7 @@
     "median": 10244,
     "best": 391302,
     "worst": 2333,
-    "total": 964764,
+    "total": 964765,
     "er": 1.67,
     "below": 9
    },
@@ -2391,9 +2391,9 @@
     "label": "Dalil / Nabi",
     "n": 52,
     "median": 9333,
-    "best": 700748,
+    "best": 700866,
     "worst": 1852,
-    "total": 3046140,
+    "total": 3046261,
     "er": 2.17,
     "below": 27
    },
@@ -2403,7 +2403,7 @@
     "median": 3237,
     "best": 6689,
     "worst": 2388,
-    "total": 20869,
+    "total": 20870,
     "er": 2.61,
     "below": 5
    },
@@ -2425,7 +2425,7 @@
     "median": 40342,
     "best": 597061,
     "worst": 6714,
-    "total": 1629681,
+    "total": 1629682,
     "er": 1.57,
     "below": 1
    },
@@ -2433,19 +2433,19 @@
     "label": "Sunnah/Dalil",
     "n": 52,
     "median": 9249,
-    "best": 700748,
+    "best": 700866,
     "worst": 1852,
-    "total": 2854489,
+    "total": 2854610,
     "er": 2.23,
     "below": 28
    },
    {
     "label": "N-Tesis",
     "n": 17,
-    "median": 5631,
+    "median": 5632,
     "best": 167781,
     "worst": 1554,
-    "total": 561170,
+    "total": 561171,
     "er": 2.02,
     "below": 12
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -70%",
-    "body": "129.2K views vs 425.9K minggu sebelumnya."
+    "body": "129.4K views vs 425.9K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3240,7 +3240,7 @@
   },
   {
    "date": "2026-11-13",
-   "views": 2643,
+   "views": 2803,
    "likes": 32,
    "comments": 4,
    "shares": 4,
@@ -3588,12 +3588,12 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "129.2K",
+   "value": "129.4K",
    "sub": "-70% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
-   "value": "700.7K",
+   "value": "700.9K",
    "sub": "Al-Quran sebut 2 tahun penuh untuk menyusu. Tapi 1 bahagian …"
   },
   {
@@ -3613,9 +3613,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-14 10:33 MYT",
+  "fetchedAt": "2026-11-14 11:04 MYT",
   "totals": {
-   "views": 5783018,
+   "views": 5783022,
    "likes": 102995,
    "replies": 6772,
    "reposts": 23884,
@@ -3627,7 +3627,7 @@
     "id": "18138288820637265",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfrXla-k7eQ",
     "timestamp": "2026-11-13",
-    "views": 704,
+    "views": 705,
     "likes": 4,
     "replies": 4,
     "reposts": 0,
@@ -3637,7 +3637,7 @@
     "id": "18135214300759386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfqMBwsk2Ut",
     "timestamp": "2026-11-12",
-    "views": 1368,
+    "views": 1370,
     "likes": 32,
     "replies": 2,
     "reposts": 4,
@@ -4367,7 +4367,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700866,
+    "views": 700867,
     "likes": 17686,
     "replies": 431,
     "reposts": 5923,
