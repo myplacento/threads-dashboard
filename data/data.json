@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-15 03:26 MYT",
+  "generatedAt": "2026-11-15 03:57 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5878685,
-  "likes": 103738,
+  "views": 5880072,
+  "likes": 103748,
   "comments": 7234,
-  "shares": 25133,
+  "shares": 25135,
   "posts": 174
  },
  "posts": [
@@ -85,7 +85,7 @@
    "content": "Al-Quran sebut 2 tahun penuh untuk menyusu. Tapi 1 bahagian selepas tu jarang dibaca. Perintah tu bukan pada ibu. Ia pada ayah. 🧵",
    "date": "2026-09-17",
    "time": "07:02",
-   "views": 700866,
+   "views": 700935,
    "likes": 17686,
    "comments": 431,
    "shares": 6088,
@@ -687,7 +687,7 @@
    "content": "1 ayah bangga sebab dia tak pernah cium 10 anaknya. Dia cakap depan Nabi SAW. Baginda tak marah dia. Baginda buat 1 benda. 🧵",
    "date": "2026-09-27",
    "time": "18:02",
-   "views": 84390,
+   "views": 84391,
    "likes": 502,
    "comments": 21,
    "shares": 103,
@@ -847,7 +847,7 @@
    "content": "Nabi SAW kata setiap ayah akan ditanya pasal anaknya. Bukan pasal gaji. Bukan pasal kereta. 1,400 tahun lepas, dan soalan tu masih sama. 🧵",
    "date": "2026-09-15",
    "time": "07:02",
-   "views": 50249,
+   "views": 50250,
    "likes": 1642,
    "comments": 52,
    "shares": 475,
@@ -1067,11 +1067,11 @@
    "content": "Nabi SAW kata, sesiapa nak luas rezeki dan panjang umur, sambung hubungan keluarga. Hadis Bukhari 5985. Tetapi ada 1 hubungan yang paling senang terputus.",
    "date": "2026-11-14",
    "time": "07:01",
-   "views": 14909,
-   "likes": 144,
+   "views": 16197,
+   "likes": 154,
    "comments": 3,
-   "shares": 17,
-   "er": 1.1,
+   "shares": 19,
+   "er": 1.09,
    "url": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
    "topComments": [],
    "items": 1,
@@ -2027,7 +2027,7 @@
    "content": "\"Biarkan dia nangis, nanti dia kuat.\" 1 ayat ni salah, dan ia buat ramai ibu ayah bertahan dengar anak menangis dengan hati yang pecah. 🧵",
    "date": "2026-09-26",
    "time": "18:02",
-   "views": 2683,
+   "views": 2684,
    "likes": 21,
    "comments": 7,
    "shares": 4,
@@ -2287,11 +2287,11 @@
    "content": "Nabi SAW kata, sesiapa yang tak sayang, dia tak akan disayangi. Hadis Bukhari 5997. Ramai bapa kita tak pernah dengar ayat ini.",
    "date": "2026-11-14",
    "time": "18:01",
-   "views": 1730,
+   "views": 1751,
    "likes": 24,
    "comments": 2,
    "shares": 1,
-   "er": 1.56,
+   "er": 1.54,
    "url": "https://www.threads.com/@ustaz.basri/post/Dft8X1GE13-",
    "topComments": [],
    "items": 1,
@@ -2308,8 +2308,8 @@
     "n": 44,
     "median": 9270,
     "best": 237735,
-    "worst": 1730,
-    "total": 1693890,
+    "worst": 1751,
+    "total": 1693913,
     "er": 1.86,
     "below": 23
    },
@@ -2317,9 +2317,9 @@
     "label": "07:01",
     "n": 46,
     "median": 8939,
-    "best": 700866,
+    "best": 700935,
     "worst": 1852,
-    "total": 3819782,
+    "total": 3821140,
     "er": 2.19,
     "below": 24
    },
@@ -2351,7 +2351,7 @@
     "median": 9385,
     "best": 407569,
     "worst": 1852,
-    "total": 2148170,
+    "total": 2148172,
     "er": 1.89,
     "below": 24
    },
@@ -2359,9 +2359,9 @@
     "label": "Post tunggal",
     "n": 51,
     "median": 8327,
-    "best": 700866,
-    "worst": 1730,
-    "total": 3614783,
+    "best": 700935,
+    "worst": 1751,
+    "total": 3616162,
     "er": 2.06,
     "below": 30
    }
@@ -2383,7 +2383,7 @@
     "median": 10247,
     "best": 391318,
     "worst": 2333,
-    "total": 964809,
+    "total": 964810,
     "er": 1.67,
     "below": 9
    },
@@ -2391,9 +2391,9 @@
     "label": "Dalil / Nabi",
     "n": 54,
     "median": 9333,
-    "best": 700866,
-    "worst": 1730,
-    "total": 3063072,
+    "best": 700935,
+    "worst": 1751,
+    "total": 3064452,
     "er": 2.14,
     "below": 28
    },
@@ -2433,9 +2433,9 @@
     "label": "Sunnah/Dalil",
     "n": 54,
     "median": 9250,
-    "best": 700866,
-    "worst": 1730,
-    "total": 2871350,
+    "best": 700935,
+    "worst": 1751,
+    "total": 2872730,
     "er": 2.2,
     "below": 29
    },
@@ -2454,8 +2454,8 @@
     "n": 7,
     "median": 5627,
     "best": 241806,
-    "worst": 2683,
-    "total": 383845,
+    "worst": 2684,
+    "total": 383846,
     "er": 1.45,
     "below": 4
    },
@@ -2534,7 +2534,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -69%",
-    "body": "116.1K views vs 376.3K minggu sebelumnya."
+    "body": "117.5K views vs 376.3K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3243,10 +3243,10 @@
   },
   {
    "date": "2026-11-14",
-   "views": 17332,
-   "likes": 160,
+   "views": 18719,
+   "likes": 170,
    "comments": 3,
-   "shares": 18,
+   "shares": 20,
    "posts": 1
   }
  ],
@@ -3595,7 +3595,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "116.1K",
+   "value": "117.5K",
    "sub": "-69% vs 7 hari sebelumnya"
   },
   {
@@ -3615,15 +3615,15 @@
   },
   {
    "label": "Engagement rate (purata)",
-   "value": "2.32%",
+   "value": "2.31%",
    "sub": "likes+komen+share / views"
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-15 11:26 MYT",
+  "fetchedAt": "2026-11-15 11:57 MYT",
   "totals": {
-   "views": 5801683,
-   "likes": 103175,
+   "views": 5801885,
+   "likes": 103177,
    "replies": 6777,
    "reposts": 23903,
    "quotes": 923,
@@ -3634,7 +3634,7 @@
     "id": "18345849388261804",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dft8X1GE13-",
     "timestamp": "2026-11-14",
-    "views": 1751,
+    "views": 1755,
     "likes": 24,
     "replies": 2,
     "reposts": 1,
@@ -3644,8 +3644,8 @@
     "id": "17913187071307014",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
     "timestamp": "2026-11-13",
-    "views": 16197,
-    "likes": 154,
+    "views": 16388,
+    "likes": 156,
     "replies": 3,
     "reposts": 19,
     "quotes": 0
@@ -3664,7 +3664,7 @@
     "id": "18135214300759386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfqMBwsk2Ut",
     "timestamp": "2026-11-12",
-    "views": 1432,
+    "views": 1433,
     "likes": 32,
     "replies": 2,
     "reposts": 4,
@@ -3814,7 +3814,7 @@
     "id": "18033520277875463",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfUMrDBCKQx",
     "timestamp": "2026-11-04",
-    "views": 167879,
+    "views": 167881,
     "likes": 3726,
     "replies": 101,
     "reposts": 612,
@@ -3924,7 +3924,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 237755,
+    "views": 237759,
     "likes": 3855,
     "replies": 185,
     "reposts": 885,
