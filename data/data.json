@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-14 18:06 MYT",
+  "generatedAt": "2026-11-14 18:37 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,11 +71,11 @@
   }
  },
  "totals": {
-  "views": 5869316,
-  "likes": 103637,
-  "comments": 7232,
-  "shares": 25122,
-  "posts": 173
+  "views": 5870342,
+  "likes": 103646,
+  "comments": 7234,
+  "shares": 25123,
+  "posts": 174
  },
  "posts": [
   {
@@ -547,7 +547,7 @@
    "content": "\"Anak lelaki jangan dipeluk sangat. Nanti lembut.\" Ayat ni campur 2 benda berbeza: lembut dan lemah. 🧵",
    "date": "2026-09-28",
    "time": "07:02",
-   "views": 115568,
+   "views": 115571,
    "likes": 699,
    "comments": 48,
    "shares": 154,
@@ -1301,6 +1301,26 @@
    "pillar": "Sunnah/Dalil"
   },
   {
+   "id": "6af79981e0096fc44863e388",
+   "zid": null,
+   "platformPostId": "17913187071307014",
+   "content": "Nabi SAW kata, sesiapa nak luas rezeki dan panjang umur, sambung hubungan keluarga. Hadis Bukhari 5985. Tetapi ada 1 hubungan yang paling senang terputus.",
+   "date": "2026-11-14",
+   "time": "07:01",
+   "views": 8632,
+   "likes": 75,
+   "comments": 3,
+   "shares": 7,
+   "er": 0.98,
+   "url": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
+   "topComments": [],
+   "items": 1,
+   "slot": "07:01",
+   "format": "Post tunggal",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6a96b08177555aae018ddb37",
    "zid": "6a9459d09c0cea3f9810670a",
    "platformPostId": "17882022876506162",
@@ -1333,26 +1353,6 @@
    "shares": 61,
    "er": 3.35,
    "url": "https://www.threads.com/@ustaz.basri/post/DcY8827l60Q",
-   "topComments": [],
-   "items": 1,
-   "slot": "07:01",
-   "format": "Post tunggal",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6af79981e0096fc44863e388",
-   "zid": null,
-   "platformPostId": "17913187071307014",
-   "content": "Nabi SAW kata, sesiapa nak luas rezeki dan panjang umur, sambung hubungan keluarga. Hadis Bukhari 5985. Tetapi ada 1 hubungan yang paling senang terputus.",
-   "date": "2026-11-14",
-   "time": "07:01",
-   "views": 7614,
-   "likes": 69,
-   "comments": 3,
-   "shares": 7,
-   "er": 1.04,
-   "url": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
    "topComments": [],
    "items": 1,
    "slot": "07:01",
@@ -2316,10 +2316,10 @@
    {
     "label": "07:01",
     "n": 46,
-    "median": 7970,
+    "median": 8479,
     "best": 700866,
     "worst": 1852,
-    "total": 3812436,
+    "total": 3813457,
     "er": 2.19,
     "below": 25
    },
@@ -2351,17 +2351,17 @@
     "median": 9385,
     "best": 407565,
     "worst": 1852,
-    "total": 2147947,
+    "total": 2147950,
     "er": 1.89,
     "below": 24
    },
    {
     "label": "Post tunggal",
     "n": 51,
-    "median": 7614,
+    "median": 8327,
     "best": 700866,
     "worst": 1594,
-    "total": 3607258,
+    "total": 3608276,
     "er": 2.07,
     "below": 31
    }
@@ -2383,7 +2383,7 @@
     "median": 10245,
     "best": 391318,
     "worst": 2333,
-    "total": 964790,
+    "total": 964793,
     "er": 1.67,
     "below": 9
    },
@@ -2393,8 +2393,8 @@
     "median": 9115,
     "best": 700866,
     "worst": 1852,
-    "total": 3053924,
-    "er": 2.15,
+    "total": 3054942,
+    "er": 2.14,
     "below": 28
    },
    {
@@ -2435,7 +2435,7 @@
     "median": 9115,
     "best": 700866,
     "worst": 1852,
-    "total": 2862273,
+    "total": 2863291,
     "er": 2.21,
     "below": 29
    },
@@ -2455,7 +2455,7 @@
     "median": 5627,
     "best": 241806,
     "worst": 2683,
-    "total": 383837,
+    "total": 383840,
     "er": 1.45,
     "below": 4
    },
@@ -2527,19 +2527,14 @@
     "body": "Median 3.2K (5 post). Nama universiti/penyelidik asing bukan R untuk audience Malaysia. Turunkan ke mesej 2."
    },
    {
-    "level": "warn",
-    "title": "Post tunggal lemah",
-    "body": "Median 7.6K (51 post) vs bebenang. Slot 07:01 & 18:01 mesti 5-8 mesej."
-   },
-   {
     "level": "good",
     "title": "Slot terbaik: 18:01",
     "body": "Median 9.3K · terbaik 237.7K · 44 post. Letak kandungan paling kuat di sini."
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -72%",
-    "body": "106.8K views vs 376.3K minggu sebelumnya."
+    "title": "Nadi 7 hari turun -71%",
+    "body": "107.8K views vs 376.3K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3248,11 +3243,11 @@
   },
   {
    "date": "2026-11-14",
-   "views": 7963,
-   "likes": 59,
-   "comments": 1,
-   "shares": 7,
-   "posts": 0
+   "views": 8989,
+   "likes": 68,
+   "comments": 3,
+   "shares": 8,
+   "posts": 1
   }
  ],
  "followers": [
@@ -3600,8 +3595,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "106.8K",
-   "sub": "-72% vs 7 hari sebelumnya"
+   "value": "107.8K",
+   "sub": "-71% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3625,10 +3620,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-15 02:07 MYT",
+  "fetchedAt": "2026-11-15 02:37 MYT",
   "totals": {
-   "views": 5792058,
-   "likes": 103073,
+   "views": 5793834,
+   "likes": 103088,
    "replies": 6777,
    "reposts": 23891,
    "quotes": 923,
@@ -3639,8 +3634,8 @@
     "id": "18345849388261804",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dft8X1GE13-",
     "timestamp": "2026-11-14",
-    "views": 0,
-    "likes": 3,
+    "views": 1276,
+    "likes": 17,
     "replies": 2,
     "reposts": 1,
     "quotes": 0
@@ -3649,8 +3644,8 @@
     "id": "17913187071307014",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
     "timestamp": "2026-11-13",
-    "views": 8632,
-    "likes": 75,
+    "views": 9117,
+    "likes": 76,
     "replies": 3,
     "reposts": 7,
     "quotes": 0
@@ -3669,7 +3664,7 @@
     "id": "18135214300759386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfqMBwsk2Ut",
     "timestamp": "2026-11-12",
-    "views": 1415,
+    "views": 1416,
     "likes": 32,
     "replies": 2,
     "reposts": 4,
@@ -3779,7 +3774,7 @@
     "id": "17873537514642386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
     "timestamp": "2026-11-07",
-    "views": 51086,
+    "views": 51087,
     "likes": 877,
     "replies": 73,
     "reposts": 146,
@@ -3869,7 +3864,7 @@
     "id": "17913457563474036",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
     "timestamp": "2026-10-31",
-    "views": 121979,
+    "views": 121981,
     "likes": 1756,
     "replies": 146,
     "reposts": 543,
@@ -3879,7 +3874,7 @@
     "id": "17994159783069368",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfJ5T8YETC7",
     "timestamp": "2026-10-31",
-    "views": 112656,
+    "views": 112659,
     "likes": 1786,
     "replies": 300,
     "reposts": 536,
@@ -4179,7 +4174,7 @@
     "id": "17975074632132976",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddzvjk9DrP3",
     "timestamp": "2026-09-27",
-    "views": 115571,
+    "views": 115572,
     "likes": 699,
     "replies": 48,
     "reposts": 148,
@@ -4259,7 +4254,7 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 407567,
+    "views": 407568,
     "likes": 4469,
     "replies": 254,
     "reposts": 481,
@@ -4349,7 +4344,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 12686,
+    "views": 12687,
     "likes": 136,
     "replies": 11,
     "reposts": 10,
@@ -4399,7 +4394,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700904,
+    "views": 700905,
     "likes": 17686,
     "replies": 431,
     "reposts": 5923,
@@ -4649,7 +4644,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 233525,
+    "views": 233529,
     "likes": 4094,
     "replies": 1105,
     "reposts": 1739,
