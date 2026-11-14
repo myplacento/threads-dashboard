@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-14 11:53 MYT",
+  "generatedAt": "2026-11-14 12:24 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5866676,
-  "likes": 103600,
+  "views": 5867667,
+  "likes": 103611,
   "comments": 7232,
-  "shares": 25116,
+  "shares": 25117,
   "posts": 173
  },
  "posts": [
@@ -313,7 +313,7 @@
    "content": "Mak saya bidan, Hajjah Rafeah. 40 tahun lebih sambut bayi. Satu pesanan dia untuk semua suami: jangan tinggalkan isteri bersendirian.",
    "date": "2026-09-06",
    "time": "07:31",
-   "views": 391302,
+   "views": 391318,
    "likes": 13121,
    "comments": 179,
    "shares": 2651,
@@ -527,11 +527,11 @@
    "content": "Seorang ibu menyusu 2 tahun lalu doa cepat berhenti. Tapi yang dia rindu kemudian bukan susu.",
    "date": "2026-11-01",
    "time": "07:02",
-   "views": 121746,
+   "views": 121961,
    "likes": 1756,
    "comments": 146,
    "shares": 589,
-   "er": 2.05,
+   "er": 2.04,
    "url": "https://www.threads.com/@ustaz.basri/post/DfLSl5AjbXd",
    "topComments": [],
    "items": 7,
@@ -807,7 +807,7 @@
    "content": "Al-Quran sebut nafkah ikut kemampuan suami, bukan ikut permintaan isteri. Surah ke-65, ayat 7. Tetapi ada 1 bahagian yang jarang dibaca sampai habis.",
    "date": "2026-11-07",
    "time": "18:01",
-   "views": 51075,
+   "views": 51079,
    "likes": 877,
    "comments": 73,
    "shares": 150,
@@ -1441,6 +1441,26 @@
    "pillar": "Sunnah/Dalil"
   },
   {
+   "id": "6af79981e0096fc44863e388",
+   "zid": null,
+   "platformPostId": "17913187071307014",
+   "content": "Nabi SAW kata, sesiapa nak luas rezeki dan panjang umur, sambung hubungan keluarga. Hadis Bukhari 5985. Tetapi ada 1 hubungan yang paling senang terputus.",
+   "date": "2026-11-14",
+   "time": "07:01",
+   "views": 6012,
+   "likes": 44,
+   "comments": 3,
+   "shares": 2,
+   "er": 0.82,
+   "url": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
+   "topComments": [],
+   "items": 1,
+   "slot": "07:01",
+   "format": "Post tunggal",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6a910e4177555aae013cca08",
    "zid": "6a905945ad72526bab11fb36",
    "platformPostId": "18108263291171589",
@@ -1499,26 +1519,6 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Petikan rakyat",
    "pillar": "Myth-busting"
-  },
-  {
-   "id": "6af79981e0096fc44863e388",
-   "zid": null,
-   "platformPostId": "17913187071307014",
-   "content": "Nabi SAW kata, sesiapa nak luas rezeki dan panjang umur, sambung hubungan keluarga. Hadis Bukhari 5985. Tetapi ada 1 hubungan yang paling senang terputus.",
-   "date": "2026-11-14",
-   "time": "07:01",
-   "views": 5267,
-   "likes": 33,
-   "comments": 3,
-   "shares": 1,
-   "er": 0.7,
-   "url": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
-   "topComments": [],
-   "items": 1,
-   "slot": "07:01",
-   "format": "Post tunggal",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
   },
   {
    "id": "6a9d427ecf034bac35d2693a",
@@ -2007,7 +2007,7 @@
    "content": "Bayi 6 bulan menangis, dan seseorang kata dia manjakan ibu bapanya. Tapi menangis itu bukan taktik, ia bahasa.",
    "date": "2026-10-31",
    "time": "07:01",
-   "views": 2786,
+   "views": 2787,
    "likes": 52,
    "comments": 8,
    "shares": 14,
@@ -2309,7 +2309,7 @@
     "median": 9269,
     "best": 237735,
     "worst": 1594,
-    "total": 1693465,
+    "total": 1693469,
     "er": 1.88,
     "below": 23
    },
@@ -2319,8 +2319,8 @@
     "median": 7963,
     "best": 700866,
     "worst": 1852,
-    "total": 3809856,
-    "er": 2.18,
+    "total": 3810833,
+    "er": 2.19,
     "below": 25
    },
    {
@@ -2351,7 +2351,7 @@
     "median": 9384,
     "best": 407565,
     "worst": 1852,
-    "total": 2147725,
+    "total": 2147941,
     "er": 1.89,
     "below": 24
    },
@@ -2361,7 +2361,7 @@
     "median": 7599,
     "best": 700866,
     "worst": 1594,
-    "total": 3604883,
+    "total": 3605648,
     "er": 2.07,
     "below": 31
    }
@@ -2381,9 +2381,9 @@
     "label": "Petikan rakyat",
     "n": 18,
     "median": 10244,
-    "best": 391302,
+    "best": 391318,
     "worst": 2333,
-    "total": 964773,
+    "total": 964789,
     "er": 1.67,
     "below": 9
    },
@@ -2393,7 +2393,7 @@
     "median": 9115,
     "best": 700866,
     "worst": 1852,
-    "total": 3051561,
+    "total": 3052310,
     "er": 2.14,
     "below": 28
    },
@@ -2410,10 +2410,10 @@
    {
     "label": "Lain-lain",
     "n": 10,
-    "median": 2626,
-    "best": 121746,
+    "median": 2627,
+    "best": 121961,
     "worst": 1594,
-    "total": 298078,
+    "total": 298294,
     "er": 1.79,
     "below": 7
    }
@@ -2425,7 +2425,7 @@
     "median": 40342,
     "best": 597082,
     "worst": 6714,
-    "total": 1629704,
+    "total": 1629720,
     "er": 1.57,
     "below": 1
    },
@@ -2435,7 +2435,7 @@
     "median": 9115,
     "best": 700866,
     "worst": 1852,
-    "total": 2859910,
+    "total": 2860659,
     "er": 2.2,
     "below": 29
    },
@@ -2445,7 +2445,7 @@
     "median": 6160,
     "best": 167781,
     "worst": 1594,
-    "total": 559633,
+    "total": 559849,
     "er": 2.1,
     "below": 11
    },
@@ -2539,7 +2539,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -72%",
-    "body": "104.1K views vs 376.3K minggu sebelumnya."
+    "body": "105.1K views vs 376.3K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3248,10 +3248,10 @@
   },
   {
    "date": "2026-11-14",
-   "views": 5323,
-   "likes": 22,
+   "views": 6314,
+   "likes": 33,
    "comments": 1,
-   "shares": 1,
+   "shares": 2,
    "posts": 0
   }
  ],
@@ -3596,7 +3596,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "104.1K",
+   "value": "105.1K",
    "sub": "-72% vs 7 hari sebelumnya"
   },
   {
@@ -3621,10 +3621,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-14 19:53 MYT",
+  "fetchedAt": "2026-11-14 20:24 MYT",
   "totals": {
-   "views": 5789218,
-   "likes": 103038,
+   "views": 5789387,
+   "likes": 103041,
    "replies": 6775,
    "reposts": 23885,
    "quotes": 923,
@@ -3635,8 +3635,8 @@
     "id": "17913187071307014",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
     "timestamp": "2026-11-13",
-    "views": 6012,
-    "likes": 44,
+    "views": 6171,
+    "likes": 47,
     "replies": 3,
     "reposts": 2,
     "quotes": 0
@@ -3645,7 +3645,7 @@
     "id": "18138288820637265",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfrXla-k7eQ",
     "timestamp": "2026-11-13",
-    "views": 724,
+    "views": 725,
     "likes": 4,
     "replies": 4,
     "reposts": 0,
@@ -3805,7 +3805,7 @@
     "id": "18033520277875463",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfUMrDBCKQx",
     "timestamp": "2026-11-04",
-    "views": 167801,
+    "views": 167804,
     "likes": 3726,
     "replies": 101,
     "reposts": 612,
@@ -3865,7 +3865,7 @@
     "id": "17994159783069368",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfJ5T8YETC7",
     "timestamp": "2026-10-31",
-    "views": 112612,
+    "views": 112614,
     "likes": 1786,
     "replies": 300,
     "reposts": 536,
@@ -3915,7 +3915,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 237736,
+    "views": 237737,
     "likes": 3855,
     "replies": 185,
     "reposts": 885,
@@ -4365,7 +4365,7 @@
     "id": "17995327781830464",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdYmWYXkRTI",
     "timestamp": "2026-09-17",
-    "views": 6224,
+    "views": 6225,
     "likes": 74,
     "replies": 7,
     "reposts": 25,
@@ -4385,7 +4385,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 700882,
+    "views": 700883,
     "likes": 17686,
     "replies": 431,
     "reposts": 5923,
@@ -4405,7 +4405,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 597093,
+    "views": 597094,
     "likes": 9745,
     "replies": 328,
     "reposts": 1740,
