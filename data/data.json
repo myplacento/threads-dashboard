@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-16 07:24 MYT",
+  "generatedAt": "2026-11-16 07:55 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,11 +71,11 @@
   }
  },
  "totals": {
-  "views": 5894856,
-  "likes": 103863,
-  "comments": 7238,
-  "shares": 25154,
-  "posts": 176
+  "views": 5897338,
+  "likes": 103902,
+  "comments": 7240,
+  "shares": 25163,
+  "posts": 177
  },
  "posts": [
   {
@@ -607,7 +607,7 @@
    "content": "Saya urus uri lebih 5,000 keluarga sejak 2017. Benda paling saya takut bukan uri yang tak selamat. Ibu yang bersalin, balik rumah, dan tiada siapa lagi tanya dia ok tak.",
    "date": "2026-10-12",
    "time": "07:02",
-   "views": 96510,
+   "views": 96522,
    "likes": 1257,
    "comments": 41,
    "shares": 459,
@@ -1007,7 +1007,7 @@
    "content": "\"Setiap kali gaduh dengan suami, saya terus doa. Ya Allah, aku ada Kau je.\" Ayat 1 ibu ni bukan pasrah. Dan Al-Quran dah jawab benda ni 1,400 tahun lepas. 🧵",
    "date": "2026-10-11",
    "time": "07:02",
-   "views": 19210,
+   "views": 19212,
    "likes": 360,
    "comments": 5,
    "shares": 79,
@@ -1067,7 +1067,7 @@
    "content": "Nabi SAW kata, sesiapa nak luas rezeki dan panjang umur, sambung hubungan keluarga. Hadis Bukhari 5985. Tetapi ada 1 hubungan yang paling senang terputus.",
    "date": "2026-11-14",
    "time": "07:01",
-   "views": 17815,
+   "views": 17816,
    "likes": 168,
    "comments": 3,
    "shares": 20,
@@ -1076,6 +1076,26 @@
    "topComments": [],
    "items": 1,
    "slot": "07:01",
+   "format": "Post tunggal",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
+   "id": "6af99048ae99a5bc1e62dc54",
+   "zid": null,
+   "platformPostId": "18168232933494191",
+   "content": "Dalam khutbah terakhir di Arafah, Nabi SAW pesan satu benda pasal perempuan. Hadis Bukhari 5186. Kita ulang pesan itu di majlis kahwin, dan lupa di dapur.",
+   "date": "2026-11-15",
+   "time": "18:01",
+   "views": 14512,
+   "likes": 120,
+   "comments": 2,
+   "shares": 19,
+   "er": 0.97,
+   "url": "https://www.threads.com/@ustaz.basri/post/DfwhJBYk5wA",
+   "topComments": [],
+   "items": 1,
+   "slot": "18:01",
    "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
@@ -1141,26 +1161,6 @@
    "pillar": "N-Tesis"
   },
   {
-   "id": "6af99048ae99a5bc1e62dc54",
-   "zid": null,
-   "platformPostId": "18168232933494191",
-   "content": "Dalam khutbah terakhir di Arafah, Nabi SAW pesan satu benda pasal perempuan. Hadis Bukhari 5186. Kita ulang pesan itu di majlis kahwin, dan lupa di dapur.",
-   "date": "2026-11-15",
-   "time": "18:01",
-   "views": 12056,
-   "likes": 98,
-   "comments": 2,
-   "shares": 17,
-   "er": 0.97,
-   "url": "https://www.threads.com/@ustaz.basri/post/DfwhJBYk5wA",
-   "topComments": [],
-   "items": 1,
-   "slot": "18:01",
-   "format": "Post tunggal",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
-  },
-  {
    "id": "6a92ee9777555aae01d4fc49",
    "zid": null,
    "platformPostId": "18134526358620975",
@@ -1207,7 +1207,7 @@
    "content": "1 lelaki bawa anaknya yang baru lahir kepada Nabi SAW. Baginda buat 3 benda. 1,400 tahun lepas, dan semua 3 tak perlu duit. 🧵",
    "date": "2026-09-21",
    "time": "18:02",
-   "views": 10758,
+   "views": 10760,
    "likes": 136,
    "comments": 15,
    "shares": 22,
@@ -2067,7 +2067,7 @@
    "content": "Nabi SAW kata, bukan daripada golongan kita orang yang tidak sayang yang kecil dan tidak kenal hak yang besar. Hadis Tirmidzi 1919. Kita selalu pakai hadis ini pada anak.",
    "date": "2026-11-07",
    "time": "07:01",
-   "views": 2488,
+   "views": 2491,
    "likes": 4,
    "comments": 2,
    "shares": 0,
@@ -2306,10 +2306,10 @@
    {
     "label": "18:01",
     "n": 44,
-    "median": 10071,
+    "median": 10072,
     "best": 237759,
     "worst": 1984,
-    "total": 1704610,
+    "total": 1707068,
     "er": 1.85,
     "below": 22
    },
@@ -2319,7 +2319,7 @@
     "median": 8939,
     "best": 700990,
     "worst": 1853,
-    "total": 3823011,
+    "total": 3823029,
     "er": 2.19,
     "below": 24
    },
@@ -2351,7 +2351,7 @@
     "median": 9385,
     "best": 407574,
     "worst": 1853,
-    "total": 2148590,
+    "total": 2148606,
     "er": 1.88,
     "below": 24
    },
@@ -2361,7 +2361,7 @@
     "median": 8346,
     "best": 700990,
     "worst": 1911,
-    "total": 3628316,
+    "total": 3630776,
     "er": 2.05,
     "below": 29
    }
@@ -2373,7 +2373,7 @@
     "median": 12279,
     "best": 597135,
     "worst": 1984,
-    "total": 1443757,
+    "total": 1443769,
     "er": 1.54,
     "below": 6
    },
@@ -2393,7 +2393,7 @@
     "median": 10021,
     "best": 700990,
     "worst": 1853,
-    "total": 3076582,
+    "total": 3079046,
     "er": 2.12,
     "below": 27
    },
@@ -2435,7 +2435,7 @@
     "median": 9468,
     "best": 700990,
     "worst": 1853,
-    "total": 2884823,
+    "total": 2887287,
     "er": 2.19,
     "below": 28
    },
@@ -2445,7 +2445,7 @@
     "median": 6689,
     "best": 168044,
     "worst": 2118,
-    "total": 558790,
+    "total": 558802,
     "er": 2.09,
     "below": 10
    },
@@ -2533,8 +2533,8 @@
    },
    {
     "level": "bad",
-    "title": "Nadi 7 hari turun -60%",
-    "body": "100.3K views vs 253.5K minggu sebelumnya."
+    "title": "Nadi 7 hari turun -59%",
+    "body": "102.8K views vs 253.5K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3238,7 +3238,7 @@
   },
   {
    "date": "2026-11-14",
-   "views": 20257,
+   "views": 20258,
    "likes": 179,
    "comments": 5,
    "shares": 20,
@@ -3246,11 +3246,11 @@
   },
   {
    "date": "2026-11-15",
-   "views": 13246,
-   "likes": 106,
-   "comments": 2,
-   "shares": 19,
-   "posts": 1
+   "views": 15727,
+   "likes": 145,
+   "comments": 4,
+   "shares": 28,
+   "posts": 2
   }
  ],
  "followers": [
@@ -3602,8 +3602,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "100.3K",
-   "sub": "-60% vs 7 hari sebelumnya"
+   "value": "102.8K",
+   "sub": "-59% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3627,10 +3627,10 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-16 15:24 MYT",
+  "fetchedAt": "2026-11-16 15:55 MYT",
   "totals": {
-   "views": 5818946,
-   "likes": 103327,
+   "views": 5822167,
+   "likes": 103350,
    "replies": 6781,
    "reposts": 23930,
    "quotes": 923,
@@ -3641,8 +3641,8 @@
     "id": "18091588091271300",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfx6e2Wk7kZ",
     "timestamp": "2026-11-15",
-    "views": 0,
-    "likes": 17,
+    "views": 1547,
+    "likes": 35,
     "replies": 2,
     "reposts": 7,
     "quotes": 0
@@ -3651,8 +3651,8 @@
     "id": "18168232933494191",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfwhJBYk5wA",
     "timestamp": "2026-11-15",
-    "views": 14512,
-    "likes": 120,
+    "views": 16175,
+    "likes": 125,
     "replies": 2,
     "reposts": 19,
     "quotes": 0
@@ -3661,7 +3661,7 @@
     "id": "18416137663088032",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfvVs7TkwHF",
     "timestamp": "2026-11-14",
-    "views": 346,
+    "views": 348,
     "likes": 2,
     "replies": 2,
     "reposts": 0,
@@ -3671,7 +3671,7 @@
     "id": "18345849388261804",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dft8X1GE13-",
     "timestamp": "2026-11-14",
-    "views": 1826,
+    "views": 1827,
     "likes": 25,
     "replies": 2,
     "reposts": 1,
@@ -4311,7 +4311,7 @@
     "id": "18633169309058399",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Ddm3lKggp9O",
     "timestamp": "2026-09-22",
-    "views": 89034,
+    "views": 89035,
     "likes": 571,
     "replies": 114,
     "reposts": 175,
@@ -4381,7 +4381,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 12709,
+    "views": 12712,
     "likes": 137,
     "replies": 11,
     "reposts": 10,
@@ -4431,7 +4431,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 701014,
+    "views": 701018,
     "likes": 17685,
     "replies": 431,
     "reposts": 5923,
