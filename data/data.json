@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-18 06:01 MYT",
+  "generatedAt": "2026-11-18 06:32 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,8 +71,8 @@
   }
  },
  "totals": {
-  "views": 5918016,
-  "likes": 104405,
+  "views": 5918064,
+  "likes": 104406,
   "comments": 7246,
   "shares": 25255,
   "posts": 180
@@ -85,10 +85,10 @@
    "content": "Al-Quran sebut 2 tahun penuh untuk menyusu. Tapi 1 bahagian selepas tu jarang dibaca. Perintah tu bukan pada ibu. Ia pada ayah. 🧵",
    "date": "2026-09-17",
    "time": "07:02",
-   "views": 701088,
-   "likes": 17685,
+   "views": 701126,
+   "likes": 17682,
    "comments": 431,
-   "shares": 6088,
+   "shares": 6086,
    "er": 3.45,
    "url": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
    "topComments": [
@@ -687,7 +687,7 @@
    "content": "1 ayah bangga sebab dia tak pernah cium 10 anaknya. Dia cakap depan Nabi SAW. Baginda tak marah dia. Baginda buat 1 benda. 🧵",
    "date": "2026-09-27",
    "time": "18:02",
-   "views": 84392,
+   "views": 84393,
    "likes": 502,
    "comments": 21,
    "shares": 103,
@@ -847,7 +847,7 @@
    "content": "Nabi SAW kata setiap ayah akan ditanya pasal anaknya. Bukan pasal gaji. Bukan pasal kereta. 1,400 tahun lepas, dan soalan tu masih sama. 🧵",
    "date": "2026-09-15",
    "time": "07:02",
-   "views": 50255,
+   "views": 50257,
    "likes": 1642,
    "comments": 52,
    "shares": 475,
@@ -1107,8 +1107,8 @@
    "content": "Al-Quran sebut Allah ilhamkan kepada ibu Musa satu arahan: susukanlah dia. Ayat 28:7. Menyusu disebut sebagai arahan langit, bukan kerja kecil.",
    "date": "2026-11-16",
    "time": "07:01",
-   "views": 13751,
-   "likes": 421,
+   "views": 13755,
+   "likes": 422,
    "comments": 2,
    "shares": 91,
    "er": 3.74,
@@ -2307,9 +2307,9 @@
     "label": "07:01",
     "n": 46,
     "median": 10021,
-    "best": 701088,
+    "best": 701126,
     "worst": 2091,
-    "total": 3835288,
+    "total": 3835332,
     "er": 2.24,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 9386,
     "best": 237838,
     "worst": 1984,
-    "total": 1721120,
+    "total": 1721121,
     "er": 1.85,
     "below": 23
    },
@@ -2351,7 +2351,7 @@
     "median": 10073,
     "best": 407585,
     "worst": 2120,
-    "total": 2147174,
+    "total": 2147175,
     "er": 1.89,
     "below": 23
    },
@@ -2359,9 +2359,9 @@
     "label": "Post tunggal",
     "n": 52,
     "median": 8591,
-    "best": 701088,
+    "best": 701126,
     "worst": 1984,
-    "total": 3656566,
+    "total": 3656610,
     "er": 2.09,
     "below": 29
    }
@@ -2381,9 +2381,9 @@
     "label": "Dalil / Nabi",
     "n": 54,
     "median": 10626,
-    "best": 701088,
+    "best": 701126,
     "worst": 2492,
-    "total": 3103049,
+    "total": 3103094,
     "er": 2.18,
     "below": 26
    },
@@ -2433,9 +2433,9 @@
     "label": "Sunnah/Dalil",
     "n": 54,
     "median": 10021,
-    "best": 701088,
+    "best": 701126,
     "worst": 2492,
-    "total": 2911122,
+    "total": 2911167,
     "er": 2.24,
     "below": 27
    },
@@ -3254,7 +3254,7 @@
   },
   {
    "date": "2026-11-16",
-   "views": 27747,
+   "views": 27748,
    "likes": 504,
    "comments": 4,
    "shares": 91,
@@ -3262,8 +3262,8 @@
   },
   {
    "date": "2026-11-17",
-   "views": 2394,
-   "likes": 37,
+   "views": 2441,
+   "likes": 38,
    "comments": 2,
    "shares": 8,
    "posts": 1
@@ -3651,12 +3651,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-18 14:02 MYT",
+  "fetchedAt": "2026-11-18 14:32 MYT",
   "totals": {
-   "views": 5849106,
+   "views": 5849107,
    "likes": 103858,
-   "replies": 6787,
-   "reposts": 24020,
+   "replies": 6786,
+   "reposts": 24019,
    "quotes": 924,
    "posts": 129
   },
@@ -4018,7 +4018,7 @@
     "views": 237863,
     "likes": 3855,
     "replies": 185,
-    "reposts": 883,
+    "reposts": 882,
     "quotes": 42
    },
    {
@@ -4027,7 +4027,7 @@
     "timestamp": "2026-10-16",
     "views": 26809,
     "likes": 283,
-    "replies": 20,
+    "replies": 19,
     "reposts": 129,
     "quotes": 1
    },
@@ -4735,7 +4735,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 233766,
+    "views": 233767,
     "likes": 4094,
     "replies": 1105,
     "reposts": 1739,
