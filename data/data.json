@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-19 23:59 MYT",
+  "generatedAt": "2026-11-20 00:30 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,7 +71,7 @@
   }
  },
  "totals": {
-  "views": 5925689,
+  "views": 5925788,
   "likes": 104557,
   "comments": 7274,
   "shares": 25278,
@@ -507,7 +507,7 @@
    "content": "Saya urus uri 9 tahun, lebih 5,000 keluarga. Bila saya tanya ibu menyusu apa dia perlu, jawapannya sama. Tidur, bukan susu.",
    "date": "2026-11-04",
    "time": "18:03",
-   "views": 168113,
+   "views": 168137,
    "likes": 3725,
    "comments": 101,
    "shares": 634,
@@ -567,7 +567,7 @@
    "content": "Al-Quran sebut ibu mengandung dengan \"lemah bertambah lemah\". Bukan 1 kali lemah. Lemah yang berulang. Ayat 31:14. 🧵",
    "date": "2026-09-26",
    "time": "07:02",
-   "views": 113583,
+   "views": 113598,
    "likes": 4540,
    "comments": 56,
    "shares": 1079,
@@ -987,7 +987,7 @@
    "content": "Dalam khutbah terakhir di Arafah, Nabi SAW pesan satu benda pasal perempuan. Hadis Bukhari 5186. Kita ulang pesan itu di majlis kahwin, dan lupa di dapur.",
    "date": "2026-11-15",
    "time": "18:01",
-   "views": 25441,
+   "views": 25442,
    "likes": 198,
    "comments": 2,
    "shares": 25,
@@ -1107,7 +1107,7 @@
    "content": "Al-Quran sebut Allah ilhamkan kepada ibu Musa satu arahan: susukanlah dia. Ayat 28:7. Menyusu disebut sebagai arahan langit, bukan kerja kecil.",
    "date": "2026-11-16",
    "time": "07:01",
-   "views": 13804,
+   "views": 13805,
    "likes": 422,
    "comments": 2,
    "shares": 91,
@@ -2187,7 +2187,7 @@
    "content": "Al-Quran kata Allah tak bebankan seseorang melebihi kemampuannya. Ayat 2:286. Tetapi ramai ibu rasa dia sudah lepas had itu.",
    "date": "2026-11-18",
    "time": "18:02",
-   "views": 2261,
+   "views": 2262,
    "likes": 35,
    "comments": 2,
    "shares": 1,
@@ -2309,7 +2309,7 @@
     "median": 10022,
     "best": 701203,
     "worst": 2091,
-    "total": 3835897,
+    "total": 3835913,
     "er": 2.24,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 9389,
     "best": 237906,
     "worst": 2122,
-    "total": 1721658,
+    "total": 1721684,
     "er": 1.85,
     "below": 23
    },
@@ -2341,7 +2341,7 @@
     "median": 10022,
     "best": 701203,
     "worst": 2091,
-    "total": 3905605,
+    "total": 3905608,
     "er": 2.11,
     "below": 30
    },
@@ -2351,7 +2351,7 @@
     "median": 7826,
     "best": 407588,
     "worst": 2122,
-    "total": 1925427,
+    "total": 1925466,
     "er": 1.79,
     "below": 22
    }
@@ -2363,7 +2363,7 @@
     "median": 12749,
     "best": 597280,
     "worst": 2122,
-    "total": 1442092,
+    "total": 1442116,
     "er": 1.55,
     "below": 5
    },
@@ -2372,8 +2372,8 @@
     "n": 55,
     "median": 10492,
     "best": 701203,
-    "worst": 2261,
-    "total": 3105762,
+    "worst": 2262,
+    "total": 3105780,
     "er": 2.17,
     "below": 27
    },
@@ -2424,8 +2424,8 @@
     "n": 55,
     "median": 9552,
     "best": 701203,
-    "worst": 2261,
-    "total": 2913794,
+    "worst": 2262,
+    "total": 2913812,
     "er": 2.23,
     "below": 28
    },
@@ -2433,9 +2433,9 @@
     "label": "N-Tesis",
     "n": 15,
     "median": 6691,
-    "best": 168113,
+    "best": 168137,
     "worst": 2122,
-    "total": 559362,
+    "total": 559386,
     "er": 2.09,
     "below": 10
    },
@@ -2524,7 +2524,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -42%",
-    "body": "76.7K views vs 132.7K minggu sebelumnya."
+    "body": "76.8K views vs 132.7K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3260,7 +3260,7 @@
   },
   {
    "date": "2026-11-18",
-   "views": 6666,
+   "views": 6671,
    "likes": 119,
    "comments": 19,
    "shares": 19,
@@ -3268,7 +3268,7 @@
   },
   {
    "date": "2026-11-19",
-   "views": 836,
+   "views": 930,
    "likes": 16,
    "comments": 6,
    "shares": 2,
@@ -3640,7 +3640,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "76.7K",
+   "value": "76.8K",
    "sub": "-42% vs 7 hari sebelumnya"
   },
   {
@@ -3665,9 +3665,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-20 07:59 MYT",
+  "fetchedAt": "2026-11-20 08:30 MYT",
   "totals": {
-   "views": 5856885,
+   "views": 5856904,
    "likes": 104002,
    "replies": 6812,
    "reposts": 24029,
@@ -3679,7 +3679,7 @@
     "id": "17903448963387037",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Df60bN0DNZw",
     "timestamp": "2026-11-19",
-    "views": 456,
+    "views": 465,
     "likes": 10,
     "replies": 5,
     "reposts": 1,
@@ -3709,7 +3709,7 @@
     "id": "18018227732971827",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Df4PoP3E6zS",
     "timestamp": "2026-11-18",
-    "views": 2262,
+    "views": 2264,
     "likes": 35,
     "replies": 2,
     "reposts": 1,
@@ -3799,7 +3799,7 @@
     "id": "17913187071307014",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfsw0Adk4dH",
     "timestamp": "2026-11-13",
-    "views": 17842,
+    "views": 17843,
     "likes": 168,
     "replies": 4,
     "reposts": 20,
@@ -3969,7 +3969,7 @@
     "id": "18033520277875463",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DfUMrDBCKQx",
     "timestamp": "2026-11-04",
-    "views": 168137,
+    "views": 168138,
     "likes": 3725,
     "replies": 101,
     "reposts": 612,
@@ -4409,7 +4409,7 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 407593,
+    "views": 407594,
     "likes": 4468,
     "replies": 254,
     "reposts": 481,
@@ -4569,7 +4569,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 597294,
+    "views": 597297,
     "likes": 9745,
     "replies": 328,
     "reposts": 1740,
@@ -4799,7 +4799,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 233860,
+    "views": 233862,
     "likes": 4094,
     "replies": 1105,
     "reposts": 1739,
