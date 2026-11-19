@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-20 06:12 MYT",
+  "generatedAt": "2026-11-20 06:43 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,8 +71,8 @@
   }
  },
  "totals": {
-  "views": 5925895,
-  "likes": 104558,
+  "views": 5925970,
+  "likes": 104559,
   "comments": 7274,
   "shares": 25278,
   "posts": 185
@@ -447,7 +447,7 @@
    "content": "Al-Quran sebut: ibu menyusukan anak dua tahun penuh. 1400 tahun, tak pernah outdated.\n\nWHO baru sahaja tulis garis panduan yang sama. Sains lambat? Tak. Sains rajin. Yang penting: jumpa jugak. 😄\n\nTapi soalan sebenar: dua tahun tu, siapa sanggup?",
    "date": "2026-09-03",
    "time": "18:15",
-   "views": 233809,
+   "views": 233870,
    "likes": 4094,
    "comments": 1105,
    "shares": 1913,
@@ -728,10 +728,10 @@
    "date": "2026-09-18",
    "time": "07:02",
    "views": 60791,
-   "likes": 1721,
+   "likes": 1720,
    "comments": 31,
    "shares": 391,
-   "er": 3.53,
+   "er": 3.52,
    "url": "https://www.threads.com/@ustaz.basri/post/DdZ_otPAn2k",
    "topComments": [],
    "items": 1,
@@ -927,7 +927,7 @@
    "content": "Mak saya 40 tahun jadi bidan. \"Jangan selalu dukung. Nanti dia clingy, nanti dia manja.\" Ayat ni 1 ibu ikut selama 8 tahun.",
    "date": "2026-10-16",
    "time": "07:03",
-   "views": 46594,
+   "views": 46598,
    "likes": 259,
    "comments": 36,
    "shares": 45,
@@ -967,7 +967,7 @@
    "content": "Saya dah urus uri 5,000 keluarga. Kerja saya habis dalam 24 jam. \"Saya sanggup kerat perut 10 kali. Tapi jangan sesekali biar saya seorang diri dalam pantang.\"",
    "date": "2026-10-17",
    "time": "07:04",
-   "views": 26811,
+   "views": 26812,
    "likes": 283,
    "comments": 19,
    "shares": 129,
@@ -2067,7 +2067,7 @@
    "content": "\"Biarkan dia nangis, nanti dia kuat.\" 1 ayat ni salah, dan ia buat ramai ibu ayah bertahan dengar anak menangis dengan hati yang pecah. 🧵",
    "date": "2026-09-26",
    "time": "18:02",
-   "views": 2684,
+   "views": 2685,
    "likes": 21,
    "comments": 7,
    "shares": 4,
@@ -2187,7 +2187,7 @@
    "content": "Al-Quran kata Allah tak bebankan seseorang melebihi kemampuannya. Ayat 2:286. Tetapi ramai ibu rasa dia sudah lepas had itu.",
    "date": "2026-11-18",
    "time": "18:02",
-   "views": 2264,
+   "views": 2267,
    "likes": 35,
    "comments": 2,
    "shares": 1,
@@ -2309,7 +2309,7 @@
     "median": 10022,
     "best": 701203,
     "worst": 2091,
-    "total": 3835933,
+    "total": 3835938,
     "er": 2.24,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 9389,
     "best": 237906,
     "worst": 2122,
-    "total": 1721728,
+    "total": 1721793,
     "er": 1.85,
     "below": 23
    },
@@ -2341,7 +2341,7 @@
     "median": 10022,
     "best": 701203,
     "worst": 2091,
-    "total": 3905624,
+    "total": 3905688,
     "er": 2.11,
     "below": 30
    },
@@ -2351,7 +2351,7 @@
     "median": 7827,
     "best": 407594,
     "worst": 2122,
-    "total": 1925514,
+    "total": 1925520,
     "er": 1.79,
     "below": 22
    }
@@ -2372,8 +2372,8 @@
     "n": 55,
     "median": 10492,
     "best": 701203,
-    "worst": 2264,
-    "total": 3105800,
+    "worst": 2267,
+    "total": 3105864,
     "er": 2.17,
     "below": 27
    },
@@ -2383,7 +2383,7 @@
     "median": 10251,
     "best": 391370,
     "worst": 2333,
-    "total": 964946,
+    "total": 964952,
     "er": 1.67,
     "below": 9
    },
@@ -2412,10 +2412,10 @@
    {
     "label": "Story",
     "n": 10,
-    "median": 40348,
+    "median": 40350,
     "best": 597280,
     "worst": 6714,
-    "total": 1630024,
+    "total": 1630028,
     "er": 1.57,
     "below": 1
    },
@@ -2424,8 +2424,8 @@
     "n": 55,
     "median": 9552,
     "best": 701203,
-    "worst": 2264,
-    "total": 2913833,
+    "worst": 2267,
+    "total": 2913836,
     "er": 2.23,
     "below": 28
    },
@@ -2444,8 +2444,8 @@
     "n": 7,
     "median": 5628,
     "best": 241828,
-    "worst": 2684,
-    "total": 383894,
+    "worst": 2685,
+    "total": 383895,
     "er": 1.44,
     "below": 4
    },
@@ -2453,9 +2453,9 @@
     "label": "Sunnah x Sains",
     "n": 3,
     "median": 4075,
-    "best": 233809,
+    "best": 233870,
     "worst": 3238,
-    "total": 241122,
+    "total": 241183,
     "er": 1.66,
     "below": 2
    },
@@ -2465,7 +2465,7 @@
     "median": 2924,
     "best": 46746,
     "worst": 2091,
-    "total": 100743,
+    "total": 100744,
     "er": 1.36,
     "below": 6
    },
@@ -2524,7 +2524,7 @@
    {
     "level": "bad",
     "title": "Nadi 7 hari turun -42%",
-    "body": "76.9K views vs 132.7K minggu sebelumnya."
+    "body": "77.0K views vs 132.7K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3268,8 +3268,8 @@
   },
   {
    "date": "2026-11-19",
-   "views": 1031,
-   "likes": 16,
+   "views": 1106,
+   "likes": 17,
    "comments": 6,
    "shares": 2,
    "posts": 1
@@ -3640,7 +3640,7 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▼)",
-   "value": "76.9K",
+   "value": "77.0K",
    "sub": "-42% vs 7 hari sebelumnya"
   },
   {
@@ -3665,9 +3665,9 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-20 14:13 MYT",
+  "fetchedAt": "2026-11-20 14:44 MYT",
   "totals": {
-   "views": 5856992,
+   "views": 5856997,
    "likes": 104003,
    "replies": 6812,
    "reposts": 24029,
@@ -3709,7 +3709,7 @@
     "id": "18018227732971827",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Df4PoP3E6zS",
     "timestamp": "2026-11-18",
-    "views": 2267,
+    "views": 2268,
     "likes": 35,
     "replies": 2,
     "reposts": 1,
@@ -4079,7 +4079,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 237932,
+    "views": 237934,
     "likes": 3855,
     "replies": 183,
     "reposts": 871,
@@ -4549,7 +4549,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 701250,
+    "views": 701252,
     "likes": 17681,
     "replies": 431,
     "reposts": 5920,
