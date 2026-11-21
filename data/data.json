@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-22 06:24 MYT",
+  "generatedAt": "2026-11-22 06:55 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,10 +71,10 @@
   }
  },
  "totals": {
-  "views": 5996215,
-  "likes": 104996,
-  "comments": 7325,
-  "shares": 25338,
+  "views": 5997806,
+  "likes": 105017,
+  "comments": 7329,
+  "shares": 25340,
   "posts": 193
  },
  "posts": [
@@ -787,7 +787,7 @@
    "content": "Ibn Qayyim tulis 700 tahun lalu: kebanyakan kerosakan anak datang dari ibu bapa. Bukan dari telefon. Bukan dari kawan dia. 🧵",
    "date": "2026-09-21",
    "time": "07:02",
-   "views": 54871,
+   "views": 54872,
    "likes": 2275,
    "comments": 90,
    "shares": 585,
@@ -947,7 +947,7 @@
    "content": "9 tahun urus uri, lebih 5,000 keluarga. Yang paling selalu saya dengar bukan pasal darah, tapi pasal mata yang tak mau tutup.",
    "date": "2026-11-20",
    "time": "18:01",
-   "views": 35282,
+   "views": 35291,
    "likes": 181,
    "comments": 7,
    "shares": 21,
@@ -1001,6 +1001,26 @@
    "pillar": "Human/Lain"
   },
   {
+   "id": "6b0180f4f6c9ec6620db8e1a",
+   "zid": "6afde5923d2152783cc511c1",
+   "platformPostId": "18390556276229072",
+   "content": "Mak saya 40 tahun jadi bidan. \"Jangan selalu dukung. Nanti dia clingy, nanti dia manja.\" Ayat ni 1 ibu ikut selama 8 tahun.",
+   "date": "2026-11-21",
+   "time": "18:02",
+   "views": 26704,
+   "likes": 148,
+   "comments": 16,
+   "shares": 21,
+   "er": 0.69,
+   "url": "https://www.threads.com/@ustaz.basri/post/Df_-AiVCBTq",
+   "topComments": [],
+   "items": 7,
+   "slot": "18:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Petikan rakyat",
+   "pillar": "Story"
+  },
+  {
    "id": "6af99048ae99a5bc1e62dc54",
    "zid": null,
    "platformPostId": "18168232933494191",
@@ -1019,26 +1039,6 @@
    "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6b0180f4f6c9ec6620db8e1a",
-   "zid": "6afde5923d2152783cc511c1",
-   "platformPostId": "18390556276229072",
-   "content": "Mak saya 40 tahun jadi bidan. \"Jangan selalu dukung. Nanti dia clingy, nanti dia manja.\" Ayat ni 1 ibu ikut selama 8 tahun.",
-   "date": "2026-11-21",
-   "time": "18:02",
-   "views": 25158,
-   "likes": 128,
-   "comments": 12,
-   "shares": 19,
-   "er": 0.63,
-   "url": "https://www.threads.com/@ustaz.basri/post/Df_-AiVCBTq",
-   "topComments": [],
-   "items": 7,
-   "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Petikan rakyat",
-   "pillar": "Story"
   },
   {
    "id": "6aba4b19354ec5db9dd5fc3a",
@@ -1227,7 +1227,7 @@
    "content": "Bagus trick ni, boleh praktis dengan anak-anak. \n\nBtw, saya pun sedang explore neuroparenting. \n\nDoakan saya kekal semangat. 😆",
    "date": "2026-08-29",
    "time": "22:28",
-   "views": 11868,
+   "views": 11869,
    "likes": 146,
    "comments": 2,
    "shares": 25,
@@ -2081,6 +2081,26 @@
    "pillar": "Sunnah/Dalil"
   },
   {
+   "id": "6b0180f4f6c9ec6620db8e19",
+   "zid": "6afdf5ef4ec216c333abf280",
+   "platformPostId": "18085050362738001",
+   "content": "Nabi SAW kata, sesiapa yang tak sayang, dia tak akan disayangi. Hadis Bukhari 5997. Ayat ini pendek je. Tapi ramai bapa kita tak pernah dengar.",
+   "date": "2026-11-21",
+   "time": "18:02",
+   "views": 2809,
+   "likes": 43,
+   "comments": 6,
+   "shares": 8,
+   "er": 2.03,
+   "url": "https://www.threads.com/@ustaz.basri/post/Df_-ApiiCcD",
+   "topComments": [],
+   "items": 7,
+   "slot": "18:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6ae534780350e13e22e2cc64",
    "zid": "6ae31d867849009b539e01e6",
    "platformPostId": "18116736965469864",
@@ -2099,26 +2119,6 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Lain-lain",
    "pillar": "N-Tesis"
-  },
-  {
-   "id": "6b0180f4f6c9ec6620db8e19",
-   "zid": "6afdf5ef4ec216c333abf280",
-   "platformPostId": "18085050362738001",
-   "content": "Nabi SAW kata, sesiapa yang tak sayang, dia tak akan disayangi. Hadis Bukhari 5997. Ayat ini pendek je. Tapi ramai bapa kita tak pernah dengar.",
-   "date": "2026-11-21",
-   "time": "18:02",
-   "views": 2778,
-   "likes": 42,
-   "comments": 6,
-   "shares": 8,
-   "er": 2.02,
-   "url": "https://www.threads.com/@ustaz.basri/post/Df_-ApiiCcD",
-   "topComments": [],
-   "items": 7,
-   "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
   },
   {
    "id": "6ab7a590c0a7219590ce06d3",
@@ -2309,7 +2309,7 @@
     "median": 10760,
     "best": 237978,
     "worst": 2285,
-    "total": 1783248,
+    "total": 1784835,
     "er": 1.83,
     "below": 23
    },
@@ -2319,7 +2319,7 @@
     "median": 10492,
     "best": 701311,
     "worst": 2192,
-    "total": 3834323,
+    "total": 3834324,
     "er": 2.23,
     "below": 22
    },
@@ -2341,7 +2341,7 @@
     "median": 10626,
     "best": 701311,
     "worst": 2192,
-    "total": 3902003,
+    "total": 3902005,
     "er": 2.12,
     "below": 28
    },
@@ -2351,7 +2351,7 @@
     "median": 9253,
     "best": 407611,
     "worst": 2221,
-    "total": 1986999,
+    "total": 1988585,
     "er": 1.76,
     "below": 22
    }
@@ -2363,7 +2363,7 @@
     "median": 34102,
     "best": 597368,
     "worst": 2192,
-    "total": 1475506,
+    "total": 1475516,
     "er": 1.54,
     "below": 4
    },
@@ -2373,8 +2373,8 @@
     "median": 11113,
     "best": 391382,
     "worst": 2333,
-    "total": 990148,
-    "er": 1.61,
+    "total": 991694,
+    "er": 1.62,
     "below": 9
    },
    {
@@ -2383,7 +2383,7 @@
     "median": 10022,
     "best": 701311,
     "worst": 2285,
-    "total": 3109081,
+    "total": 3109113,
     "er": 2.16,
     "below": 28
    },
@@ -2415,7 +2415,7 @@
     "median": 34102,
     "best": 597368,
     "worst": 6714,
-    "total": 1655307,
+    "total": 1656853,
     "er": 1.49,
     "below": 1
    },
@@ -2425,7 +2425,7 @@
     "median": 9470,
     "best": 701311,
     "worst": 2285,
-    "total": 2917012,
+    "total": 2917044,
     "er": 2.22,
     "below": 29
    },
@@ -2435,7 +2435,7 @@
     "median": 7600,
     "best": 168179,
     "worst": 2221,
-    "total": 592885,
+    "total": 592894,
     "er": 2.07,
     "below": 9
    },
@@ -2465,7 +2465,7 @@
     "median": 3157,
     "best": 46746,
     "worst": 2192,
-    "total": 98654,
+    "total": 98655,
     "er": 1.24,
     "below": 5
    }
@@ -2513,8 +2513,8 @@
    },
    {
     "level": "good",
-    "title": "Nadi 7 hari naik +4%",
-    "body": "124.1K views vs 119.1K minggu sebelumnya."
+    "title": "Nadi 7 hari naik +6%",
+    "body": "125.7K views vs 119.1K minggu sebelumnya."
    }
   ],
   "activeTimes": [
@@ -3274,10 +3274,10 @@
   },
   {
    "date": "2026-11-21",
-   "views": 48736,
-   "likes": 287,
-   "comments": 18,
-   "shares": 40,
+   "views": 50327,
+   "likes": 308,
+   "comments": 22,
+   "shares": 42,
    "posts": 2
   }
  ],
@@ -3654,8 +3654,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "124.1K",
-   "sub": "+4% vs 7 hari sebelumnya"
+   "value": "125.7K",
+   "sub": "+6% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3679,12 +3679,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-22 14:24 MYT",
+  "fetchedAt": "2026-11-22 14:55 MYT",
   "totals": {
-   "views": 5929096,
-   "likes": 104453,
-   "replies": 6863,
-   "reposts": 24084,
+   "views": 5930272,
+   "likes": 104460,
+   "replies": 6864,
+   "reposts": 24087,
    "quotes": 923,
    "posts": 142
   },
@@ -3693,7 +3693,7 @@
     "id": "18085050362738001",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Df_-ApiiCcD",
     "timestamp": "2026-11-21",
-    "views": 2816,
+    "views": 2822,
     "likes": 43,
     "replies": 6,
     "reposts": 8,
@@ -3703,10 +3703,10 @@
     "id": "18390556276229072",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Df_-AiVCBTq",
     "timestamp": "2026-11-21",
-    "views": 26704,
-    "likes": 148,
-    "replies": 16,
-    "reposts": 20,
+    "views": 27864,
+    "likes": 155,
+    "replies": 17,
+    "reposts": 23,
     "quotes": 1
    },
    {
@@ -3723,7 +3723,7 @@
     "id": "18123266675097770",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Df9ZNj1Dh0d",
     "timestamp": "2026-11-20",
-    "views": 35291,
+    "views": 35293,
     "likes": 181,
     "replies": 7,
     "reposts": 21,
@@ -4503,7 +4503,7 @@
     "id": "18098372345635109",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdpcbZsCAER",
     "timestamp": "2026-09-23",
-    "views": 407612,
+    "views": 407613,
     "likes": 4468,
     "replies": 254,
     "reposts": 481,
@@ -4643,7 +4643,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 701360,
+    "views": 701361,
     "likes": 17679,
     "replies": 430,
     "reposts": 5917,
@@ -4663,7 +4663,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 597586,
+    "views": 597588,
     "likes": 9745,
     "replies": 328,
     "reposts": 1741,
@@ -4883,7 +4883,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 173870,
+    "views": 173872,
     "likes": 1492,
     "replies": 443,
     "reposts": 123,
@@ -4893,7 +4893,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 233961,
+    "views": 233962,
     "likes": 4094,
     "replies": 1103,
     "reposts": 1738,
@@ -5053,7 +5053,7 @@
     "id": "18623495074011911",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DcdZ5FPESzR",
     "timestamp": "2026-08-25",
-    "views": 178612,
+    "views": 178613,
     "likes": 3764,
     "replies": 337,
     "reposts": 1198,
