@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-23 07:16 MYT",
+  "generatedAt": "2026-11-23 07:47 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,11 +71,11 @@
   }
  },
  "totals": {
-  "views": 6048607,
-  "likes": 105349,
-  "comments": 7362,
-  "shares": 25394,
-  "posts": 196
+  "views": 6048803,
+  "likes": 105364,
+  "comments": 7377,
+  "shares": 25398,
+  "posts": 198
  },
  "posts": [
   {
@@ -707,7 +707,7 @@
    "content": "Mak saya 40 tahun jadi bidan. \"Jangan selalu dukung. Nanti dia clingy, nanti dia manja.\" Ayat ni 1 ibu ikut selama 8 tahun.",
    "date": "2026-11-21",
    "time": "18:02",
-   "views": 70872,
+   "views": 71036,
    "likes": 449,
    "comments": 30,
    "shares": 72,
@@ -807,7 +807,7 @@
    "content": "Ibn Qayyim tulis 700 tahun lalu: kebanyakan kerosakan anak datang dari ibu bapa. Bukan dari telefon. Bukan dari kawan dia. 🧵",
    "date": "2026-09-21",
    "time": "07:02",
-   "views": 54872,
+   "views": 54873,
    "likes": 2275,
    "comments": 90,
    "shares": 585,
@@ -1368,10 +1368,10 @@
    "date": "2026-09-29",
    "time": "18:01",
    "views": 9117,
-   "likes": 237,
+   "likes": 236,
    "comments": 18,
    "shares": 27,
-   "er": 3.09,
+   "er": 3.08,
    "url": "https://www.threads.com/@ustaz.basri/post/Dd3f4EFjcCn",
    "topComments": [],
    "items": 6,
@@ -2261,6 +2261,26 @@
    "pillar": "N-Tesis"
   },
   {
+   "id": "6b02c900a2b431b7131625ae",
+   "zid": "6afdf5f1dd65619930b37c45",
+   "platformPostId": "18143106937535135",
+   "content": "Aisyah RA sebut Nabi SAW bagi talbinah kepada orang sakit. Hadis Bukhari 5417. Bubur barli. Yang baginda tak sebut pun khasiatnya.",
+   "date": "2026-11-22",
+   "time": "18:01",
+   "views": 2195,
+   "likes": 14,
+   "comments": 8,
+   "shares": 1,
+   "er": 1.05,
+   "url": "https://www.threads.com/@ustaz.basri/post/DgCixjLjDIj",
+   "topComments": [],
+   "items": 9,
+   "slot": "18:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
    "id": "6aa49be42e4907e81599af3c",
    "zid": "6aa2ca7622368bf78269b29f",
    "platformPostId": "18110320985278444",
@@ -2279,26 +2299,6 @@
    "format": "Post tunggal",
    "hookClass": "Kisah diri",
    "pillar": "Human/Lain"
-  },
-  {
-   "id": "6b02c900a2b431b7131625ae",
-   "zid": "6afdf5f1dd65619930b37c45",
-   "platformPostId": "18143106937535135",
-   "content": "Aisyah RA sebut Nabi SAW bagi talbinah kepada orang sakit. Hadis Bukhari 5417. Bubur barli. Yang baginda tak sebut pun khasiatnya.",
-   "date": "2026-11-22",
-   "time": "18:01",
-   "views": 2177,
-   "likes": 12,
-   "comments": 8,
-   "shares": 1,
-   "er": 0.96,
-   "url": "https://www.threads.com/@ustaz.basri/post/DgCixjLjDIj",
-   "topComments": [],
-   "items": 9,
-   "slot": "18:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
   }
  ],
  "analysis": {
@@ -2309,7 +2309,7 @@
     "median": 12156,
     "best": 701362,
     "worst": 2192,
-    "total": 3826442,
+    "total": 3826443,
     "er": 2.21,
     "below": 21
    },
@@ -2318,9 +2318,9 @@
     "n": 48,
     "median": 10074,
     "best": 237998,
-    "worst": 2177,
-    "total": 1831635,
-    "er": 1.81,
+    "worst": 2195,
+    "total": 1831817,
+    "er": 1.82,
     "below": 24
    },
    {
@@ -2341,7 +2341,7 @@
     "median": 10760,
     "best": 701362,
     "worst": 2192,
-    "total": 3894195,
+    "total": 3894196,
     "er": 2.1,
     "below": 27
    },
@@ -2350,8 +2350,8 @@
     "n": 43,
     "median": 9117,
     "best": 407628,
-    "worst": 2177,
-    "total": 2035390,
+    "worst": 2195,
+    "total": 2035572,
     "er": 1.75,
     "below": 23
    }
@@ -2373,7 +2373,7 @@
     "median": 11113,
     "best": 391392,
     "worst": 2333,
-    "total": 1035901,
+    "total": 1036065,
     "er": 1.62,
     "below": 9
    },
@@ -2382,9 +2382,9 @@
     "n": 56,
     "median": 10022,
     "best": 701362,
-    "worst": 2177,
-    "total": 3103398,
-    "er": 2.12,
+    "worst": 2195,
+    "total": 3103417,
+    "er": 2.13,
     "below": 28
    },
    {
@@ -2415,7 +2415,7 @@
     "median": 46598,
     "best": 597595,
     "worst": 6714,
-    "total": 1701279,
+    "total": 1701443,
     "er": 1.5,
     "below": 1
    },
@@ -2424,8 +2424,8 @@
     "n": 56,
     "median": 9470,
     "best": 701362,
-    "worst": 2177,
-    "total": 2911281,
+    "worst": 2195,
+    "total": 2911300,
     "er": 2.18,
     "below": 29
    },
@@ -2513,8 +2513,8 @@
    },
    {
     "level": "good",
-    "title": "Nadi 7 hari naik +56%",
-    "body": "160.7K views vs 102.8K minggu sebelumnya."
+    "title": "Nadi 7 hari naik +57%",
+    "body": "160.9K views vs 102.8K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3287,11 +3287,11 @@
   },
   {
    "date": "2026-11-22",
-   "views": 45451,
-   "likes": 300,
-   "comments": 23,
-   "shares": 42,
-   "posts": 2
+   "views": 45647,
+   "likes": 315,
+   "comments": 38,
+   "shares": 46,
+   "posts": 4
   }
  ],
  "followers": [
@@ -3671,8 +3671,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "160.7K",
-   "sub": "+56% vs 7 hari sebelumnya"
+   "value": "160.9K",
+   "sub": "+57% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3696,12 +3696,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-23 15:16 MYT",
+  "fetchedAt": "2026-11-23 15:47 MYT",
   "totals": {
-   "views": 5980040,
-   "likes": 104795,
+   "views": 5982944,
+   "likes": 104810,
    "replies": 6911,
-   "reposts": 24131,
+   "reposts": 24135,
    "quotes": 933,
    "posts": 147
   },
@@ -3710,27 +3710,27 @@
     "id": "18400971964166041",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgD8HO3iIHs",
     "timestamp": "2026-11-22",
-    "views": 0,
-    "likes": 2,
+    "views": 933,
+    "likes": 8,
     "replies": 7,
-    "reposts": 2,
+    "reposts": 3,
     "quotes": 0
    },
    {
     "id": "17918120739545397",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgD8HMxiuIV",
     "timestamp": "2026-11-22",
-    "views": 0,
-    "likes": 11,
+    "views": 1928,
+    "likes": 19,
     "replies": 8,
-    "reposts": 1,
+    "reposts": 4,
     "quotes": 1
    },
    {
     "id": "18142958401623184",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgCixoKDQhQ",
     "timestamp": "2026-11-22",
-    "views": 1937,
+    "views": 1940,
     "likes": 4,
     "replies": 5,
     "reposts": 0,
@@ -3740,8 +3740,8 @@
     "id": "18143106937535135",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgCixjLjDIj",
     "timestamp": "2026-11-22",
-    "views": 2195,
-    "likes": 14,
+    "views": 2196,
+    "likes": 15,
     "replies": 8,
     "reposts": 1,
     "quotes": 0
@@ -3760,7 +3760,7 @@
     "id": "18085050362738001",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Df_-ApiiCcD",
     "timestamp": "2026-11-21",
-    "views": 2990,
+    "views": 2991,
     "likes": 50,
     "replies": 6,
     "reposts": 9,
@@ -3770,7 +3770,7 @@
     "id": "18390556276229072",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Df_-AiVCBTq",
     "timestamp": "2026-11-21",
-    "views": 71036,
+    "views": 71070,
     "likes": 449,
     "replies": 30,
     "reposts": 63,
@@ -4730,7 +4730,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 597755,
+    "views": 597757,
     "likes": 9745,
     "replies": 328,
     "reposts": 1741,
@@ -4960,7 +4960,7 @@
     "id": "18034055957834793",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc0ky7yAhcQ",
     "timestamp": "2026-09-03",
-    "views": 234025,
+    "views": 234027,
     "likes": 4094,
     "replies": 1103,
     "reposts": 1738,
