@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-26 07:50 MYT",
+  "generatedAt": "2026-11-26 08:21 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -1321,26 +1321,6 @@
    "pillar": "Sunnah/Dalil"
   },
   {
-   "id": "6a901b2277555aae01f62f73",
-   "zid": "6a8b3e0df9637e7277841fe0",
-   "platformPostId": "18093135551561290",
-   "content": "Kajian UniSZA 2017: sebahagian adat sambut kelahiran boleh bawa ke syirik.\n\nKita sambut anak ikut \"biasa orang buat\" — bukan dalil.",
-   "date": "2026-08-27",
-   "time": "18:16",
-   "views": 9161,
-   "likes": 63,
-   "comments": 6,
-   "shares": 12,
-   "er": 0.88,
-   "url": "https://www.threads.com/@ustaz.basri/post/DcijWpPgruo",
-   "topComments": [],
-   "items": 1,
-   "slot": "18:01",
-   "format": "Post tunggal",
-   "hookClass": "Petikan rakyat",
-   "pillar": "N-Tesis"
-  },
-  {
    "id": "6abb92ee94a3c0591415947b",
    "zid": "6ab249b7e4493f5f8843b067",
    "platformPostId": "18409834540087061",
@@ -1357,26 +1337,6 @@
    "items": 6,
    "slot": "18:01",
    "format": "Bebenang 5-8 mesej",
-   "hookClass": "Dalil / Nabi",
-   "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6a8fc43277555aae01e5ecc1",
-   "zid": "6a8b3e0df9637e7277841fb5",
-   "platformPostId": "17986542360025184",
-   "content": "Nabi SAW tahnik bayi dengan kurma — 1400 tahun sebelum 'nutrisi pertama' dijual mahal-mahal.",
-   "date": "2026-08-27",
-   "time": "12:16",
-   "views": 8840,
-   "likes": 271,
-   "comments": 5,
-   "shares": 15,
-   "er": 3.29,
-   "url": "https://www.threads.com/@ustaz.basri/post/Dch6IVUAFKO",
-   "topComments": [],
-   "items": 1,
-   "slot": "12:01",
-   "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
   },
@@ -1399,26 +1359,6 @@
    "format": "Post tunggal",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6a90cd5077555aae0131482f",
-   "zid": "6a90594485c8e2a6f937d798",
-   "platformPostId": "18091620653129431",
-   "content": "Semalam thread azan saya, ramai yang turun tegur. Teguran tu memang betul: perumpamaan yang saya bagi jauh sangat, azan dibandingkan dengan pilih hospital dan baju. Padahal dua-dua masa berbeza. Saya minta maaf. Hari ni saya betulkan.",
-   "date": "2026-08-28",
-   "time": "07:31",
-   "views": 7601,
-   "likes": 39,
-   "comments": 37,
-   "shares": 0,
-   "er": 1,
-   "url": "https://www.threads.com/@ustaz.basri/post/Dcj-U3gDIT7",
-   "topComments": [],
-   "items": 1,
-   "slot": "07:01",
-   "format": "Post tunggal",
-   "hookClass": "Kisah diri",
-   "pillar": "N-Tesis"
   },
   {
    "id": "6b0562b55046a121489aff59",
@@ -2299,92 +2239,152 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Lain-lain",
    "pillar": "N-Tesis"
+  },
+  {
+   "id": "6aa49be42e4907e81599af3c",
+   "zid": "6aa2ca7622368bf78269b29f",
+   "platformPostId": "18110320985278444",
+   "content": "6 bulan pertama hidup anak sulung saya, rumah kami hospital. Jantungnya tak sempurna. Malam-malam awal tu, saya belajar erti sabar yang sebenar. 🧵",
+   "date": "2026-09-12",
+   "time": "07:02",
+   "views": 2192,
+   "likes": 8,
+   "comments": 5,
+   "shares": 2,
+   "er": 0.68,
+   "url": "https://www.threads.com/@ustaz.basri/post/DdKi3j7DuYj",
+   "topComments": [],
+   "items": 1,
+   "slot": "07:01",
+   "format": "Post tunggal",
+   "hookClass": "Kisah diri",
+   "pillar": "Human/Lain"
+  },
+  {
+   "id": "6aff8a2bbda9557bce7cae94",
+   "zid": null,
+   "platformPostId": "18090745160292877",
+   "content": "Al-Quran rekod satu ayat seorang bapa: aku hanya mengadu kesusahan dan dukacitaku kepada Allah. Ayat 12:86. Tetapi ramai ibu berpantang tiada siapa untuk dia adukan.",
+   "date": "2026-11-20",
+   "time": "07:01",
+   "views": 2131,
+   "likes": 42,
+   "comments": 3,
+   "shares": 6,
+   "er": 2.39,
+   "url": "https://www.threads.com/@ustaz.basri/post/Df8Npf1k36o",
+   "topComments": [],
+   "items": 1,
+   "slot": "07:01",
+   "format": "Post tunggal",
+   "hookClass": "Dalil / Nabi",
+   "pillar": "Sunnah/Dalil"
+  },
+  {
+   "id": "6ae8615673c39aadd150ec89",
+   "zid": "6ae31d8e327a8272363fb488",
+   "platformPostId": "17867868843678339",
+   "content": "Saya urus uri 9 tahun, lebih 5,000 keluarga. Satu benda berulang pada bulan ke-8, dan ia bukan pasal bayi.",
+   "date": "2026-11-02",
+   "time": "18:01",
+   "views": 2122,
+   "likes": 10,
+   "comments": 6,
+   "shares": 1,
+   "er": 0.8,
+   "url": "https://www.threads.com/@ustaz.basri/post/DfPC41AEbSy",
+   "topComments": [],
+   "items": 7,
+   "slot": "18:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Kisah diri",
+   "pillar": "N-Tesis"
   }
  ],
  "analysis": {
   "slots": [
    {
     "label": "07:01",
-    "n": 44,
-    "median": 12161,
+    "n": 45,
+    "median": 10492,
     "best": 701565,
-    "worst": 2224,
-    "total": 3410316,
+    "worst": 2131,
+    "total": 3407038,
     "er": 2.11,
-    "below": 21
+    "below": 22
+   },
+   {
+    "label": "12:01",
+    "n": 6,
+    "median": 9561,
+    "best": 174262,
+    "worst": 2467,
+    "total": 259767,
+    "er": 1.05,
+    "below": 3
    },
    {
     "label": "18:01",
     "n": 49,
     "median": 9389,
     "best": 238085,
-    "worst": 2292,
-    "total": 1800089,
+    "worst": 2122,
+    "total": 1793050,
     "er": 1.8,
     "below": 25
-   },
-   {
-    "label": "12:01",
-    "n": 7,
-    "median": 8840,
-    "best": 174262,
-    "worst": 2467,
-    "total": 268607,
-    "er": 1.37,
-    "below": 4
    }
   ],
   "formats": [
    {
     "label": "Post tunggal",
-    "n": 49,
-    "median": 11869,
+    "n": 48,
+    "median": 12466,
     "best": 701565,
-    "worst": 2292,
-    "total": 3246153,
+    "worst": 2131,
+    "total": 3224874,
     "er": 2.08,
-    "below": 22
+    "below": 21
    },
    {
     "label": "Bebenang 5-8 mesej",
-    "n": 51,
-    "median": 6929,
+    "n": 52,
+    "median": 6733,
     "best": 407693,
-    "worst": 2224,
-    "total": 2232859,
-    "er": 1.74,
-    "below": 28
+    "worst": 2122,
+    "total": 2234981,
+    "er": 1.72,
+    "below": 29
    }
   ],
   "hooks": [
    {
     "label": "Kisah diri",
-    "n": 13,
-    "median": 34102,
+    "n": 14,
+    "median": 23582,
     "best": 598229,
-    "worst": 4339,
-    "total": 1481691,
-    "er": 1.53,
-    "below": 4
+    "worst": 2122,
+    "total": 1478404,
+    "er": 1.46,
+    "below": 5
    },
    {
     "label": "Petikan rakyat",
-    "n": 20,
-    "median": 12260,
+    "n": 19,
+    "median": 13404,
     "best": 391408,
     "worst": 2333,
-    "total": 1058434,
-    "er": 1.62,
-    "below": 9
+    "total": 1049273,
+    "er": 1.66,
+    "below": 8
    },
    {
     "label": "Dalil / Nabi",
     "n": 55,
     "median": 9117,
     "best": 701565,
-    "worst": 2292,
-    "total": 2622460,
-    "er": 2.05,
+    "worst": 2131,
+    "total": 2615751,
+    "er": 2.04,
     "below": 28
    },
    {
@@ -2434,20 +2434,20 @@
     "n": 55,
     "median": 9117,
     "best": 701565,
-    "worst": 2292,
-    "total": 2430146,
-    "er": 2.11,
+    "worst": 2131,
+    "total": 2423437,
+    "er": 2.1,
     "below": 29
    },
    {
     "label": "N-Tesis",
-    "n": 15,
-    "median": 7601,
+    "n": 14,
+    "median": 6162,
     "best": 168257,
-    "worst": 2224,
-    "total": 593918,
-    "er": 2.07,
-    "below": 9
+    "worst": 2122,
+    "total": 579278,
+    "er": 2.14,
+    "below": 8
    },
    {
     "label": "Myth-busting",
@@ -2461,13 +2461,13 @@
    },
    {
     "label": "Human/Lain",
-    "n": 9,
-    "median": 4853,
+    "n": 10,
+    "median": 4122,
     "best": 46750,
-    "worst": 2333,
-    "total": 121620,
-    "er": 1.33,
-    "below": 5
+    "worst": 2192,
+    "total": 123812,
+    "er": 1.26,
+    "below": 6
    }
   ],
   "actions": [
@@ -2504,7 +2504,7 @@
    {
     "level": "good",
     "title": "Slot terbaik: 07:01",
-    "body": "Median 12.2K · terbaik 701.6K · 44 post. Letak kandungan paling kuat di sini."
+    "body": "Median 10.5K · terbaik 701.6K · 45 post. Letak kandungan paling kuat di sini."
    },
    {
     "level": "good",
@@ -2513,7 +2513,7 @@
    },
    {
     "level": "bad",
-    "title": "7/12 post baharu bawah 10K",
+    "title": "8/13 post baharu bawah 10K",
     "body": "Tanda hook/topik perlu ditukar, bukan angka besar di atas."
    }
   ],
@@ -3727,12 +3727,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-26 15:51 MYT",
+  "fetchedAt": "2026-11-26 16:22 MYT",
   "totals": {
-   "views": 6185275,
-   "likes": 107621,
+   "views": 6187157,
+   "likes": 107676,
    "replies": 7085,
-   "reposts": 24809,
+   "reposts": 24819,
    "quotes": 968,
    "posts": 155
   },
@@ -3742,19 +3742,19 @@
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgLqdloDHwP",
     "timestamp": "2026-11-25",
     "views": 1053,
-    "likes": 18,
+    "likes": 24,
     "replies": 6,
-    "reposts": 1,
+    "reposts": 4,
     "quotes": 0
    },
    {
     "id": "18654262837039939",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgKRNRwiIFS",
     "timestamp": "2026-11-25",
-    "views": 134276,
-    "likes": 2073,
+    "views": 136155,
+    "likes": 2120,
     "replies": 112,
-    "reposts": 501,
+    "reposts": 507,
     "quotes": 26
    },
    {
@@ -3762,9 +3762,9 @@
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgKRNRFisg-",
     "timestamp": "2026-11-25",
     "views": 3806,
-    "likes": 42,
+    "likes": 44,
     "replies": 7,
-    "reposts": 14,
+    "reposts": 15,
     "quotes": 0
    },
    {
@@ -4771,7 +4771,7 @@
     "id": "18622105213054414",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdbY4hbDJCB",
     "timestamp": "2026-09-18",
-    "views": 13078,
+    "views": 13079,
     "likes": 138,
     "replies": 11,
     "reposts": 10,
@@ -4821,7 +4821,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 701614,
+    "views": 701616,
     "likes": 17676,
     "replies": 430,
     "reposts": 5914,
