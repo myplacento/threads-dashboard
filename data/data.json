@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-27 18:02 MYT",
+  "generatedAt": "2026-11-27 18:33 MYT",
   "account": {
    "username": "ustaz.basri",
    "displayName": "ustaz.basri",
@@ -71,11 +71,11 @@
   }
  },
  "totals": {
-  "views": 6308708,
-  "likes": 108881,
-  "comments": 7597,
-  "shares": 26281,
-  "posts": 208
+  "views": 6309589,
+  "likes": 108887,
+  "comments": 7604,
+  "shares": 26282,
+  "posts": 209
  },
  "posts": [
   {
@@ -447,7 +447,7 @@
    "content": "Al-Quran bagi ibu 2 tahun penuh untuk menyusu. Tapi yang buat 1 ibu bertahan 2 tahun bukan susu. Kaki suaminya.",
    "date": "2026-11-25",
    "time": "18:02",
-   "views": 174654,
+   "views": 174779,
    "likes": 2681,
    "comments": 143,
    "shares": 664,
@@ -587,7 +587,7 @@
    "content": "Saya urus uri lebih 5,000 keluarga sejak 2017. Benda paling saya takut bukan uri yang tak selamat. Ibu yang bersalin, balik rumah, dan tiada siapa lagi tanya dia ok tak.",
    "date": "2026-10-12",
    "time": "07:02",
-   "views": 96605,
+   "views": 96616,
    "likes": 1257,
    "comments": 41,
    "shares": 459,
@@ -1047,7 +1047,7 @@
    "content": "Saya dah urus uri 5,000 keluarga. Kerja saya habis dalam 24 jam. \"Saya sanggup kerat perut 10 kali. Tapi jangan sesekali biar saya seorang diri dalam pantang.\"",
    "date": "2026-11-23",
    "time": "07:02",
-   "views": 20296,
+   "views": 20297,
    "likes": 219,
    "comments": 10,
    "shares": 79,
@@ -1067,7 +1067,7 @@
    "content": "\"Setiap kali gaduh dengan suami, saya terus doa. Ya Allah, aku ada Kau je.\" Ayat 1 ibu ni bukan pasrah. Dan Al-Quran dah jawab benda ni 1,400 tahun lepas. 🧵",
    "date": "2026-10-11",
    "time": "07:02",
-   "views": 19221,
+   "views": 19223,
    "likes": 360,
    "comments": 5,
    "shares": 78,
@@ -1301,6 +1301,26 @@
    "pillar": "Sunnah/Dalil"
   },
   {
+   "id": "6b08bce049e73f093d53848b",
+   "zid": "6afde0f9740ebbe7f88a66f8",
+   "platformPostId": "18206718556328921",
+   "content": "Mak saya bidan 40 tahun. Dalam 40 tahun itu dia jaga beribu ibu. Tetapi ada 1 jenis pesakit yang dia tak pernah jaga. 🧵",
+   "date": "2026-11-27",
+   "time": "07:02",
+   "views": 9507,
+   "likes": 23,
+   "comments": 8,
+   "shares": 3,
+   "er": 0.36,
+   "url": "https://www.threads.com/@ustaz.basri/post/DgOPQr1CK7D",
+   "topComments": [],
+   "items": 7,
+   "slot": "07:01",
+   "format": "Bebenang 5-8 mesej",
+   "hookClass": "Kisah diri",
+   "pillar": "Story"
+  },
+  {
    "id": "6ace04da5ece3c4471e8a242",
    "zid": "6ac9f2d9fcdba5dc4f4f4241",
    "platformPostId": "17872538982649551",
@@ -1339,26 +1359,6 @@
    "format": "Bebenang 5-8 mesej",
    "hookClass": "Dalil / Nabi",
    "pillar": "Sunnah/Dalil"
-  },
-  {
-   "id": "6b08bce049e73f093d53848b",
-   "zid": "6afde0f9740ebbe7f88a66f8",
-   "platformPostId": "18206718556328921",
-   "content": "Mak saya bidan 40 tahun. Dalam 40 tahun itu dia jaga beribu ibu. Tetapi ada 1 jenis pesakit yang dia tak pernah jaga. 🧵",
-   "date": "2026-11-27",
-   "time": "07:02",
-   "views": 8775,
-   "likes": 22,
-   "comments": 8,
-   "shares": 3,
-   "er": 0.38,
-   "url": "https://www.threads.com/@ustaz.basri/post/DgOPQr1CK7D",
-   "topComments": [],
-   "items": 7,
-   "slot": "07:01",
-   "format": "Bebenang 5-8 mesej",
-   "hookClass": "Kisah diri",
-   "pillar": "Story"
   },
   {
    "id": "6a96b08177555aae018ddb37",
@@ -1507,7 +1507,7 @@
    "content": "Imam al-Ghazali sebut satu benda pasal anak yang saya tak lupa sampai hari ini. Bukan pasal duit, bukan pasal sekolah.",
    "date": "2026-11-25",
    "time": "18:02",
-   "views": 5933,
+   "views": 5935,
    "likes": 67,
    "comments": 7,
    "shares": 30,
@@ -2087,7 +2087,7 @@
    "content": "Al-Quran, surah al-Isra' ayat 23, sebut ibu tanggung susah 2 kali dalam satu ayat. Kalau nak tahu, angka 40 tahun pun ada dalam ayat itu juga.",
    "date": "2026-11-26",
    "time": "07:02",
-   "views": 2634,
+   "views": 2635,
    "likes": 44,
    "comments": 6,
    "shares": 6,
@@ -2107,7 +2107,7 @@
    "content": "Nabi SAW kata, bukan daripada golongan kita orang yang tidak sayang yang kecil dan tidak kenal hak yang besar. Hadis Tirmidzi 1919. Kita selalu pakai hadis ini pada anak.",
    "date": "2026-11-07",
    "time": "07:01",
-   "views": 2499,
+   "views": 2500,
    "likes": 4,
    "comments": 2,
    "shares": 0,
@@ -2167,7 +2167,7 @@
    "content": "Nabi SAW cerita 1 lelaki yang turun ke perigi 2 kali. Kali kedua bukan untuk dirinya. Dosanya diampun sebab itu. 🧵",
    "date": "2026-11-25",
    "time": "07:02",
-   "views": 2383,
+   "views": 2385,
    "likes": 30,
    "comments": 6,
    "shares": 4,
@@ -2227,7 +2227,7 @@
    "content": "Al-Quran kata Allah tak bebankan seseorang melebihi kemampuannya. Ayat 2:286. Tetapi ramai ibu rasa dia sudah lepas had itu.",
    "date": "2026-11-18",
    "time": "18:02",
-   "views": 2295,
+   "views": 2296,
    "likes": 36,
    "comments": 2,
    "shares": 1,
@@ -2318,18 +2318,18 @@
     "n": 48,
     "median": 10077,
     "best": 238095,
-    "worst": 2295,
-    "total": 1837318,
+    "worst": 2296,
+    "total": 1837446,
     "er": 1.82,
     "below": 24
    },
    {
     "label": "07:01",
     "n": 47,
-    "median": 8775,
+    "median": 9507,
     "best": 701682,
     "worst": 2137,
-    "total": 3419366,
+    "total": 3420116,
     "er": 2.07,
     "below": 24
    }
@@ -2341,7 +2341,7 @@
     "median": 13123,
     "best": 701682,
     "worst": 2137,
-    "total": 3220137,
+    "total": 3220139,
     "er": 2.11,
     "below": 20
    },
@@ -2351,7 +2351,7 @@
     "median": 6953,
     "best": 407717,
     "worst": 2226,
-    "total": 2290738,
+    "total": 2291614,
     "er": 1.72,
     "below": 30
    }
@@ -2363,7 +2363,7 @@
     "median": 23612,
     "best": 598662,
     "worst": 2192,
-    "total": 1485642,
+    "total": 1486385,
     "er": 1.43,
     "below": 5
    },
@@ -2373,7 +2373,7 @@
     "median": 13404,
     "best": 391488,
     "worst": 2333,
-    "total": 1049448,
+    "total": 1049449,
     "er": 1.65,
     "below": 8
    },
@@ -2383,7 +2383,7 @@
     "median": 9117,
     "best": 701682,
     "worst": 2137,
-    "total": 2659181,
+    "total": 2659315,
     "er": 2.06,
     "below": 28
    },
@@ -2425,7 +2425,7 @@
     "median": 34102,
     "best": 598662,
     "worst": 6714,
-    "total": 1720511,
+    "total": 1721243,
     "er": 1.35,
     "below": 3
    },
@@ -2435,7 +2435,7 @@
     "median": 9117,
     "best": 701682,
     "worst": 2137,
-    "total": 2466787,
+    "total": 2466921,
     "er": 2.13,
     "below": 29
    },
@@ -2445,7 +2445,7 @@
     "median": 6691,
     "best": 168279,
     "worst": 2226,
-    "total": 577403,
+    "total": 577414,
     "er": 2.24,
     "below": 7
    },
@@ -2465,7 +2465,7 @@
     "median": 4137,
     "best": 46750,
     "worst": 2192,
-    "total": 123882,
+    "total": 123883,
     "er": 1.26,
     "below": 6
    }
@@ -2508,8 +2508,8 @@
    },
    {
     "level": "good",
-    "title": "Nadi 7 hari naik +278%",
-    "body": "361.2K views vs 95.6K minggu sebelumnya."
+    "title": "Nadi 7 hari naik +279%",
+    "body": "362.1K views vs 95.6K minggu sebelumnya."
    },
    {
     "level": "bad",
@@ -3322,11 +3322,11 @@
   },
   {
    "date": "2026-11-27",
-   "views": 10031,
-   "likes": 28,
-   "comments": 2,
-   "shares": 6,
-   "posts": 0
+   "views": 10912,
+   "likes": 34,
+   "comments": 9,
+   "shares": 7,
+   "posts": 1
   }
  ],
  "followers": [
@@ -3726,8 +3726,8 @@
  "insights": [
   {
    "label": "Views 7 hari terakhir (▲)",
-   "value": "361.2K",
-   "sub": "+278% vs 7 hari sebelumnya"
+   "value": "362.1K",
+   "sub": "+279% vs 7 hari sebelumnya"
   },
   {
    "label": "Post terbaik",
@@ -3751,12 +3751,12 @@
   }
  ],
  "official": {
-  "fetchedAt": "2026-11-28 02:03 MYT",
+  "fetchedAt": "2026-11-28 02:34 MYT",
   "totals": {
-   "views": 6240621,
-   "likes": 108297,
+   "views": 6243251,
+   "likes": 108309,
    "replies": 7137,
-   "reposts": 24960,
+   "reposts": 24961,
    "quotes": 977,
    "posts": 158
   },
@@ -3765,17 +3765,17 @@
     "id": "18114848840350846",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgPaxAyjqXu",
     "timestamp": "2026-11-27",
-    "views": 0,
-    "likes": 0,
-    "replies": 7,
-    "reposts": 0,
+    "views": 2313,
+    "likes": 12,
+    "replies": 8,
+    "reposts": 1,
     "quotes": 0
    },
    {
     "id": "18206718556328921",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgOPQr1CK7D",
     "timestamp": "2026-11-26",
-    "views": 9410,
+    "views": 9681,
     "likes": 23,
     "replies": 8,
     "reposts": 3,
@@ -3805,7 +3805,7 @@
     "id": "18654262837039939",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgKRNRwiIFS",
     "timestamp": "2026-11-25",
-    "views": 174762,
+    "views": 174793,
     "likes": 2681,
     "replies": 143,
     "reposts": 630,
@@ -3875,7 +3875,7 @@
     "id": "18400971964166041",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DgD8HO3iIHs",
     "timestamp": "2026-11-22",
-    "views": 20297,
+    "views": 20298,
     "likes": 219,
     "replies": 10,
     "reposts": 75,
@@ -4255,7 +4255,7 @@
     "id": "17873537514642386",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dfb61d2E4Dd",
     "timestamp": "2026-11-07",
-    "views": 51203,
+    "views": 51204,
     "likes": 877,
     "replies": 73,
     "reposts": 147,
@@ -4405,7 +4405,7 @@
     "id": "18098084477106851",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DeobBekkRZL",
     "timestamp": "2026-10-18",
-    "views": 238106,
+    "views": 238107,
     "likes": 3852,
     "replies": 183,
     "reposts": 870,
@@ -4435,7 +4435,7 @@
     "id": "17872538982649551",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DebjGwWjWcr",
     "timestamp": "2026-10-13",
-    "views": 9392,
+    "views": 9393,
     "likes": 184,
     "replies": 45,
     "reposts": 31,
@@ -4875,7 +4875,7 @@
     "id": "17878750002626801",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdXaz7DCL8A",
     "timestamp": "2026-09-16",
-    "views": 701691,
+    "views": 701692,
     "likes": 17674,
     "replies": 430,
     "reposts": 5914,
@@ -4895,7 +4895,7 @@
     "id": "17909230503542405",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdU2AZgjMnr",
     "timestamp": "2026-09-15",
-    "views": 598684,
+    "views": 598689,
     "likes": 9747,
     "replies": 328,
     "reposts": 1740,
@@ -4905,7 +4905,7 @@
     "id": "17935905366366729",
     "permalink": "https://www.threads.com/@ustaz.basri/post/DdSROhFgojk",
     "timestamp": "2026-09-14",
-    "views": 50275,
+    "views": 50277,
     "likes": 1641,
     "replies": 52,
     "reposts": 459,
@@ -5115,7 +5115,7 @@
     "id": "18119987224902573",
     "permalink": "https://www.threads.com/@ustaz.basri/post/Dc2gZYRDBKY",
     "timestamp": "2026-09-04",
-    "views": 174483,
+    "views": 174486,
     "likes": 1493,
     "replies": 446,
     "reposts": 123,
@@ -5287,7 +5287,7 @@
     "timestamp": "2026-08-25",
     "views": 178676,
     "likes": 3761,
-    "replies": 337,
+    "replies": 336,
     "reposts": 1196,
     "quotes": 48
    },
